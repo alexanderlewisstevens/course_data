@@ -1,0 +1,66 @@
+name: scrape-courses
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrapes
+        run: |
+          mkdir -p data/json
+          python - <<'PY'
+          import json
+          import subprocess
+          from pathlib import Path
+          import config
+
+          data_dir = Path("data")
+          all_rows = []
+
+          for term in config.TERMS:
+              for subj in config.SUBJECTS:
+                  out_csv = data_dir / f"course_{subj}_{term}.csv"
+                  subprocess.run(
+                      ["python", "scripts/fetch_courses.py", term, config.COLLEGE, subj, str(out_csv)],
+                      check=True,
+                  )
+                  out_json = out_csv.with_suffix(".json")
+                  if out_json.exists():
+                      all_rows.extend(json.loads(out_json.read_text()))
+
+          combined = Path("data/json/course_all.json")
+          combined.parent.mkdir(parents=True, exist_ok=True)
+          combined.write_text(json.dumps(all_rows, indent=2))
+          print(f"combined {len(all_rows)} rows into {combined}")
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.csv data/*.json data/json/*.json || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh course data [skip ci]"
+            git push
+          fi
