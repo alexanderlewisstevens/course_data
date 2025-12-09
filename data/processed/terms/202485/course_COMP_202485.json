@@ -1,0 +1,94 @@
+[
+  {
+    "term": "202485",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "1047",
+    "course": "COMP 3904",
+    "section": "0",
+    "title": "Internship/Co-Op in Computing",
+    "course_type": "Internship/Externship/Coop Ed.",
+    "meeting_dates": "22-NOV-2024 to 21-DEC-2024",
+    "time": "",
+    "days": "",
+    "hours": "0",
+    "room": "",
+    "instructor": "Stevens, Alexander L.",
+    "seats": "1",
+    "enrolled": "1",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2024-11-22",
+        "end": "2024-12-21"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 1,
+    "total_enrollment": 1,
+    "conflicts": ""
+  },
+  {
+    "term": "202485",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "1073",
+    "course": "COMP 3904",
+    "section": "0",
+    "title": "Internship/Co-Op in Computing",
+    "course_type": "Internship/Externship/Coop Ed.",
+    "meeting_dates": "22-NOV-2024 to 21-DEC-2024",
+    "time": "",
+    "days": "",
+    "hours": "0",
+    "room": "",
+    "instructor": "GauthierDickey, Christopher J.",
+    "seats": "0",
+    "enrolled": "1",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2024-11-22",
+        "end": "2024-12-21"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 0,
+    "total_enrollment": 1,
+    "conflicts": ""
+  }
+]

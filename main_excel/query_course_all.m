@@ -1,8 +1,10 @@
 let
-    SourceUrl = "https://raw.githubusercontent.com/alexanderlewisstevens/course_data/main/data/json/course_all.json",
-    Source = Json.Document(Web.Contents(SourceUrl)),
-    #"Converted to Table" = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
-    #"Expanded Column" = Table.ExpandRecordColumn(#"Converted to Table", "Column1", {"term", "college", "subject_code", "subject_label", "crn", "course", "section", "title", "course_type", "meeting_dates", "time", "days", "hours", "room", "instructor", "seats", "enrolled", "exam_meeting_dates", "exam_time", "exam_days", "exam_room", "description"}, {"term", "college", "subject_code", "subject_label", "crn", "course", "section", "title", "course_type", "meeting_dates", "time", "days", "hours", "room", "instructor", "seats", "enrolled", "exam_meeting_dates", "exam_time", "exam_days", "exam_room", "description"}),
-    #"Changed Type" = Table.TransformColumnTypes(#"Expanded Column",{{"term", type text}, {"college", type text}, {"subject_code", type text}, {"subject_label", type text}, {"crn", type text}, {"course", type text}, {"section", type text}, {"title", type text}, {"course_type", type text}, {"meeting_dates", type text}, {"time", type text}, {"days", type text}, {"hours", type text}, {"room", type text}, {"instructor", type text}, {"seats", type text}, {"enrolled", type text}, {"exam_meeting_dates", type text}, {"exam_time", type text}, {"exam_days", type text}, {"exam_room", type text}, {"description", type text}})
+    // Replace with your SharePoint file URL for Master_All_Terms.xlsx
+    SourceUrl = "https://<tenant>.sharepoint.com/sites/<site>/Shared%20Documents/<path>/Master_All_Terms.xlsx",
+    Source = Excel.Workbook(Web.Contents(SourceUrl), null, true),
+    // Replace the Item name with the term sheet you want (e.g., 202610)
+    TermSheet = Source{[Item="202610",Kind="Sheet"]}[Data],
+    #"Promoted Headers" = Table.PromoteHeaders(TermSheet, [PromoteAllScalars=true]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Term", type text}, {"CRN", type text}, {"Course", type text}, {"Sec", type text}, {"Title", type text}, {"Course Type", type text}, {"Meeting Dates", type text}, {"Time", type text}, {"Days", type text}, {"Hrs", type text}, {"Room", type text}, {"Instructor", type text}, {"Seat", Int64.Type}, {"Enr", Int64.Type}, {"Crosslisted Enr", Int64.Type}, {"Total Enr", Int64.Type}, {"Prefer TA 1", type text}, {"Prefer TA 2", type text}, {"Prefer TA 3", type text}, {"In Class", type text}, {"Office Hours", type text}, {"Grading", type text}, {"Time commitment", type text}, {"Notes", type text}})
 in
     #"Changed Type"

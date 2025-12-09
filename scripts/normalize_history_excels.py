@@ -16,12 +16,13 @@ from __future__ import annotations
 
 import argparse
 import pathlib
+import re
 from typing import Dict, List, Any
 
 import openpyxl
-import re
 
 TARGET_HEADERS = [
+    "Term",
     "CRN",
     "Course",
     "Sec",
@@ -40,7 +41,6 @@ TARGET_HEADERS = [
     "Prefer TA 1",
     "Prefer TA 2",
     "Prefer TA 3",
-    "Prefer TA 4",
     "In Class",
     "Office Hours",
     "Grading",
@@ -49,6 +49,9 @@ TARGET_HEADERS = [
 ]
 
 HEADER_MAP: Dict[str, str] = {
+    "term": "Term",
+    "term code": "Term",
+    "term_code": "Term",
     "crn": "CRN",
     "course": "Course",
     "course number": "Course",
@@ -84,7 +87,6 @@ HEADER_MAP: Dict[str, str] = {
     "prefer ta 1": "Prefer TA 1",
     "prefer ta 2": "Prefer TA 2",
     "prefer ta 3": "Prefer TA 3",
-    "prefer ta 4": "Prefer TA 4",
     "in class": "In Class",
     "in-class": "In Class",
     "office hours": "Office Hours",
@@ -117,11 +119,25 @@ def _normalize_course(course: str) -> str:
     course = (course or "").strip()
     if not course:
         return ""
-    if re.match(r"^[A-Za-z]+\\s*\\d+$", course):
-        return course.replace(" ", "")
-    if re.match(r"^\\d+$", course):
+    m = re.match(r"^([A-Za-z]+)\s*(\d+)$", course)
+    if m:
+        return f"{m.group(1).upper()} {m.group(2)}"
+    if re.match(r"^\d+$", course):
         return f"COMP {course}"
     return course
+
+
+def _infer_term_code(path: pathlib.Path) -> str:
+    name = path.stem
+    m = re.search(r"(winter|spring|summer|autumn|fall)\s*(\d{4})", name, re.IGNORECASE)
+    if not m:
+        return ""
+    season = m.group(1).lower()
+    year = m.group(2)
+    offset = {"winter": "10", "spring": "30", "summer": "50", "autumn": "70", "fall": "70"}.get(season, "")
+    if not offset:
+        return ""
+    return f"{year}{offset}"
 
 
 def normalize_file(src: pathlib.Path, dest_dir: pathlib.Path) -> pathlib.Path | None:
@@ -154,6 +170,12 @@ def normalize_file(src: pathlib.Path, dest_dir: pathlib.Path) -> pathlib.Path | 
         for row in rows[1:]:
             if row is None:
                 continue
+            term_val = ""
+            if "Term" in colmap:
+                term_idx = colmap["Term"]
+                term_val = str(row[term_idx]).strip() if term_idx is not None and row[term_idx] is not None else ""
+            if not term_val:
+                term_val = _infer_term_code(src)
             course_val = str(row[colmap["Course"]]).strip() if colmap.get("Course") is not None and row[colmap["Course"]] is not None else ""
             course_val = _normalize_course(course_val)
             instr_val_raw = row[colmap["Instructor"]] if colmap.get("Instructor") is not None and row[colmap["Instructor"]] is not None else ""
@@ -164,12 +186,16 @@ def normalize_file(src: pathlib.Path, dest_dir: pathlib.Path) -> pathlib.Path | 
             for target in TARGET_HEADERS:
                 idx = colmap.get(target)
                 val = row[idx] if idx is not None and idx < len(row) else ""
+                if target == "Term":
+                    val = term_val
                 if target == "Course":
                     val = course_val
                 if target == "Instructor":
                     val = instr_val
                 if target == "Title" and val:
                     val = str(val).strip()
+                if target.startswith("Prefer TA"):
+                    val = ""
                 out_row.append(val if val is not None else "")
             out_rows.append(out_row)
 

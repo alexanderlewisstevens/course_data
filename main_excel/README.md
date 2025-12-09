@@ -1,32 +1,22 @@
-# Excel Power Query setup (SharePoint-friendly)
+# Excel Power Query setup (SharePoint, consolidated workbook)
 
-Use these steps to connect an Excel workbook (stored in SharePoint/OneDrive) to the public course JSON and refresh it automatically.
-
-Public feed (combined):  
-`https://raw.githubusercontent.com/alexanderlewisstevens/course_data/main/data/json/course_all.json`
-
-If you prefer single-term feeds, swap the URL to one of:
-- Winter 2026: `https://raw.githubusercontent.com/alexanderlewisstevens/course_data/main/data/course_COMP_202610.json`
-- Spring 2026: `https://raw.githubusercontent.com/alexanderlewisstevens/course_data/main/data/course_COMP_202630.json`
+We now publish a consolidated read-only workbook `Master_All_Terms.xlsx` (built via `scripts/build_master_all_terms.py`). Each term is a separate sheet (reverse chronological). Connect Power Query to the sheet you need.
 
 ## Steps (once per workbook)
-1) Create or open a workbook in the SharePoint/OneDrive library where you want it to live.
-2) Data → Get Data → From Web → Advanced → paste the combined JSON URL above → OK.
-3) In Power Query:
-   - Navigator: select the list, then “To Table.”
-   - Expand all columns.
-   - Set column types (keep `term` and `crn` as Text).
-   - Close & Load to a table.
-4) Refresh settings:
-   - Data → Queries & Connections → Properties → enable “Refresh every X minutes” (optional) and “Refresh data when opening the file.”
-   - If SharePoint prompts, choose Anonymous/Organizational as appropriate (raw.githubusercontent.com is public).
+1) Upload `data/exports/Master_All_Terms.xlsx` to your SharePoint/OneDrive library (or use the per-term `data/exports/<term>/Master_PQ.xlsx` if you only need one term).
+2) In Excel: Data → Get Data → From File → From SharePoint Folder → pick `Master_All_Terms.xlsx`.
+3) In Power Query Navigator: select the sheet named with the term code you need (e.g., `202610`), then load.
+4) Set column types as needed; Close & Load.
+5) Refresh settings: enable refresh on open/interval and use your organizational credentials.
 
 ## Using the provided M script
 If you prefer to paste a query:
 1) Data → Get Data → From Other Sources → Blank Query.
 2) Advanced Editor → replace contents with `main_excel/query_course_all.m`.
-3) Save and load as above.
+   - Update `SourceUrl` to your SharePoint URL for `Master_All_Terms.xlsx`.
+   - Update the `Item="202610"` to the term sheet you want.
+3) Save and load.
 
 ## Updating the source later
-- If terms/subjects change, the GitHub Actions workflow will refresh the JSON on the schedule. Your workbook will pick up new rows on refresh as long as the URL stays the same.
-- If the repo branch changes from `main`, update the URL to match.
+- Rebuild `Master_All_Terms.xlsx` with `python scripts/build_master_all_terms.py` after refreshing processed data.
+- Re-upload/overwrite the file in SharePoint; PQ connections will continue to work if the path stays the same.

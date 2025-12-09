@@ -1,5 +1,5 @@
 {
-  "Fall 2024": {
+  "202470": {
     "COMP 1101": {
       "Gao, Sky": [
         {
@@ -807,7 +807,7 @@
       ]
     }
   },
-  "Fall 2025": {
+  "202570": {
     "COMP 1101": {
       "Gao, Sky T.": [
         {
@@ -1597,8 +1597,8 @@
       ]
     }
   },
-  "Spring 2025": {
-    "1353": {
+  "202530": {
+    "COMP 1353": {
       "Anjum, Iffat": [
         {
           "section": "6",
@@ -1614,10 +1614,25 @@
           "updated_instructor": "",
           "source_file": "Faculty GTA Survey Spring 2025.xlsx",
           "source_row": 9
+        },
+        {
+          "section": "6",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "10 hours/week",
+          "notes": "",
+          "crn": "3426",
+          "title": "Data Struct. & Algorithms I",
+          "instructor": "Anjum, Iffat",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Spring 2025OLD.xlsx",
+          "source_row": 9
         }
       ]
     },
-    "2370": {
+    "COMP 2370": {
       "Stevens, Alexander L.": [
         {
           "section": "0",
@@ -1633,11 +1648,26 @@
           "updated_instructor": "",
           "source_file": "Faculty GTA Survey Spring 2025.xlsx",
           "source_row": 13
+        },
+        {
+          "section": "0",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "10 hours/week",
+          "notes": "",
+          "crn": "4778",
+          "title": "Data Struct. & Algorithms II",
+          "instructor": "Stevens, Alexander L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Spring 2025OLD.xlsx",
+          "source_row": 13
         }
       ]
     }
   },
-  "Winter 2025": {
+  "202510": {
     "COMP 1202": {
       "Hannum, Andrew T.": [
         {
