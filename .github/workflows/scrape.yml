@@ -51,6 +51,13 @@ jobs:
           combined.parent.mkdir(parents=True, exist_ok=True)
           combined.write_text(json.dumps(all_rows, indent=2))
           print(f"combined {len(all_rows)} rows into {combined}")
+
+          # Post-process to add crosslist/total fields
+          inputs = [str(Path("data") / f"course_{subj}_{term}.json") for term in config.TERMS for subj in config.SUBJECTS]
+          subprocess.run(
+              ["python", "scripts/process_courses.py", *inputs, "--outdir", "data/processed", "--combine", "data/processed/course_all_processed.json"],
+              check=True,
+          )
           PY
 
       - name: Commit and push if changed
