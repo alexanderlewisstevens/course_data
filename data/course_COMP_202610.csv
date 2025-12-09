@@ -10,7 +10,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202610,ALL,COMP,Computer Science,3033,COMP 1352,4,Introduction to Programming II,Lecture/Lab,05-JAN-2026 to 16-MAR-2026,12:00PM-1:50PM,"T,R",3,ECS 200,"Hossain, Ismail",20,5,,,,,
 202610,ALL,COMP,Computer Science,3034,COMP 1352,5,Introduction to Programming II,Lecture/Lab,05-JAN-2026 to 16-MAR-2026,2:00PM-3:50PM,"M,W",3,ECS 400,"Kraft, Aaron R.",20,14,,,,,
 202610,ALL,COMP,Computer Science,3360,COMP 2300,1,Discrete Structures in CS,Lecture,05-JAN-2026 to 16-MAR-2026,2:00PM-3:50PM,"T,R",4,ECS 301,"Stevens, Alexander L.",39,11,17-MAR-2026 to 17-MAR-2026,2:00PM-3:50PM,T,ECS 301,
-202610,ALL,COMP,Computer Science,4285,COMP 2362,1,Systems II,Online/Distance,05-JAN-2026 to 16-MAR-2026,4:00PM-5:50PM,"M,W",4,,"Stevenson, Daniel E.",36,35,,,,,
+202610,ALL,COMP,Computer Science,4285,COMP 2362,1,Systems II,Online/Distance,05-JAN-2026 to 16-MAR-2026,4:00PM-5:50PM,"M,W",4,,"Stevenson, Daniel E.",36,36,,,,,
 202610,ALL,COMP,Computer Science,2119,COMP 2370,1,Data Struct. & Algorithms II,Lecture,05-JAN-2026 to 16-MAR-2026,10:00AM-11:50AM,"M,W",4,ECS 300,"Albow, Mohammed M.",39,37,18-MAR-2026 to 18-MAR-2026,10:00AM-11:50AM,W,ECS 300,
 202610,ALL,COMP,Computer Science,2797,COMP 2370,2,Data Struct. & Algorithms II,Lecture,05-JAN-2026 to 16-MAR-2026,12:00PM-1:50PM,"M,W",4,ECS 301,"Hossain, Ismail",40,12,18-MAR-2026 to 18-MAR-2026,12:00PM-1:50PM,W,ECS 301,
 202610,ALL,COMP,Computer Science,3325,COMP 2381,1,Object-Oriented Software Dev.,Lecture/Lab,05-JAN-2026 to 16-MAR-2026,10:00AM-11:50AM,"T,R",4,ECS 301,"Taami, Tania",25,9,,,,,
