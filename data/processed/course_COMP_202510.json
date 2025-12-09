@@ -1,118 +1,20 @@
 [
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "4690",
-    "course": "COMP 1101",
-    "section": "1",
-    "title": "Analytical Inquiry I",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "STURM 480",
-    "instructor": "Gao, Sky T.",
-    "seats": "31",
-    "enrolled": "31",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
-    "exam_time": "10:00AM-11:50AM",
-    "exam_days": "T",
-    "exam_room": "STURM 480",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 31,
-    "total_enrollment": 31,
-    "conflicts": "3023,3024,3026,3325,4996,5061"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "5008",
-    "course": "COMP 1101",
-    "section": "2",
-    "title": "Analytical Inquiry I",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "2:00PM-3:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Gao, Sky T.",
-    "seats": "30",
-    "enrolled": "7",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
-    "exam_time": "2:00PM-3:50PM",
-    "exam_days": "T",
-    "exam_room": "ECS 200",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 7,
-    "conflicts": "3360,4692"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3023",
+    "crn": "3322",
     "course": "COMP 1202",
     "section": "1",
     "title": "Intro. to Computer Science II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "10:00AM-10:50AM",
     "days": "T,R",
     "hours": "2",
-    "room": "ECS 300",
-    "instructor": "Leutenegger, Scott T.",
+    "room": "ECS 301",
+    "instructor": "Hannum, Andrew T.",
     "seats": "35",
     "enrolled": "23",
     "exam_meeting_dates": "",
@@ -135,8 +37,8 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
@@ -144,26 +46,26 @@
     "lower-crosslist": true,
     "total_seats": 35,
     "total_enrollment": 23,
-    "conflicts": "3026,3325,4690,4996,5061"
+    "conflicts": "3326,3370,3954,5164,5208"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3024",
+    "crn": "3323",
     "course": "COMP 1202",
     "section": "2",
     "title": "Intro. to Computer Science II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "11:00AM-11:50AM",
     "days": "T,R",
     "hours": "2",
-    "room": "ECS 300",
-    "instructor": "Leutenegger, Scott T.",
-    "seats": "35",
-    "enrolled": "17",
+    "room": "ECS 301",
+    "instructor": "Hannum, Andrew T.",
+    "seats": "40",
+    "enrolled": "33",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -184,35 +86,35 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 35,
-    "total_enrollment": 17,
-    "conflicts": "3026,3325,4690,4996,5061"
+    "total_seats": 40,
+    "total_enrollment": 33,
+    "conflicts": "3326,3370,3954,5164,5208"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3025",
+    "crn": "3325",
     "course": "COMP 1202",
     "section": "4",
     "title": "Intro. to Computer Science II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "1:00PM-1:50PM",
     "days": "T,R",
     "hours": "2",
     "room": "ECS 301",
-    "instructor": "Leutenegger, Scott T.",
-    "seats": "39",
-    "enrolled": "39",
+    "instructor": "Hannum, Andrew T.",
+    "seats": "40",
+    "enrolled": "34",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -233,39 +135,88 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 39,
-    "total_enrollment": 39,
-    "conflicts": "1330,3033"
+    "total_seats": 40,
+    "total_enrollment": 34,
+    "conflicts": "3336"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3026",
-    "course": "COMP 1351",
-    "section": "1",
-    "title": "Introduction to Programming I",
+    "crn": "3358",
+    "course": "COMP 1202",
+    "section": "5",
+    "title": "Intro. to Computer Science II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "10:00AM-11:50AM",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "2:00PM-2:50PM",
     "days": "T,R",
-    "hours": "3",
-    "room": "ECS 401",
+    "hours": "2",
+    "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
-    "seats": "27",
-    "enrolled": "26",
+    "seats": "40",
+    "enrolled": "31",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
     "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "14:50",
+        "start_minutes": 840,
+        "end_minutes": 890
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 40,
+    "total_enrollment": 31,
+    "conflicts": "4097,4347,5160,5226"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3326",
+    "course": "COMP 1351",
+    "section": "1",
+    "title": "Introduction to Programming I",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "10:00AM-11:50AM",
+    "days": "T,R",
+    "hours": "3",
+    "room": "ECS 400",
+    "instructor": "Gao, Sky T.",
+    "seats": "33",
+    "enrolled": "31",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "ECS 400",
     "description": "",
     "normalized": {
       "time": {
@@ -282,39 +233,39 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 27,
-    "total_enrollment": 26,
-    "conflicts": "3023,3024,3325,4690,4996,5061"
+    "total_seats": 33,
+    "total_enrollment": 31,
+    "conflicts": "3322,3323,3370,3954,5164,5208"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3031",
+    "crn": "3333",
     "course": "COMP 1352",
     "section": "1",
     "title": "Introduction to Programming II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "3",
-    "room": "ECS 200",
-    "instructor": "Hannum, Andrew T.",
+    "room": "ECS 201",
+    "instructor": "Liu, Faan Tone",
     "seats": "30",
-    "enrolled": "28",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "enrolled": "31",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "W",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -331,8 +282,57 @@
         "canonical": "MW"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 31,
+    "conflicts": "2195"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3335",
+    "course": "COMP 1352",
+    "section": "3",
+    "title": "Introduction to Programming II",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
+    "hours": "3",
+    "room": "ECS 200",
+    "instructor": "Liu, Faan Tone",
+    "seats": "30",
+    "enrolled": "28",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 200",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
@@ -340,79 +340,30 @@
     "lower-crosslist": true,
     "total_seats": 30,
     "total_enrollment": 28,
-    "conflicts": "2119,4691"
+    "conflicts": "1352,2989,5041"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3032",
-    "course": "COMP 1352",
-    "section": "3",
-    "title": "Introduction to Programming II",
-    "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "12:00PM-1:50PM",
-    "days": "M,W",
-    "hours": "3",
-    "room": "ECS 200",
-    "instructor": "Anjum, Iffat",
-    "seats": "30",
-    "enrolled": "16",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "12:00",
-        "end_24": "13:50",
-        "start_minutes": 720,
-        "end_minutes": 830
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 16,
-    "conflicts": "2797,3824,4696"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3033",
+    "crn": "3336",
     "course": "COMP 1352",
     "section": "4",
     "title": "Introduction to Programming II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "12:00PM-1:50PM",
     "days": "T,R",
     "hours": "3",
     "room": "ECS 200",
-    "instructor": "Hossain, Ismail",
-    "seats": "20",
-    "enrolled": "5",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "instructor": "Edgington, Jeffrey M.",
+    "seats": "30",
+    "enrolled": "22",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -429,39 +380,39 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 5,
-    "conflicts": "1330,3025"
+    "total_seats": 30,
+    "total_enrollment": 22,
+    "conflicts": "3325"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3034",
+    "crn": "3337",
     "course": "COMP 1352",
     "section": "5",
     "title": "Introduction to Programming II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "3",
-    "room": "ECS 400",
+    "room": "ECS 401",
     "instructor": "Kraft, Aaron R.",
-    "seats": "20",
-    "enrolled": "14",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "seats": "30",
+    "enrolled": "18",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 401",
     "description": "",
     "normalized": {
       "time": {
@@ -478,36 +429,36 @@
         "canonical": "MW"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 14,
-    "conflicts": "4689,4693,5144"
+    "total_seats": 30,
+    "total_enrollment": 18,
+    "conflicts": "3327,3387"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3360",
+    "crn": "4097",
     "course": "COMP 2300",
     "section": "1",
     "title": "Discrete Structures in CS",
     "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
     "room": "ECS 301",
     "instructor": "Stevens, Alexander L.",
     "seats": "39",
-    "enrolled": "11",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
+    "enrolled": "24",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
     "exam_room": "ECS 301",
@@ -527,35 +478,35 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 39,
-    "total_enrollment": 11,
-    "conflicts": "4692,5008"
+    "total_enrollment": 24,
+    "conflicts": "3358,4347,5160,5226"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "4285",
+    "crn": "5465",
     "course": "COMP 2362",
-    "section": "1",
+    "section": "0",
     "title": "Systems II",
     "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 21-MAR-2025",
     "time": "4:00PM-5:50PM",
-    "days": "M,W",
+    "days": "T,R",
     "hours": "4",
     "room": "",
     "instructor": "Stevenson, Daniel E.",
-    "seats": "36",
-    "enrolled": "35",
+    "seats": "50",
+    "enrolled": "36",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -570,45 +521,45 @@
       },
       "days": {
         "list": [
-          "M",
-          "W"
+          "T",
+          "R"
         ],
-        "canonical": "MW"
+        "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-21"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 36,
-    "total_enrollment": 35,
-    "conflicts": "2578,3029,3324,3901,5053"
+    "total_seats": 50,
+    "total_enrollment": 36,
+    "conflicts": "2294,2298,2710,2712,3330,3965,3967,5256"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2119",
+    "crn": "2195",
     "course": "COMP 2370",
     "section": "1",
     "title": "Data Struct. & Algorithms II",
     "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 300",
+    "room": "ECS 301",
     "instructor": "Albow, Mohammed M.",
     "seats": "39",
-    "enrolled": "37",
-    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
+    "enrolled": "39",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "W",
-    "exam_room": "ECS 300",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -625,36 +576,36 @@
         "canonical": "MW"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 39,
-    "total_enrollment": 37,
-    "conflicts": "3031,4691"
+    "total_enrollment": 39,
+    "conflicts": "3333"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2797",
+    "crn": "2989",
     "course": "COMP 2370",
     "section": "2",
     "title": "Data Struct. & Algorithms II",
     "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
     "room": "ECS 301",
-    "instructor": "Hossain, Ismail",
+    "instructor": "Albow, Mohammed M.",
     "seats": "40",
-    "enrolled": "12",
-    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
+    "enrolled": "40",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "W",
     "exam_room": "ECS 301",
@@ -674,38 +625,87 @@
         "canonical": "MW"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 40,
-    "total_enrollment": 12,
-    "conflicts": "3032,3824,4696"
+    "total_enrollment": 40,
+    "conflicts": "1352,3335,5041"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3325",
+    "crn": "4347",
+    "course": "COMP 2370",
+    "section": "3",
+    "title": "Data Struct. & Algorithms II",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 201",
+    "instructor": "Anjum, Iffat",
+    "seats": "30",
+    "enrolled": "10",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 201",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 10,
+    "conflicts": "3358,4097,5160,5226"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3954",
     "course": "COMP 2381",
     "section": "1",
     "title": "Object-Oriented Software Dev.",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "ECS 301",
-    "instructor": "Taami, Tania",
+    "room": "SIE 2110",
+    "instructor": "Anjum, Iffat",
     "seats": "25",
-    "enrolled": "9",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
+    "enrolled": "17",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
     "exam_room": "",
     "description": "",
     "normalized": {
@@ -723,35 +723,35 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 9,
-    "conflicts": "3023,3024,3026,4690,4996,5061"
+    "total_enrollment": 17,
+    "conflicts": "3322,3323,3326,3370,5164,5208"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3618",
+    "crn": "4488",
     "course": "COMP 2701",
     "section": "1",
     "title": "Topics in Computer Science",
     "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "",
     "days": "",
     "hours": "1",
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": "50",
-    "enrolled": "10",
+    "enrolled": "17",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -769,428 +769,39 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 50,
-    "total_enrollment": 10,
+    "total_enrollment": 17,
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3029",
-    "course": "COMP 3004",
+    "crn": "3370",
+    "course": "COMP 2821",
     "section": "1",
-    "title": "Foundations in Discrete/Algo",
-    "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Stevens, Alexander L.",
-    "seats": "25",
-    "enrolled": "16",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 16,
-    "conflicts": "2013,2578,3324,3901,4273,4285,5053"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3901",
-    "course": "COMP 3005",
-    "section": "1",
-    "title": "Foundation: Python Programming",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": "30",
-    "enrolled": "10",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 10,
-    "conflicts": "2013,2578,3029,3324,4273,4285,5053"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2580",
-    "course": "COMP 3006",
-    "section": "1",
-    "title": "Python Software Development",
+    "title": "Introductory Game Design",
     "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Hamed, Ahmed Abdeen",
-    "seats": "30",
-    "enrolled": "22",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 22,
-    "conflicts": "2013,2794,4273,4984,5035"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2573",
-    "course": "COMP 3006",
-    "section": "101",
-    "title": "Python Software Development",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Connin, Sean L.",
-    "seats": "25",
-    "enrolled": "22",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "R"
-        ],
-        "canonical": "R"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 22,
-    "conflicts": "2213,2579,3318,3952,4274,4287,4289,5009,5010,5011,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4984",
-    "course": "COMP 3009",
-    "section": "1",
-    "title": "Applied Math for DS and AI",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": "20",
-    "enrolled": "9",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 9,
-    "conflicts": "2013,2580,2794,4273,5035"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "5035",
-    "course": "COMP 3009",
-    "section": "101",
-    "title": "Applied Math for DS and AI",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "M",
-    "hours": "4",
-    "room": "",
-    "instructor": "Sawle, Paul L.",
-    "seats": "20",
-    "enrolled": "11",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "M"
-        ],
-        "canonical": "M"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 11,
-    "conflicts": "2580,4273,4984"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "1330",
-    "course": "COMP 3200",
-    "section": "1",
-    "title": "Discrete Structures",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "12:00PM-1:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "STURM 454",
-    "instructor": "Lopez, Mario A.",
-    "seats": "30",
-    "enrolled": "24",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "12:00",
-        "end_24": "13:50",
-        "start_minutes": 720,
-        "end_minutes": 830
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 24,
-    "conflicts": "3025,3033"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "5053",
-    "course": "COMP 3334",
-    "section": "1",
-    "title": "Parallel & Distrib Comp DSAI",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Kraft, Aaron R.",
-    "seats": "12",
-    "enrolled": "8",
-    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
-    "exam_time": "5:00PM-6:50PM",
-    "exam_days": "W",
-    "exam_room": "ECS 200",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "3324",
-    "lower-crosslist": true,
-    "total_seats": 29,
-    "total_enrollment": 17,
-    "conflicts": "2013,2578,3029,3901,4273,4285"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4996",
-    "course": "COMP 3352",
-    "section": "1",
-    "title": "Elements of Compiler Design",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "ECS 400",
-    "instructor": "Anjum, Iffat",
-    "seats": "28",
-    "enrolled": "28",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
+    "room": "ECS 358",
+    "instructor": "Edgington, Jeffrey M.",
+    "seats": "20",
+    "enrolled": "26",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
-    "exam_room": "ECS 400",
+    "exam_room": "ECS 358",
     "description": "",
     "normalized": {
       "time": {
@@ -1207,377 +818,34 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 28,
-    "total_enrollment": 28,
-    "conflicts": "3023,3024,3026,3325,4690,5061"
+    "total_seats": 20,
+    "total_enrollment": 26,
+    "conflicts": "3322,3323,3326,3954,5164,5208"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "4287",
-    "course": "COMP 3372",
+    "crn": "3330",
+    "course": "COMP 3004",
     "section": "1",
-    "title": "Advanced Algorithms",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "4:00PM-5:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Lopez, Mario A.",
-    "seats": "30",
-    "enrolled": "5",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "5011",
-    "lower-crosslist": true,
-    "total_seats": 35,
-    "total_enrollment": 11,
-    "conflicts": "2213,2573,2579,3318,3334,3952,4289,5009,5010,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3318",
-    "course": "COMP 3381",
-    "section": "1",
-    "title": "Software Engineering I",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "4:00PM-5:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Rutherford, Matthew J.",
-    "seats": "30",
-    "enrolled": "14",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
-    "exam_time": "4:00PM-5:50PM",
-    "exam_days": "T",
-    "exam_room": "ECS 201",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 14,
-    "conflicts": "2213,2573,2579,3334,3952,4287,4289,5009,5010,5011,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3824",
-    "course": "COMP 3410",
-    "section": "1",
-    "title": "Web Programming I",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "12:00PM-1:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 400",
-    "instructor": "Hannum, Andrew T.",
-    "seats": "29",
-    "enrolled": "31",
-    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
-    "exam_time": "12:00PM-1:50PM",
-    "exam_days": "W",
-    "exam_room": "ECS 400",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "12:00",
-        "end_24": "13:50",
-        "start_minutes": 720,
-        "end_minutes": 830
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 29,
-    "total_enrollment": 31,
-    "conflicts": "2797,3032,4696"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "5060",
-    "course": "COMP 3441",
-    "section": "1",
-    "title": "Probability and Statistics 1",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "title": "Foundations in Discrete/Algo",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "CMK 301",
-    "instructor": "Durso, Catherine S.",
-    "seats": "5",
-    "enrolled": "5",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
-    "exam_time": "5:00PM-6:50PM",
-    "exam_days": "T",
-    "exam_room": "CMK 301",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "2213",
-    "lower-crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 11,
-    "conflicts": "2573,2579,3318,3334,3952,4274,4287,4289,5009,5010,5011"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "5009",
-    "course": "COMP 3490",
-    "section": "1",
-    "title": "Understanding AI",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "4:00PM-5:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 410",
-    "instructor": "Xie, Benjamin X.",
-    "seats": "30",
-    "enrolled": "7",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
-    "exam_time": "4:00PM-5:50PM",
-    "exam_days": "T",
-    "exam_room": "ECS 410",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "5010",
-    "lower-crosslist": true,
-    "total_seats": 50,
-    "total_enrollment": 7,
-    "conflicts": "2213,2573,2579,3318,3334,3952,4287,4289,5011,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4689",
-    "course": "COMP 3701",
-    "section": "1",
-    "title": "Topics in Computer Graphics",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "2:00PM-3:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 300",
-    "instructor": "Leutenegger, Scott T.",
-    "seats": "40",
-    "enrolled": "32",
-    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
-    "exam_time": "2:00PM-3:50PM",
-    "exam_days": "W",
-    "exam_room": "ECS 300",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 40,
-    "total_enrollment": 32,
-    "conflicts": "3034,4693,5144"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4921",
-    "course": "COMP 3703",
-    "section": "1",
-    "title": "Topics-Artificial Intelligence",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Petrehn, Sydney M.",
-    "seats": "10",
-    "enrolled": "8",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "4916",
-    "lower-crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 17,
-    "conflicts": "2789,2790,2791,4274"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3952",
-    "course": "COMP 3705",
-    "section": "2",
-    "title": "Topics in Computer Science",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 300",
-    "instructor": "Dewri, Rinku",
-    "seats": "15",
+    "room": "ECS 401",
+    "instructor": "Stevens, Alexander L.",
+    "seats": "25",
     "enrolled": "15",
     "exam_meeting_dates": "",
     "exam_time": "",
@@ -1599,95 +867,94 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "4289",
-    "lower-crosslist": true,
-    "total_seats": 40,
-    "total_enrollment": 25,
-    "conflicts": "2213,2573,2579,3318,3334,4274,4287,5009,5010,5011,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4691",
-    "course": "COMP 3705",
-    "section": "4",
-    "title": "Topics in Computer Science",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Edgington, Jeffrey M.",
-    "seats": "31",
-    "enrolled": "27",
-    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
-    "exam_time": "10:00AM-11:50AM",
-    "exam_days": "W",
-    "exam_room": "ECS 201",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 31,
-    "total_enrollment": 27,
-    "conflicts": "2119,3031"
+    "total_seats": 25,
+    "total_enrollment": 15,
+    "conflicts": "2294,2298,2710,2712,3965,3967,5256,5465,5634"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "4692",
-    "course": "COMP 3705",
-    "section": "6",
-    "title": "Topics in Computer Science",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "2:00PM-3:50PM",
-    "days": "T,R",
+    "crn": "5156",
+    "course": "COMP 3005",
+    "section": "1",
+    "title": "Foundation: Python Programming",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "W",
     "hours": "4",
-    "room": "ECS 400",
-    "instructor": "Taami, Tania",
+    "room": "",
+    "instructor": "Gao, Sky T.",
     "seats": "30",
-    "enrolled": "16",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
-    "exam_time": "2:00PM-3:50PM",
-    "exam_days": "T",
-    "exam_room": "ECS 400",
+    "enrolled": "14",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "W"
+        ],
+        "canonical": "W"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 14,
+    "conflicts": "2083,2711,2983,3935,3950,5158,5159"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2713",
+    "course": "COMP 3006",
+    "section": "1",
+    "title": "Python Software Development",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "7:00PM-8:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 300",
+    "instructor": "Parada San Martin, Daniel A.",
+    "seats": "30",
+    "enrolled": "24",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
       },
       "days": {
         "list": [
@@ -1697,39 +964,135 @@
         "canonical": "TR"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 16,
-    "conflicts": "3360,5008"
+    "total_enrollment": 24,
+    "conflicts": "2706,2707,2980,2981,2982,5634"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "4693",
-    "course": "COMP 3705",
-    "section": "7",
-    "title": "Topics in Computer Science",
+    "crn": "2706",
+    "course": "COMP 3006",
+    "section": "101",
+    "title": "Python Software Development",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "7:00PM-8:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Crutchfield-Todd, Dalton J.",
+    "seats": "25",
+    "enrolled": "14",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 14,
+    "conflicts": "2713,2981,2982,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2707",
+    "course": "COMP 3007",
+    "section": "101",
+    "title": "Foundations: DS Math I",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "7:00PM-8:50PM",
+    "days": "T",
+    "hours": "4",
+    "room": "",
+    "instructor": "Gerics, Brendt",
+    "seats": "25",
+    "enrolled": "5",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "T"
+        ],
+        "canonical": "T"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 5,
+    "conflicts": "2713,2980,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3387",
+    "course": "COMP 3100",
+    "section": "2",
+    "title": "Human-Computer Interaction",
     "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Hamed, Ahmed Abdeen",
-    "seats": "29",
-    "enrolled": "27",
-    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
+    "room": "ECS 201",
+    "instructor": "Oleson, Alannah",
+    "seats": "19",
+    "enrolled": "20",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "W",
-    "exam_room": "ECS 200",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -1746,39 +1109,39 @@
         "canonical": "MW"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
-    "crosslist": "5144",
+    "crosslist": "3327",
     "lower-crosslist": true,
     "total_seats": 29,
-    "total_enrollment": 28,
-    "conflicts": "3034,4689"
+    "total_enrollment": 23,
+    "conflicts": "3337"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "4696",
-    "course": "COMP 3705",
-    "section": "10",
-    "title": "Topics in Computer Science",
+    "crn": "1352",
+    "course": "COMP 3200",
+    "section": "1",
+    "title": "Discrete Structures",
     "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Oleson, Alannah",
-    "seats": "15",
-    "enrolled": "10",
-    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
+    "room": "ECS 300",
+    "instructor": "Lopez, Mario A.",
+    "seats": "40",
+    "enrolled": "26",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "W",
-    "exam_room": "ECS 201",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -1795,46 +1158,46 @@
         "canonical": "MW"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 15,
-    "total_enrollment": 10,
-    "conflicts": "2797,3032,3824"
+    "total_seats": 40,
+    "total_enrollment": 26,
+    "conflicts": "2989,3335,5041"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "4273",
-    "course": "COMP 3820",
+    "crn": "3935",
+    "course": "COMP 3381",
     "section": "1",
-    "title": "Intro to Game Programming",
-    "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "6:00PM-7:50PM",
+    "title": "Software Engineering I",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "4:00PM-5:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 358",
-    "instructor": "Dunagan, Ryan A.",
-    "seats": "20",
-    "enrolled": "10",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "room": "ECS 201",
+    "instructor": "Rutherford, Matthew J.",
+    "seats": "30",
+    "enrolled": "20",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "18:00",
-        "end_24": "19:50",
-        "start_minutes": 1080,
-        "end_minutes": 1190
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
       },
       "days": {
         "list": [
@@ -1844,131 +1207,228 @@
         "canonical": "MW"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 10,
-    "conflicts": "2013,2578,2580,2794,3029,3324,3901,4984,5035,5053"
+    "total_seats": 30,
+    "total_enrollment": 20,
+    "conflicts": "2711,2714,2983,2984,3950,5156,5158,5159"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "4274",
-    "course": "COMP 3822",
-    "section": "1",
-    "title": "Game Programming II",
+    "crn": "5041",
+    "course": "COMP 3410",
+    "section": "0",
+    "title": "World Wide Web Programming",
     "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "6:00PM-7:50PM",
-    "days": "T,R",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
     "hours": "4",
-    "room": "ECS 358",
-    "instructor": "Dunagan, Ryan A.",
-    "seats": "20",
-    "enrolled": "9",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
-    "exam_time": "6:00PM-7:50PM",
-    "exam_days": "T",
-    "exam_room": "ECS 358",
+    "room": "SIE 2110",
+    "instructor": "Hannum, Andrew T.",
+    "seats": "45",
+    "enrolled": "45",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "W",
+    "exam_room": "SIE 2110",
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "18:00",
-        "end_24": "19:50",
-        "start_minutes": 1080,
-        "end_minutes": 1190
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
       },
       "days": {
         "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 9,
-    "conflicts": "2213,2573,2579,2789,2790,2791,3334,3952,4289,4916,4921,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2013",
-    "course": "COMP 3832",
-    "section": "1",
-    "title": "Game Capstone I",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "6:00PM-8:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "ECS 400",
-    "instructor": "Gansciu, Serban B.",
-    "seats": "10",
-    "enrolled": "10",
-    "exam_meeting_dates": "19-MAR-2026 to 19-MAR-2026",
-    "exam_time": "6:00PM-7:50PM",
-    "exam_days": "R",
-    "exam_room": "ECS 400",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "18:00",
-        "end_24": "20:50",
-        "start_minutes": 1080,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
+          "M",
           "W"
         ],
-        "canonical": "W"
+        "canonical": "MW"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 10,
-    "total_enrollment": 10,
-    "conflicts": "2578,2580,2794,3029,3324,3901,4273,4984,5053"
+    "total_seats": 45,
+    "total_enrollment": 45,
+    "conflicts": "1352,2989,3335"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "1730",
-    "course": "COMP 3904",
+    "crn": "5256",
+    "course": "COMP 3421",
+    "section": "1",
+    "title": "Database Organization & Mgmt I",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "T",
+    "hours": "4",
+    "room": "",
+    "instructor": "Mashinchi, Navid",
+    "seats": "19",
+    "enrolled": "17",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "5:00PM-6:50PM",
+    "exam_days": "T",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "T"
+        ],
+        "canonical": "T"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 19,
+    "total_enrollment": 17,
+    "conflicts": "2294,2298,2712,3330,3965,3967,5465,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2710",
+    "course": "COMP 3421",
+    "section": "101",
+    "title": "Database Organization & Mgmt I",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Mashinchi, Navid",
+    "seats": "25",
+    "enrolled": "25",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 25,
+    "conflicts": "2294,2298,3330,3965,5465,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5158",
+    "course": "COMP 3591",
+    "section": "1",
+    "title": "Computational Geometry",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "4:00PM-5:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 301",
+    "instructor": "Lopez, Mario A.",
+    "seats": "15",
+    "enrolled": "10",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "W",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "5159",
+    "lower-crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 17,
+    "conflicts": "2711,2714,2983,2984,3935,3950,5156"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5155",
+    "course": "COMP 3704",
     "section": "0",
-    "title": "Internship/Co-Op in Computing",
-    "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "title": "Advanced Topics: Systems",
+    "course_type": "",
+    "meeting_dates": "",
     "time": "",
     "days": "",
-    "hours": "0",
+    "hours": "4",
     "room": "",
-    "instructor": "Sawle, Paul L.",
-    "seats": "0",
+    "instructor": "",
+    "seats": "30",
     "enrolled": "0",
     "exam_meeting_dates": "",
     "exam_time": "",
@@ -1987,23 +1447,267 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "",
+        "end": ""
       }
     },
     "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
-    "total_seats": 0,
+    "total_seats": 30,
     "total_enrollment": 0,
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2473",
+    "crn": "5164",
+    "course": "COMP 3705",
+    "section": "1",
+    "title": "Topics in Computer Science",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "10:00AM-11:50AM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 401",
+    "instructor": "Haring, Kerstin S.",
+    "seats": "22",
+    "enrolled": "24",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "ECS 401",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "10:00",
+        "end_24": "11:50",
+        "start_minutes": 600,
+        "end_minutes": 710
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "5208",
+    "lower-crosslist": true,
+    "total_seats": 44,
+    "total_enrollment": 27,
+    "conflicts": "3322,3323,3326,3370,3954"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5226",
+    "course": "COMP 3705",
+    "section": "2",
+    "title": "Topics in Computer Science",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 200",
+    "instructor": "Dewri, Rinku",
+    "seats": "15",
+    "enrolled": "9",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 200",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "5160",
+    "lower-crosslist": true,
+    "total_seats": 40,
+    "total_enrollment": 15,
+    "conflicts": "3358,4097,4347"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2294",
+    "course": "COMP 3731",
+    "section": "1",
+    "title": "Computer Forensics",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 410",
+    "instructor": "Nance, Kara L.",
+    "seats": "40",
+    "enrolled": "31",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 40,
+    "total_enrollment": 31,
+    "conflicts": "2298,2710,2712,3330,3965,3967,5256,5465,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5634",
+    "course": "COMP 3820",
+    "section": "0",
+    "title": "Intro to Game Programming",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "6:00PM-7:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 301",
+    "instructor": "Dunagan, Ryan A.",
+    "seats": "30",
+    "enrolled": "14",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "6:00PM-7:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 301",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "18:00",
+        "end_24": "19:50",
+        "start_minutes": 1080,
+        "end_minutes": 1190
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 14,
+    "conflicts": "2294,2298,2706,2707,2710,2712,2713,2980,2981,2982,3330,3965,3967,5256"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2083",
+    "course": "COMP 3832",
+    "section": "1",
+    "title": "Game Capstone I",
+    "course_type": "Lecture",
+    "meeting_dates": "19-MAR-2025 to 19-MAR-2025",
+    "time": "6:00PM-7:50PM",
+    "days": "W",
+    "hours": "4",
+    "room": "ECS 358",
+    "instructor": "Gansciu, Serban B.",
+    "seats": "10",
+    "enrolled": "9",
+    "exam_meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "exam_time": "6:00PM-8:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 358",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "18:00",
+        "end_24": "19:50",
+        "start_minutes": 1080,
+        "end_minutes": 1190
+      },
+      "days": {
+        "list": [
+          "W"
+        ],
+        "canonical": "W"
+      },
+      "dates": {
+        "start": "2025-03-19",
+        "end": "2025-03-19"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 10,
+    "total_enrollment": 9,
+    "conflicts": "2711,2983,3950,3964,5156"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "1778",
     "course": "COMP 3904",
     "section": "0",
     "title": "Internship/Co-Op in Computing",
@@ -2045,16 +1749,62 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3052",
+    "crn": "2592",
+    "course": "COMP 3904",
+    "section": "0",
+    "title": "Internship/Co-Op in Computing",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "0",
+    "room": "",
+    "instructor": "",
+    "seats": "0",
+    "enrolled": "0",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 0,
+    "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3360",
     "course": "COMP 3904",
     "section": "1",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2079,8 +1829,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": false,
@@ -2091,62 +1841,16 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3351",
-    "course": "COMP 3904",
-    "section": "2",
-    "title": "Internship/Co-Op in Computing",
-    "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "",
-    "days": "",
-    "hours": "0",
-    "room": "",
-    "instructor": "Connin, Sean L.",
-    "seats": "1",
-    "enrolled": "0",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
-      },
-      "days": {
-        "list": [],
-        "canonical": ""
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 1,
-    "total_enrollment": 0,
-    "conflicts": ""
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2170",
+    "crn": "2248",
     "course": "COMP 3904",
     "section": "6",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2171,8 +1875,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": false,
@@ -2183,16 +1887,62 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2180",
+    "crn": "2249",
+    "course": "COMP 3904",
+    "section": "7",
+    "title": "Internship/Co-Op in Computing",
+    "course_type": "Internship/Externship/Coop Ed.",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "Edgington, Jeffrey M.",
+    "seats": "1",
+    "enrolled": "0",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 1,
+    "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2259",
     "course": "COMP 3904",
     "section": "11",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "",
     "days": "",
     "hours": "4",
@@ -2217,8 +1967,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": false,
@@ -2229,16 +1979,16 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2313",
+    "crn": "2414",
     "course": "COMP 3904",
     "section": "12",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "6:00PM-10:00PM",
     "days": "F",
     "hours": "0",
@@ -2265,8 +2015,8 @@
         "canonical": "F"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": false,
@@ -2277,16 +2027,111 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2472",
+    "crn": "2426",
+    "course": "COMP 3904",
+    "section": "14",
+    "title": "Internship/Co-Op in Computing",
+    "course_type": "Internship/Externship/Coop Ed.",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "",
+    "days": "",
+    "hours": "0",
+    "room": "",
+    "instructor": "GauthierDickey, Christopher J.",
+    "seats": "10",
+    "enrolled": "0",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 10,
+    "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2430",
+    "course": "COMP 3904",
+    "section": "18",
+    "title": "Internship/Co-Op in Computing",
+    "course_type": "Internship/Externship/Coop Ed.",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "8:00AM-9:50AM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Leutenegger, Scott T.",
+    "seats": "1",
+    "enrolled": "0",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "08:00",
+        "end_24": "09:50",
+        "start_minutes": 480,
+        "end_minutes": 590
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 1,
+    "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2591",
     "course": "COMP 3904",
     "section": "20",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2311,8 +2156,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": false,
@@ -2323,16 +2168,16 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2474",
+    "crn": "2593",
     "course": "COMP 3904",
     "section": "22",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2357,8 +2202,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": false,
@@ -2369,23 +2214,23 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2613",
+    "crn": "2754",
     "course": "COMP 3904",
     "section": "23",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "",
     "days": "",
     "hours": "0",
     "room": "",
     "instructor": "Albow, Mohammed M.",
     "seats": "15",
-    "enrolled": "1",
+    "enrolled": "0",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2403,28 +2248,28 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
-    "total_enrollment": 1,
+    "total_enrollment": 0,
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2621",
+    "crn": "2762",
     "course": "COMP 3904",
     "section": "24",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2449,8 +2294,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": false,
@@ -2461,13 +2306,151 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "1878",
+    "crn": "2784",
+    "course": "COMP 3904",
+    "section": "26",
+    "title": "Internship/Co-Op in Computing",
+    "course_type": "Internship/Externship/Coop Ed.",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "",
+    "days": "",
+    "hours": "0",
+    "room": "",
+    "instructor": "Evans, Nathan S.",
+    "seats": "15",
+    "enrolled": "0",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "1392",
+    "course": "COMP 3991",
+    "section": "0",
+    "title": "Independent Study",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "",
+    "seats": "1",
+    "enrolled": "0",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 1,
+    "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5474",
+    "course": "COMP 3991",
+    "section": "2",
+    "title": "IS: Online Sexual Health Ed.",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "06-JAN-2025 to 21-MAR-2025",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Hannum, Andrew T.",
+    "seats": "1",
+    "enrolled": "1",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-21"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 1,
+    "total_enrollment": 1,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "1940",
     "course": "COMP 3995",
-    "section": "1",
+    "section": "0",
     "title": "Independent Research",
     "course_type": "",
     "meeting_dates": "",
@@ -2507,706 +2490,27 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3324",
-    "course": "COMP 4334",
+    "crn": "3327",
+    "course": "COMP 4100",
     "section": "1",
-    "title": "Parallel & Distrib Comp DSAI",
+    "title": "Human-Computer Interaction",
     "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Kraft, Aaron R.",
-    "seats": "17",
-    "enrolled": "9",
-    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
-    "exam_time": "5:00PM-6:50PM",
-    "exam_days": "W",
-    "exam_room": "ECS 200",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "5053",
-    "lower-crosslist": false,
-    "total_seats": 29,
-    "total_enrollment": 17,
-    "conflicts": "2013,2578,3029,3901,4273,4285"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2789",
-    "course": "COMP 4334",
-    "section": "101",
-    "title": "Parallel & Distrib Comp DSAI",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Mashinchi, Navid",
-    "seats": "25",
-    "enrolled": "3",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "R"
-        ],
-        "canonical": "R"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 3,
-    "conflicts": "2791,4274,4916,4921"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "5011",
-    "course": "COMP 4372",
-    "section": "1",
-    "title": "Advanced Algorithms",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "4:00PM-5:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Lopez, Mario A.",
-    "seats": "5",
-    "enrolled": "6",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "4287",
-    "lower-crosslist": false,
-    "total_seats": 35,
-    "total_enrollment": 11,
-    "conflicts": "2213,2573,2579,3318,3334,3952,4289,5009,5010,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2790",
-    "course": "COMP 4432",
-    "section": "101",
-    "title": "Machine Learning",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "Sawle, Paul L.",
-    "seats": "25",
-    "enrolled": "12",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "T"
-        ],
-        "canonical": "T"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 12,
-    "conflicts": "4274,4916,4921"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2791",
-    "course": "COMP 4433",
-    "section": "101",
-    "title": "Data Visualization",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Siebrase, Benjamin E.",
-    "seats": "25",
-    "enrolled": "10",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "R"
-        ],
-        "canonical": "R"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 10,
-    "conflicts": "2789,4274,4916,4921"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2213",
-    "course": "COMP 4441",
-    "section": "1",
-    "title": "Probability and Statistics 1",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "CMK 301",
-    "instructor": "Durso, Catherine S.",
-    "seats": "25",
-    "enrolled": "6",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
-    "exam_time": "5:00PM-6:50PM",
-    "exam_days": "T",
-    "exam_room": "CMK 301",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "5060",
-    "lower-crosslist": false,
-    "total_seats": 30,
-    "total_enrollment": 11,
-    "conflicts": "2573,2579,3318,3334,3952,4274,4287,4289,5009,5010,5011"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2578",
-    "course": "COMP 4441",
-    "section": "101",
-    "title": "Probability and Statistics 1",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": "25",
-    "enrolled": "25",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 25,
-    "conflicts": "2013,3029,3324,3901,4273,4285,5053"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2794",
-    "course": "COMP 4449",
-    "section": "101",
-    "title": "DS & AI Capstone",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "Rasool, Rahim",
-    "seats": "25",
-    "enrolled": "6",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 6,
-    "conflicts": "2013,2580,4273,4984"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "5010",
-    "course": "COMP 4490",
-    "section": "1",
-    "title": "Understanding AI",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "4:00PM-5:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 410",
-    "instructor": "Xie, Benjamin X.",
-    "seats": "20",
-    "enrolled": "0",
-    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
-    "exam_time": "4:00PM-5:50PM",
-    "exam_days": "T",
-    "exam_room": "ECS 410",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "5009",
-    "lower-crosslist": false,
-    "total_seats": 50,
-    "total_enrollment": 7,
-    "conflicts": "2213,2573,2579,3318,3334,3952,4287,4289,5011,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "5061",
-    "course": "COMP 4520",
-    "section": "1",
-    "title": "Advanced Machine Learning",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "SIE 3120",
-    "instructor": "Mahoor, Mohammad H.",
-    "seats": "10",
-    "enrolled": "10",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 10,
-    "total_enrollment": 10,
-    "conflicts": "3023,3024,3026,3325,4690,4996"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3334",
-    "course": "COMP 4531",
-    "section": "101",
-    "title": "Deep Learning",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "Dalton, Donald A.",
-    "seats": "25",
-    "enrolled": "12",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "T"
-        ],
-        "canonical": "T"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 12,
-    "conflicts": "2213,3318,3952,4274,4287,4289,5009,5010,5011,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2579",
-    "course": "COMP 4581",
-    "section": "101",
-    "title": "Algorithms for DS & AI",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": "25",
-    "enrolled": "5",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "R"
-        ],
-        "canonical": "R"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 5,
-    "conflicts": "2213,2573,3318,3952,4274,4287,4289,5009,5010,5011,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4916",
-    "course": "COMP 4703",
-    "section": "1",
-    "title": "Adv Topics-Artificial Intell",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Petrehn, Sydney M.",
-    "seats": "20",
-    "enrolled": "9",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "4921",
-    "lower-crosslist": false,
-    "total_seats": 30,
-    "total_enrollment": 17,
-    "conflicts": "2789,2790,2791,4274"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4289",
-    "course": "COMP 4705",
-    "section": "3",
-    "title": "Advanced Topics-Programming",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 300",
-    "instructor": "Dewri, Rinku",
-    "seats": "25",
-    "enrolled": "10",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
-      }
-    },
-    "gta_eligible": true,
-    "crosslist": "3952",
-    "lower-crosslist": false,
-    "total_seats": 40,
-    "total_enrollment": 25,
-    "conflicts": "2213,2573,2579,3318,3334,4274,4287,5009,5010,5011,5060"
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "5144",
-    "course": "COMP 4705",
-    "section": "4",
-    "title": "Advanced Topics-Programming",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
     "room": "ECS 201",
-    "instructor": "Hamed, Ahmed Abdeen",
-    "seats": "0",
-    "enrolled": "1",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "instructor": "Oleson, Alannah",
+    "seats": "10",
+    "enrolled": "3",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -3223,23 +2527,798 @@
         "canonical": "MW"
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
-    "gta_eligible": false,
-    "crosslist": "4693",
+    "gta_eligible": true,
+    "crosslist": "3387",
     "lower-crosslist": false,
     "total_seats": 29,
-    "total_enrollment": 28,
-    "conflicts": "3034,4689"
+    "total_enrollment": 23,
+    "conflicts": "3337"
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3102",
+    "crn": "3950",
+    "course": "COMP 4334",
+    "section": "1",
+    "title": "Parallel & Distrib Comp for DS",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 401",
+    "instructor": "Kraft, Aaron R.",
+    "seats": "25",
+    "enrolled": "12",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 12,
+    "conflicts": "2083,2711,2714,2983,2984,3935,5156,5158,5159"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2980",
+    "course": "COMP 4334",
+    "section": "101",
+    "title": "Parallel & Distrib Comp for DS",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "7:00PM-8:50PM",
+    "days": "T",
+    "hours": "4",
+    "room": "",
+    "instructor": "Daskevich, Ronald J.",
+    "seats": "25",
+    "enrolled": "9",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "T"
+        ],
+        "canonical": "T"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 9,
+    "conflicts": "2707,2713,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3964",
+    "course": "COMP 4432",
+    "section": "1",
+    "title": "Machine Learning",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "7:00PM-8:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 200",
+    "instructor": "Sawle, Paul L.",
+    "seats": "25",
+    "enrolled": "22",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 22,
+    "conflicts": "2083"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2981",
+    "course": "COMP 4432",
+    "section": "101",
+    "title": "Machine Learning",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "7:00PM-8:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Sawle, Paul L.",
+    "seats": "25",
+    "enrolled": "17",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 17,
+    "conflicts": "2706,2713,2982,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2982",
+    "course": "COMP 4433",
+    "section": "101",
+    "title": "Data Visualization",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "7:00PM-8:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Siebrase, Benjamin E.",
+    "seats": "25",
+    "enrolled": "7",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 7,
+    "conflicts": "2706,2713,2981,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2298",
+    "course": "COMP 4441",
+    "section": "1",
+    "title": "Probability and Statistics 1",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 400",
+    "instructor": "Durso, Catherine S.",
+    "seats": "25",
+    "enrolled": "15",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "5:00PM-6:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 400",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 15,
+    "conflicts": "2294,2710,2712,3330,3965,3967,5256,5465,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2711",
+    "course": "COMP 4441",
+    "section": "101",
+    "title": "Probability and Statistics 1",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Vered, Michelle N.",
+    "seats": "25",
+    "enrolled": "10",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "W"
+        ],
+        "canonical": "W"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 10,
+    "conflicts": "2083,2983,3935,3950,5156,5158,5159"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2983",
+    "course": "COMP 4442",
+    "section": "101",
+    "title": "Probability and Statistics 2",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Chan, Julian D.",
+    "seats": "25",
+    "enrolled": "5",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "W"
+        ],
+        "canonical": "W"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 5,
+    "conflicts": "2083,2711,3935,3950,5156,5158,5159"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2714",
+    "course": "COMP 4447",
+    "section": "101",
+    "title": "Data Science Tools 1",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "M",
+    "hours": "4",
+    "room": "",
+    "instructor": "Rasool, Rahim",
+    "seats": "25",
+    "enrolled": "18",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "M"
+        ],
+        "canonical": "M"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 18,
+    "conflicts": "2984,3935,3950,5158,5159"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3965",
+    "course": "COMP 4448",
+    "section": "1",
+    "title": "Data Science Tools 2",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 300",
+    "instructor": "Rasool, Rahim",
+    "seats": "25",
+    "enrolled": "5",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 5,
+    "conflicts": "2294,2298,2710,2712,3330,3967,5256,5465,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2984",
+    "course": "COMP 4448",
+    "section": "101",
+    "title": "Data Science Tools 2",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "M",
+    "hours": "4",
+    "room": "",
+    "instructor": "Parada San Martin, Daniel A.",
+    "seats": "25",
+    "enrolled": "6",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "M"
+        ],
+        "canonical": "M"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 6,
+    "conflicts": "2714,3935,3950,5158,5159"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3967",
+    "course": "COMP 4531",
+    "section": "101",
+    "title": "Deep Learning",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "T",
+    "hours": "4",
+    "room": "",
+    "instructor": "Dalton, Donald A.",
+    "seats": "25",
+    "enrolled": "15",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "T"
+        ],
+        "canonical": "T"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 15,
+    "conflicts": "2294,2298,2712,3330,3965,5256,5465,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2712",
+    "course": "COMP 4581",
+    "section": "101",
+    "title": "Algorithms for Data Science&AI",
+    "course_type": "Online/Distance",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "5:00PM-6:50PM",
+    "days": "T",
+    "hours": "4",
+    "room": "",
+    "instructor": "Kossek, Wojciech K.",
+    "seats": "25",
+    "enrolled": "10",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "T"
+        ],
+        "canonical": "T"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 10,
+    "conflicts": "2294,2298,3330,3965,3967,5256,5465,5634"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5159",
+    "course": "COMP 4591",
+    "section": "1",
+    "title": "Computational Geometry",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "4:00PM-5:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 301",
+    "instructor": "Lopez, Mario A.",
+    "seats": "15",
+    "enrolled": "7",
+    "exam_meeting_dates": "19-MAR-2025 to 19-MAR-2025",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "W",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "5158",
+    "lower-crosslist": false,
+    "total_seats": 30,
+    "total_enrollment": 17,
+    "conflicts": "2711,2714,2983,2984,3935,3950,5156"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5160",
+    "course": "COMP 4704",
+    "section": "1",
+    "title": "Advanced Topics-Systems",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 200",
+    "instructor": "Dewri, Rinku",
+    "seats": "25",
+    "enrolled": "6",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 200",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "5226",
+    "lower-crosslist": false,
+    "total_seats": 40,
+    "total_enrollment": 15,
+    "conflicts": "3358,4097,4347"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5208",
+    "course": "COMP 4705",
+    "section": "2",
+    "title": "Advanced Topics-Programming",
+    "course_type": "Lecture",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
+    "time": "10:00AM-11:50AM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 401",
+    "instructor": "Haring, Kerstin S.",
+    "seats": "22",
+    "enrolled": "3",
+    "exam_meeting_dates": "18-MAR-2025 to 18-MAR-2025",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "ECS 401",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "10:00",
+        "end_24": "11:50",
+        "start_minutes": 600,
+        "end_minutes": 710
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-17"
+      }
+    },
+    "gta_eligible": true,
+    "crosslist": "5164",
+    "lower-crosslist": false,
+    "total_seats": 44,
+    "total_enrollment": 27,
+    "conflicts": "3322,3323,3326,3370,3954"
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3436",
     "course": "COMP 4799",
     "section": "0",
     "title": "Cybersecurity Capstone",
@@ -3281,11 +3360,11 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "1490",
+    "crn": "1526",
     "course": "COMP 4991",
     "section": "0",
     "title": "Independent Study",
@@ -3327,11 +3406,11 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2622",
+    "crn": "2763",
     "course": "COMP 4991",
     "section": "0",
     "title": "Independent Study",
@@ -3373,16 +3452,16 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "1803",
+    "crn": "1860",
     "course": "COMP 4995",
     "section": "0",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 17-MAR-2025",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3407,8 +3486,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "2025-01-06",
+        "end": "2025-03-17"
       }
     },
     "gta_eligible": false,
@@ -3419,11 +3498,11 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2077",
+    "crn": "2151",
     "course": "COMP 4995",
     "section": "0",
     "title": "Independent Research",
@@ -3465,11 +3544,11 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2631",
+    "crn": "2774",
     "course": "COMP 4995",
     "section": "0",
     "title": "Independent Research",
@@ -3511,21 +3590,159 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "5352",
+    "crn": "5326",
     "course": "COMP 4995",
     "section": "2",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "05-JAN-2026 to 20-MAR-2026",
+    "meeting_dates": "06-JAN-2025 to 21-MAR-2025",
     "time": "",
     "days": "",
     "hours": "1",
     "room": "",
-    "instructor": "Dewri, Rinku",
+    "instructor": "Hutt, Stephen J.",
+    "seats": "15",
+    "enrolled": "5",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-21"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 5,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5493",
+    "course": "COMP 4995",
+    "section": "3",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "06-JAN-2025 to 21-MAR-2025",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Haring, Kerstin S.",
+    "seats": "15",
+    "enrolled": "3",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-21"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 3,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5696",
+    "course": "COMP 4995",
+    "section": "4",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "06-JAN-2025 to 21-MAR-2025",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Lopez, Mario A.",
+    "seats": "15",
+    "enrolled": "4",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-21"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 4,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5740",
+    "course": "COMP 4995",
+    "section": "5",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "06-JAN-2025 to 21-MAR-2025",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Mahoor, Mohammad H.",
     "seats": "15",
     "enrolled": "1",
     "exam_meeting_dates": "",
@@ -3545,8 +3762,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-20"
+        "start": "2025-01-06",
+        "end": "2025-03-21"
       }
     },
     "gta_eligible": false,
@@ -3557,11 +3774,11 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "1371",
+    "crn": "1394",
     "course": "COMP 5991",
     "section": "0",
     "title": "Independent Study",
@@ -3603,11 +3820,11 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "1388",
+    "crn": "1415",
     "course": "COMP 5995",
     "section": "0",
     "title": "Independent Research",
@@ -3649,11 +3866,11 @@
     "conflicts": ""
   },
   {
-    "term": "202610",
+    "term": "202510",
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2453",
+    "crn": "2571",
     "course": "COMP 5995",
     "section": "0",
     "title": "Independent Research",
@@ -3692,6 +3909,98 @@
     "lower-crosslist": true,
     "total_seats": 0,
     "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5722",
+    "course": "COMP 5995",
+    "section": "1",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "06-JAN-2025 to 21-MAR-2025",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Lopez, Mario A.",
+    "seats": "15",
+    "enrolled": "2",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-21"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 2,
+    "conflicts": ""
+  },
+  {
+    "term": "202510",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5729",
+    "course": "COMP 5995",
+    "section": "2",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "06-JAN-2025 to 21-MAR-2025",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Rutherford, Matthew J.",
+    "seats": "15",
+    "enrolled": "1",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2025-01-06",
+        "end": "2025-03-21"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 1,
     "conflicts": ""
   }
 ]

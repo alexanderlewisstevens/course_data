@@ -14,7 +14,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "STURM 480",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": "31",
     "enrolled": "31",
     "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
@@ -41,6 +41,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 31,
@@ -62,7 +63,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 200",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": "30",
     "enrolled": "7",
     "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
@@ -89,6 +90,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -112,7 +114,7 @@
     "room": "ECS 300",
     "instructor": "Leutenegger, Scott T.",
     "seats": "35",
-    "enrolled": "22",
+    "enrolled": "23",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -137,10 +139,11 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 35,
-    "total_enrollment": 22,
+    "total_enrollment": 23,
     "conflicts": "3026,3325,4690,4996,5061"
   },
   {
@@ -185,6 +188,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 35,
@@ -233,6 +237,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 39,
@@ -281,6 +286,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 27,
@@ -329,6 +335,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -377,6 +384,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -425,6 +433,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -473,6 +482,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -496,7 +506,7 @@
     "room": "ECS 301",
     "instructor": "Stevens, Alexander L.",
     "seats": "39",
-    "enrolled": "10",
+    "enrolled": "11",
     "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
@@ -521,10 +531,11 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 39,
-    "total_enrollment": 10,
+    "total_enrollment": 11,
     "conflicts": "4692,5008"
   },
   {
@@ -569,6 +580,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 36,
@@ -617,6 +629,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 39,
@@ -665,6 +678,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 40,
@@ -713,6 +727,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -758,6 +773,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 50,
@@ -781,7 +797,7 @@
     "room": "ECS 201",
     "instructor": "Stevens, Alexander L.",
     "seats": "25",
-    "enrolled": "14",
+    "enrolled": "16",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -806,10 +822,11 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 14,
+    "total_enrollment": 16,
     "conflicts": "2013,2578,3324,3901,4273,4285,5053"
   },
   {
@@ -853,6 +870,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -901,6 +919,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -924,7 +943,7 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": "25",
-    "enrolled": "21",
+    "enrolled": "22",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -948,10 +967,11 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 21,
+    "total_enrollment": 22,
     "conflicts": "2213,2579,3318,3952,4274,4287,4289,5009,5010,5011,5060"
   },
   {
@@ -996,6 +1016,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -1043,6 +1064,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -1091,6 +1113,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -1139,6 +1162,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "3324",
     "lower-crosslist": true,
     "total_seats": 29,
@@ -1187,6 +1211,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 28,
@@ -1235,6 +1260,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "5011",
     "lower-crosslist": true,
     "total_seats": 35,
@@ -1283,6 +1309,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -1331,6 +1358,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 29,
@@ -1379,6 +1407,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "2213",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -1427,6 +1456,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "5010",
     "lower-crosslist": true,
     "total_seats": 50,
@@ -1475,6 +1505,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 40,
@@ -1523,6 +1554,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "4916",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -1571,6 +1603,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "4289",
     "lower-crosslist": true,
     "total_seats": 40,
@@ -1619,6 +1652,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 31,
@@ -1667,6 +1701,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -1715,6 +1750,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "5144",
     "lower-crosslist": true,
     "total_seats": 29,
@@ -1763,6 +1799,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -1811,6 +1848,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -1859,6 +1897,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -1906,6 +1945,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 10,
@@ -1951,6 +1991,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -1996,6 +2037,7 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -2041,6 +2083,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -2086,6 +2129,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 1,
@@ -2131,6 +2175,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 1,
@@ -2176,6 +2221,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 1,
@@ -2223,6 +2269,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 1,
@@ -2268,6 +2315,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -2313,6 +2361,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -2358,6 +2407,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -2403,6 +2453,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -2448,6 +2499,7 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -2496,6 +2548,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "5053",
     "lower-crosslist": false,
     "total_seats": 29,
@@ -2519,7 +2572,7 @@
     "room": "",
     "instructor": "Mashinchi, Navid",
     "seats": "25",
-    "enrolled": "4",
+    "enrolled": "3",
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2543,10 +2596,11 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 4,
+    "total_enrollment": 3,
     "conflicts": "2791,4274,4916,4921"
   },
   {
@@ -2591,6 +2645,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "4287",
     "lower-crosslist": false,
     "total_seats": 35,
@@ -2638,6 +2693,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -2685,6 +2741,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -2733,6 +2790,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "5060",
     "lower-crosslist": false,
     "total_seats": 30,
@@ -2780,6 +2838,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -2827,6 +2886,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -2875,6 +2935,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "5009",
     "lower-crosslist": false,
     "total_seats": 50,
@@ -2923,6 +2984,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 10,
@@ -2970,6 +3032,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -3017,6 +3080,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -3065,6 +3129,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "4921",
     "lower-crosslist": false,
     "total_seats": 30,
@@ -3113,6 +3178,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": true,
     "crosslist": "3952",
     "lower-crosslist": false,
     "total_seats": 40,
@@ -3161,6 +3227,7 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "4693",
     "lower-crosslist": false,
     "total_seats": 29,
@@ -3206,51 +3273,7 @@
         "end": ""
       }
     },
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "conflicts": ""
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2622",
-    "course": "COMP 4991",
-    "section": "0",
-    "title": "Independent Study",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
-    "hours": "1",
-    "room": "",
-    "instructor": "",
-    "seats": "0",
-    "enrolled": "0",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
-      },
-      "days": {
-        "list": [],
-        "canonical": ""
-      },
-      "dates": {
-        "start": "",
-        "end": ""
-      }
-    },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -3296,6 +3319,53 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 0,
+    "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202610",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2622",
+    "course": "COMP 4991",
+    "section": "0",
+    "title": "Independent Study",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "",
+    "seats": "0",
+    "enrolled": "0",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -3341,54 +3411,10 @@
         "end": "2026-03-16"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
-    "total_enrollment": 0,
-    "conflicts": ""
-  },
-  {
-    "term": "202610",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2631",
-    "course": "COMP 4995",
-    "section": "0",
-    "title": "Independent Research",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": "1",
-    "enrolled": "0",
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
-      },
-      "days": {
-        "list": [],
-        "canonical": ""
-      },
-      "dates": {
-        "start": "",
-        "end": ""
-      }
-    },
-    "crosslist": "",
-    "lower-crosslist": true,
-    "total_seats": 1,
     "total_enrollment": 0,
     "conflicts": ""
   },
@@ -3431,10 +3457,103 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 1,
     "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202610",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2631",
+    "course": "COMP 4995",
+    "section": "0",
+    "title": "Independent Research",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": "1",
+    "enrolled": "0",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 1,
+    "total_enrollment": 0,
+    "conflicts": ""
+  },
+  {
+    "term": "202610",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5352",
+    "course": "COMP 4995",
+    "section": "2",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "05-JAN-2026 to 20-MAR-2026",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Dewri, Rinku",
+    "seats": "15",
+    "enrolled": "1",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2026-01-05",
+        "end": "2026-03-20"
+      }
+    },
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower-crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 1,
     "conflicts": ""
   },
   {
@@ -3476,6 +3595,7 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -3521,6 +3641,7 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -3566,6 +3687,7 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,

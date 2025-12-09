@@ -1,0 +1,9 @@
+# History source files stay local and are not committed
+data/history/**/*.xlsx
+data/history/**/*.xlsm
+data/history/excel/**
+data/history/templates/**
+!data/history/.gitkeep
+
+# Virtual environments (if created locally)
+.venv/

@@ -1,0 +1,2537 @@
+{
+  "Fall 2024": {
+    "COMP 1101": {
+      "Gao, Sky": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3422",
+          "title": "Analytical Inquiry I",
+          "instructor": "Gao, Sky",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 2
+        },
+        {
+          "section": "3",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3492",
+          "title": "Analytical Inquiry I",
+          "instructor": "Gao, Sky",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 3
+        }
+      ]
+    },
+    "COMP 1201": {
+      "Oleson, Alannah": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3413",
+          "title": "Intro. to Computer Science I",
+          "instructor": "Oleson, Alannah",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 4
+        },
+        {
+          "section": "2",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3414",
+          "title": "Intro. to Computer Science I",
+          "instructor": "Oleson, Alannah",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 5
+        }
+      ],
+      "Hutt, Stephen J.": [
+        {
+          "section": "4",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "Ideally, one person for both my sections of 1201 would be great",
+          "crn": "3425",
+          "title": "Intro. to Computer Science I",
+          "instructor": "Hutt, Stephen J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 6
+        },
+        {
+          "section": "9",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "Ideally, one person for both my sections of 1201 would be great",
+          "crn": "4484",
+          "title": "Intro. to Computer Science I",
+          "instructor": "Hutt, Stephen J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 8
+        }
+      ],
+      "Hannum, Andrew T.": [
+        {
+          "section": "10",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "4485",
+          "title": "Intro. to Computer Science I",
+          "instructor": "Hannum, Andrew T.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 9
+        }
+      ]
+    },
+    "COMP 1351": {
+      "Stevens, Alexander L.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "10 hours in total: 2 hours in class, 3 hours",
+          "notes": "",
+          "crn": "3415",
+          "title": "Introduction to Programming I",
+          "instructor": "Stevens, Alexander L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 10
+        },
+        {
+          "section": "6",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3420",
+          "title": "Introduction to Programming I",
+          "instructor": "Stevens, Alexander L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 15
+        }
+      ],
+      "AlBow, Mohammed M.": [
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3416",
+          "title": "Introduction to Programming I",
+          "instructor": "AlBow, Mohammed M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 11
+        },
+        {
+          "section": "4",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3418",
+          "title": "Introduction to Programming I",
+          "instructor": "AlBow, Mohammed M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 13
+        },
+        {
+          "section": "7",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3421",
+          "title": "Introduction to Programming I",
+          "instructor": "AlBow, Mohammed M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 16
+        }
+      ],
+      "Edgington, Jeffrey M.": [
+        {
+          "section": "3",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3417",
+          "title": "Introduction to Programming I",
+          "instructor": "Edgington, Jeffrey M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 12
+        },
+        {
+          "section": "5",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3419",
+          "title": "Introduction to Programming I",
+          "instructor": "Edgington, Jeffrey M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 14
+        }
+      ]
+    },
+    "COMP 2300": {
+      "Liu, Faan Tone": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "2 h per section per week in class, 4 OH, all remaining time spent grading",
+          "notes": "Comfortable with content. Willing to grade, and grade on time. Basically likes human beings.",
+          "crn": "2172",
+          "title": "Discrete Structures in CS",
+          "instructor": "Liu, Faan Tone",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 18
+        },
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "Comfortable with content. Willing to grade, and grade on time. Basically likes human beings.",
+          "crn": "4205",
+          "title": "Discrete Structures in CS",
+          "instructor": "Liu, Faan Tone",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 19
+        }
+      ],
+      "Stevens, Alexander L.": [
+        {
+          "section": "3",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2962",
+          "title": "Discrete Structures in CS",
+          "instructor": "Stevens, Alexander L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 20
+        }
+      ]
+    },
+    "COMP 2361": {
+      "Stevenson, Daniel E.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
+          "notes": "C/C++/Linux/assembly. Good helping students with low-level issues.",
+          "crn": "4883",
+          "title": "Systems I",
+          "instructor": "Stevenson, Daniel E.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 21
+        }
+      ]
+    },
+    "COMP 2362": {
+      "Stevenson, Daniel E.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
+          "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues.",
+          "crn": "4884",
+          "title": "Systems II",
+          "instructor": "Stevenson, Daniel E.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 22
+        },
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
+          "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues.",
+          "crn": "4885",
+          "title": "Systems II",
+          "instructor": "Stevenson, Daniel E.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 23
+        },
+        {
+          "section": "3",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
+          "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues.",
+          "crn": "4886",
+          "title": "Systems II",
+          "instructor": "Stevenson, Daniel E.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 24
+        }
+      ]
+    },
+    "COMP 2381": {
+      "Anjum, Iffat": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "2nd hour of the class, 8 hours of grading",
+          "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time.",
+          "crn": "3842",
+          "title": "Object-Oriented Software Dev.",
+          "instructor": "Anjum, Iffat",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 25
+        },
+        {
+          "section": "3",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "2nd hour of the class, 8 hours of grading",
+          "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time.",
+          "crn": "4093",
+          "title": "Object-Oriented Software Dev.",
+          "instructor": "Anjum, Iffat",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 26
+        }
+      ],
+      "Rutherford, Matthew J.": [
+        {
+          "section": "4",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "2nd hour of the class, 8 hours of grading",
+          "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time.",
+          "crn": "5584",
+          "title": "Object-Oriented Software Dev.",
+          "instructor": "Rutherford, Matthew J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 27
+        }
+      ]
+    },
+    "COMP 2701": {
+      "Rutherford, Matthew J.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5566",
+          "title": "Topics: Unix Command-Line Bootcamp",
+          "instructor": "Rutherford, Matthew J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 28
+        }
+      ]
+    },
+    "COMP 3003": {
+      "Evans, Nathan S.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "3-4 hours office hours a week, then grading which should only be 1-2 hours per week. So 6 total?",
+          "notes": "All is good. Anyone is probably fine (:",
+          "crn": "3228",
+          "title": "Foundations in Comp. Systems",
+          "instructor": "Evans, Nathan S.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 29
+        }
+      ]
+    },
+    "COMP 3005": {
+      "Kraft, Aaron R.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "4 Office Hours + 4 Grading",
+          "notes": "Strong Python, lots of patience, open to holding office hours late",
+          "crn": "3844",
+          "title": "Foundation: Python Programming",
+          "instructor": "Kraft, Aaron R.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 30
+        }
+      ]
+    },
+    "COMP 3006": {
+      "Crutchfield-Todd, Dalton J.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2725",
+          "title": "Python Software Development",
+          "instructor": "Crutchfield-Todd, Dalton J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 31
+        }
+      ]
+    },
+    "COMP 3007": {
+      "Kossek, Wojciech K.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3845",
+          "title": "Foundations: DS Math I",
+          "instructor": "Kossek, Wojciech K.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 32
+        },
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2726",
+          "title": "Foundations: DS Math I",
+          "instructor": "Kossek, Wojciech K.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 33
+        }
+      ]
+    },
+    "COMP 3008": {
+      "Durso, Catherine S.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "4 hours grading",
+          "notes": "",
+          "crn": "3846",
+          "title": "Foundations: DS Math II",
+          "instructor": "Durso, Catherine S.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 34
+        }
+      ],
+      "Gerics, Brendt": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2805",
+          "title": "Foundations: DS Math II",
+          "instructor": "Gerics, Brendt",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 35
+        }
+      ]
+    },
+    "COMP 3100": {
+      "Haring, Kerstin S.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "2OH, 4 hours grading",
+          "notes": "",
+          "crn": "5555",
+          "title": "Human-Computer Interaction",
+          "instructor": "Haring, Kerstin S.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 36
+        }
+      ]
+    },
+    "COMP 3361": {
+      "Dewri, Rinku": [
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "4 OH +4 in class + classwork and homework grading",
+          "notes": "Important to have someone who has taken the course with me",
+          "crn": "4202",
+          "title": "Operating Systems I",
+          "instructor": "Dewri, Rinku",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 37
+        }
+      ]
+    },
+    "COMP 3421": {
+      "Dalton, Donald A.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "8 hours grading plus 2 hours of office hours",
+          "notes": "They have combined the COMP3421 grad student class with the undergrad section.  As a result, I have 40 students so I will need a TA to hold office hours and there is a lot more grading to be done.",
+          "crn": "2748",
+          "title": "Database Organization & Mgmt I",
+          "instructor": "Dalton, Donald A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 39
+        },
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "8 hours grading plus 2 hours of office hours",
+          "notes": "They have combined the COMP3421 grad student class with the undergrad section.  As a result, I have 40 students so I will need a TA to hold office hours and there is a lot more grading to be done.",
+          "crn": "5721",
+          "title": "Database Organization & Mgmt I",
+          "instructor": "Dalton, Donald A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 40
+        }
+      ],
+      "Mashinchi, Navid": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2915",
+          "title": "Database Organization & Mgmt I",
+          "instructor": "Mashinchi, Navid",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 41
+        }
+      ]
+    },
+    "COMP 3501": {
+      "Hutt, Stephen J.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "4 Office Hours, 6 Grading/ Canvas Management",
+          "notes": "Ideally, someone who took the course with me would be great. Good Python skills and a broad knowledge of AI required",
+          "crn": "3509",
+          "title": "Intro Artificial Intelligence",
+          "instructor": "Hutt, Stephen J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 42
+        }
+      ]
+    },
+    "COMP 3621": {
+      "Kraft, Aaron R.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "4 Office Hours + 6 Hours Grading",
+          "notes": "Strong Python and previous networking experience, open to holding office hours late",
+          "crn": "3514",
+          "title": "Computer Networking",
+          "instructor": "Kraft, Aaron R.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 43
+        }
+      ]
+    },
+    "COMP 3705": {
+      "Dewri, Rinku": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "4 OH + grading",
+          "notes": "Course is also cross-listed at 4000-level; someone with Python experience and familiar with security concepts and libraries",
+          "crn": "5554",
+          "title": "Topics: Internet Security",
+          "instructor": "Dewri, Rinku",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 45
+        }
+      ]
+    },
+    "COMP 3721": {
+      "Das, Sanchari": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3479",
+          "title": "Computer Security",
+          "instructor": "Das, Sanchari",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 46
+        }
+      ]
+    },
+    "COMP 3831": {
+      "Gansciu, Serban B.": [
+        {
+          "section": "2",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3214",
+          "title": "Game Prototyping",
+          "instructor": "Gansciu, Serban B.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 48
+        }
+      ]
+    },
+    "COMP 4100": {
+      "Haring, Kerstin S.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5696",
+          "title": "Human-Computer Interaction",
+          "instructor": "Haring, Kerstin S.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 49
+        }
+      ]
+    },
+    "COMP 4432": {
+      "Sawle, Paul L.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2928",
+          "title": "Machine Learning",
+          "instructor": "Sawle, Paul L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 51
+        }
+      ]
+    },
+    "COMP 4441": {
+      "Vered, Michelle N.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2708",
+          "title": "Probability and Statistics 1",
+          "instructor": "Vered, Michelle N.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 53
+        }
+      ]
+    },
+    "COMP 4442": {
+      "Chan, Julian D.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2806",
+          "title": "Probability and Statistics 2",
+          "instructor": "Chan, Julian D.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2024.xlsx",
+          "source_row": 54
+        }
+      ]
+    }
+  },
+  "Fall 2025": {
+    "COMP 1101": {
+      "Gao, Sky T.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3123",
+          "title": "Analytical Inquiry I",
+          "instructor": "Gao, Sky T.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 2
+        },
+        {
+          "section": "4",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5546",
+          "title": "Analytical Inquiry I",
+          "instructor": "Gao, Sky T.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 3
+        }
+      ]
+    },
+    "COMP 1201": {
+      "Hannum, Andrew": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3114",
+          "title": "Intro. to Computer Science I",
+          "instructor": "Hannum, Andrew",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 4
+        },
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3115",
+          "title": "Intro. to Computer Science I",
+          "instructor": "Hannum, Andrew",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 5
+        },
+        {
+          "section": "4",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3124",
+          "title": "Intro. to Computer Science I",
+          "instructor": "Hannum, Andrew",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 7
+        }
+      ],
+      "Hannum, Andrew T.": [
+        {
+          "section": "3",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5595",
+          "title": "Intro. to Computer Science I",
+          "instructor": "Hannum, Andrew T.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 6
+        }
+      ]
+    },
+    "COMP 1351": {
+      "Albow, Mohammed M.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3116",
+          "title": "Introduction to Programming I",
+          "instructor": "Albow, Mohammed M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 8
+        }
+      ],
+      "Anjum, Iffat": [
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3117",
+          "title": "Introduction to Programming I",
+          "instructor": "Anjum, Iffat",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 9
+        }
+      ],
+      "Hannum, Andrew T.": [
+        {
+          "section": "4",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3119",
+          "title": "Introduction to Programming I",
+          "instructor": "Hannum, Andrew T.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 10
+        }
+      ],
+      "Taami, Tania": [
+        {
+          "section": "8",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5203",
+          "title": "Introduction to Programming I",
+          "instructor": "Taami, Tania",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 11
+        }
+      ],
+      "Hossain, Ismail": [
+        {
+          "section": "",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "",
+          "title": "Introduction to Programming I",
+          "instructor": "Hossain, Ismail",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 12
+        }
+      ],
+      "Hidden": [
+        {
+          "section": "",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "",
+          "title": "Introduction to Programming I",
+          "instructor": "Hidden",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 13
+        }
+      ]
+    },
+    "COMP 1353": {
+      "Hossain, Ismail": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3395",
+          "title": "Data Struct. & Algorithms I",
+          "instructor": "Hossain, Ismail",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 14
+        }
+      ]
+    },
+    "COMP 2300": {
+      "Stevens, Alexander L.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2088",
+          "title": "Discrete Structures in CS",
+          "instructor": "Stevens, Alexander L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 15
+        },
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3452",
+          "title": "Discrete Structures in CS",
+          "instructor": "Stevens, Alexander L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 16
+        }
+      ]
+    },
+    "COMP 2361": {
+      "Stevenson, Daniel E.": [
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "C/C++/Linux/assembly. Good helping students with low-level issues.",
+          "crn": "5126",
+          "title": "Systems I",
+          "instructor": "Stevenson, Daniel E.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 17
+        }
+      ]
+    },
+    "COMP 2362": {
+      "Stevenson, Daniel E.": [
+        {
+          "section": "3",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues.",
+          "crn": "3688",
+          "title": "Systems II",
+          "instructor": "Stevenson, Daniel E.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 18
+        },
+        {
+          "section": "4",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues.",
+          "crn": "5204",
+          "title": "Systems II",
+          "instructor": "Stevenson, Daniel E.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 19
+        }
+      ]
+    },
+    "COMP 2381": {
+      "Taami, Tania": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time.",
+          "crn": "3331",
+          "title": "Object-Oriented Software Dev.",
+          "instructor": "Taami, Tania",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 20
+        }
+      ],
+      "Rutherford, Matthew J.": [
+        {
+          "section": "4",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time.  In-class not needed unless enrollment increases significantly for this section.",
+          "crn": "3979",
+          "title": "Object-Oriented Software Dev.",
+          "instructor": "Rutherford, Matthew J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 21
+        }
+      ]
+    },
+    "COMP 2821": {
+      "Edgington, Jeffrey": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "4724",
+          "title": "Introductory Game Design",
+          "instructor": "Edgington, Jeffrey",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 22
+        }
+      ]
+    },
+    "COMP 3003": {
+      "Evans, Nathan S.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2983",
+          "title": "Foundations in Comp. Systems",
+          "instructor": "Evans, Nathan S.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 23
+        },
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "4 hours of office hours per week",
+          "notes": "",
+          "crn": "5562",
+          "title": "Foundations in Comp. Systems",
+          "instructor": "Evans, Nathan S.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 24
+        }
+      ]
+    },
+    "COMP 3005": {
+      "Connin, Sean L.": [
+        {
+          "section": "3",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "Solid Python skills/knowledge. Willing to grade in a thoughtful manner (i.e., feedback) and do it on time. Wont be responsible for office hours. Opportunity to contribute to assignment updates if interested.",
+          "crn": "5561",
+          "title": "Foundation: Python Programming",
+          "instructor": "Connin, Sean L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 25
+        }
+      ],
+      "Hamed, Ahmed": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "Strong Python, lots of patience, open to holding office hours late",
+          "crn": "3332",
+          "title": "Foundation: Python Programming",
+          "instructor": "Hamed, Ahmed",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 26
+        }
+      ]
+    },
+    "COMP 3009": {
+      "Hamed, Ahmed": [
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5472",
+          "title": "Applied Math for DS and AI",
+          "instructor": "Hamed, Ahmed",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 27
+        }
+      ],
+      "Kossek, Wojciech K.": [
+        {
+          "section": "101",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "4726",
+          "title": "Applied Math for DS and AI",
+          "instructor": "Kossek, Wojciech K.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 28
+        },
+        {
+          "section": "103",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5555",
+          "title": "Applied Math for DS and AI",
+          "instructor": "Kossek, Wojciech K.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 29
+        }
+      ]
+    },
+    "COMP 3100": {
+      "Oleson, Alannah": [
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "Est. 4 hours of in-class per week, 2 office hours, ~4 hours of grading ~= 10 total hours.",
+          "notes": "GTAs should have at least some experience with UX/UI design or HCI and be familiar with design priciniples. Bonus if they have TA'd or taken the class with me before. The TA should be available to be in class to give extra support during studio and active learning activities (which are the second hour of every class day). This means TAs should be comfortable giving constructive feedback and helping students reason through open-ended design problems with no single correct answer.",
+          "crn": "5178",
+          "title": "Human-Computer Interaction",
+          "instructor": "Oleson, Alannah",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 30
+        }
+      ]
+    },
+    "COMP 3361": {
+      "Dewri, Rinku": [
+        {
+          "section": "3",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "I estimate, on average, 2 hours of in-class time, 4 hours of office hours, and 6-8 hours grading, per week.",
+          "notes": "GTA should have preferably taken the course before with me and familiar with SOS.",
+          "crn": "5359",
+          "title": "Operating Systems I",
+          "instructor": "Dewri, Rinku",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 31
+        }
+      ]
+    },
+    "COMP 3421": {
+      "Mashinchi, Navid": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "Should have some familiarity with Relational Algebra, SQL and MongoDB.  Grading weekly homework and exams should take 3 hours a week.",
+          "notes": "",
+          "crn": "2733",
+          "title": "Database Organization & Mgmt I",
+          "instructor": "Mashinchi, Navid",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 32
+        }
+      ],
+      "Dalton, Donald A.": [
+        {
+          "section": "102",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "Needs to know SQL and Mongo.  Grading weekly homework and exams should take 3 hours a week.",
+          "notes": "",
+          "crn": "5214",
+          "title": "Database Organization & Mgmt I",
+          "instructor": "Dalton, Donald A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 33
+        }
+      ]
+    },
+    "COMP 3490": {
+      "Kossek, Wojciech K.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5566",
+          "title": "Understanding AI",
+          "instructor": "Kossek, Wojciech K.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 34
+        }
+      ]
+    },
+    "COMP 3501": {
+      "Kraft, Aaron R.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "Taken class before or have experience in AI research or implementation.",
+          "crn": "3186",
+          "title": "Intro Artificial Intelligence",
+          "instructor": "Kraft, Aaron R.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 35
+        }
+      ]
+    },
+    "COMP 3621": {
+      "Kraft, Aaron R.": [
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "Knowledge of computer networking principles and programming. Open to holding office hours late.",
+          "crn": "5563",
+          "title": "Computer Networking",
+          "instructor": "Kraft, Aaron R.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 36
+        }
+      ]
+    },
+    "COMP 3703": {
+      "Lopez, Mario A.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "Very high commitment.  Agreed with the chair that will try to have recitation sections on Friday to make up lack of background. Requesting the equivalent of 1.5 full time GTAs to help out.",
+          "notes": "Most students are missing at least one of linear algebra, probability, calculus and many are missing two.",
+          "crn": "5176",
+          "title": "Topics-Artificial Intelligence",
+          "instructor": "Lopez, Mario A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 37
+        }
+      ]
+    },
+    "COMP 3705": {
+      "Edgington, Jeffrey M.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3956",
+          "title": "Rust-programming",
+          "instructor": "Edgington, Jeffrey M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 38
+        }
+      ]
+    },
+    "COMP 3721": {
+      "Anjum, Iffat": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "I estimate, on average, 4 hours of in-class time, 4 hours of office hours, and 6-8 hours grading, per week.",
+          "notes": "GTA should have preferably taken the course before with me and familiar with Security.",
+          "crn": "3161",
+          "title": "Computer Security",
+          "instructor": "Anjum, Iffat",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 39
+        }
+      ]
+    },
+    "COMP 3831": {
+      "Gansciu, Serban B.": [
+        {
+          "section": "2",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2972",
+          "title": "Game Prototyping",
+          "instructor": "Gansciu, Serban B.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 40
+        }
+      ]
+    },
+    "COMP 4334": {
+      "Daskevich": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "4734",
+          "title": "Parallel & Distrib Comp DSAI",
+          "instructor": "Daskevich",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 41
+        }
+      ]
+    },
+    "COMP 4432": {
+      "Sawle, Paul L.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2746",
+          "title": "Machine Learning",
+          "instructor": "Sawle, Paul L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 42
+        }
+      ]
+    },
+    "COMP 4450": {
+      "Rasool, Rahim": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5054",
+          "title": "Machine Learning Operations",
+          "instructor": "Rasool, Rahim",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 43
+        }
+      ]
+    },
+    "COMP 4531": {
+      "Dalton, Donald A.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "Grading weekly homework should take 2 hours per week",
+          "notes": "Needs to know Keras and tensorflow or pytorch or jax.",
+          "crn": "3398",
+          "title": "Deep Learning",
+          "instructor": "Dalton, Donald A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 44
+        }
+      ]
+    },
+    "COMP 4581": {
+      "Durso, Cathy": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "4 hours/week",
+          "notes": "requires Python, intro algorithms and data structures",
+          "crn": "3399",
+          "title": "Algorithms for DS & AI",
+          "instructor": "Durso, Cathy",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Fall 2025.xlsx",
+          "source_row": 45
+        }
+      ]
+    }
+  },
+  "Spring 2025": {
+    "1353": {
+      "Anjum, Iffat": [
+        {
+          "section": "6",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "10 hours/week",
+          "notes": "",
+          "crn": "3426",
+          "title": "Data Struct. & Algorithms I",
+          "instructor": "Anjum, Iffat",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Spring 2025.xlsx",
+          "source_row": 9
+        }
+      ]
+    },
+    "2370": {
+      "Stevens, Alexander L.": [
+        {
+          "section": "0",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "10 hours/week",
+          "notes": "",
+          "crn": "4778",
+          "title": "Data Struct. & Algorithms II",
+          "instructor": "Stevens, Alexander L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Spring 2025.xlsx",
+          "source_row": 13
+        }
+      ]
+    }
+  },
+  "Winter 2025": {
+    "COMP 1202": {
+      "Hannum, Andrew T.": [
+        {
+          "section": "2",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3323",
+          "title": "Intro. to Computer Science II",
+          "instructor": "Hannum, Andrew T.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 3
+        },
+        {
+          "section": "5",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3358",
+          "title": "Intro. to Computer Science II",
+          "instructor": "Hannum, Andrew T.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 5
+        }
+      ]
+    },
+    "COMP 1352": {
+      "Liu, Faan Tone": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "10",
+          "notes": "Super important: must be willing to grade assignments on time.",
+          "crn": "3333",
+          "title": "Introduction to Programming II",
+          "instructor": "Liu, Faan Tone",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 7
+        },
+        {
+          "section": "3",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "10",
+          "notes": "",
+          "crn": "3335",
+          "title": "Introduction to Programming II",
+          "instructor": "Liu, Faan Tone",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 8
+        }
+      ],
+      "Edgington, Jeffrey M.": [
+        {
+          "section": "4",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "10",
+          "notes": "",
+          "crn": "3336",
+          "title": "Introduction to Programming II",
+          "instructor": "Edgington, Jeffrey M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 9
+        }
+      ],
+      "Kraft, Aaron R.": [
+        {
+          "section": "5",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "10",
+          "notes": "",
+          "crn": "3337",
+          "title": "Introduction to Programming II",
+          "instructor": "Kraft, Aaron R.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 10
+        }
+      ]
+    },
+    "COMP 2300": {
+      "Stevens, Alexander L.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "Each week: 1 Hour in Class x2,  1.5 hours of Office Hours x2 grading, grading 3-5 hours",
+          "notes": "",
+          "crn": "4097",
+          "title": "Discrete Structures in CS",
+          "instructor": "Stevens, Alexander L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 11
+        }
+      ]
+    },
+    "COMP 2362": {
+      "Stevenson, Daniel E.": [
+        {
+          "section": "0",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "10",
+          "notes": "",
+          "crn": "5465",
+          "title": "Systems II",
+          "instructor": "Stevenson, Daniel E.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 12
+        }
+      ]
+    },
+    "COMP 2370": {
+      "AlBow, Mohammed M.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2195",
+          "title": "Data Struct. & Algorithms II",
+          "instructor": "AlBow, Mohammed M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 13
+        },
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2989",
+          "title": "Data Struct. & Algorithms II",
+          "instructor": "AlBow, Mohammed M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 14
+        }
+      ],
+      "Anjum, Iffat": [
+        {
+          "section": "3",
+          "office_hours": true,
+          "in_class": true,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "4347",
+          "title": "Data Struct. & Algorithms II",
+          "instructor": "Anjum, Iffat",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 15
+        }
+      ]
+    },
+    "COMP 2381": {
+      "Anjum, Iffat": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3954",
+          "title": "Object-Oriented Software Dev.",
+          "instructor": "Anjum, Iffat",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 16
+        }
+      ]
+    },
+    "COMP 2701": {
+      "Rutherford, Matthew J.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "4488",
+          "title": "Topics: Unix Command-Line Bootcamp",
+          "instructor": "Rutherford, Matthew J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 17
+        }
+      ]
+    },
+    "COMP 2821": {
+      "Edgington, Jeffrey M.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3370",
+          "title": "Introductory Game Design",
+          "instructor": "Edgington, Jeffrey M.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 18
+        }
+      ]
+    },
+    "COMP 3004": {
+      "Stevens, Alexander L.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3330",
+          "title": "Foundations in Discrete/Algo",
+          "instructor": "Stevens, Alexander L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 19
+        }
+      ]
+    },
+    "COMP 3005": {
+      "Gao, Sky T.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5156",
+          "title": "Foundation: Python Programming",
+          "instructor": "Gao, Sky T.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 20
+        }
+      ]
+    },
+    "COMP 3006": {
+      "Parada San Martin, Daniel A.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "5",
+          "notes": "",
+          "crn": "2713",
+          "title": "Python Software Development",
+          "instructor": "Parada San Martin, Daniel A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 21
+        }
+      ],
+      "Crutchfield-Todd, Dalton J.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2706",
+          "title": "Python Software Development",
+          "instructor": "Crutchfield-Todd, Dalton J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 22
+        }
+      ]
+    },
+    "COMP 3007": {
+      "Gerics, Brendt": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2707",
+          "title": "Foundations: DS Math I",
+          "instructor": "Gerics, Brendt",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 23
+        }
+      ]
+    },
+    "COMP 3008": {
+      "Kossek, Wojciech K.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2709",
+          "title": "Foundations: DS Math II",
+          "instructor": "Kossek, Wojciech K.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 24
+        }
+      ]
+    },
+    "COMP 3100": {
+      "Oleson, Alannah": [
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "Est weekly: Grading ~3-4hrs; OH 2hrs. May ask them to lead one class on their research area if applicable to HCI",
+          "notes": "Prefer some background in HCI or UX Design; Prefer experience w/ Figma",
+          "crn": "3387",
+          "title": "Human-Computer Interaction",
+          "instructor": "Oleson, Alannah",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 25
+        }
+      ]
+    },
+    "COMP 3200": {
+      "Lopez, Mario A.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "Heavy, both grading and office hours",
+          "notes": "Strong background in theory is a must",
+          "crn": "1352",
+          "title": "Discrete Structures",
+          "instructor": "Lopez, Mario A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 26
+        }
+      ]
+    },
+    "COMP 3381": {
+      "Rutherford, Matthew J.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "Medium; assignment grading is a bit of a pain and project might require some office hours help",
+          "notes": "Interest in software engineering / business is helpful.",
+          "crn": "3935",
+          "title": "Software Engineering I",
+          "instructor": "Rutherford, Matthew J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 27
+        }
+      ]
+    },
+    "COMP 3410": {
+      "Hannum, Andrew T.": [
+        {
+          "section": "0",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "",
+          "notes": "Anyone with web programming experience",
+          "crn": "5041",
+          "title": "World Wide Web Programming",
+          "instructor": "Hannum, Andrew T.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 28
+        }
+      ]
+    },
+    "COMP 3421": {
+      "Mashinchi, Navid": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5256",
+          "title": "Database Organization & Mgmt I",
+          "instructor": "Mashinchi, Navid",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 29
+        },
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2710",
+          "title": "Database Organization & Mgmt I",
+          "instructor": "Mashinchi, Navid",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 30
+        }
+      ]
+    },
+    "COMP 3591": {
+      "Lopez, Mario A.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "Heavy, both grading and office hours",
+          "notes": "Strong background in theory is a must",
+          "crn": "5158",
+          "title": "Computational Geometry",
+          "instructor": "Lopez, Mario A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 31
+        }
+      ]
+    },
+    "COMP 3705": {
+      "Haring, Kerstin S.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "medium",
+          "notes": "class has not been taught in a while, will require TA to do/learn on the spot, need for experienced, interdisciplinary TA",
+          "crn": "5164",
+          "title": "Topics- Robot Ethics",
+          "instructor": "Haring, Kerstin S.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 33
+        }
+      ],
+      "Dewri, Rinku": [
+        {
+          "section": "2",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "Heavy grading",
+          "notes": "Nidhi is the only graduate student who has taken this theory course before; course is cross listed",
+          "crn": "5226",
+          "title": "Topics- Secure Computation",
+          "instructor": "Dewri, Rinku",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 34
+        }
+      ]
+    },
+    "COMP 3731": {
+      "Nance, Kara L.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2294",
+          "title": "Computer Forensics",
+          "instructor": "Nance, Kara L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 35
+        }
+      ]
+    },
+    "COMP 3832": {
+      "Gansciu, Serban B.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2083",
+          "title": "Game Capstone I",
+          "instructor": "Gansciu, Serban B.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 37
+        }
+      ]
+    },
+    "COMP 4100": {
+      "Oleson, Alannah": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3327",
+          "title": "Human-Computer Interaction",
+          "instructor": "Oleson, Alannah",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 38
+        }
+      ]
+    },
+    "COMP 4334": {
+      "Kraft, Aaron R.": [
+        {
+          "section": "1",
+          "office_hours": true,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "10",
+          "notes": "If noone with previous experience, need solid python skills and basic knowledge of P/D",
+          "crn": "3950",
+          "title": "Parallel & Distrib Comp for DS",
+          "instructor": "Kraft, Aaron R.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 39
+        }
+      ],
+      "Daskevich, Ronald J.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2980",
+          "title": "Parallel & Distrib Comp for DS",
+          "instructor": "Daskevich, Ronald J.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 40
+        }
+      ]
+    },
+    "COMP 4432": {
+      "Sawle, Paul L.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3964",
+          "title": "Machine Learning",
+          "instructor": "Sawle, Paul L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 41
+        },
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2981",
+          "title": "Machine Learning",
+          "instructor": "Sawle, Paul L.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 42
+        }
+      ]
+    },
+    "COMP 4433": {
+      "Siebrase, Benjamin E.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2982",
+          "title": "Data Visualization",
+          "instructor": "Siebrase, Benjamin E.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 43
+        }
+      ]
+    },
+    "COMP 4441": {
+      "Durso, Catherine S.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2298",
+          "title": "Probability and Statistics 1",
+          "instructor": "Durso, Catherine S.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 44
+        }
+      ],
+      "Vered, Michelle N.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2711",
+          "title": "Probability and Statistics 1",
+          "instructor": "Vered, Michelle N.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 45
+        }
+      ]
+    },
+    "COMP 4442": {
+      "Chan, Julian D.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "One homework set a week with instructions. It is hard to say the exact amount of time but the difficulty level is low.",
+          "notes": "Grading support is preffered but not essential.",
+          "crn": "2983",
+          "title": "Probability and Statistics 2",
+          "instructor": "Chan, Julian D.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 46
+        }
+      ]
+    },
+    "COMP 4447": {
+      "Rasool, Rahim": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "2714",
+          "title": "Data Science Tools 1",
+          "instructor": "Rasool, Rahim",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 47
+        }
+      ]
+    },
+    "COMP 4448": {
+      "Rasool, Rahim": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "3965",
+          "title": "Data Science Tools 2",
+          "instructor": "Rasool, Rahim",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 48
+        }
+      ],
+      "Parada San Martin, Daniel A.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "5",
+          "notes": "",
+          "crn": "2984",
+          "title": "Data Science Tools 2",
+          "instructor": "Parada San Martin, Daniel A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 49
+        }
+      ]
+    },
+    "COMP 4449": {
+      "Dalton, Donald A.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "really, really  low",
+          "notes": "One student so I am obviously not goign to get a TA",
+          "crn": "2985",
+          "title": "Data Science Capstone",
+          "instructor": "Dalton, Donald A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 50
+        }
+      ]
+    },
+    "COMP 4531": {
+      "Dalton, Donald A.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": true,
+          "time_commitment": "weekly assignments that don't take that long to grade",
+          "notes": "",
+          "crn": "3967",
+          "title": "Deep Learning",
+          "instructor": "Dalton, Donald A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 51
+        }
+      ]
+    },
+    "COMP 4581": {
+      "Kossek, Wojciech K.": [
+        {
+          "section": "101",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "2 to 3 hours per week",
+          "notes": "Some grading support is welcome albeit not essential.",
+          "crn": "2712",
+          "title": "Algorithms for Data Science",
+          "instructor": "Kossek, Wojciech K.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 52
+        }
+      ]
+    },
+    "COMP 4591": {
+      "Lopez, Mario A.": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5159",
+          "title": "Computational Geometry",
+          "instructor": "Lopez, Mario A.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 53
+        }
+      ]
+    },
+    "COMP 4704": {
+      "Dewri, Rinku": [
+        {
+          "section": "1",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5160",
+          "title": "Topics- Secure Computation",
+          "instructor": "Dewri, Rinku",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 54
+        }
+      ]
+    },
+    "COMP 4705": {
+      "Haring, Kerstin S.": [
+        {
+          "section": "2",
+          "office_hours": false,
+          "in_class": false,
+          "grading": false,
+          "time_commitment": "",
+          "notes": "",
+          "crn": "5208",
+          "title": "Topics- Robot Ethics",
+          "instructor": "Haring, Kerstin S.",
+          "listed_instructor": "",
+          "updated_instructor": "",
+          "source_file": "Faculty GTA Survey Winter 2025.xlsx",
+          "source_row": 55
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,646 @@
+{
+  "COMP 1101": {
+    "Analytical Inquiry I": [
+      "Gao, Sky T.",
+      "Stevens, Alexander L."
+    ]
+  },
+  "COMP 1201": {
+    "Intro. to Computer Science I": [
+      "Hannum, Andrew T.",
+      "Hutt, Stephen J.",
+      "Oleson, Alannah",
+      "Shrestha, Sunny"
+    ]
+  },
+  "COMP 1202": {
+    "Intro. to Computer Science II": [
+      "Hannum, Andrew T.",
+      "Leutenegger, Scott T."
+    ]
+  },
+  "COMP 1203": {
+    "Intro. to Computer Science III": [
+      "Anjum, Iffat",
+      "Das, Sanchari",
+      "Hannum, Andrew T.",
+      "Oleson, Alannah"
+    ]
+  },
+  "COMP 1351": {
+    "Introduction to Programming I": [
+      "Albow, Mohammed M.",
+      "Anjum, Iffat",
+      "Edgington, Jeffrey M.",
+      "Gao, Sky T.",
+      "GauthierDickey, Christopher J.",
+      "Hannum, Andrew T.",
+      "Hossain, Ismail",
+      "Hutt, Stephen J.",
+      "Malaver Alvarado, Juan A.",
+      "Stevens, Alexander L.",
+      "Taami, Tania"
+    ]
+  },
+  "COMP 1352": {
+    "Introduction to Programming II": [
+      "Anjum, Iffat",
+      "Edgington, Jeffrey M.",
+      "Hannum, Andrew T.",
+      "Hossain, Ismail",
+      "Kraft, Aaron R.",
+      "Liu, Faan Tone",
+      "Stevens, Alexander L."
+    ]
+  },
+  "COMP 1353": {
+    "Data Struct. & Algorithms I": [
+      "Albow, Mohammed M.",
+      "Anjum, Iffat",
+      "Edgington, Jeffrey M.",
+      "Hannum, Andrew T.",
+      "Hossain, Ismail",
+      "Liu, Faan Tone",
+      "Stevens, Alexander L."
+    ]
+  },
+  "COMP 2300": {
+    "Discrete Structures in CS": [
+      "Liu, Faan Tone",
+      "Stevens, Alexander L."
+    ]
+  },
+  "COMP 2361": {
+    "Systems I": [
+      "Albow, Mohammed M.",
+      "Anjum, Iffat",
+      "Stevenson, Daniel E."
+    ]
+  },
+  "COMP 2362": {
+    "Systems II": [
+      "Stevenson, Daniel E."
+    ]
+  },
+  "COMP 2370": {
+    "Data Struct. & Algorithms II": [
+      "Albow, Mohammed M.",
+      "Anjum, Iffat",
+      "Hossain, Ismail",
+      "Stevens, Alexander L."
+    ]
+  },
+  "COMP 2381": {
+    "Object-Oriented Software Dev.": [
+      "Anjum, Iffat",
+      "Rutherford, Matthew J.",
+      "Taami, Tania"
+    ]
+  },
+  "COMP 2701": {
+    "Topics in Computer Science": [
+      "Albow, Mohammed M.",
+      "Rutherford, Matthew J."
+    ]
+  },
+  "COMP 2821": {
+    "Introductory Game Design": [
+      "Edgington, Jeffrey M."
+    ]
+  },
+  "COMP 3003": {
+    "Foundations in Comp. Systems": [
+      "Evans, Nathan S."
+    ]
+  },
+  "COMP 3004": {
+    "Foundations in Discrete/Algo": [
+      "Stevens, Alexander L."
+    ]
+  },
+  "COMP 3005": {
+    "Foundation: Python Programming": [
+      "Connin, Sean L.",
+      "Gao, Sky T.",
+      "Hamed, Ahmed Abdeen",
+      "Kraft, Aaron R."
+    ]
+  },
+  "COMP 3006": {
+    "Python Software Development": [
+      "Connin, Sean L.",
+      "Crutchfield-Todd, Dalton J.",
+      "Hamed, Ahmed Abdeen",
+      "Parada San Martin, Daniel A."
+    ]
+  },
+  "COMP 3007": {
+    "Foundations: DS Math I": [
+      "Gerics, Brendt",
+      "Kossek, Wojciech K."
+    ]
+  },
+  "COMP 3008": {
+    "Foundations: DS Math II": [
+      "Durso, Catherine S.",
+      "Gerics, Brendt",
+      "Kossek, Wojciech K."
+    ]
+  },
+  "COMP 3009": {
+    "Applied Math for DS and AI": [
+      "Hamed, Ahmed Abdeen",
+      "Kossek, Wojciech K.",
+      "Sawle, Paul L."
+    ]
+  },
+  "COMP 3100": {
+    "Human-Computer Interaction": [
+      "Haring, Kerstin S.",
+      "Oleson, Alannah"
+    ]
+  },
+  "COMP 3200": {
+    "Discrete Structures": [
+      "Lopez, Mario A."
+    ]
+  },
+  "COMP 3334": {
+    "Parallel & Distrib Comp DSAI": [
+      "Kraft, Aaron R."
+    ]
+  },
+  "COMP 3351": {
+    "Programming Languages": [
+      "Edgington, Jeffrey M."
+    ]
+  },
+  "COMP 3352": {
+    "Elements of Compiler Design": [
+      "Anjum, Iffat"
+    ]
+  },
+  "COMP 3356": {
+    "Introductory C/C++ Programming": [
+      "Kraft, Aaron R.",
+      "Petrehn, Sydney M."
+    ]
+  },
+  "COMP 3361": {
+    "Operating Systems I": [
+      "Dewri, Rinku"
+    ]
+  },
+  "COMP 3371": {
+    "Data Structures &  Algorithms": [
+      "Lopez, Mario A."
+    ]
+  },
+  "COMP 3372": {
+    "Advanced Algorithms": [
+      "Lopez, Mario A."
+    ]
+  },
+  "COMP 3381": {
+    "Software Engineering I": [
+      "Rutherford, Matthew J."
+    ]
+  },
+  "COMP 3382": {
+    "Software Engineering II": [
+      "Rutherford, Matthew J."
+    ]
+  },
+  "COMP 3410": {
+    "Web Programming I": [
+      "Hannum, Andrew T."
+    ],
+    "World Wide Web Programming": [
+      "Hannum, Andrew T."
+    ]
+  },
+  "COMP 3411": {
+    "Web Programming II": [
+      "Hannum, Andrew T.",
+      "Kraft, Aaron R."
+    ]
+  },
+  "COMP 3421": {
+    "Database Organization & Mgmt I": [
+      "Dalton, Donald A.",
+      "Mashinchi, Navid"
+    ]
+  },
+  "COMP 3432": {
+    "Machine Learning": [
+      "Conway, Maxwell L."
+    ]
+  },
+  "COMP 3433": {
+    "Data Visualization": [
+      "Siebrase, Benjamin E."
+    ]
+  },
+  "COMP 3441": {
+    "Probability and Statistics 1": [
+      "Durso, Catherine S."
+    ]
+  },
+  "COMP 3490": {
+    "Understanding AI": [
+      "Kossek, Wojciech K.",
+      "Xie, Benjamin X."
+    ]
+  },
+  "COMP 3501": {
+    "Intro Artificial Intelligence": [
+      "Hutt, Stephen J.",
+      "Kraft, Aaron R."
+    ]
+  },
+  "COMP 3510": {
+    "Software for AI Robotics": [
+      "Reardon, Christopher M."
+    ]
+  },
+  "COMP 3525": {
+    "Human Centered AI": [
+      "Hutt, Stephen J."
+    ]
+  },
+  "COMP 3591": {
+    "Computational Geometry": [
+      "Lopez, Mario A."
+    ]
+  },
+  "COMP 3621": {
+    "Computer Networking": [
+      "Kraft, Aaron R."
+    ]
+  },
+  "COMP 3701": {
+    "Topics in Computer Graphics": [
+      "Leutenegger, Scott T."
+    ]
+  },
+  "COMP 3703": {
+    "Topics-Artificial Intelligence": [
+      "GauthierDickey, Christopher J.",
+      "Hutt, Stephen J.",
+      "Lopez, Mario A.",
+      "Petrehn, Sydney M."
+    ]
+  },
+  "COMP 3704": {
+    "Advanced Topics: Systems": [
+      "Anjum, Iffat",
+      "Hannum, Andrew T.",
+      "Nance, Kara L.",
+      "Rutherford, Matthew J."
+    ]
+  },
+  "COMP 3705": {
+    "Topics in Computer Science": [
+      "Dewri, Rinku",
+      "Durso, Catherine S.",
+      "Edgington, Jeffrey M.",
+      "Hamed, Ahmed Abdeen",
+      "Haring, Kerstin S.",
+      "Hollenbach, Katherine",
+      "Liu, Faan Tone",
+      "Oleson, Alannah",
+      "Rutherford, Matthew J.",
+      "Taami, Tania"
+    ]
+  },
+  "COMP 3721": {
+    "Computer Security": [
+      "Anjum, Iffat"
+    ]
+  },
+  "COMP 3722": {
+    "Network Security": [
+      "Dewri, Rinku"
+    ]
+  },
+  "COMP 3723": {
+    "Ethical Hacking": [
+      "Evans, Nathan S."
+    ]
+  },
+  "COMP 3731": {
+    "Computer Forensics": [
+      "Nance, Kara L."
+    ]
+  },
+  "COMP 3732": {
+    "Human-Centered Data Sec & Priv": [
+      "Das, Sanchari"
+    ]
+  },
+  "COMP 3801": {
+    "Introduction Computer Graphics": [
+      "Kraft, Aaron R."
+    ]
+  },
+  "COMP 3820": {
+    "Intro to Game Programming": [
+      "Dunagan, Ryan A."
+    ]
+  },
+  "COMP 3821": {
+    "Game Programming I": [
+      "Dunagan, Ryan A.",
+      "GauthierDickey, Christopher J."
+    ]
+  },
+  "COMP 3822": {
+    "Game Programming II": [
+      "Dunagan, Ryan A."
+    ]
+  },
+  "COMP 3831": {
+    "Game Prototyping": [
+      "Gansciu, Serban B."
+    ]
+  },
+  "COMP 3832": {
+    "Game Capstone I": [
+      "Gansciu, Serban B."
+    ]
+  },
+  "COMP 3833": {
+    "Game Capstone II": [
+      "Gansciu, Serban B."
+    ]
+  },
+  "COMP 3904": {
+    "Internship/Co-Op in Computing": [
+      "Albow, Mohammed M.",
+      "Connin, Sean L.",
+      "Das, Sanchari",
+      "Dewri, Rinku",
+      "Durso, Catherine S.",
+      "Edgington, Jeffrey M.",
+      "Evans, Nathan S.",
+      "GauthierDickey, Christopher J.",
+      "Haring, Kerstin S.",
+      "Hutt, Stephen J.",
+      "Kossek, Wojciech K.",
+      "Leutenegger, Scott T.",
+      "Liu, Faan Tone",
+      "Lopez, Mario A.",
+      "Rutherford, Matthew J.",
+      "Sawle, Paul L.",
+      "Stevens, Alexander L.",
+      "Stevenson, Daniel E."
+    ]
+  },
+  "COMP 3991": {
+    "IS: Online Sexual Health Ed.": [
+      "Hannum, Andrew T."
+    ],
+    "Introduction to Rust": [
+      "GauthierDickey, Christopher J."
+    ],
+    "Web2App:MobileDev": [
+      "Haring, Kerstin S."
+    ]
+  },
+  "COMP 3995": {
+    "Independent Research": [
+      "Albow, Mohammed M.",
+      "Dunagan, Ryan A.",
+      "GauthierDickey, Christopher J.",
+      "Mahoor, Mohammad H.",
+      "Oleson, Alannah",
+      "Stevens, Alexander L.",
+      "Sun, Dali"
+    ]
+  },
+  "COMP 4100": {
+    "Human-Computer Interaction": [
+      "Haring, Kerstin S.",
+      "Oleson, Alannah"
+    ]
+  },
+  "COMP 4334": {
+    "Parallel & Distrib Comp DSAI": [
+      "Daskevich, Ronald J.",
+      "Kraft, Aaron R.",
+      "Mashinchi, Navid"
+    ],
+    "Parallel & Distrib Comp for DS": [
+      "Daskevich, Ronald J.",
+      "Kraft, Aaron R."
+    ]
+  },
+  "COMP 4372": {
+    "Advanced Algorithms": [
+      "Lopez, Mario A."
+    ]
+  },
+  "COMP 4384": {
+    "Secure Software Engineering": [
+      "Anjum, Iffat"
+    ]
+  },
+  "COMP 4401": {
+    "Python for Data Science": [
+      "Connin, Sean L.",
+      "Kossek, Wojciech K."
+    ]
+  },
+  "COMP 4432": {
+    "Machine Learning": [
+      "Dalton, Donald A.",
+      "Sawle, Paul L."
+    ]
+  },
+  "COMP 4433": {
+    "Data Visualization": [
+      "Kossek, Wojciech K.",
+      "Parada San Martin, Daniel A.",
+      "Siebrase, Benjamin E."
+    ]
+  },
+  "COMP 4441": {
+    "Probability and Statistics 1": [
+      "Chan, Julian D.",
+      "Durso, Catherine S.",
+      "Vered, Michelle N."
+    ]
+  },
+  "COMP 4442": {
+    "Probability and Statistics 2": [
+      "Chan, Julian D.",
+      "Christensen, Wendy N.",
+      "Durso, Catherine S."
+    ]
+  },
+  "COMP 4447": {
+    "Data Science Tools 1": [
+      "Dalton, Donald A.",
+      "Kossek, Wojciech K.",
+      "Parada San Martin, Daniel A.",
+      "Rasool, Rahim"
+    ]
+  },
+  "COMP 4448": {
+    "Data Science Tools 2": [
+      "Dalton, Donald A.",
+      "Parada San Martin, Daniel A.",
+      "Rasool, Rahim",
+      "Sawle, Paul L."
+    ]
+  },
+  "COMP 4449": {
+    "DS & AI Capstone": [
+      "Rasool, Rahim"
+    ],
+    "Data Science Capstone": [
+      "Connin, Sean L.",
+      "Dalton, Donald A.",
+      "Nfonsang, Neba A.",
+      "Rasool, Rahim",
+      "Sawle, Paul L."
+    ]
+  },
+  "COMP 4450": {
+    "Machine Learning Operations": [
+      "Rasool, Rahim"
+    ]
+  },
+  "COMP 4455": {
+    "Shell Scripting & Sys Tools": [
+      "Evans, Nathan S."
+    ]
+  },
+  "COMP 4490": {
+    "Understanding AI": [
+      "Kossek, Wojciech K.",
+      "Xie, Benjamin X."
+    ]
+  },
+  "COMP 4501": {
+    "Introduction to AI": [
+      "Hutt, Stephen J.",
+      "Kraft, Aaron R."
+    ]
+  },
+  "COMP 4510": {
+    "Software for AI Robotics": [
+      "Reardon, Christopher M."
+    ]
+  },
+  "COMP 4520": {
+    "Advanced Machine Learning": [
+      "Mahoor, Mohammad H."
+    ]
+  },
+  "COMP 4525": {
+    "Adv. Human Centered AI": [
+      "Hutt, Stephen J."
+    ]
+  },
+  "COMP 4531": {
+    "Deep Learning": [
+      "Dalton, Donald A.",
+      "Li, William Y."
+    ]
+  },
+  "COMP 4581": {
+    "Algorithms for DS & AI": [
+      "Durso, Catherine S.",
+      "Kossek, Wojciech K."
+    ],
+    "Algorithms for Data Science&AI": [
+      "Kossek, Wojciech K.",
+      "Parada San Martin, Daniel A."
+    ]
+  },
+  "COMP 4591": {
+    "Computational Geometry": [
+      "Lopez, Mario A."
+    ]
+  },
+  "COMP 4621": {
+    "Computer Networking": [
+      "Kraft, Aaron R."
+    ]
+  },
+  "COMP 4703": {
+    "Adv Topics-Artificial Intell": [
+      "GauthierDickey, Christopher J.",
+      "Hutt, Stephen J.",
+      "Lopez, Mario A.",
+      "Petrehn, Sydney M."
+    ]
+  },
+  "COMP 4704": {
+    "Advanced Topics-Systems": [
+      "Dewri, Rinku",
+      "Hannum, Andrew T.",
+      "Nance, Kara L."
+    ]
+  },
+  "COMP 4705": {
+    "Advanced Topics-Programming": [
+      "Dewri, Rinku",
+      "Durso, Catherine S.",
+      "Edgington, Jeffrey M.",
+      "Hamed, Ahmed Abdeen",
+      "Haring, Kerstin S.",
+      "Liu, Faan Tone",
+      "Rasool, Rahim"
+    ]
+  },
+  "COMP 4721": {
+    "Computer Security": [
+      "Anjum, Iffat"
+    ]
+  },
+  "COMP 4722": {
+    "Network Security": [
+      "Dewri, Rinku"
+    ]
+  },
+  "COMP 4723": {
+    "Ethical Hacking": [
+      "Evans, Nathan S."
+    ]
+  },
+  "COMP 4732": {
+    "Human-Centered Data Sec & Priv": [
+      "Das, Sanchari"
+    ]
+  },
+  "COMP 4799": {
+    "Cybersecurity Capstone": [
+      "Evans, Nathan S.",
+      "GauthierDickey, Christopher J."
+    ]
+  },
+  "COMP 4995": {
+    "Independent Research": [
+      "Das, Sanchari",
+      "Dewri, Rinku",
+      "GauthierDickey, Christopher J.",
+      "Haring, Kerstin S.",
+      "Hutt, Stephen J.",
+      "Lopez, Mario A.",
+      "Mahoor, Mohammad H.",
+      "Nance, Kara L.",
+      "Reardon, Christopher M.",
+      "Xie, Benjamin X."
+    ]
+  },
+  "COMP 5995": {
+    "Independent Research": [
+      "Albow, Mohammed M.",
+      "Lopez, Mario A.",
+      "Mahoor, Mohammad H.",
+      "Rutherford, Matthew J."
+    ]
+  }
+}

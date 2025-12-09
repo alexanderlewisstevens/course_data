@@ -41,6 +41,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -89,6 +90,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -137,6 +139,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -185,6 +188,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -233,6 +237,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -281,6 +286,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -329,6 +335,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -377,6 +384,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -425,6 +433,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -473,6 +482,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -518,6 +528,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 50,
@@ -565,6 +576,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -612,6 +624,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -659,6 +672,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -707,6 +721,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -755,6 +770,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 36,
@@ -803,6 +819,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -851,6 +868,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 32,
@@ -899,6 +917,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -947,6 +966,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -995,6 +1015,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -1042,6 +1063,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -1090,6 +1112,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -1138,6 +1161,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 22,
@@ -1186,6 +1210,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -1234,6 +1259,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 28,
@@ -1282,6 +1308,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -1330,6 +1357,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -1378,6 +1406,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "4527",
     "lower-crosslist": true,
     "total_seats": 25,
@@ -1426,6 +1455,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "2120",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -1474,6 +1504,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "2799",
     "lower-crosslist": true,
     "total_seats": 46,
@@ -1522,6 +1553,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -1570,6 +1602,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -1617,6 +1650,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 10,
@@ -1662,6 +1696,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -1707,6 +1742,7 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -1752,6 +1788,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -1797,6 +1834,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 10,
@@ -1842,6 +1880,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 1,
@@ -1887,6 +1926,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -1932,6 +1972,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 1,
@@ -1977,6 +2018,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 15,
@@ -2022,6 +2064,7 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -2069,6 +2112,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2117,6 +2161,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 24,
@@ -2164,6 +2209,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2212,6 +2258,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -2259,6 +2306,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2306,6 +2354,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2354,6 +2403,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -2401,6 +2451,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2448,6 +2499,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2495,6 +2547,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2543,6 +2596,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2590,6 +2644,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2638,6 +2693,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 30,
@@ -2685,6 +2741,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2732,6 +2789,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2780,6 +2838,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -2828,6 +2887,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 20,
@@ -2876,6 +2936,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 10,
@@ -2924,6 +2985,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 8,
@@ -2972,6 +3034,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "4517",
     "lower-crosslist": false,
     "total_seats": 25,
@@ -3017,6 +3080,7 @@
         "end": ""
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -3065,6 +3129,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "2252",
     "lower-crosslist": false,
     "total_seats": 30,
@@ -3113,6 +3178,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "2805",
     "lower-crosslist": false,
     "total_seats": 46,
@@ -3158,6 +3224,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": true,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 2,
@@ -3203,6 +3270,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -3248,6 +3316,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -3293,6 +3362,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,
@@ -3338,6 +3408,7 @@
         "end": "2026-06-11"
       }
     },
+    "gta_eligible": false,
     "crosslist": "",
     "lower-crosslist": true,
     "total_seats": 0,

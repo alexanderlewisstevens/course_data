@@ -7,6 +7,7 @@ Rules:
 - lower-crosslist: True if this course has the lowest course number within its crosslist group (or if it has no crosslist siblings).
 - total_enrollment / total_seats: sums across a crosslisted group (otherwise the course's own values).
 - conflicts: comma-separated CRNs of other courses (same term) with identical time and days, excluding itself and its crosslist siblings.
+- gta_eligible: True if seats > 0 and course_type indicates a lecture, lab, or online/distance format.
 
 Usage:
     python scripts/process_courses.py data/course_COMP_202610.json data/course_COMP_202630.json --outdir data/processed --combine data/processed/course_all_processed.json
@@ -15,6 +16,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 import pathlib
 import re
@@ -85,6 +87,109 @@ def _parse_date_range(date_str: str) -> tuple[str, str] | None:
         return None
 
 
+def _is_gta_eligible(row: Dict) -> bool:
+    seats = _to_int(row.get("seats", 0))
+    if seats <= 0:
+        return False
+    ctype = (row.get("course_type") or "").lower()
+    return any(
+        token in ctype
+        for token in [
+            "lecture",
+            "lab",
+            "online",
+            "distance",
+        ]
+    )
+
+
+def _section_sort_key(section: str) -> tuple[int, object]:
+    section = (section or "").strip()
+    if section.isdigit():
+        return (0, int(section))
+    return (1, section)
+
+
+def _gta_sort_key(row: Dict) -> tuple[object, object, str]:
+    num = _course_number(row)
+    section_key = _section_sort_key(row.get("section", ""))
+    crn = (row.get("crn") or "").strip()
+    return (num if num is not None else 10**9, section_key, crn)
+
+
+def _row_sort_key(row: Dict) -> tuple[object, object, object, str]:
+    term = (row.get("term") or "").strip()
+    num = _course_number(row)
+    section_key = _section_sort_key(row.get("section", ""))
+    crn = (row.get("crn") or "").strip()
+    return (term, num if num is not None else 10**9, section_key, crn)
+
+
+def write_gta_compatibility_matrix(term: str, rows: List[Dict], outdir: pathlib.Path) -> pathlib.Path | None:
+    eligible = [r for r in rows if r.get("gta_eligible") and r.get("crn")]
+    if not eligible:
+        return None
+
+    sorted_rows = sorted(eligible, key=_gta_sort_key)
+    crns = [(r.get("crn") or "").strip() for r in sorted_rows]
+    conflict_map = {
+        (r.get("crn") or "").strip(): set(c for c in (r.get("conflicts", "") or "").split(",") if c)
+        for r in sorted_rows
+    }
+
+    dest = outdir / f"gta_compatibility_term_{term}.csv"
+    with dest.open("w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["CRN"] + crns)
+        for row_crn in crns:
+            conflicts = conflict_map.get(row_crn, set())
+            row_values = [row_crn]
+            for col_crn in crns:
+                if row_crn == col_crn:
+                    row_values.append("TRUE")
+                else:
+                    row_values.append("FALSE" if col_crn in conflicts else "TRUE")
+            writer.writerow(row_values)
+    return dest
+
+
+def write_gta_subset(term: str, rows: List[Dict], outdir: pathlib.Path) -> pathlib.Path | None:
+    """Write GTA-eligible rows with a minimal field set."""
+    eligible = [r for r in rows if r.get("gta_eligible") and r.get("crn")]
+    if not eligible:
+        return None
+
+    payload = []
+    for r in eligible:
+        enrolled = _to_int(r.get("enrolled", 0))
+        total_enr = r.get("total_enrollment", 0)
+        crosslist_enr = max(_to_int(total_enr) - enrolled, 0)
+        # Preserve field order in construction
+        payload.append(
+            {
+                "crn": (r.get("crn") or "").strip(),
+                "course": r.get("course", ""),
+                "section": r.get("section", ""),
+                "title": r.get("title", ""),
+                "course_type": r.get("course_type", ""),
+                "meeting_dates": r.get("meeting_dates", ""),
+                "time": r.get("time", ""),
+                "days": r.get("days", ""),
+                "hours": r.get("hours", ""),
+                "room": r.get("room", ""),
+                "instructor": r.get("instructor", ""),
+                "seats": _to_int(r.get("seats", 0)),
+                "enrolled": enrolled,
+                "crosslisted_enrollment": crosslist_enr,
+                "total_enrollment": _to_int(total_enr),
+            }
+        )
+
+    dest = outdir / f"gta_eligible_term_{term}.json"
+    dest.write_text(json.dumps(payload, indent=2))
+    return dest
+
+
 def process_rows(rows: List[Dict]) -> List[Dict]:
     # Normalize times, days, dates for each row (nested under "normalized")
     for row in rows:
@@ -108,6 +213,7 @@ def process_rows(rows: List[Dict]) -> List[Dict]:
             },
         }
         row["normalized"] = normalized
+        row["gta_eligible"] = _is_gta_eligible(row)
 
     # Group by (term, time, days, instructor) within the same term for crosslisting
     xlist_groups = {}
@@ -176,10 +282,10 @@ def process_rows(rows: List[Dict]) -> List[Dict]:
 
     for term, term_rows in term_records.items():
         parsed = []
-    for r in term_rows:
-        trange = _parse_time_range(r.get("time", ""))
-        days = _parse_days(r.get("days", ""))
-        parsed.append((r, trange, set(days)))
+        for r in term_rows:
+            trange = _parse_time_range(r.get("time", ""))
+            days = _parse_days(r.get("days", ""))
+            parsed.append((r, trange, set(days)))
         conflict_sets = {id(r): set() for r, _, _ in parsed}
         n = len(parsed)
         for i in range(n):
@@ -210,6 +316,9 @@ def process_rows(rows: List[Dict]) -> List[Dict]:
     # Ensure conflicts exists for all
     for row in rows:
         row.setdefault("conflicts", "")
+
+    # Sort rows consistently: term, course number, section, CRN
+    rows.sort(key=_row_sort_key)
 
     return rows
 
@@ -245,6 +354,12 @@ def main() -> None:
         term_path = outdir / f"term_{term}_processed.json"
         term_path.write_text(json.dumps(rows, indent=2))
         print(f"Wrote term-processed file: {term_path} ({len(rows)} rows)")
+        matrix_path = write_gta_compatibility_matrix(term, rows, outdir)
+        if matrix_path:
+            print(f"Wrote GTA compatibility matrix: {matrix_path}")
+        subset_path = write_gta_subset(term, rows, outdir)
+        if subset_path:
+            print(f"Wrote GTA-eligible subset: {subset_path}")
 
     if args.combine:
         combined_path = pathlib.Path(args.combine)
