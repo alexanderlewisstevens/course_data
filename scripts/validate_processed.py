@@ -97,11 +97,11 @@ def validate_crosslist(rows: List[Dict]) -> List[str]:
                 errors.append(f"total_seats mismatch for {crn}: {g.get('total_seats')} != {total_seats}")
             if g.get("total_enrollment") != total_enr:
                 errors.append(f"total_enrollment mismatch for {crn}: {g.get('total_enrollment')} != {total_enr}")
-            ln = g.get("lower-crosslist")
+            ln = g.get("lower_crosslist")
             num = _course_number(g)
             expected_lower = True if (min_num is None or (num is not None and num == min_num)) else False
             if ln != expected_lower:
-                errors.append(f"lower-crosslist mismatch for {crn}: {ln} != {expected_lower}")
+                errors.append(f"lower_crosslist mismatch for {crn}: {ln} != {expected_lower}")
     return errors
 
 

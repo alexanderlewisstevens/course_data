@@ -20,3 +20,17 @@ If you prefer to paste a query:
 ## Updating the source later
 - Rebuild `Master_All_Terms.xlsx` with `python scripts/build_master_all_terms.py` after refreshing processed data.
 - Re-upload/overwrite the file in SharePoint; PQ connections will continue to work if the path stays the same.
+
+## Where to store Power Query (.m) scripts
+
+Keep the `.m` files in one predictable spot so they are easy to find and audit. Suggested layout:
+
+```
+power_query/
+  master_all_terms.m   // Base query for Master_All_Terms.xlsx; source: data/processed/course_all_processed.json
+  course_all_raw.m     // Raw course_all.json (if you need unprocessed data)
+```
+
+Tips:
+- Name each `.m` after the workbook/tab it feeds and include a comment at the top with the source URL (raw GitHub or SharePoint).
+- For multi-sheet workbooks like `Master_All_Terms.xlsx`, keep one base query (e.g., `AllGTA`) and create reference queries per term to fan out to sheets.

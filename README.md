@@ -3,15 +3,23 @@
 Minimal scraper for the DU “Course Offerings Search” legacy site. It POSTs the same forms as the browser, parses the course table, and writes CSV + JSON.
 
 - Source: https://apps25.du.edu:8446/mdb/pducrs.p_duSlctCrsOff
-- Frequency: GitHub Actions runs twice daily (02:00 / 14:00 UTC) via `.github/workflows/scrape.yml`
-- Outputs: per-term CSV/JSON in `data/` (e.g., `course_COMP_202610.csv/.json`) and a combined JSON `data/json/course_all.json`
-- Processed outputs: `data/processed/` includes enriched JSON (crosslist metadata, group totals) and `data/processed/course_all_processed.json`.
-  - Crosslist criteria: same term AND identical time, days, and instructor (all non-empty). `crosslist` lists sibling CRNs; `total_seats`/`total_enrollment` sum the group; `lower-crosslist` is true for the lowest course number in the group (or if no siblings). `conflicts` lists other CRNs in the same term/time/days, excluding the course itself and its crosslist siblings.
-  - Per-term processed: `data/processed/term_<term>_processed.json` (e.g., `term_202610_processed.json`, `term_202630_processed.json`)
-  - Normalized time/day/date are nested under `normalized`: `time.start_24`/`end_24` and minutes, `days.list`/`canonical`, `dates.start`/`end` (ISO).
-  - GTA compatibility matrices: `data/processed/gta_compatibility_term_<term>.csv` list GTA-eligible CRNs as both rows and columns (sorted by course number then section); cells are `TRUE` when the two sections do not time-conflict and `FALSE` when they overlap.
-  - Processed JSON rows are sorted by term, then course number, then section/CRN for consistent ordering across files.
-  - GTA-only subset JSON: `data/processed/gta_eligible_term_<term>.json` contains GTA-eligible sections with a trimmed field set useful for Power Query (CRN, course/section/title/type, meeting info, room/instructor, seats/enrollment, crosslisted/total enrollment).
+- Frequency: GitHub Actions runs twice daily (02:00 / 14:00 UTC) via `.github/workflows/scrape.yml`.
+- Outputs: per-term CSV/JSON in `data/raw/` (e.g., `course_COMP_202610.csv/.json`) and a combined raw JSON `data/json/course_all.json`.
+- Processed outputs: `data/processed/course_all_processed.json` (master). Enrichments include:
+  - Crosslists: same term AND identical time/days/instructor. Fields: `crosslist` (siblings), `crosslisted_crn` (self + siblings), `crosslisted_enrollment`, `total_enrollment`, `total_seats`, `lower_crosslist`.
+  - Conflicts: `conflicts` lists same-term CRNs with overlapping time windows and days (excluding crosslist siblings).
+  - GTA flag: `gta_eligible` is true when seats > 0 and course_type contains lecture/lab/online/distance.
+  - Time/day helpers: flattened `time_start_24`/`time_end_24`, `time_start_minutes`/`time_end_minutes`, `days_canonical`/`days_list`, `date_start`/`date_end`, plus the nested `normalized` block.
+  - Rows are sorted by term, then course number, then section/CRN for consistency.
+
+Project layout (lean):
+- `data/raw/`: per-term scrapes.
+- `data/json/`: combined raw (`course_all.json`, optional).
+- `data/processed/`: `course_all_processed.json` (master feed), `course_instructor_history.json`, `course_title_instructors.json`.
+- `data/history/`: instructor survey inputs (`excel/`), templates (`templates/`), consolidated `instructor_history.json`.
+- `data/exports/`: `Master_All_Terms.xlsx` (optional workbook artifact).
+- `power_query/`: `master_all_terms.m` (base PQ script).
+- `src/`: processing code (`pipeline.py`); `scripts/` are thin wrappers.
 
 Instructor preference history:
 - Place legacy instructor preference Excel files in `data/history/excel/` (headers like Term, Course, Section, Instructor, Office Hours, In Class, Grading, Notes).
@@ -27,6 +35,9 @@ Course/title/instructor history:
 - Build with `python scripts/build_course_instructor_history.py --courses data/processed/course_all_processed.json --history data/history/instructor_history.json --output data/processed/course_instructor_history.json`.
 - Output: nested JSON keyed course -> title -> canonical instructor. Each instructor entry includes `display_name`, `aliases` (raw name variants), and `history` (preference entries with term/flags/notes/source). Instructor names are grouped via a simple normalization to reduce duplicates like “Gao, Sky T.” vs “Sky Gao”; aliases are preserved so you can review/resolve collisions.
 
+Power Query:
+- Base M script lives in `power_query/master_all_terms.m` and pulls `data/processed/course_all_processed.json` (fields above) into Excel. Use per-term reference queries or `FILTER` sheets for separate tabs.
+
 Configuration:
 - Edit `config.py` to change terms, subjects, or college code. TERM codes are kept as constants there for easy updates each term.
 
@@ -36,5 +47,6 @@ Current term codes (config.py):
 
 Local run example:
 ```
-python scripts/fetch_courses.py 202610 ALL COMP data/course_COMP_202610.csv
+python scripts/fetch_courses.py 202610 ALL COMP data/raw/course_COMP_202610.csv
+python scripts/process_courses.py --outdir data/processed --combine data/processed/course_all_processed.json
 ```
