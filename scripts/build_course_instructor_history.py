@@ -66,13 +66,11 @@ def _get_slot(store: Dict, course: str, title: str, canonical_name: str, raw_nam
         canonical_name,
         {
             "display_name": raw_name,
-            "aliases": set(),
             "history": [],
         },
     )
     if official or not entry.get("display_name"):
         entry["display_name"] = raw_name
-    entry["aliases"].add(raw_name)
     return entry
 
 
@@ -130,13 +128,8 @@ def finalize(store: Dict) -> Dict:
             for canon in sorted(store[course][title].keys()):
                 entry = store[course][title][canon]
                 display = entry["display_name"]
-                if (not display or "," not in display) and entry["aliases"]:
-                    comma_alias = next((a for a in sorted(entry["aliases"]) if "," in a), None)
-                    if comma_alias:
-                        display = comma_alias
                 out[course][title][canon] = {
                     "display_name": display,
-                    "aliases": sorted(entry["aliases"]),
                     "history": entry["history"],
                 }
     return out

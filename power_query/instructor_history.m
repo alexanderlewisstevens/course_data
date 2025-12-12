@@ -14,9 +14,8 @@ let
         {"Name", "Value"},
         {"CanonicalId", "InstructorData"}
     ),
-    #"Expanded InstructorData" = Table.ExpandRecordColumn(#"Instructors As Table", "InstructorData", {"display_name", "aliases", "history"}, {"Display Name", "Aliases", "History"}),
-    #"Aliases To Text" = Table.TransformColumns(#"Expanded InstructorData", {{"Aliases", each if _ is list then Text.Combine(List.Transform(_, Text.From), ", ") else Text.From(_), type text}}),
-    #"Expanded History" = Table.ExpandListColumn(#"Aliases To Text", "History"),
+    #"Expanded InstructorData" = Table.ExpandRecordColumn(#"Instructors As Table", "InstructorData", {"display_name", "history"}, {"Display Name", "History"}),
+    #"Expanded History" = Table.ExpandListColumn(#"Expanded InstructorData", "History"),
     #"Expanded History Records" = Table.ExpandRecordColumn(#"Expanded History", "History",
         {"term","section","crn","title","office_hours","in_class","grading","time_commitment","notes"},
         {"Term","Sec","CRN","History Title","Office Hours","In Class","Grading","Time Commitment","Notes"}
@@ -26,7 +25,6 @@ let
         {"Title", type text},
         {"CanonicalId", type text},
         {"Display Name", type text},
-        {"Aliases", type text},
         {"Term", type text},
         {"Sec", type text},
         {"CRN", type text},

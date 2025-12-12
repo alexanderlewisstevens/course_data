@@ -3,17 +3,10 @@
     "Analytical Inquiry I": {
       "alexander stevens": {
         "display_name": "Stevens, Alexander L.",
-        "aliases": [
-          "Stevens, Alexander L."
-        ],
         "history": []
       },
       "gao sky": {
         "display_name": "Gao, Sky T.",
-        "aliases": [
-          "Gao, Sky",
-          "Gao, Sky T."
-        ],
         "history": [
           {
             "term": "202470",
@@ -67,9 +60,6 @@
     "Intro. to Computer Science I": {
       "alannah oleson": {
         "display_name": "Oleson, Alannah",
-        "aliases": [
-          "Oleson, Alannah"
-        ],
         "history": [
           {
             "term": "202470",
@@ -97,10 +87,6 @@
       },
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew",
-          "Hannum, Andrew T."
-        ],
         "history": [
           {
             "term": "202470",
@@ -161,9 +147,6 @@
       },
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": [
           {
             "term": "202470",
@@ -191,9 +174,6 @@
       },
       "shrestha sunny": {
         "display_name": "Shrestha, Sunny",
-        "aliases": [
-          "Shrestha, Sunny"
-        ],
         "history": []
       }
     }
@@ -202,9 +182,6 @@
     "Intro. to Computer Science II": {
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": [
           {
             "term": "202510",
@@ -232,9 +209,6 @@
       },
       "leutenegger scott": {
         "display_name": "Leutenegger, Scott T.",
-        "aliases": [
-          "Leutenegger, Scott T."
-        ],
         "history": []
       }
     }
@@ -243,30 +217,18 @@
     "Intro. to Computer Science III": {
       "alannah oleson": {
         "display_name": "Oleson, Alannah",
-        "aliases": [
-          "Oleson, Alannah"
-        ],
         "history": []
       },
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": []
       },
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": []
       },
       "das sanchari": {
         "display_name": "Das, Sanchari",
-        "aliases": [
-          "Das, Sanchari"
-        ],
         "history": []
       }
     }
@@ -275,10 +237,6 @@
     "Introduction to Programming I": {
       "albow mohammed": {
         "display_name": "Albow, Mohammed M.",
-        "aliases": [
-          "AlBow, Mohammed M.",
-          "Albow, Mohammed M."
-        ],
         "history": [
           {
             "term": "202470",
@@ -328,9 +286,6 @@
       },
       "alexander stevens": {
         "display_name": "Stevens, Alexander L.",
-        "aliases": [
-          "Stevens, Alexander L."
-        ],
         "history": [
           {
             "term": "202470",
@@ -358,16 +313,10 @@
       },
       "alvarado juan malaver": {
         "display_name": "Malaver Alvarado, Juan A.",
-        "aliases": [
-          "Malaver Alvarado, Juan A."
-        ],
         "history": []
       },
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": [
           {
             "term": "202570",
@@ -384,9 +333,6 @@
       },
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": [
           {
             "term": "202570",
@@ -403,16 +349,10 @@
       },
       "christopher gauthierdickey": {
         "display_name": "GauthierDickey, Christopher J.",
-        "aliases": [
-          "GauthierDickey, Christopher J."
-        ],
         "history": []
       },
       "edgington jeffrey": {
         "display_name": "Edgington, Jeffrey M.",
-        "aliases": [
-          "Edgington, Jeffrey M."
-        ],
         "history": [
           {
             "term": "202470",
@@ -440,16 +380,10 @@
       },
       "gao sky": {
         "display_name": "Gao, Sky T.",
-        "aliases": [
-          "Gao, Sky T."
-        ],
         "history": []
       },
       "hidden": {
         "display_name": "Hidden",
-        "aliases": [
-          "Hidden"
-        ],
         "history": [
           {
             "term": "202570",
@@ -466,9 +400,6 @@
       },
       "hossain ismail": {
         "display_name": "Hossain, Ismail",
-        "aliases": [
-          "Hossain, Ismail"
-        ],
         "history": [
           {
             "term": "202570",
@@ -485,16 +416,10 @@
       },
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": []
       },
       "taami tania": {
         "display_name": "Taami, Tania",
-        "aliases": [
-          "Taami, Tania"
-        ],
         "history": [
           {
             "term": "202570",
@@ -515,9 +440,6 @@
     "Introduction to Programming II": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": [
           {
             "term": "202510",
@@ -534,30 +456,18 @@
       },
       "alexander stevens": {
         "display_name": "Stevens, Alexander L.",
-        "aliases": [
-          "Stevens, Alexander L."
-        ],
         "history": []
       },
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": []
       },
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": []
       },
       "edgington jeffrey": {
         "display_name": "Edgington, Jeffrey M.",
-        "aliases": [
-          "Edgington, Jeffrey M."
-        ],
         "history": [
           {
             "term": "202510",
@@ -574,9 +484,6 @@
       },
       "faan liu tone": {
         "display_name": "Liu, Faan Tone",
-        "aliases": [
-          "Liu, Faan Tone"
-        ],
         "history": [
           {
             "term": "202510",
@@ -604,9 +511,6 @@
       },
       "hossain ismail": {
         "display_name": "Hossain, Ismail",
-        "aliases": [
-          "Hossain, Ismail"
-        ],
         "history": []
       }
     }
@@ -615,30 +519,18 @@
     "Data Struct. & Algorithms I": {
       "albow mohammed": {
         "display_name": "Albow, Mohammed M.",
-        "aliases": [
-          "Albow, Mohammed M."
-        ],
         "history": []
       },
       "alexander stevens": {
         "display_name": "Stevens, Alexander L.",
-        "aliases": [
-          "Stevens, Alexander L."
-        ],
         "history": []
       },
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": []
       },
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": [
           {
             "term": "202530",
@@ -666,23 +558,14 @@
       },
       "edgington jeffrey": {
         "display_name": "Edgington, Jeffrey M.",
-        "aliases": [
-          "Edgington, Jeffrey M."
-        ],
         "history": []
       },
       "faan liu tone": {
         "display_name": "Liu, Faan Tone",
-        "aliases": [
-          "Liu, Faan Tone"
-        ],
         "history": []
       },
       "hossain ismail": {
         "display_name": "Hossain, Ismail",
-        "aliases": [
-          "Hossain, Ismail"
-        ],
         "history": [
           {
             "term": "202570",
@@ -703,9 +586,6 @@
     "Discrete Structures in CS": {
       "alexander stevens": {
         "display_name": "Stevens, Alexander L.",
-        "aliases": [
-          "Stevens, Alexander L."
-        ],
         "history": [
           {
             "term": "202470",
@@ -755,9 +635,6 @@
       },
       "faan liu tone": {
         "display_name": "Liu, Faan Tone",
-        "aliases": [
-          "Liu, Faan Tone"
-        ],
         "history": [
           {
             "term": "202470",
@@ -789,23 +666,14 @@
     "Systems I": {
       "albow mohammed": {
         "display_name": "Albow, Mohammed M.",
-        "aliases": [
-          "Albow, Mohammed M."
-        ],
         "history": []
       },
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": []
       },
       "daniel stevenson": {
         "display_name": "Stevenson, Daniel E.",
-        "aliases": [
-          "Stevenson, Daniel E."
-        ],
         "history": [
           {
             "term": "202470",
@@ -837,9 +705,6 @@
     "Systems II": {
       "daniel stevenson": {
         "display_name": "Stevenson, Daniel E.",
-        "aliases": [
-          "Stevenson, Daniel E."
-        ],
         "history": [
           {
             "term": "202470",
@@ -915,10 +780,6 @@
     "Data Struct. & Algorithms II": {
       "albow mohammed": {
         "display_name": "Albow, Mohammed M.",
-        "aliases": [
-          "AlBow, Mohammed M.",
-          "Albow, Mohammed M."
-        ],
         "history": [
           {
             "term": "202510",
@@ -946,9 +807,6 @@
       },
       "alexander stevens": {
         "display_name": "Stevens, Alexander L.",
-        "aliases": [
-          "Stevens, Alexander L."
-        ],
         "history": [
           {
             "term": "202530",
@@ -976,9 +834,6 @@
       },
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": [
           {
             "term": "202510",
@@ -995,9 +850,6 @@
       },
       "hossain ismail": {
         "display_name": "Hossain, Ismail",
-        "aliases": [
-          "Hossain, Ismail"
-        ],
         "history": []
       }
     }
@@ -1006,9 +858,6 @@
     "Object-Oriented Software Dev.": {
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": [
           {
             "term": "202470",
@@ -1047,9 +896,6 @@
       },
       "matthew rutherford": {
         "display_name": "Rutherford, Matthew J.",
-        "aliases": [
-          "Rutherford, Matthew J."
-        ],
         "history": [
           {
             "term": "202470",
@@ -1077,9 +923,6 @@
       },
       "taami tania": {
         "display_name": "Taami, Tania",
-        "aliases": [
-          "Taami, Tania"
-        ],
         "history": [
           {
             "term": "202570",
@@ -1100,25 +943,16 @@
     "Topics in Computer Science": {
       "albow mohammed": {
         "display_name": "Albow, Mohammed M.",
-        "aliases": [
-          "Albow, Mohammed M."
-        ],
         "history": []
       },
       "matthew rutherford": {
         "display_name": "Rutherford, Matthew J.",
-        "aliases": [
-          "Rutherford, Matthew J."
-        ],
         "history": []
       }
     },
     "Topics: Unix Command-Line Bootcamp": {
       "matthew rutherford": {
         "display_name": "Rutherford, Matthew J.",
-        "aliases": [
-          "Rutherford, Matthew J."
-        ],
         "history": [
           {
             "term": "202470",
@@ -1150,10 +984,6 @@
     "Introductory Game Design": {
       "edgington jeffrey": {
         "display_name": "Edgington, Jeffrey M.",
-        "aliases": [
-          "Edgington, Jeffrey",
-          "Edgington, Jeffrey M."
-        ],
         "history": [
           {
             "term": "202570",
@@ -1185,9 +1015,6 @@
     "Foundations in Comp. Systems": {
       "evans nathan": {
         "display_name": "Evans, Nathan S.",
-        "aliases": [
-          "Evans, Nathan S."
-        ],
         "history": [
           {
             "term": "202470",
@@ -1230,9 +1057,6 @@
     "Foundations in Discrete/Algo": {
       "alexander stevens": {
         "display_name": "Stevens, Alexander L.",
-        "aliases": [
-          "Stevens, Alexander L."
-        ],
         "history": [
           {
             "term": "202510",
@@ -1253,9 +1077,6 @@
     "Foundation: Python Programming": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": [
           {
             "term": "202470",
@@ -1272,16 +1093,10 @@
       },
       "abdeen ahmed hamed": {
         "display_name": "Hamed, Ahmed Abdeen",
-        "aliases": [
-          "Hamed, Ahmed Abdeen"
-        ],
         "history": []
       },
       "ahmed hamed": {
         "display_name": "Hamed, Ahmed",
-        "aliases": [
-          "Hamed, Ahmed"
-        ],
         "history": [
           {
             "term": "202570",
@@ -1298,9 +1113,6 @@
       },
       "connin sean": {
         "display_name": "Connin, Sean L.",
-        "aliases": [
-          "Connin, Sean L."
-        ],
         "history": [
           {
             "term": "202570",
@@ -1317,9 +1129,6 @@
       },
       "gao sky": {
         "display_name": "Gao, Sky T.",
-        "aliases": [
-          "Gao, Sky T."
-        ],
         "history": [
           {
             "term": "202510",
@@ -1340,23 +1149,14 @@
     "Python Software Development": {
       "abdeen ahmed hamed": {
         "display_name": "Hamed, Ahmed Abdeen",
-        "aliases": [
-          "Hamed, Ahmed Abdeen"
-        ],
         "history": []
       },
       "connin sean": {
         "display_name": "Connin, Sean L.",
-        "aliases": [
-          "Connin, Sean L."
-        ],
         "history": []
       },
       "crutchfield dalton todd": {
         "display_name": "Crutchfield-Todd, Dalton J.",
-        "aliases": [
-          "Crutchfield-Todd, Dalton J."
-        ],
         "history": [
           {
             "term": "202470",
@@ -1384,9 +1184,6 @@
       },
       "daniel martin parada san": {
         "display_name": "Parada San Martin, Daniel A.",
-        "aliases": [
-          "Parada San Martin, Daniel A."
-        ],
         "history": [
           {
             "term": "202510",
@@ -1407,9 +1204,6 @@
     "Foundations: DS Math I": {
       "brendt gerics": {
         "display_name": "Gerics, Brendt",
-        "aliases": [
-          "Gerics, Brendt"
-        ],
         "history": [
           {
             "term": "202510",
@@ -1426,9 +1220,6 @@
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": [
           {
             "term": "202470",
@@ -1460,9 +1251,6 @@
     "Foundations: DS Math II": {
       "brendt gerics": {
         "display_name": "Gerics, Brendt",
-        "aliases": [
-          "Gerics, Brendt"
-        ],
         "history": [
           {
             "term": "202470",
@@ -1479,9 +1267,6 @@
       },
       "catherine durso": {
         "display_name": "Durso, Catherine S.",
-        "aliases": [
-          "Durso, Catherine S."
-        ],
         "history": [
           {
             "term": "202470",
@@ -1498,9 +1283,6 @@
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": [
           {
             "term": "202510",
@@ -1521,16 +1303,10 @@
     "Applied Math for DS and AI": {
       "abdeen ahmed hamed": {
         "display_name": "Hamed, Ahmed Abdeen",
-        "aliases": [
-          "Hamed, Ahmed Abdeen"
-        ],
         "history": []
       },
       "ahmed hamed": {
         "display_name": "Hamed, Ahmed",
-        "aliases": [
-          "Hamed, Ahmed"
-        ],
         "history": [
           {
             "term": "202570",
@@ -1547,9 +1323,6 @@
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": [
           {
             "term": "202570",
@@ -1577,9 +1350,6 @@
       },
       "paul sawle": {
         "display_name": "Sawle, Paul L.",
-        "aliases": [
-          "Sawle, Paul L."
-        ],
         "history": []
       }
     }
@@ -1588,9 +1358,6 @@
     "Human-Computer Interaction": {
       "alannah oleson": {
         "display_name": "Oleson, Alannah",
-        "aliases": [
-          "Oleson, Alannah"
-        ],
         "history": [
           {
             "term": "202570",
@@ -1618,9 +1385,6 @@
       },
       "haring kerstin": {
         "display_name": "Haring, Kerstin S.",
-        "aliases": [
-          "Haring, Kerstin S."
-        ],
         "history": [
           {
             "term": "202470",
@@ -1641,9 +1405,6 @@
     "Discrete Structures": {
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": [
           {
             "term": "202510",
@@ -1664,9 +1425,6 @@
     "Parallel & Distrib Comp DSAI": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": []
       }
     }
@@ -1675,9 +1433,6 @@
     "Programming Languages": {
       "edgington jeffrey": {
         "display_name": "Edgington, Jeffrey M.",
-        "aliases": [
-          "Edgington, Jeffrey M."
-        ],
         "history": []
       }
     }
@@ -1686,9 +1441,6 @@
     "Elements of Compiler Design": {
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": []
       }
     }
@@ -1697,16 +1449,10 @@
     "Introductory C/C++ Programming": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": []
       },
       "petrehn sydney": {
         "display_name": "Petrehn, Sydney M.",
-        "aliases": [
-          "Petrehn, Sydney M."
-        ],
         "history": []
       }
     }
@@ -1715,9 +1461,6 @@
     "Operating Systems I": {
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": [
           {
             "term": "202470",
@@ -1749,9 +1492,6 @@
     "Data Structures &  Algorithms": {
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": []
       }
     }
@@ -1760,9 +1500,6 @@
     "Advanced Algorithms": {
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": []
       }
     }
@@ -1771,9 +1508,6 @@
     "Software Engineering I": {
       "matthew rutherford": {
         "display_name": "Rutherford, Matthew J.",
-        "aliases": [
-          "Rutherford, Matthew J."
-        ],
         "history": [
           {
             "term": "202510",
@@ -1794,9 +1528,6 @@
     "Software Engineering II": {
       "matthew rutherford": {
         "display_name": "Rutherford, Matthew J.",
-        "aliases": [
-          "Rutherford, Matthew J."
-        ],
         "history": []
       }
     }
@@ -1805,18 +1536,12 @@
     "Web Programming I": {
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": []
       }
     },
     "World Wide Web Programming": {
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": [
           {
             "term": "202510",
@@ -1837,16 +1562,10 @@
     "Web Programming II": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": []
       },
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": []
       }
     }
@@ -1855,9 +1574,6 @@
     "Database Organization & Mgmt I": {
       "dalton donald": {
         "display_name": "Dalton, Donald A.",
-        "aliases": [
-          "Dalton, Donald A."
-        ],
         "history": [
           {
             "term": "202470",
@@ -1896,9 +1612,6 @@
       },
       "mashinchi navid": {
         "display_name": "Mashinchi, Navid",
-        "aliases": [
-          "Mashinchi, Navid"
-        ],
         "history": [
           {
             "term": "202470",
@@ -1952,9 +1665,6 @@
     "Machine Learning": {
       "conway maxwell": {
         "display_name": "Conway, Maxwell L.",
-        "aliases": [
-          "Conway, Maxwell L."
-        ],
         "history": []
       }
     }
@@ -1963,9 +1673,6 @@
     "Data Visualization": {
       "benjamin siebrase": {
         "display_name": "Siebrase, Benjamin E.",
-        "aliases": [
-          "Siebrase, Benjamin E."
-        ],
         "history": []
       }
     }
@@ -1974,9 +1681,6 @@
     "Probability and Statistics 1": {
       "catherine durso": {
         "display_name": "Durso, Catherine S.",
-        "aliases": [
-          "Durso, Catherine S."
-        ],
         "history": []
       }
     }
@@ -1985,16 +1689,10 @@
     "Understanding AI": {
       "benjamin xie": {
         "display_name": "Xie, Benjamin X.",
-        "aliases": [
-          "Xie, Benjamin X."
-        ],
         "history": []
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": [
           {
             "term": "202570",
@@ -2015,9 +1713,6 @@
     "Intro Artificial Intelligence": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": [
           {
             "term": "202570",
@@ -2034,9 +1729,6 @@
       },
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": [
           {
             "term": "202470",
@@ -2057,9 +1749,6 @@
     "Software for AI Robotics": {
       "christopher reardon": {
         "display_name": "Reardon, Christopher M.",
-        "aliases": [
-          "Reardon, Christopher M."
-        ],
         "history": []
       }
     }
@@ -2068,9 +1757,6 @@
     "Human Centered AI": {
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": []
       }
     }
@@ -2079,9 +1765,6 @@
     "Computational Geometry": {
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": [
           {
             "term": "202510",
@@ -2102,9 +1785,6 @@
     "Computer Networking": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": [
           {
             "term": "202470",
@@ -2136,9 +1816,6 @@
     "Topics in Computer Graphics": {
       "leutenegger scott": {
         "display_name": "Leutenegger, Scott T.",
-        "aliases": [
-          "Leutenegger, Scott T."
-        ],
         "history": []
       }
     }
@@ -2147,23 +1824,14 @@
     "Topics-Artificial Intelligence": {
       "christopher gauthierdickey": {
         "display_name": "GauthierDickey, Christopher J.",
-        "aliases": [
-          "GauthierDickey, Christopher J."
-        ],
         "history": []
       },
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": []
       },
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": [
           {
             "term": "202570",
@@ -2180,9 +1848,6 @@
       },
       "petrehn sydney": {
         "display_name": "Petrehn, Sydney M.",
-        "aliases": [
-          "Petrehn, Sydney M."
-        ],
         "history": []
       }
     }
@@ -2191,30 +1856,18 @@
     "Advanced Topics: Systems": {
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": []
       },
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": []
       },
       "kara nance": {
         "display_name": "Nance, Kara L.",
-        "aliases": [
-          "Nance, Kara L."
-        ],
         "history": []
       },
       "matthew rutherford": {
         "display_name": "Rutherford, Matthew J.",
-        "aliases": [
-          "Rutherford, Matthew J."
-        ],
         "history": []
       }
     }
@@ -2223,9 +1876,6 @@
     "Rust-programming": {
       "edgington jeffrey": {
         "display_name": "Edgington, Jeffrey M.",
-        "aliases": [
-          "Edgington, Jeffrey M."
-        ],
         "history": [
           {
             "term": "202570",
@@ -2244,81 +1894,48 @@
     "Topics in Computer Science": {
       "abdeen ahmed hamed": {
         "display_name": "Hamed, Ahmed Abdeen",
-        "aliases": [
-          "Hamed, Ahmed Abdeen"
-        ],
         "history": []
       },
       "alannah oleson": {
         "display_name": "Oleson, Alannah",
-        "aliases": [
-          "Oleson, Alannah"
-        ],
         "history": []
       },
       "catherine durso": {
         "display_name": "Durso, Catherine S.",
-        "aliases": [
-          "Durso, Catherine S."
-        ],
         "history": []
       },
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": []
       },
       "edgington jeffrey": {
         "display_name": "Edgington, Jeffrey M.",
-        "aliases": [
-          "Edgington, Jeffrey M."
-        ],
         "history": []
       },
       "faan liu tone": {
         "display_name": "Liu, Faan Tone",
-        "aliases": [
-          "Liu, Faan Tone"
-        ],
         "history": []
       },
       "haring kerstin": {
         "display_name": "Haring, Kerstin S.",
-        "aliases": [
-          "Haring, Kerstin S."
-        ],
         "history": []
       },
       "hollenbach katherine": {
         "display_name": "Hollenbach, Katherine",
-        "aliases": [
-          "Hollenbach, Katherine"
-        ],
         "history": []
       },
       "matthew rutherford": {
         "display_name": "Rutherford, Matthew J.",
-        "aliases": [
-          "Rutherford, Matthew J."
-        ],
         "history": []
       },
       "taami tania": {
         "display_name": "Taami, Tania",
-        "aliases": [
-          "Taami, Tania"
-        ],
         "history": []
       }
     },
     "Topics- Robot Ethics": {
       "haring kerstin": {
         "display_name": "Haring, Kerstin S.",
-        "aliases": [
-          "Haring, Kerstin S."
-        ],
         "history": [
           {
             "term": "202510",
@@ -2337,9 +1954,6 @@
     "Topics- Secure Computation": {
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": [
           {
             "term": "202510",
@@ -2358,9 +1972,6 @@
     "Topics: Internet Security": {
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": [
           {
             "term": "202470",
@@ -2381,9 +1992,6 @@
     "Computer Security": {
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": [
           {
             "term": "202570",
@@ -2400,9 +2008,6 @@
       },
       "das sanchari": {
         "display_name": "Das, Sanchari",
-        "aliases": [
-          "Das, Sanchari"
-        ],
         "history": [
           {
             "term": "202470",
@@ -2423,9 +2028,6 @@
     "Network Security": {
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": []
       }
     }
@@ -2434,9 +2036,6 @@
     "Ethical Hacking": {
       "evans nathan": {
         "display_name": "Evans, Nathan S.",
-        "aliases": [
-          "Evans, Nathan S."
-        ],
         "history": []
       }
     }
@@ -2445,9 +2044,6 @@
     "Computer Forensics": {
       "kara nance": {
         "display_name": "Nance, Kara L.",
-        "aliases": [
-          "Nance, Kara L."
-        ],
         "history": [
           {
             "term": "202510",
@@ -2468,9 +2064,6 @@
     "Human-Centered Data Sec & Priv": {
       "das sanchari": {
         "display_name": "Das, Sanchari",
-        "aliases": [
-          "Das, Sanchari"
-        ],
         "history": []
       }
     }
@@ -2479,9 +2072,6 @@
     "Introduction Computer Graphics": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": []
       }
     }
@@ -2490,9 +2080,6 @@
     "Intro to Game Programming": {
       "dunagan ryan": {
         "display_name": "Dunagan, Ryan A.",
-        "aliases": [
-          "Dunagan, Ryan A."
-        ],
         "history": []
       }
     }
@@ -2501,16 +2088,10 @@
     "Game Programming I": {
       "christopher gauthierdickey": {
         "display_name": "GauthierDickey, Christopher J.",
-        "aliases": [
-          "GauthierDickey, Christopher J."
-        ],
         "history": []
       },
       "dunagan ryan": {
         "display_name": "Dunagan, Ryan A.",
-        "aliases": [
-          "Dunagan, Ryan A."
-        ],
         "history": []
       }
     }
@@ -2519,9 +2100,6 @@
     "Game Programming II": {
       "dunagan ryan": {
         "display_name": "Dunagan, Ryan A.",
-        "aliases": [
-          "Dunagan, Ryan A."
-        ],
         "history": []
       }
     }
@@ -2530,9 +2108,6 @@
     "Game Prototyping": {
       "gansciu serban": {
         "display_name": "Gansciu, Serban B.",
-        "aliases": [
-          "Gansciu, Serban B."
-        ],
         "history": [
           {
             "term": "202470",
@@ -2564,9 +2139,6 @@
     "Game Capstone I": {
       "gansciu serban": {
         "display_name": "Gansciu, Serban B.",
-        "aliases": [
-          "Gansciu, Serban B."
-        ],
         "history": [
           {
             "term": "202510",
@@ -2587,9 +2159,6 @@
     "Game Capstone II": {
       "gansciu serban": {
         "display_name": "Gansciu, Serban B.",
-        "aliases": [
-          "Gansciu, Serban B."
-        ],
         "history": []
       }
     }
@@ -2598,128 +2167,74 @@
     "Internship/Co-Op in Computing": {
       "albow mohammed": {
         "display_name": "Albow, Mohammed M.",
-        "aliases": [
-          "Albow, Mohammed M."
-        ],
         "history": []
       },
       "alexander stevens": {
         "display_name": "Stevens, Alexander L.",
-        "aliases": [
-          "Stevens, Alexander L."
-        ],
         "history": []
       },
       "catherine durso": {
         "display_name": "Durso, Catherine S.",
-        "aliases": [
-          "Durso, Catherine S."
-        ],
         "history": []
       },
       "christopher gauthierdickey": {
         "display_name": "GauthierDickey, Christopher J.",
-        "aliases": [
-          "GauthierDickey, Christopher J."
-        ],
         "history": []
       },
       "connin sean": {
         "display_name": "Connin, Sean L.",
-        "aliases": [
-          "Connin, Sean L."
-        ],
         "history": []
       },
       "daniel stevenson": {
         "display_name": "Stevenson, Daniel E.",
-        "aliases": [
-          "Stevenson, Daniel E."
-        ],
         "history": []
       },
       "das sanchari": {
         "display_name": "Das, Sanchari",
-        "aliases": [
-          "Das, Sanchari"
-        ],
         "history": []
       },
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": []
       },
       "edgington jeffrey": {
         "display_name": "Edgington, Jeffrey M.",
-        "aliases": [
-          "Edgington, Jeffrey M."
-        ],
         "history": []
       },
       "evans nathan": {
         "display_name": "Evans, Nathan S.",
-        "aliases": [
-          "Evans, Nathan S."
-        ],
         "history": []
       },
       "faan liu tone": {
         "display_name": "Liu, Faan Tone",
-        "aliases": [
-          "Liu, Faan Tone"
-        ],
         "history": []
       },
       "haring kerstin": {
         "display_name": "Haring, Kerstin S.",
-        "aliases": [
-          "Haring, Kerstin S."
-        ],
         "history": []
       },
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": []
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": []
       },
       "leutenegger scott": {
         "display_name": "Leutenegger, Scott T.",
-        "aliases": [
-          "Leutenegger, Scott T."
-        ],
         "history": []
       },
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": []
       },
       "matthew rutherford": {
         "display_name": "Rutherford, Matthew J.",
-        "aliases": [
-          "Rutherford, Matthew J."
-        ],
         "history": []
       },
       "paul sawle": {
         "display_name": "Sawle, Paul L.",
-        "aliases": [
-          "Sawle, Paul L."
-        ],
         "history": []
       }
     }
@@ -2728,27 +2243,18 @@
     "IS: Online Sexual Health Ed.": {
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": []
       }
     },
     "Introduction to Rust": {
       "christopher gauthierdickey": {
         "display_name": "GauthierDickey, Christopher J.",
-        "aliases": [
-          "GauthierDickey, Christopher J."
-        ],
         "history": []
       }
     },
     "Web2App:MobileDev": {
       "haring kerstin": {
         "display_name": "Haring, Kerstin S.",
-        "aliases": [
-          "Haring, Kerstin S."
-        ],
         "history": []
       }
     }
@@ -2757,51 +2263,30 @@
     "Independent Research": {
       "alannah oleson": {
         "display_name": "Oleson, Alannah",
-        "aliases": [
-          "Oleson, Alannah"
-        ],
         "history": []
       },
       "albow mohammed": {
         "display_name": "Albow, Mohammed M.",
-        "aliases": [
-          "Albow, Mohammed M."
-        ],
         "history": []
       },
       "alexander stevens": {
         "display_name": "Stevens, Alexander L.",
-        "aliases": [
-          "Stevens, Alexander L."
-        ],
         "history": []
       },
       "christopher gauthierdickey": {
         "display_name": "GauthierDickey, Christopher J.",
-        "aliases": [
-          "GauthierDickey, Christopher J."
-        ],
         "history": []
       },
       "dali sun": {
         "display_name": "Sun, Dali",
-        "aliases": [
-          "Sun, Dali"
-        ],
         "history": []
       },
       "dunagan ryan": {
         "display_name": "Dunagan, Ryan A.",
-        "aliases": [
-          "Dunagan, Ryan A."
-        ],
         "history": []
       },
       "mahoor mohammad": {
         "display_name": "Mahoor, Mohammad H.",
-        "aliases": [
-          "Mahoor, Mohammad H."
-        ],
         "history": []
       }
     }
@@ -2810,9 +2295,6 @@
     "Human-Computer Interaction": {
       "alannah oleson": {
         "display_name": "Oleson, Alannah",
-        "aliases": [
-          "Oleson, Alannah"
-        ],
         "history": [
           {
             "term": "202510",
@@ -2829,9 +2311,6 @@
       },
       "haring kerstin": {
         "display_name": "Haring, Kerstin S.",
-        "aliases": [
-          "Haring, Kerstin S."
-        ],
         "history": [
           {
             "term": "202470",
@@ -2852,16 +2331,10 @@
     "Parallel & Distrib Comp DSAI": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": []
       },
       "daskevich": {
         "display_name": "Daskevich",
-        "aliases": [
-          "Daskevich"
-        ],
         "history": [
           {
             "term": "202570",
@@ -2878,25 +2351,16 @@
       },
       "daskevich ronald": {
         "display_name": "Daskevich, Ronald J.",
-        "aliases": [
-          "Daskevich, Ronald J."
-        ],
         "history": []
       },
       "mashinchi navid": {
         "display_name": "Mashinchi, Navid",
-        "aliases": [
-          "Mashinchi, Navid"
-        ],
         "history": []
       }
     },
     "Parallel & Distrib Comp for DS": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": [
           {
             "term": "202510",
@@ -2913,9 +2377,6 @@
       },
       "daskevich ronald": {
         "display_name": "Daskevich, Ronald J.",
-        "aliases": [
-          "Daskevich, Ronald J."
-        ],
         "history": [
           {
             "term": "202510",
@@ -2936,9 +2397,6 @@
     "Advanced Algorithms": {
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": []
       }
     }
@@ -2947,9 +2405,6 @@
     "Secure Software Engineering": {
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": []
       }
     }
@@ -2958,16 +2413,10 @@
     "Python for Data Science": {
       "connin sean": {
         "display_name": "Connin, Sean L.",
-        "aliases": [
-          "Connin, Sean L."
-        ],
         "history": []
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": []
       }
     }
@@ -2976,16 +2425,10 @@
     "Machine Learning": {
       "dalton donald": {
         "display_name": "Dalton, Donald A.",
-        "aliases": [
-          "Dalton, Donald A."
-        ],
         "history": []
       },
       "paul sawle": {
         "display_name": "Sawle, Paul L.",
-        "aliases": [
-          "Sawle, Paul L."
-        ],
         "history": [
           {
             "term": "202470",
@@ -3039,9 +2482,6 @@
     "Data Visualization": {
       "benjamin siebrase": {
         "display_name": "Siebrase, Benjamin E.",
-        "aliases": [
-          "Siebrase, Benjamin E."
-        ],
         "history": [
           {
             "term": "202510",
@@ -3058,16 +2498,10 @@
       },
       "daniel martin parada san": {
         "display_name": "Parada San Martin, Daniel A.",
-        "aliases": [
-          "Parada San Martin, Daniel A."
-        ],
         "history": []
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": []
       }
     }
@@ -3076,9 +2510,6 @@
     "Probability and Statistics 1": {
       "catherine durso": {
         "display_name": "Durso, Catherine S.",
-        "aliases": [
-          "Durso, Catherine S."
-        ],
         "history": [
           {
             "term": "202510",
@@ -3095,16 +2526,10 @@
       },
       "chan julian": {
         "display_name": "Chan, Julian D.",
-        "aliases": [
-          "Chan, Julian D."
-        ],
         "history": []
       },
       "michelle vered": {
         "display_name": "Vered, Michelle N.",
-        "aliases": [
-          "Vered, Michelle N."
-        ],
         "history": [
           {
             "term": "202470",
@@ -3136,16 +2561,10 @@
     "Probability and Statistics 2": {
       "catherine durso": {
         "display_name": "Durso, Catherine S.",
-        "aliases": [
-          "Durso, Catherine S."
-        ],
         "history": []
       },
       "chan julian": {
         "display_name": "Chan, Julian D.",
-        "aliases": [
-          "Chan, Julian D."
-        ],
         "history": [
           {
             "term": "202470",
@@ -3173,9 +2592,6 @@
       },
       "christensen wendy": {
         "display_name": "Christensen, Wendy N.",
-        "aliases": [
-          "Christensen, Wendy N."
-        ],
         "history": []
       }
     }
@@ -3184,30 +2600,18 @@
     "Data Science Tools 1": {
       "dalton donald": {
         "display_name": "Dalton, Donald A.",
-        "aliases": [
-          "Dalton, Donald A."
-        ],
         "history": []
       },
       "daniel martin parada san": {
         "display_name": "Parada San Martin, Daniel A.",
-        "aliases": [
-          "Parada San Martin, Daniel A."
-        ],
         "history": []
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": []
       },
       "rahim rasool": {
         "display_name": "Rasool, Rahim",
-        "aliases": [
-          "Rasool, Rahim"
-        ],
         "history": [
           {
             "term": "202510",
@@ -3228,16 +2632,10 @@
     "Data Science Tools 2": {
       "dalton donald": {
         "display_name": "Dalton, Donald A.",
-        "aliases": [
-          "Dalton, Donald A."
-        ],
         "history": []
       },
       "daniel martin parada san": {
         "display_name": "Parada San Martin, Daniel A.",
-        "aliases": [
-          "Parada San Martin, Daniel A."
-        ],
         "history": [
           {
             "term": "202510",
@@ -3254,16 +2652,10 @@
       },
       "paul sawle": {
         "display_name": "Sawle, Paul L.",
-        "aliases": [
-          "Sawle, Paul L."
-        ],
         "history": []
       },
       "rahim rasool": {
         "display_name": "Rasool, Rahim",
-        "aliases": [
-          "Rasool, Rahim"
-        ],
         "history": [
           {
             "term": "202510",
@@ -3284,25 +2676,16 @@
     "DS & AI Capstone": {
       "rahim rasool": {
         "display_name": "Rasool, Rahim",
-        "aliases": [
-          "Rasool, Rahim"
-        ],
         "history": []
       }
     },
     "Data Science Capstone": {
       "connin sean": {
         "display_name": "Connin, Sean L.",
-        "aliases": [
-          "Connin, Sean L."
-        ],
         "history": []
       },
       "dalton donald": {
         "display_name": "Dalton, Donald A.",
-        "aliases": [
-          "Dalton, Donald A."
-        ],
         "history": [
           {
             "term": "202510",
@@ -3319,23 +2702,14 @@
       },
       "neba nfonsang": {
         "display_name": "Nfonsang, Neba A.",
-        "aliases": [
-          "Nfonsang, Neba A."
-        ],
         "history": []
       },
       "paul sawle": {
         "display_name": "Sawle, Paul L.",
-        "aliases": [
-          "Sawle, Paul L."
-        ],
         "history": []
       },
       "rahim rasool": {
         "display_name": "Rasool, Rahim",
-        "aliases": [
-          "Rasool, Rahim"
-        ],
         "history": []
       }
     }
@@ -3344,9 +2718,6 @@
     "Machine Learning Operations": {
       "rahim rasool": {
         "display_name": "Rasool, Rahim",
-        "aliases": [
-          "Rasool, Rahim"
-        ],
         "history": [
           {
             "term": "202570",
@@ -3367,9 +2738,6 @@
     "Shell Scripting & Sys Tools": {
       "evans nathan": {
         "display_name": "Evans, Nathan S.",
-        "aliases": [
-          "Evans, Nathan S."
-        ],
         "history": []
       }
     }
@@ -3378,16 +2746,10 @@
     "Understanding AI": {
       "benjamin xie": {
         "display_name": "Xie, Benjamin X.",
-        "aliases": [
-          "Xie, Benjamin X."
-        ],
         "history": []
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": []
       }
     }
@@ -3396,16 +2758,10 @@
     "Introduction to AI": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": []
       },
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": []
       }
     }
@@ -3414,9 +2770,6 @@
     "Software for AI Robotics": {
       "christopher reardon": {
         "display_name": "Reardon, Christopher M.",
-        "aliases": [
-          "Reardon, Christopher M."
-        ],
         "history": []
       }
     }
@@ -3425,9 +2778,6 @@
     "Advanced Machine Learning": {
       "mahoor mohammad": {
         "display_name": "Mahoor, Mohammad H.",
-        "aliases": [
-          "Mahoor, Mohammad H."
-        ],
         "history": []
       }
     }
@@ -3436,9 +2786,6 @@
     "Adv. Human Centered AI": {
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": []
       }
     }
@@ -3447,9 +2794,6 @@
     "Deep Learning": {
       "dalton donald": {
         "display_name": "Dalton, Donald A.",
-        "aliases": [
-          "Dalton, Donald A."
-        ],
         "history": [
           {
             "term": "202570",
@@ -3477,9 +2821,6 @@
       },
       "li william": {
         "display_name": "Li, William Y.",
-        "aliases": [
-          "Li, William Y."
-        ],
         "history": []
       }
     }
@@ -3488,16 +2829,10 @@
     "Algorithms for DS & AI": {
       "catherine durso": {
         "display_name": "Durso, Catherine S.",
-        "aliases": [
-          "Durso, Catherine S."
-        ],
         "history": []
       },
       "cathy durso": {
         "display_name": "Durso, Cathy",
-        "aliases": [
-          "Durso, Cathy"
-        ],
         "history": [
           {
             "term": "202570",
@@ -3514,18 +2849,12 @@
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": []
       }
     },
     "Algorithms for Data Science": {
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": [
           {
             "term": "202510",
@@ -3544,16 +2873,10 @@
     "Algorithms for Data Science&AI": {
       "daniel martin parada san": {
         "display_name": "Parada San Martin, Daniel A.",
-        "aliases": [
-          "Parada San Martin, Daniel A."
-        ],
         "history": []
       },
       "kossek wojciech": {
         "display_name": "Kossek, Wojciech K.",
-        "aliases": [
-          "Kossek, Wojciech K."
-        ],
         "history": []
       }
     }
@@ -3562,9 +2885,6 @@
     "Computational Geometry": {
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": [
           {
             "term": "202510",
@@ -3585,9 +2905,6 @@
     "Computer Networking": {
       "aaron kraft": {
         "display_name": "Kraft, Aaron R.",
-        "aliases": [
-          "Kraft, Aaron R."
-        ],
         "history": []
       }
     }
@@ -3596,30 +2913,18 @@
     "Adv Topics-Artificial Intell": {
       "christopher gauthierdickey": {
         "display_name": "GauthierDickey, Christopher J.",
-        "aliases": [
-          "GauthierDickey, Christopher J."
-        ],
         "history": []
       },
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": []
       },
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": []
       },
       "petrehn sydney": {
         "display_name": "Petrehn, Sydney M.",
-        "aliases": [
-          "Petrehn, Sydney M."
-        ],
         "history": []
       }
     }
@@ -3628,32 +2933,20 @@
     "Advanced Topics-Systems": {
       "andrew hannum": {
         "display_name": "Hannum, Andrew T.",
-        "aliases": [
-          "Hannum, Andrew T."
-        ],
         "history": []
       },
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": []
       },
       "kara nance": {
         "display_name": "Nance, Kara L.",
-        "aliases": [
-          "Nance, Kara L."
-        ],
         "history": []
       }
     },
     "Topics- Secure Computation": {
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": [
           {
             "term": "202510",
@@ -3674,60 +2967,36 @@
     "Advanced Topics-Programming": {
       "abdeen ahmed hamed": {
         "display_name": "Hamed, Ahmed Abdeen",
-        "aliases": [
-          "Hamed, Ahmed Abdeen"
-        ],
         "history": []
       },
       "catherine durso": {
         "display_name": "Durso, Catherine S.",
-        "aliases": [
-          "Durso, Catherine S."
-        ],
         "history": []
       },
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": []
       },
       "edgington jeffrey": {
         "display_name": "Edgington, Jeffrey M.",
-        "aliases": [
-          "Edgington, Jeffrey M."
-        ],
         "history": []
       },
       "faan liu tone": {
         "display_name": "Liu, Faan Tone",
-        "aliases": [
-          "Liu, Faan Tone"
-        ],
         "history": []
       },
       "haring kerstin": {
         "display_name": "Haring, Kerstin S.",
-        "aliases": [
-          "Haring, Kerstin S."
-        ],
         "history": []
       },
       "rahim rasool": {
         "display_name": "Rasool, Rahim",
-        "aliases": [
-          "Rasool, Rahim"
-        ],
         "history": []
       }
     },
     "Topics- Robot Ethics": {
       "haring kerstin": {
         "display_name": "Haring, Kerstin S.",
-        "aliases": [
-          "Haring, Kerstin S."
-        ],
         "history": [
           {
             "term": "202510",
@@ -3748,9 +3017,6 @@
     "Computer Security": {
       "anjum iffat": {
         "display_name": "Anjum, Iffat",
-        "aliases": [
-          "Anjum, Iffat"
-        ],
         "history": []
       }
     }
@@ -3759,9 +3025,6 @@
     "Network Security": {
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": []
       }
     }
@@ -3770,9 +3033,6 @@
     "Ethical Hacking": {
       "evans nathan": {
         "display_name": "Evans, Nathan S.",
-        "aliases": [
-          "Evans, Nathan S."
-        ],
         "history": []
       }
     }
@@ -3781,9 +3041,6 @@
     "Human-Centered Data Sec & Priv": {
       "das sanchari": {
         "display_name": "Das, Sanchari",
-        "aliases": [
-          "Das, Sanchari"
-        ],
         "history": []
       }
     }
@@ -3792,16 +3049,10 @@
     "Cybersecurity Capstone": {
       "christopher gauthierdickey": {
         "display_name": "GauthierDickey, Christopher J.",
-        "aliases": [
-          "GauthierDickey, Christopher J."
-        ],
         "history": []
       },
       "evans nathan": {
         "display_name": "Evans, Nathan S.",
-        "aliases": [
-          "Evans, Nathan S."
-        ],
         "history": []
       }
     }
@@ -3810,72 +3061,42 @@
     "Independent Research": {
       "benjamin xie": {
         "display_name": "Xie, Benjamin X.",
-        "aliases": [
-          "Xie, Benjamin X."
-        ],
         "history": []
       },
       "christopher gauthierdickey": {
         "display_name": "GauthierDickey, Christopher J.",
-        "aliases": [
-          "GauthierDickey, Christopher J."
-        ],
         "history": []
       },
       "christopher reardon": {
         "display_name": "Reardon, Christopher M.",
-        "aliases": [
-          "Reardon, Christopher M."
-        ],
         "history": []
       },
       "das sanchari": {
         "display_name": "Das, Sanchari",
-        "aliases": [
-          "Das, Sanchari"
-        ],
         "history": []
       },
       "dewri rinku": {
         "display_name": "Dewri, Rinku",
-        "aliases": [
-          "Dewri, Rinku"
-        ],
         "history": []
       },
       "haring kerstin": {
         "display_name": "Haring, Kerstin S.",
-        "aliases": [
-          "Haring, Kerstin S."
-        ],
         "history": []
       },
       "hutt stephen": {
         "display_name": "Hutt, Stephen J.",
-        "aliases": [
-          "Hutt, Stephen J."
-        ],
         "history": []
       },
       "kara nance": {
         "display_name": "Nance, Kara L.",
-        "aliases": [
-          "Nance, Kara L."
-        ],
         "history": []
       },
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": []
       },
       "mahoor mohammad": {
         "display_name": "Mahoor, Mohammad H.",
-        "aliases": [
-          "Mahoor, Mohammad H."
-        ],
         "history": []
       }
     }
@@ -3884,30 +3105,18 @@
     "Independent Research": {
       "albow mohammed": {
         "display_name": "Albow, Mohammed M.",
-        "aliases": [
-          "Albow, Mohammed M."
-        ],
         "history": []
       },
       "lopez mario": {
         "display_name": "Lopez, Mario A.",
-        "aliases": [
-          "Lopez, Mario A."
-        ],
         "history": []
       },
       "mahoor mohammad": {
         "display_name": "Mahoor, Mohammad H.",
-        "aliases": [
-          "Mahoor, Mohammad H."
-        ],
         "history": []
       },
       "matthew rutherford": {
         "display_name": "Rutherford, Matthew J.",
-        "aliases": [
-          "Rutherford, Matthew J."
-        ],
         "history": []
       }
     }
