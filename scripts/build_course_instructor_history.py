@@ -116,11 +116,6 @@ def merge_history(store: Dict, history: Dict) -> None:
                         "in_class": bool(e.get("in_class", False)),
                         "grading": bool(e.get("grading", False)),
                         "time_commitment": e.get("time_commitment", ""),
-                        "instructor": e.get("instructor", instr_raw),
-                        "listed_instructor": e.get("listed_instructor", ""),
-                        "updated_instructor": e.get("updated_instructor", ""),
-                        "source_file": e.get("source_file", ""),
-                        "source_row": e.get("source_row", ""),
                     }
                     record["notes"] = (e.get("notes") or "").strip()
                     slot["history"].append(record)

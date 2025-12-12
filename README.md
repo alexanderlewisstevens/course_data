@@ -50,3 +50,8 @@ Local run example:
 python scripts/fetch_courses.py 202610 ALL COMP data/raw/course_COMP_202610.csv
 python scripts/process_courses.py --outdir data/processed --combine data/processed/course_all_processed.json
 ```
+
+
+
+Prerequesites
+
