@@ -109,7 +109,6 @@ def merge_history(store: Dict, history: Dict) -> None:
                         "term": term,
                         "section": e.get("section", ""),
                         "crn": e.get("crn", ""),
-                        "title": e.get("title", ""),
                         "office_hours": bool(e.get("office_hours", False)),
                         "in_class": bool(e.get("in_class", False)),
                         "grading": bool(e.get("grading", False)),

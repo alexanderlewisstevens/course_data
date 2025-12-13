@@ -17,8 +17,8 @@ let
     #"Expanded InstructorData" = Table.ExpandRecordColumn(#"Instructors As Table", "InstructorData", {"display_name", "history"}, {"Display Name", "History"}),
     #"Expanded History" = Table.ExpandListColumn(#"Expanded InstructorData", "History"),
     #"Expanded History Records" = Table.ExpandRecordColumn(#"Expanded History", "History",
-        {"term","section","crn","title","office_hours","in_class","grading","time_commitment","notes"},
-        {"Term","Sec","CRN","History Title","Office Hours","In Class","Grading","Time Commitment","Notes"}
+        {"term","section","crn","office_hours","in_class","grading","time_commitment","notes"},
+        {"Term","Sec","CRN","Office Hours","In Class","Grading","Time Commitment","Notes"}
     ),
     #"Typed" = Table.TransformColumnTypes(#"Expanded History Records",{
         {"Course", type text},
@@ -28,7 +28,6 @@ let
         {"Term", type text},
         {"Sec", type text},
         {"CRN", type text},
-        {"History Title", type text},
         {"Office Hours", type logical},
         {"In Class", type logical},
         {"Grading", type logical},
