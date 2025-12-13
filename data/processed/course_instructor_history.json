@@ -1,2981 +1,1289 @@
-{
-  "COMP 1101": {
-    "Analytical Inquiry I": {
-      "alexander stevens": {
-        "display_name": "Stevens, Alexander L.",
-        "history": []
-      },
-      "gao sky": {
-        "display_name": "Gao, Sky T.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3422",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202470",
-            "section": "3",
-            "crn": "3492",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "3123",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "4",
-            "crn": "5546",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 1201": {
-    "Intro. to Computer Science I": {
-      "alannah oleson": {
-        "display_name": "Oleson, Alannah",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3413",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202470",
-            "section": "2",
-            "crn": "3414",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "10",
-            "crn": "4485",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "3114",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "2",
-            "crn": "3115",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "4",
-            "crn": "3124",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "3",
-            "crn": "5595",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "4",
-            "crn": "3425",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "Ideally, one person for both my sections of 1201 would be great"
-          },
-          {
-            "term": "202470",
-            "section": "9",
-            "crn": "4484",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "Ideally, one person for both my sections of 1201 would be great"
-          }
-        ]
-      },
-      "shrestha sunny": {
-        "display_name": "Shrestha, Sunny",
-        "history": []
-      }
-    }
-  },
-  "COMP 1202": {
-    "Intro. to Computer Science II": {
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "2",
-            "crn": "3323",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "5",
-            "crn": "3358",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "leutenegger scott": {
-        "display_name": "Leutenegger, Scott T.",
-        "history": []
-      }
-    }
-  },
-  "COMP 1203": {
-    "Intro. to Computer Science III": {
-      "alannah oleson": {
-        "display_name": "Oleson, Alannah",
-        "history": []
-      },
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": []
-      },
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": []
-      },
-      "das sanchari": {
-        "display_name": "Das, Sanchari",
-        "history": []
-      }
-    }
-  },
-  "COMP 1351": {
-    "Introduction to Programming I": {
-      "albow mohammed": {
-        "display_name": "Albow, Mohammed M.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "2",
-            "crn": "3416",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202470",
-            "section": "4",
-            "crn": "3418",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202470",
-            "section": "7",
-            "crn": "3421",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "3116",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "alexander stevens": {
-        "display_name": "Stevens, Alexander L.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3415",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "10 hours in total: 2 hours in class, 3 hours",
-            "notes": ""
-          },
-          {
-            "term": "202470",
-            "section": "6",
-            "crn": "3420",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "alvarado juan malaver": {
-        "display_name": "Malaver Alvarado, Juan A.",
-        "history": []
-      },
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": [
-          {
-            "term": "202570",
-            "section": "4",
-            "crn": "3119",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": [
-          {
-            "term": "202570",
-            "section": "2",
-            "crn": "3117",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "christopher gauthierdickey": {
-        "display_name": "GauthierDickey, Christopher J.",
-        "history": []
-      },
-      "edgington jeffrey": {
-        "display_name": "Edgington, Jeffrey M.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "3",
-            "crn": "3417",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202470",
-            "section": "5",
-            "crn": "3419",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "gao sky": {
-        "display_name": "Gao, Sky T.",
-        "history": []
-      },
-      "hidden": {
-        "display_name": "Hidden",
-        "history": [
-          {
-            "term": "202570",
-            "section": "",
-            "crn": "",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "hossain ismail": {
-        "display_name": "Hossain, Ismail",
-        "history": [
-          {
-            "term": "202570",
-            "section": "",
-            "crn": "",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": []
-      },
-      "taami tania": {
-        "display_name": "Taami, Tania",
-        "history": [
-          {
-            "term": "202570",
-            "section": "8",
-            "crn": "5203",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 1352": {
-    "Introduction to Programming II": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "5",
-            "crn": "3337",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "10",
-            "notes": ""
-          }
-        ]
-      },
-      "alexander stevens": {
-        "display_name": "Stevens, Alexander L.",
-        "history": []
-      },
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": []
-      },
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": []
-      },
-      "edgington jeffrey": {
-        "display_name": "Edgington, Jeffrey M.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "4",
-            "crn": "3336",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "10",
-            "notes": ""
-          }
-        ]
-      },
-      "faan liu tone": {
-        "display_name": "Liu, Faan Tone",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "3333",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "10",
-            "notes": "Super important: must be willing to grade assignments on time."
-          },
-          {
-            "term": "202510",
-            "section": "3",
-            "crn": "3335",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "10",
-            "notes": ""
-          }
-        ]
-      },
-      "hossain ismail": {
-        "display_name": "Hossain, Ismail",
-        "history": []
-      }
-    }
-  },
-  "COMP 1353": {
-    "Data Struct. & Algorithms I": {
-      "albow mohammed": {
-        "display_name": "Albow, Mohammed M.",
-        "history": []
-      },
-      "alexander stevens": {
-        "display_name": "Stevens, Alexander L.",
-        "history": []
-      },
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": []
-      },
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": [
-          {
-            "term": "202530",
-            "section": "6",
-            "crn": "3426",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "10 hours/week",
-            "notes": ""
-          },
-          {
-            "term": "202530",
-            "section": "6",
-            "crn": "3426",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "10 hours/week",
-            "notes": ""
-          }
-        ]
-      },
-      "edgington jeffrey": {
-        "display_name": "Edgington, Jeffrey M.",
-        "history": []
-      },
-      "faan liu tone": {
-        "display_name": "Liu, Faan Tone",
-        "history": []
-      },
-      "hossain ismail": {
-        "display_name": "Hossain, Ismail",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "3395",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 2300": {
-    "Discrete Structures in CS": {
-      "alexander stevens": {
-        "display_name": "Stevens, Alexander L.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "3",
-            "crn": "2962",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "2088",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "2",
-            "crn": "3452",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "4097",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "Each week: 1 Hour in Class x2,  1.5 hours of Office Hours x2 grading, grading 3-5 hours",
-            "notes": ""
-          }
-        ]
-      },
-      "faan liu tone": {
-        "display_name": "Liu, Faan Tone",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "2172",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "2 h per section per week in class, 4 OH, all remaining time spent grading",
-            "notes": "Comfortable with content. Willing to grade, and grade on time. Basically likes human beings."
-          },
-          {
-            "term": "202470",
-            "section": "2",
-            "crn": "4205",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "Comfortable with content. Willing to grade, and grade on time. Basically likes human beings."
-          }
-        ]
-      }
-    }
-  },
-  "COMP 2361": {
-    "Systems I": {
-      "albow mohammed": {
-        "display_name": "Albow, Mohammed M.",
-        "history": []
-      },
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": []
-      },
-      "daniel stevenson": {
-        "display_name": "Stevenson, Daniel E.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "4883",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
-            "notes": "C/C++/Linux/assembly. Good helping students with low-level issues."
-          },
-          {
-            "term": "202570",
-            "section": "2",
-            "crn": "5126",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "C/C++/Linux/assembly. Good helping students with low-level issues."
-          }
-        ]
-      }
-    }
-  },
-  "COMP 2362": {
-    "Systems II": {
-      "daniel stevenson": {
-        "display_name": "Stevenson, Daniel E.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "4884",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
-            "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
-          },
-          {
-            "term": "202470",
-            "section": "2",
-            "crn": "4885",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
-            "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
-          },
-          {
-            "term": "202470",
-            "section": "3",
-            "crn": "4886",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
-            "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
-          },
-          {
-            "term": "202570",
-            "section": "3",
-            "crn": "3688",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
-          },
-          {
-            "term": "202570",
-            "section": "4",
-            "crn": "5204",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
-          },
-          {
-            "term": "202510",
-            "section": "0",
-            "crn": "5465",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "10",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 2370": {
-    "Data Struct. & Algorithms II": {
-      "albow mohammed": {
-        "display_name": "Albow, Mohammed M.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "2195",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "2",
-            "crn": "2989",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "alexander stevens": {
-        "display_name": "Stevens, Alexander L.",
-        "history": [
-          {
-            "term": "202530",
-            "section": "0",
-            "crn": "4778",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "10 hours/week",
-            "notes": ""
-          },
-          {
-            "term": "202530",
-            "section": "0",
-            "crn": "4778",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "10 hours/week",
-            "notes": ""
-          }
-        ]
-      },
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": [
-          {
-            "term": "202510",
-            "section": "3",
-            "crn": "4347",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "hossain ismail": {
-        "display_name": "Hossain, Ismail",
-        "history": []
-      }
-    }
-  },
-  "COMP 2381": {
-    "Object-Oriented Software Dev.": {
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3842",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "2nd hour of the class, 8 hours of grading",
-            "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time."
-          },
-          {
-            "term": "202470",
-            "section": "3",
-            "crn": "4093",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "2nd hour of the class, 8 hours of grading",
-            "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time."
-          },
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "3954",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "matthew rutherford": {
-        "display_name": "Rutherford, Matthew J.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "4",
-            "crn": "5584",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "2nd hour of the class, 8 hours of grading",
-            "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time."
-          },
-          {
-            "term": "202570",
-            "section": "4",
-            "crn": "3979",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time.  In-class not needed unless enrollment increases significantly for this section."
-          }
-        ]
-      },
-      "taami tania": {
-        "display_name": "Taami, Tania",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "3331",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time."
-          }
-        ]
-      }
-    }
-  },
-  "COMP 2701": {
-    "Topics in Computer Science": {
-      "albow mohammed": {
-        "display_name": "Albow, Mohammed M.",
-        "history": []
-      },
-      "matthew rutherford": {
-        "display_name": "Rutherford, Matthew J.",
-        "history": []
-      }
-    },
-    "Topics: Unix Command-Line Bootcamp": {
-      "matthew rutherford": {
-        "display_name": "Rutherford, Matthew J.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "5566",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "4488",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 2821": {
-    "Introductory Game Design": {
-      "edgington jeffrey": {
-        "display_name": "Edgington, Jeffrey M.",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "4724",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "3370",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3003": {
-    "Foundations in Comp. Systems": {
-      "evans nathan": {
-        "display_name": "Evans, Nathan S.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3228",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "3-4 hours office hours a week, then grading which should only be 1-2 hours per week. So 6 total?",
-            "notes": "All is good. Anyone is probably fine (:"
-          },
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "2983",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "2",
-            "crn": "5562",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "4 hours of office hours per week",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3004": {
-    "Foundations in Discrete/Algo": {
-      "alexander stevens": {
-        "display_name": "Stevens, Alexander L.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "3330",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3005": {
-    "Foundation: Python Programming": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3844",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "4 Office Hours + 4 Grading",
-            "notes": "Strong Python, lots of patience, open to holding office hours late"
-          }
-        ]
-      },
-      "abdeen ahmed hamed": {
-        "display_name": "Hamed, Ahmed Abdeen",
-        "history": []
-      },
-      "ahmed hamed": {
-        "display_name": "Hamed, Ahmed",
-        "history": [
-          {
-            "term": "202570",
-            "section": "101",
-            "crn": "3332",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": "Strong Python, lots of patience, open to holding office hours late"
-          }
-        ]
-      },
-      "connin sean": {
-        "display_name": "Connin, Sean L.",
-        "history": [
-          {
-            "term": "202570",
-            "section": "3",
-            "crn": "5561",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "Solid Python skills/knowledge. Willing to grade in a thoughtful manner (i.e., feedback) and do it on time. Wont be responsible for office hours. Opportunity to contribute to assignment updates if interested."
-          }
-        ]
-      },
-      "gao sky": {
-        "display_name": "Gao, Sky T.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "5156",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3006": {
-    "Python Software Development": {
-      "abdeen ahmed hamed": {
-        "display_name": "Hamed, Ahmed Abdeen",
-        "history": []
-      },
-      "connin sean": {
-        "display_name": "Connin, Sean L.",
-        "history": []
-      },
-      "crutchfield dalton todd": {
-        "display_name": "Crutchfield-Todd, Dalton J.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "101",
-            "crn": "2725",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2706",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "daniel martin parada san": {
-        "display_name": "Parada San Martin, Daniel A.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "2713",
-            "office_hours": false,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "5",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3007": {
-    "Foundations: DS Math I": {
-      "brendt gerics": {
-        "display_name": "Gerics, Brendt",
-        "history": [
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2707",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3845",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202470",
-            "section": "101",
-            "crn": "2726",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3008": {
-    "Foundations: DS Math II": {
-      "brendt gerics": {
-        "display_name": "Gerics, Brendt",
-        "history": [
-          {
-            "term": "202470",
-            "section": "101",
-            "crn": "2805",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "catherine durso": {
-        "display_name": "Durso, Catherine S.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3846",
-            "office_hours": false,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "4 hours grading",
-            "notes": ""
-          }
-        ]
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2709",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3009": {
-    "Applied Math for DS and AI": {
-      "abdeen ahmed hamed": {
-        "display_name": "Hamed, Ahmed Abdeen",
-        "history": []
-      },
-      "ahmed hamed": {
-        "display_name": "Hamed, Ahmed",
-        "history": [
-          {
-            "term": "202570",
-            "section": "2",
-            "crn": "5472",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": [
-          {
-            "term": "202570",
-            "section": "101",
-            "crn": "4726",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "103",
-            "crn": "5555",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "paul sawle": {
-        "display_name": "Sawle, Paul L.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3100": {
-    "Human-Computer Interaction": {
-      "alannah oleson": {
-        "display_name": "Oleson, Alannah",
-        "history": [
-          {
-            "term": "202570",
-            "section": "2",
-            "crn": "5178",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "Est. 4 hours of in-class per week, 2 office hours, ~4 hours of grading ~= 10 total hours.",
-            "notes": "GTAs should have at least some experience with UX/UI design or HCI and be familiar with design priciniples. Bonus if they have TA'd or taken the class with me before. The TA should be available to be in class to give extra support during studio and active learning activities (which are the second hour of every class day). This means TAs should be comfortable giving constructive feedback and helping students reason through open-ended design problems with no single correct answer."
-          },
-          {
-            "term": "202510",
-            "section": "2",
-            "crn": "3387",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "Est weekly: Grading ~3-4hrs; OH 2hrs. May ask them to lead one class on their research area if applicable to HCI",
-            "notes": "Prefer some background in HCI or UX Design; Prefer experience w/ Figma"
-          }
-        ]
-      },
-      "haring kerstin": {
-        "display_name": "Haring, Kerstin S.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "5555",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "2OH, 4 hours grading",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3200": {
-    "Discrete Structures": {
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "1352",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "Heavy, both grading and office hours",
-            "notes": "Strong background in theory is a must"
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3334": {
-    "Parallel & Distrib Comp DSAI": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3351": {
-    "Programming Languages": {
-      "edgington jeffrey": {
-        "display_name": "Edgington, Jeffrey M.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3352": {
-    "Elements of Compiler Design": {
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": []
-      }
-    }
-  },
-  "COMP 3356": {
-    "Introductory C/C++ Programming": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": []
-      },
-      "petrehn sydney": {
-        "display_name": "Petrehn, Sydney M.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3361": {
-    "Operating Systems I": {
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": [
-          {
-            "term": "202470",
-            "section": "2",
-            "crn": "4202",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "4 OH +4 in class + classwork and homework grading",
-            "notes": "Important to have someone who has taken the course with me"
-          },
-          {
-            "term": "202570",
-            "section": "3",
-            "crn": "5359",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "I estimate, on average, 2 hours of in-class time, 4 hours of office hours, and 6-8 hours grading, per week.",
-            "notes": "GTA should have preferably taken the course before with me and familiar with SOS."
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3371": {
-    "Data Structures &  Algorithms": {
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3372": {
-    "Advanced Algorithms": {
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3381": {
-    "Software Engineering I": {
-      "matthew rutherford": {
-        "display_name": "Rutherford, Matthew J.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "3935",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "Medium; assignment grading is a bit of a pain and project might require some office hours help",
-            "notes": "Interest in software engineering / business is helpful."
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3382": {
-    "Software Engineering II": {
-      "matthew rutherford": {
-        "display_name": "Rutherford, Matthew J.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3410": {
-    "Web Programming I": {
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": []
-      }
-    },
-    "World Wide Web Programming": {
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "0",
-            "crn": "5041",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "Anyone with web programming experience"
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3411": {
-    "Web Programming II": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": []
-      },
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3421": {
-    "Database Organization & Mgmt I": {
-      "dalton donald": {
-        "display_name": "Dalton, Donald A.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "2748",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "8 hours grading plus 2 hours of office hours",
-            "notes": "They have combined the COMP3421 grad student class with the undergrad section.  As a result, I have 40 students so I will need a TA to hold office hours and there is a lot more grading to be done."
-          },
-          {
-            "term": "202470",
-            "section": "2",
-            "crn": "5721",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "8 hours grading plus 2 hours of office hours",
-            "notes": "They have combined the COMP3421 grad student class with the undergrad section.  As a result, I have 40 students so I will need a TA to hold office hours and there is a lot more grading to be done."
-          },
-          {
-            "term": "202570",
-            "section": "102",
-            "crn": "5214",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "Needs to know SQL and Mongo.  Grading weekly homework and exams should take 3 hours a week.",
-            "notes": ""
-          }
-        ]
-      },
-      "mashinchi navid": {
-        "display_name": "Mashinchi, Navid",
-        "history": [
-          {
-            "term": "202470",
-            "section": "101",
-            "crn": "2915",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "101",
-            "crn": "2733",
-            "office_hours": false,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "Should have some familiarity with Relational Algebra, SQL and MongoDB.  Grading weekly homework and exams should take 3 hours a week.",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "5256",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2710",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3432": {
-    "Machine Learning": {
-      "conway maxwell": {
-        "display_name": "Conway, Maxwell L.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3433": {
-    "Data Visualization": {
-      "benjamin siebrase": {
-        "display_name": "Siebrase, Benjamin E.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3441": {
-    "Probability and Statistics 1": {
-      "catherine durso": {
-        "display_name": "Durso, Catherine S.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3490": {
-    "Understanding AI": {
-      "benjamin xie": {
-        "display_name": "Xie, Benjamin X.",
-        "history": []
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "5566",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3501": {
-    "Intro Artificial Intelligence": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "3186",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "Taken class before or have experience in AI research or implementation."
-          }
-        ]
-      },
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3509",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "4 Office Hours, 6 Grading/ Canvas Management",
-            "notes": "Ideally, someone who took the course with me would be great. Good Python skills and a broad knowledge of AI required"
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3510": {
-    "Software for AI Robotics": {
-      "christopher reardon": {
-        "display_name": "Reardon, Christopher M.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3525": {
-    "Human Centered AI": {
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3591": {
-    "Computational Geometry": {
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "5158",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "Heavy, both grading and office hours",
-            "notes": "Strong background in theory is a must"
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3621": {
-    "Computer Networking": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3514",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "4 Office Hours + 6 Hours Grading",
-            "notes": "Strong Python and previous networking experience, open to holding office hours late"
-          },
-          {
-            "term": "202570",
-            "section": "2",
-            "crn": "5563",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": "Knowledge of computer networking principles and programming. Open to holding office hours late."
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3701": {
-    "Topics in Computer Graphics": {
-      "leutenegger scott": {
-        "display_name": "Leutenegger, Scott T.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3703": {
-    "Topics-Artificial Intelligence": {
-      "christopher gauthierdickey": {
-        "display_name": "GauthierDickey, Christopher J.",
-        "history": []
-      },
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": []
-      },
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "5176",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "Very high commitment.  Agreed with the chair that will try to have recitation sections on Friday to make up lack of background. Requesting the equivalent of 1.5 full time GTAs to help out.",
-            "notes": "Most students are missing at least one of linear algebra, probability, calculus and many are missing two."
-          }
-        ]
-      },
-      "petrehn sydney": {
-        "display_name": "Petrehn, Sydney M.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3704": {
-    "Advanced Topics: Systems": {
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": []
-      },
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": []
-      },
-      "kara nance": {
-        "display_name": "Nance, Kara L.",
-        "history": []
-      },
-      "matthew rutherford": {
-        "display_name": "Rutherford, Matthew J.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3705": {
-    "Rust-programming": {
-      "edgington jeffrey": {
-        "display_name": "Edgington, Jeffrey M.",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "3956",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    },
-    "Topics in Computer Science": {
-      "abdeen ahmed hamed": {
-        "display_name": "Hamed, Ahmed Abdeen",
-        "history": []
-      },
-      "alannah oleson": {
-        "display_name": "Oleson, Alannah",
-        "history": []
-      },
-      "catherine durso": {
-        "display_name": "Durso, Catherine S.",
-        "history": []
-      },
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": []
-      },
-      "edgington jeffrey": {
-        "display_name": "Edgington, Jeffrey M.",
-        "history": []
-      },
-      "faan liu tone": {
-        "display_name": "Liu, Faan Tone",
-        "history": []
-      },
-      "haring kerstin": {
-        "display_name": "Haring, Kerstin S.",
-        "history": []
-      },
-      "hollenbach katherine": {
-        "display_name": "Hollenbach, Katherine",
-        "history": []
-      },
-      "matthew rutherford": {
-        "display_name": "Rutherford, Matthew J.",
-        "history": []
-      },
-      "taami tania": {
-        "display_name": "Taami, Tania",
-        "history": []
-      }
-    },
-    "Topics- Robot Ethics": {
-      "haring kerstin": {
-        "display_name": "Haring, Kerstin S.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "5164",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "medium",
-            "notes": "class has not been taught in a while, will require TA to do/learn on the spot, need for experienced, interdisciplinary TA"
-          }
-        ]
-      }
-    },
-    "Topics- Secure Computation": {
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": [
-          {
-            "term": "202510",
-            "section": "2",
-            "crn": "5226",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "Heavy grading",
-            "notes": "Nidhi is the only graduate student who has taken this theory course before; course is cross listed"
-          }
-        ]
-      }
-    },
-    "Topics: Internet Security": {
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "5554",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "4 OH + grading",
-            "notes": "Course is also cross-listed at 4000-level; someone with Python experience and familiar with security concepts and libraries"
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3721": {
-    "Computer Security": {
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "3161",
-            "office_hours": true,
-            "in_class": true,
-            "grading": true,
-            "time_commitment": "I estimate, on average, 4 hours of in-class time, 4 hours of office hours, and 6-8 hours grading, per week.",
-            "notes": "GTA should have preferably taken the course before with me and familiar with Security."
-          }
-        ]
-      },
-      "das sanchari": {
-        "display_name": "Das, Sanchari",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "3479",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3722": {
-    "Network Security": {
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": []
-      }
-    }
-  },
-  "COMP 3723": {
-    "Ethical Hacking": {
-      "evans nathan": {
-        "display_name": "Evans, Nathan S.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3731": {
-    "Computer Forensics": {
-      "kara nance": {
-        "display_name": "Nance, Kara L.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "2294",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3732": {
-    "Human-Centered Data Sec & Priv": {
-      "das sanchari": {
-        "display_name": "Das, Sanchari",
-        "history": []
-      }
-    }
-  },
-  "COMP 3801": {
-    "Introduction Computer Graphics": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3820": {
-    "Intro to Game Programming": {
-      "dunagan ryan": {
-        "display_name": "Dunagan, Ryan A.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3821": {
-    "Game Programming I": {
-      "christopher gauthierdickey": {
-        "display_name": "GauthierDickey, Christopher J.",
-        "history": []
-      },
-      "dunagan ryan": {
-        "display_name": "Dunagan, Ryan A.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3822": {
-    "Game Programming II": {
-      "dunagan ryan": {
-        "display_name": "Dunagan, Ryan A.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3831": {
-    "Game Prototyping": {
-      "gansciu serban": {
-        "display_name": "Gansciu, Serban B.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "2",
-            "crn": "3214",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "2",
-            "crn": "2972",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3832": {
-    "Game Capstone I": {
-      "gansciu serban": {
-        "display_name": "Gansciu, Serban B.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "2083",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 3833": {
-    "Game Capstone II": {
-      "gansciu serban": {
-        "display_name": "Gansciu, Serban B.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3904": {
-    "Internship/Co-Op in Computing": {
-      "albow mohammed": {
-        "display_name": "Albow, Mohammed M.",
-        "history": []
-      },
-      "alexander stevens": {
-        "display_name": "Stevens, Alexander L.",
-        "history": []
-      },
-      "catherine durso": {
-        "display_name": "Durso, Catherine S.",
-        "history": []
-      },
-      "christopher gauthierdickey": {
-        "display_name": "GauthierDickey, Christopher J.",
-        "history": []
-      },
-      "connin sean": {
-        "display_name": "Connin, Sean L.",
-        "history": []
-      },
-      "daniel stevenson": {
-        "display_name": "Stevenson, Daniel E.",
-        "history": []
-      },
-      "das sanchari": {
-        "display_name": "Das, Sanchari",
-        "history": []
-      },
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": []
-      },
-      "edgington jeffrey": {
-        "display_name": "Edgington, Jeffrey M.",
-        "history": []
-      },
-      "evans nathan": {
-        "display_name": "Evans, Nathan S.",
-        "history": []
-      },
-      "faan liu tone": {
-        "display_name": "Liu, Faan Tone",
-        "history": []
-      },
-      "haring kerstin": {
-        "display_name": "Haring, Kerstin S.",
-        "history": []
-      },
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": []
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": []
-      },
-      "leutenegger scott": {
-        "display_name": "Leutenegger, Scott T.",
-        "history": []
-      },
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": []
-      },
-      "matthew rutherford": {
-        "display_name": "Rutherford, Matthew J.",
-        "history": []
-      },
-      "paul sawle": {
-        "display_name": "Sawle, Paul L.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3991": {
-    "IS: Online Sexual Health Ed.": {
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": []
-      }
-    },
-    "Introduction to Rust": {
-      "christopher gauthierdickey": {
-        "display_name": "GauthierDickey, Christopher J.",
-        "history": []
-      }
-    },
-    "Web2App:MobileDev": {
-      "haring kerstin": {
-        "display_name": "Haring, Kerstin S.",
-        "history": []
-      }
-    }
-  },
-  "COMP 3995": {
-    "Independent Research": {
-      "alannah oleson": {
-        "display_name": "Oleson, Alannah",
-        "history": []
-      },
-      "albow mohammed": {
-        "display_name": "Albow, Mohammed M.",
-        "history": []
-      },
-      "alexander stevens": {
-        "display_name": "Stevens, Alexander L.",
-        "history": []
-      },
-      "christopher gauthierdickey": {
-        "display_name": "GauthierDickey, Christopher J.",
-        "history": []
-      },
-      "dali sun": {
-        "display_name": "Sun, Dali",
-        "history": []
-      },
-      "dunagan ryan": {
-        "display_name": "Dunagan, Ryan A.",
-        "history": []
-      },
-      "mahoor mohammad": {
-        "display_name": "Mahoor, Mohammad H.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4100": {
-    "Human-Computer Interaction": {
-      "alannah oleson": {
-        "display_name": "Oleson, Alannah",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "3327",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "haring kerstin": {
-        "display_name": "Haring, Kerstin S.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "1",
-            "crn": "5696",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4334": {
-    "Parallel & Distrib Comp DSAI": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": []
-      },
-      "daskevich": {
-        "display_name": "Daskevich",
-        "history": [
-          {
-            "term": "202570",
-            "section": "101",
-            "crn": "4734",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "daskevich ronald": {
-        "display_name": "Daskevich, Ronald J.",
-        "history": []
-      },
-      "mashinchi navid": {
-        "display_name": "Mashinchi, Navid",
-        "history": []
-      }
-    },
-    "Parallel & Distrib Comp for DS": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "3950",
-            "office_hours": true,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "10",
-            "notes": "If noone with previous experience, need solid python skills and basic knowledge of P/D"
-          }
-        ]
-      },
-      "daskevich ronald": {
-        "display_name": "Daskevich, Ronald J.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2980",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4372": {
-    "Advanced Algorithms": {
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4384": {
-    "Secure Software Engineering": {
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": []
-      }
-    }
-  },
-  "COMP 4401": {
-    "Python for Data Science": {
-      "connin sean": {
-        "display_name": "Connin, Sean L.",
-        "history": []
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4432": {
-    "Machine Learning": {
-      "dalton donald": {
-        "display_name": "Dalton, Donald A.",
-        "history": []
-      },
-      "paul sawle": {
-        "display_name": "Sawle, Paul L.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "101",
-            "crn": "2928",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202570",
-            "section": "101",
-            "crn": "2746",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "3964",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2981",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4433": {
-    "Data Visualization": {
-      "benjamin siebrase": {
-        "display_name": "Siebrase, Benjamin E.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2982",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "daniel martin parada san": {
-        "display_name": "Parada San Martin, Daniel A.",
-        "history": []
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4441": {
-    "Probability and Statistics 1": {
-      "catherine durso": {
-        "display_name": "Durso, Catherine S.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "2298",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      },
-      "chan julian": {
-        "display_name": "Chan, Julian D.",
-        "history": []
-      },
-      "michelle vered": {
-        "display_name": "Vered, Michelle N.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "101",
-            "crn": "2708",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2711",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4442": {
-    "Probability and Statistics 2": {
-      "catherine durso": {
-        "display_name": "Durso, Catherine S.",
-        "history": []
-      },
-      "chan julian": {
-        "display_name": "Chan, Julian D.",
-        "history": [
-          {
-            "term": "202470",
-            "section": "101",
-            "crn": "2806",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          },
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2983",
-            "office_hours": false,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "One homework set a week with instructions. It is hard to say the exact amount of time but the difficulty level is low.",
-            "notes": "Grading support is preffered but not essential."
-          }
-        ]
-      },
-      "christensen wendy": {
-        "display_name": "Christensen, Wendy N.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4447": {
-    "Data Science Tools 1": {
-      "dalton donald": {
-        "display_name": "Dalton, Donald A.",
-        "history": []
-      },
-      "daniel martin parada san": {
-        "display_name": "Parada San Martin, Daniel A.",
-        "history": []
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": []
-      },
-      "rahim rasool": {
-        "display_name": "Rasool, Rahim",
-        "history": [
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2714",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4448": {
-    "Data Science Tools 2": {
-      "dalton donald": {
-        "display_name": "Dalton, Donald A.",
-        "history": []
-      },
-      "daniel martin parada san": {
-        "display_name": "Parada San Martin, Daniel A.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2984",
-            "office_hours": false,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "5",
-            "notes": ""
-          }
-        ]
-      },
-      "paul sawle": {
-        "display_name": "Sawle, Paul L.",
-        "history": []
-      },
-      "rahim rasool": {
-        "display_name": "Rasool, Rahim",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "3965",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4449": {
-    "DS & AI Capstone": {
-      "rahim rasool": {
-        "display_name": "Rasool, Rahim",
-        "history": []
-      }
-    },
-    "Data Science Capstone": {
-      "connin sean": {
-        "display_name": "Connin, Sean L.",
-        "history": []
-      },
-      "dalton donald": {
-        "display_name": "Dalton, Donald A.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2985",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "really, really  low",
-            "notes": "One student so I am obviously not goign to get a TA"
-          }
-        ]
-      },
-      "neba nfonsang": {
-        "display_name": "Nfonsang, Neba A.",
-        "history": []
-      },
-      "paul sawle": {
-        "display_name": "Sawle, Paul L.",
-        "history": []
-      },
-      "rahim rasool": {
-        "display_name": "Rasool, Rahim",
-        "history": []
-      }
-    }
-  },
-  "COMP 4450": {
-    "Machine Learning Operations": {
-      "rahim rasool": {
-        "display_name": "Rasool, Rahim",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "5054",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4455": {
-    "Shell Scripting & Sys Tools": {
-      "evans nathan": {
-        "display_name": "Evans, Nathan S.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4490": {
-    "Understanding AI": {
-      "benjamin xie": {
-        "display_name": "Xie, Benjamin X.",
-        "history": []
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4501": {
-    "Introduction to AI": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": []
-      },
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4510": {
-    "Software for AI Robotics": {
-      "christopher reardon": {
-        "display_name": "Reardon, Christopher M.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4520": {
-    "Advanced Machine Learning": {
-      "mahoor mohammad": {
-        "display_name": "Mahoor, Mohammad H.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4525": {
-    "Adv. Human Centered AI": {
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4531": {
-    "Deep Learning": {
-      "dalton donald": {
-        "display_name": "Dalton, Donald A.",
-        "history": [
-          {
-            "term": "202570",
-            "section": "101",
-            "crn": "3398",
-            "office_hours": false,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "Grading weekly homework should take 2 hours per week",
-            "notes": "Needs to know Keras and tensorflow or pytorch or jax."
-          },
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "3967",
-            "office_hours": false,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "weekly assignments that don't take that long to grade",
-            "notes": ""
-          }
-        ]
-      },
-      "li william": {
-        "display_name": "Li, William Y.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4581": {
-    "Algorithms for DS & AI": {
-      "catherine durso": {
-        "display_name": "Durso, Catherine S.",
-        "history": []
-      },
-      "cathy durso": {
-        "display_name": "Durso, Cathy",
-        "history": [
-          {
-            "term": "202570",
-            "section": "1",
-            "crn": "3399",
-            "office_hours": false,
-            "in_class": false,
-            "grading": true,
-            "time_commitment": "4 hours/week",
-            "notes": "requires Python, intro algorithms and data structures"
-          }
-        ]
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": []
-      }
-    },
-    "Algorithms for Data Science": {
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "101",
-            "crn": "2712",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "2 to 3 hours per week",
-            "notes": "Some grading support is welcome albeit not essential."
-          }
-        ]
-      }
-    },
-    "Algorithms for Data Science&AI": {
-      "daniel martin parada san": {
-        "display_name": "Parada San Martin, Daniel A.",
-        "history": []
-      },
-      "kossek wojciech": {
-        "display_name": "Kossek, Wojciech K.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4591": {
-    "Computational Geometry": {
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "5159",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4621": {
-    "Computer Networking": {
-      "aaron kraft": {
-        "display_name": "Kraft, Aaron R.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4703": {
-    "Adv Topics-Artificial Intell": {
-      "christopher gauthierdickey": {
-        "display_name": "GauthierDickey, Christopher J.",
-        "history": []
-      },
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": []
-      },
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": []
-      },
-      "petrehn sydney": {
-        "display_name": "Petrehn, Sydney M.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4704": {
-    "Advanced Topics-Systems": {
-      "andrew hannum": {
-        "display_name": "Hannum, Andrew T.",
-        "history": []
-      },
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": []
-      },
-      "kara nance": {
-        "display_name": "Nance, Kara L.",
-        "history": []
-      }
-    },
-    "Topics- Secure Computation": {
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": [
-          {
-            "term": "202510",
-            "section": "1",
-            "crn": "5160",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4705": {
-    "Advanced Topics-Programming": {
-      "abdeen ahmed hamed": {
-        "display_name": "Hamed, Ahmed Abdeen",
-        "history": []
-      },
-      "catherine durso": {
-        "display_name": "Durso, Catherine S.",
-        "history": []
-      },
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": []
-      },
-      "edgington jeffrey": {
-        "display_name": "Edgington, Jeffrey M.",
-        "history": []
-      },
-      "faan liu tone": {
-        "display_name": "Liu, Faan Tone",
-        "history": []
-      },
-      "haring kerstin": {
-        "display_name": "Haring, Kerstin S.",
-        "history": []
-      },
-      "rahim rasool": {
-        "display_name": "Rasool, Rahim",
-        "history": []
-      }
-    },
-    "Topics- Robot Ethics": {
-      "haring kerstin": {
-        "display_name": "Haring, Kerstin S.",
-        "history": [
-          {
-            "term": "202510",
-            "section": "2",
-            "crn": "5208",
-            "office_hours": false,
-            "in_class": false,
-            "grading": false,
-            "time_commitment": "",
-            "notes": ""
-          }
-        ]
-      }
-    }
-  },
-  "COMP 4721": {
-    "Computer Security": {
-      "anjum iffat": {
-        "display_name": "Anjum, Iffat",
-        "history": []
-      }
-    }
-  },
-  "COMP 4722": {
-    "Network Security": {
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": []
-      }
-    }
-  },
-  "COMP 4723": {
-    "Ethical Hacking": {
-      "evans nathan": {
-        "display_name": "Evans, Nathan S.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4732": {
-    "Human-Centered Data Sec & Priv": {
-      "das sanchari": {
-        "display_name": "Das, Sanchari",
-        "history": []
-      }
-    }
-  },
-  "COMP 4799": {
-    "Cybersecurity Capstone": {
-      "christopher gauthierdickey": {
-        "display_name": "GauthierDickey, Christopher J.",
-        "history": []
-      },
-      "evans nathan": {
-        "display_name": "Evans, Nathan S.",
-        "history": []
-      }
-    }
-  },
-  "COMP 4995": {
-    "Independent Research": {
-      "benjamin xie": {
-        "display_name": "Xie, Benjamin X.",
-        "history": []
-      },
-      "christopher gauthierdickey": {
-        "display_name": "GauthierDickey, Christopher J.",
-        "history": []
-      },
-      "christopher reardon": {
-        "display_name": "Reardon, Christopher M.",
-        "history": []
-      },
-      "das sanchari": {
-        "display_name": "Das, Sanchari",
-        "history": []
-      },
-      "dewri rinku": {
-        "display_name": "Dewri, Rinku",
-        "history": []
-      },
-      "haring kerstin": {
-        "display_name": "Haring, Kerstin S.",
-        "history": []
-      },
-      "hutt stephen": {
-        "display_name": "Hutt, Stephen J.",
-        "history": []
-      },
-      "kara nance": {
-        "display_name": "Nance, Kara L.",
-        "history": []
-      },
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": []
-      },
-      "mahoor mohammad": {
-        "display_name": "Mahoor, Mohammad H.",
-        "history": []
-      }
-    }
-  },
-  "COMP 5995": {
-    "Independent Research": {
-      "albow mohammed": {
-        "display_name": "Albow, Mohammed M.",
-        "history": []
-      },
-      "lopez mario": {
-        "display_name": "Lopez, Mario A.",
-        "history": []
-      },
-      "mahoor mohammad": {
-        "display_name": "Mahoor, Mohammad H.",
-        "history": []
-      },
-      "matthew rutherford": {
-        "display_name": "Rutherford, Matthew J.",
-        "history": []
-      }
-    }
+[
+  {
+    "course": "COMP 1101",
+    "instructor": "Gao, Sky T.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1101",
+    "instructor": "Gao, Sky T.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1101",
+    "instructor": "Gao, Sky T.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1101",
+    "instructor": "Gao, Sky T.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1201",
+    "instructor": "Oleson, Alannah",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1201",
+    "instructor": "Oleson, Alannah",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1201",
+    "instructor": "Hannum, Andrew T.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1201",
+    "instructor": "Hannum, Andrew T.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1201",
+    "instructor": "Hannum, Andrew T.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1201",
+    "instructor": "Hannum, Andrew T.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1201",
+    "instructor": "Hannum, Andrew T.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1201",
+    "instructor": "Hutt, Stephen J.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "Ideally, one person for both my sections of 1201 would be great"
+  },
+  {
+    "course": "COMP 1201",
+    "instructor": "Hutt, Stephen J.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "Ideally, one person for both my sections of 1201 would be great"
+  },
+  {
+    "course": "COMP 1202",
+    "instructor": "Hannum, Andrew T.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1202",
+    "instructor": "Hannum, Andrew T.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Albow, Mohammed M.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Albow, Mohammed M.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Albow, Mohammed M.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Albow, Mohammed M.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Stevens, Alexander L.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "10 hours in total: 2 hours in class, 3 hours",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Stevens, Alexander L.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Hannum, Andrew T.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Anjum, Iffat",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Edgington, Jeffrey M.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Edgington, Jeffrey M.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Hidden",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Hossain, Ismail",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1351",
+    "instructor": "Taami, Tania",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1352",
+    "instructor": "Kraft, Aaron R.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "10",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1352",
+    "instructor": "Edgington, Jeffrey M.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "10",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1352",
+    "instructor": "Liu, Faan Tone",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "10",
+    "notes": "Super important: must be willing to grade assignments on time."
+  },
+  {
+    "course": "COMP 1352",
+    "instructor": "Liu, Faan Tone",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "10",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1353",
+    "instructor": "Anjum, Iffat",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "10 hours/week",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1353",
+    "instructor": "Anjum, Iffat",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "10 hours/week",
+    "notes": ""
+  },
+  {
+    "course": "COMP 1353",
+    "instructor": "Hossain, Ismail",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2300",
+    "instructor": "Stevens, Alexander L.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2300",
+    "instructor": "Stevens, Alexander L.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2300",
+    "instructor": "Stevens, Alexander L.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2300",
+    "instructor": "Stevens, Alexander L.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "Each week: 1 Hour in Class x2,  1.5 hours of Office Hours x2 grading, grading 3-5 hours",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2300",
+    "instructor": "Liu, Faan Tone",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "2 h per section per week in class, 4 OH, all remaining time spent grading",
+    "notes": "Comfortable with content. Willing to grade, and grade on time. Basically likes human beings."
+  },
+  {
+    "course": "COMP 2300",
+    "instructor": "Liu, Faan Tone",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "Comfortable with content. Willing to grade, and grade on time. Basically likes human beings."
+  },
+  {
+    "course": "COMP 2361",
+    "instructor": "Stevenson, Daniel E.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
+    "notes": "C/C++/Linux/assembly. Good helping students with low-level issues."
+  },
+  {
+    "course": "COMP 2361",
+    "instructor": "Stevenson, Daniel E.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "C/C++/Linux/assembly. Good helping students with low-level issues."
+  },
+  {
+    "course": "COMP 2362",
+    "instructor": "Stevenson, Daniel E.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
+    "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
+  },
+  {
+    "course": "COMP 2362",
+    "instructor": "Stevenson, Daniel E.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
+    "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
+  },
+  {
+    "course": "COMP 2362",
+    "instructor": "Stevenson, Daniel E.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "2h in class Wed, 3 hours OH, rest grading",
+    "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
+  },
+  {
+    "course": "COMP 2362",
+    "instructor": "Stevenson, Daniel E.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
+  },
+  {
+    "course": "COMP 2362",
+    "instructor": "Stevenson, Daniel E.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "C++/Java/Python. Threading and Socket knowledge.  Good helping students with OS style issues."
+  },
+  {
+    "course": "COMP 2362",
+    "instructor": "Stevenson, Daniel E.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "10",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2370",
+    "instructor": "Albow, Mohammed M.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2370",
+    "instructor": "Albow, Mohammed M.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2370",
+    "instructor": "Stevens, Alexander L.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "10 hours/week",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2370",
+    "instructor": "Stevens, Alexander L.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "10 hours/week",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2370",
+    "instructor": "Anjum, Iffat",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2381",
+    "instructor": "Anjum, Iffat",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "2nd hour of the class, 8 hours of grading",
+    "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time."
+  },
+  {
+    "course": "COMP 2381",
+    "instructor": "Anjum, Iffat",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "2nd hour of the class, 8 hours of grading",
+    "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time."
+  },
+  {
+    "course": "COMP 2381",
+    "instructor": "Anjum, Iffat",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2381",
+    "instructor": "Rutherford, Matthew J.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "2nd hour of the class, 8 hours of grading",
+    "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time."
+  },
+  {
+    "course": "COMP 2381",
+    "instructor": "Rutherford, Matthew J.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time.  In-class not needed unless enrollment increases significantly for this section."
+  },
+  {
+    "course": "COMP 2381",
+    "instructor": "Taami, Tania",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "Java, OOP. Comfortable with content. Willing to grade, and grade on time."
+  },
+  {
+    "course": "COMP 2701",
+    "instructor": "Rutherford, Matthew J.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2701",
+    "instructor": "Rutherford, Matthew J.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2821",
+    "instructor": "Edgington, Jeffrey M.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 2821",
+    "instructor": "Edgington, Jeffrey M.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3003",
+    "instructor": "Evans, Nathan S.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "3-4 hours office hours a week, then grading which should only be 1-2 hours per week. So 6 total?",
+    "notes": "All is good. Anyone is probably fine (:"
+  },
+  {
+    "course": "COMP 3003",
+    "instructor": "Evans, Nathan S.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3003",
+    "instructor": "Evans, Nathan S.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "4 hours of office hours per week",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3004",
+    "instructor": "Stevens, Alexander L.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3005",
+    "instructor": "Kraft, Aaron R.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "4 Office Hours + 4 Grading",
+    "notes": "Strong Python, lots of patience, open to holding office hours late"
+  },
+  {
+    "course": "COMP 3005",
+    "instructor": "Hamed, Ahmed",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": "Strong Python, lots of patience, open to holding office hours late"
+  },
+  {
+    "course": "COMP 3005",
+    "instructor": "Connin, Sean L.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "Solid Python skills/knowledge. Willing to grade in a thoughtful manner (i.e., feedback) and do it on time. Wont be responsible for office hours. Opportunity to contribute to assignment updates if interested."
+  },
+  {
+    "course": "COMP 3005",
+    "instructor": "Gao, Sky T.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3006",
+    "instructor": "Crutchfield-Todd, Dalton J.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3006",
+    "instructor": "Crutchfield-Todd, Dalton J.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3006",
+    "instructor": "Parada San Martin, Daniel A.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "5",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3007",
+    "instructor": "Gerics, Brendt",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3007",
+    "instructor": "Kossek, Wojciech K.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3007",
+    "instructor": "Kossek, Wojciech K.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3008",
+    "instructor": "Gerics, Brendt",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3008",
+    "instructor": "Durso, Catherine S.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "4 hours grading",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3008",
+    "instructor": "Kossek, Wojciech K.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3009",
+    "instructor": "Hamed, Ahmed",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3009",
+    "instructor": "Kossek, Wojciech K.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3009",
+    "instructor": "Kossek, Wojciech K.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3100",
+    "instructor": "Oleson, Alannah",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "Est. 4 hours of in-class per week, 2 office hours, ~4 hours of grading ~= 10 total hours.",
+    "notes": "GTAs should have at least some experience with UX/UI design or HCI and be familiar with design priciniples. Bonus if they have TA'd or taken the class with me before. The TA should be available to be in class to give extra support during studio and active learning activities (which are the second hour of every class day). This means TAs should be comfortable giving constructive feedback and helping students reason through open-ended design problems with no single correct answer."
+  },
+  {
+    "course": "COMP 3100",
+    "instructor": "Oleson, Alannah",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "Est weekly: Grading ~3-4hrs; OH 2hrs. May ask them to lead one class on their research area if applicable to HCI",
+    "notes": "Prefer some background in HCI or UX Design; Prefer experience w/ Figma"
+  },
+  {
+    "course": "COMP 3100",
+    "instructor": "Haring, Kerstin S.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "2OH, 4 hours grading",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3200",
+    "instructor": "Lopez, Mario A.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "Heavy, both grading and office hours",
+    "notes": "Strong background in theory is a must"
+  },
+  {
+    "course": "COMP 3361",
+    "instructor": "Dewri, Rinku",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "4 OH +4 in class + classwork and homework grading",
+    "notes": "Important to have someone who has taken the course with me"
+  },
+  {
+    "course": "COMP 3361",
+    "instructor": "Dewri, Rinku",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "I estimate, on average, 2 hours of in-class time, 4 hours of office hours, and 6-8 hours grading, per week.",
+    "notes": "GTA should have preferably taken the course before with me and familiar with SOS."
+  },
+  {
+    "course": "COMP 3381",
+    "instructor": "Rutherford, Matthew J.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "Medium; assignment grading is a bit of a pain and project might require some office hours help",
+    "notes": "Interest in software engineering / business is helpful."
+  },
+  {
+    "course": "COMP 3410",
+    "instructor": "Hannum, Andrew T.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "Anyone with web programming experience"
+  },
+  {
+    "course": "COMP 3421",
+    "instructor": "Dalton, Donald A.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "8 hours grading plus 2 hours of office hours",
+    "notes": "They have combined the COMP3421 grad student class with the undergrad section.  As a result, I have 40 students so I will need a TA to hold office hours and there is a lot more grading to be done."
+  },
+  {
+    "course": "COMP 3421",
+    "instructor": "Dalton, Donald A.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "8 hours grading plus 2 hours of office hours",
+    "notes": "They have combined the COMP3421 grad student class with the undergrad section.  As a result, I have 40 students so I will need a TA to hold office hours and there is a lot more grading to be done."
+  },
+  {
+    "course": "COMP 3421",
+    "instructor": "Dalton, Donald A.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "Needs to know SQL and Mongo.  Grading weekly homework and exams should take 3 hours a week.",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3421",
+    "instructor": "Mashinchi, Navid",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3421",
+    "instructor": "Mashinchi, Navid",
+    "office_hours": false,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "Should have some familiarity with Relational Algebra, SQL and MongoDB.  Grading weekly homework and exams should take 3 hours a week.",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3421",
+    "instructor": "Mashinchi, Navid",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3421",
+    "instructor": "Mashinchi, Navid",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3490",
+    "instructor": "Kossek, Wojciech K.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3501",
+    "instructor": "Kraft, Aaron R.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "Taken class before or have experience in AI research or implementation."
+  },
+  {
+    "course": "COMP 3501",
+    "instructor": "Hutt, Stephen J.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "4 Office Hours, 6 Grading/ Canvas Management",
+    "notes": "Ideally, someone who took the course with me would be great. Good Python skills and a broad knowledge of AI required"
+  },
+  {
+    "course": "COMP 3591",
+    "instructor": "Lopez, Mario A.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "Heavy, both grading and office hours",
+    "notes": "Strong background in theory is a must"
+  },
+  {
+    "course": "COMP 3621",
+    "instructor": "Kraft, Aaron R.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "4 Office Hours + 6 Hours Grading",
+    "notes": "Strong Python and previous networking experience, open to holding office hours late"
+  },
+  {
+    "course": "COMP 3621",
+    "instructor": "Kraft, Aaron R.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": "Knowledge of computer networking principles and programming. Open to holding office hours late."
+  },
+  {
+    "course": "COMP 3703",
+    "instructor": "Lopez, Mario A.",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "Very high commitment.  Agreed with the chair that will try to have recitation sections on Friday to make up lack of background. Requesting the equivalent of 1.5 full time GTAs to help out.",
+    "notes": "Most students are missing at least one of linear algebra, probability, calculus and many are missing two."
+  },
+  {
+    "course": "COMP 3705",
+    "instructor": "Edgington, Jeffrey M.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3705",
+    "instructor": "Haring, Kerstin S.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "medium",
+    "notes": "class has not been taught in a while, will require TA to do/learn on the spot, need for experienced, interdisciplinary TA"
+  },
+  {
+    "course": "COMP 3705",
+    "instructor": "Dewri, Rinku",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "Heavy grading",
+    "notes": "Nidhi is the only graduate student who has taken this theory course before; course is cross listed"
+  },
+  {
+    "course": "COMP 3705",
+    "instructor": "Dewri, Rinku",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "4 OH + grading",
+    "notes": "Course is also cross-listed at 4000-level; someone with Python experience and familiar with security concepts and libraries"
+  },
+  {
+    "course": "COMP 3721",
+    "instructor": "Anjum, Iffat",
+    "office_hours": true,
+    "in_class": true,
+    "grading": true,
+    "time_commitment": "I estimate, on average, 4 hours of in-class time, 4 hours of office hours, and 6-8 hours grading, per week.",
+    "notes": "GTA should have preferably taken the course before with me and familiar with Security."
+  },
+  {
+    "course": "COMP 3721",
+    "instructor": "Das, Sanchari",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3731",
+    "instructor": "Nance, Kara L.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3831",
+    "instructor": "Gansciu, Serban B.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3831",
+    "instructor": "Gansciu, Serban B.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 3832",
+    "instructor": "Gansciu, Serban B.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4100",
+    "instructor": "Oleson, Alannah",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4100",
+    "instructor": "Haring, Kerstin S.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4334",
+    "instructor": "Daskevich",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4334",
+    "instructor": "Kraft, Aaron R.",
+    "office_hours": true,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "10",
+    "notes": "If noone with previous experience, need solid python skills and basic knowledge of P/D"
+  },
+  {
+    "course": "COMP 4334",
+    "instructor": "Daskevich, Ronald J.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4432",
+    "instructor": "Sawle, Paul L.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4432",
+    "instructor": "Sawle, Paul L.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4432",
+    "instructor": "Sawle, Paul L.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4432",
+    "instructor": "Sawle, Paul L.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4433",
+    "instructor": "Siebrase, Benjamin E.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4441",
+    "instructor": "Durso, Catherine S.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4441",
+    "instructor": "Vered, Michelle N.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4441",
+    "instructor": "Vered, Michelle N.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4442",
+    "instructor": "Chan, Julian D.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4442",
+    "instructor": "Chan, Julian D.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "One homework set a week with instructions. It is hard to say the exact amount of time but the difficulty level is low.",
+    "notes": "Grading support is preffered but not essential."
+  },
+  {
+    "course": "COMP 4447",
+    "instructor": "Rasool, Rahim",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4448",
+    "instructor": "Parada San Martin, Daniel A.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "5",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4448",
+    "instructor": "Rasool, Rahim",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4449",
+    "instructor": "Dalton, Donald A.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "really, really  low",
+    "notes": "One student so I am obviously not goign to get a TA"
+  },
+  {
+    "course": "COMP 4450",
+    "instructor": "Rasool, Rahim",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4531",
+    "instructor": "Dalton, Donald A.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "Grading weekly homework should take 2 hours per week",
+    "notes": "Needs to know Keras and tensorflow or pytorch or jax."
+  },
+  {
+    "course": "COMP 4531",
+    "instructor": "Dalton, Donald A.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "weekly assignments that don't take that long to grade",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4581",
+    "instructor": "Durso, Cathy",
+    "office_hours": false,
+    "in_class": false,
+    "grading": true,
+    "time_commitment": "4 hours/week",
+    "notes": "requires Python, intro algorithms and data structures"
+  },
+  {
+    "course": "COMP 4581",
+    "instructor": "Kossek, Wojciech K.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "2 to 3 hours per week",
+    "notes": "Some grading support is welcome albeit not essential."
+  },
+  {
+    "course": "COMP 4591",
+    "instructor": "Lopez, Mario A.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4704",
+    "instructor": "Dewri, Rinku",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
+  },
+  {
+    "course": "COMP 4705",
+    "instructor": "Haring, Kerstin S.",
+    "office_hours": false,
+    "in_class": false,
+    "grading": false,
+    "time_commitment": "",
+    "notes": ""
   }
-}
+]
