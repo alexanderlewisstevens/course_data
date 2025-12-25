@@ -31,7 +31,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202610,ALL,COMP,Computer Science,5009,COMP 3490,1,Understanding AI,Lecture,05-JAN-2026 to 16-MAR-2026,4:00PM-5:50PM,"T,R",4,ECS 410,"Xie, Benjamin X.",30,8,17-MAR-2026 to 17-MAR-2026,4:00PM-5:50PM,T,ECS 410,
 202610,ALL,COMP,Computer Science,4689,COMP 3701,1,Topics in Computer Graphics,Lecture,05-JAN-2026 to 16-MAR-2026,2:00PM-3:50PM,"M,W",4,ECS 300,"Leutenegger, Scott T.",40,32,18-MAR-2026 to 18-MAR-2026,2:00PM-3:50PM,W,ECS 300,
 202610,ALL,COMP,Computer Science,4921,COMP 3703,1,Topics-Artificial Intelligence,Lecture,05-JAN-2026 to 16-MAR-2026,7:00PM-8:50PM,"T,R",4,ECS 200,"Petrehn, Sydney M.",10,8,,,,,
-202610,ALL,COMP,Computer Science,3952,COMP 3705,2,Topics in Computer Science,Lecture,05-JAN-2026 to 16-MAR-2026,5:00PM-6:50PM,"T,R",4,ECS 300,"Dewri, Rinku",15,14,,,,,
+202610,ALL,COMP,Computer Science,3952,COMP 3705,2,Topics in Computer Science,Lecture,05-JAN-2026 to 16-MAR-2026,5:00PM-6:50PM,"T,R",4,ECS 300,"Dewri, Rinku",15,15,,,,,
 202610,ALL,COMP,Computer Science,4691,COMP 3705,4,Topics in Computer Science,Lecture,05-JAN-2026 to 16-MAR-2026,10:00AM-11:50AM,"M,W",4,ECS 201,"Edgington, Jeffrey M.",31,28,18-MAR-2026 to 18-MAR-2026,10:00AM-11:50AM,W,ECS 201,
 202610,ALL,COMP,Computer Science,4692,COMP 3705,6,Topics in Computer Science,Lecture,05-JAN-2026 to 16-MAR-2026,2:00PM-3:50PM,"T,R",4,ECS 400,"Taami, Tania",30,16,17-MAR-2026 to 17-MAR-2026,2:00PM-3:50PM,T,ECS 400,
 202610,ALL,COMP,Computer Science,4693,COMP 3705,7,Topics in Computer Science,Lecture,05-JAN-2026 to 16-MAR-2026,2:00PM-3:50PM,"M,W",4,ECS 200,"Hamed, Ahmed Abdeen",29,27,18-MAR-2026 to 18-MAR-2026,2:00PM-3:50PM,W,ECS 200,
