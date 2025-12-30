@@ -1,38 +1,70 @@
 let
-    Source = Json.Document(Web.Contents("https://raw.githubusercontent.com/alexanderlewisstevens/course_data/main/data/processed/course_instructor_history.json")),
+    Url =
+        "https://raw.githubusercontent.com/alexanderlewisstevens/course_data/refs/heads/main/data/processed/course_instructor_history.json",
+
+    Source = Json.Document(
+        Web.Contents(
+            Url,
+            [Headers=[Accept="application/json", #"User-Agent"="Excel-PowerQuery"]]
+        )
+    ),
+
     Courses = Record.ToTable(Source),
-    #"Renamed Course" = Table.RenameColumns(Courses, {{"Name", "Course"}}),
-    #"Titles As Table" = Table.ExpandTableColumn(
-        Table.AddColumn(#"Renamed Course", "Titles", each Record.ToTable([Value])),
-        "Titles",
-        {"Name", "Value"},
-        {"Title", "InstructorMap"}
+    CoursesRenamed = Table.RenameColumns(Courses, {{"Name","Course"}, {"Value","TitlesRecord"}}),
+
+    TitlesToRows = Table.AddColumn(CoursesRenamed, "TitlesTable", each Record.ToTable([TitlesRecord])),
+    TitlesExpanded = Table.ExpandTableColumn(TitlesToRows, "TitlesTable", {"Name","Value"}, {"CourseTitle","InstructorsRecord"}),
+
+    InstructorsToRows = Table.AddColumn(TitlesExpanded, "InstructorsTable", each Record.ToTable([InstructorsRecord])),
+    InstructorsExpanded = Table.ExpandTableColumn(InstructorsToRows, "InstructorsTable", {"Name","Value"}, {"InstructorKey","InstructorRecord"}),
+
+    InstructorFields = Table.ExpandRecordColumn(
+        InstructorsExpanded,
+        "InstructorRecord",
+        {"display_name","history"},
+        {"DisplayName","History"}
     ),
-    #"Instructors As Table" = Table.ExpandTableColumn(
-        Table.AddColumn(#"Titles As Table", "InstructorTable", each Record.ToTable([InstructorMap])),
-        "InstructorTable",
-        {"Name", "Value"},
-        {"CanonicalId", "InstructorData"}
+
+    HistoryNormalized = Table.TransformColumns(
+        InstructorFields,
+        {{"History", each if _ is list and List.Count(_) = 0 then {null} else _, type list}}
     ),
-    #"Expanded InstructorData" = Table.ExpandRecordColumn(#"Instructors As Table", "InstructorData", {"display_name", "history"}, {"Display Name", "History"}),
-    #"Expanded History" = Table.ExpandListColumn(#"Expanded InstructorData", "History"),
-    #"Expanded History Records" = Table.ExpandRecordColumn(#"Expanded History", "History",
-        {"term","section","crn","office_hours","in_class","grading","time_commitment","notes"},
-        {"Term","Sec","CRN","Office Hours","In Class","Grading","Time Commitment","Notes"}
+
+    HistoryToRows = Table.ExpandListColumn(HistoryNormalized, "History"),
+
+    HistoryExpanded = Table.ExpandRecordColumn(
+        HistoryToRows,
+        "History",
+        {"term","section","crn","title","office_hours","in_class","grading","time_commitment","notes"},
+        {"Term","Section","CRN","HistTitle","OfficeHours","InClass","Grading","TimeCommitment","Notes"}
     ),
-    #"Typed" = Table.TransformColumnTypes(#"Expanded History Records",{
-        {"Course", type text},
-        {"Title", type text},
-        {"CanonicalId", type text},
-        {"Display Name", type text},
-        {"Term", type text},
-        {"Sec", type text},
-        {"CRN", type text},
-        {"Office Hours", type logical},
-        {"In Class", type logical},
-        {"Grading", type logical},
-        {"Time Commitment", type text},
-        {"Notes", type text}
-    })
+
+    RemovedContainers = Table.RemoveColumns(HistoryExpanded, {"TitlesRecord","InstructorsRecord"}),
+
+    Typed = Table.TransformColumnTypes(
+        RemovedContainers,
+        {
+            {"Course", type text},
+            {"CourseTitle", type text},
+            {"InstructorKey", type text},
+            {"DisplayName", type text},
+            {"Term", type text},
+            {"Section", type text},
+            {"CRN", type text},
+            {"HistTitle", type text},
+            {"OfficeHours", type logical},
+            {"InClass", type logical},
+            {"Grading", type logical},
+            {"TimeCommitment", type text},
+            {"Notes", type text}
+        }
+    ),
+
+    Reordered = Table.ReorderColumns(
+        Typed,
+        {"Course","CourseTitle","InstructorKey","DisplayName","Term","Section","CRN","HistTitle","OfficeHours","InClass","Grading","TimeCommitment","Notes"}
+    ),
+
+    Final = Table.Buffer(Reordered)
 in
-    #"Typed"
+    Final
