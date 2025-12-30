@@ -182,9 +182,9 @@
     "room": "ECS 301",
     "instructor": "Stevens, Alexander L.",
     "seats": 39,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "4285",
@@ -488,9 +488,9 @@
     "room": "CMK 301",
     "instructor": "Durso, Catherine S.",
     "seats": 5,
-    "enrolled": 5,
+    "enrolled": 4,
     "crosslisted_enrollment": 8,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "5009",
@@ -607,9 +607,9 @@
     "room": "ECS 200",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 29,
-    "enrolled": 27,
+    "enrolled": 26,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 28
+    "total_enrollment": 27
   },
   {
     "crn": "4696",
@@ -778,8 +778,8 @@
     "instructor": "Durso, Catherine S.",
     "seats": 25,
     "enrolled": 8,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 13
+    "crosslisted_enrollment": 4,
+    "total_enrollment": 12
   },
   {
     "crn": "2578",
