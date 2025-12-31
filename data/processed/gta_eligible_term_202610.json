@@ -29,9 +29,9 @@
     "room": "ECS 200",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "3023",
@@ -63,9 +63,9 @@
     "room": "ECS 300",
     "instructor": "Leutenegger, Scott T.",
     "seats": 35,
-    "enrolled": 17,
+    "enrolled": 18,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 18
   },
   {
     "crn": "3025",
@@ -301,9 +301,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 30,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "2580",
@@ -540,8 +540,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 8,
-    "crosslisted_enrollment": 10,
-    "total_enrollment": 18
+    "crosslisted_enrollment": 11,
+    "total_enrollment": 19
   },
   {
     "crn": "3952",
@@ -557,8 +557,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 15,
-    "crosslisted_enrollment": 10,
-    "total_enrollment": 25
+    "crosslisted_enrollment": 11,
+    "total_enrollment": 26
   },
   {
     "crn": "4691",
@@ -896,9 +896,9 @@
     "room": "ECS 200",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 8,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "4289",
@@ -913,8 +913,8 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 15,
-    "total_enrollment": 25
+    "total_enrollment": 26
   }
 ]
