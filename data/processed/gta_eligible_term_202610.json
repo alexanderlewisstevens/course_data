@@ -438,8 +438,8 @@
     "instructor": "Lopez, Mario A.",
     "seats": 30,
     "enrolled": 5,
-    "crosslisted_enrollment": 6,
-    "total_enrollment": 11
+    "crosslisted_enrollment": 5,
+    "total_enrollment": 10
   },
   {
     "crn": "3318",
@@ -573,9 +573,9 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 31,
-    "enrolled": 29,
+    "enrolled": 30,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 30
   },
   {
     "crn": "4692",
@@ -726,9 +726,9 @@
     "room": "ECS 200",
     "instructor": "Lopez, Mario A.",
     "seats": 5,
-    "enrolled": 6,
+    "enrolled": 5,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 11
+    "total_enrollment": 10
   },
   {
     "crn": "2790",
