@@ -134,7 +134,7 @@
     "room": "ECS 300",
     "instructor": "Leutenegger, Scott T.",
     "seats": 35,
-    "enrolled": 22,
+    "enrolled": 23,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -171,7 +171,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 35,
-    "total_enrollment": 22,
+    "total_enrollment": 23,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3023",
     "conflicts": "3026,3325,4690,4996,5061"
@@ -1877,8 +1877,8 @@
     "crosslist": "4916",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 19,
-    "crosslisted_enrollment": 11,
+    "total_enrollment": 20,
+    "crosslisted_enrollment": 12,
     "conflicts": "2789,2790,2791,4274"
   },
   {
@@ -1936,8 +1936,8 @@
     "crosslist": "4289",
     "lower_crosslist": true,
     "total_seats": 40,
-    "total_enrollment": 26,
-    "crosslisted_enrollment": 11,
+    "total_enrollment": 27,
+    "crosslisted_enrollment": 12,
     "conflicts": "2213,2573,2579,3318,3334,4274,4287,5009,5010,5011,5060"
   },
   {
@@ -3744,7 +3744,7 @@
     "room": "ECS 200",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 11,
+    "enrolled": 12,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3782,7 +3782,7 @@
     "crosslist": "4921",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 19,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 8,
     "conflicts": "2789,2790,2791,4274"
   },
@@ -3803,7 +3803,7 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 25,
-    "enrolled": 11,
+    "enrolled": 12,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3841,7 +3841,7 @@
     "crosslist": "3952",
     "lower_crosslist": false,
     "total_seats": 40,
-    "total_enrollment": 26,
+    "total_enrollment": 27,
     "crosslisted_enrollment": 15,
     "conflicts": "2213,2573,2579,3318,3334,4274,4287,5009,5010,5011,5060"
   },
