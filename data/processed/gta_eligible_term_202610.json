@@ -12,9 +12,9 @@
     "room": "STURM 480",
     "instructor": "Gao, Sky T.",
     "seats": 31,
-    "enrolled": 31,
+    "enrolled": 30,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 31
+    "total_enrollment": 30
   },
   {
     "crn": "5008",
@@ -131,9 +131,9 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "3033",
@@ -182,9 +182,9 @@
     "room": "ECS 301",
     "instructor": "Stevens, Alexander L.",
     "seats": 39,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "4285",
@@ -301,9 +301,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 30,
-    "enrolled": 19,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "2580",
@@ -335,9 +335,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 25,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 24
   },
   {
     "crn": "4984",
@@ -352,9 +352,9 @@
     "room": "ECS 201",
     "instructor": "Kossek, Wojciech K.",
     "seats": 20,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "5035",
@@ -386,9 +386,9 @@
     "room": "ECS 201",
     "instructor": "Lopez, Mario A.",
     "seats": 30,
-    "enrolled": 23,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 23
+    "total_enrollment": 22
   },
   {
     "crn": "5053",
@@ -557,8 +557,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 15,
-    "crosslisted_enrollment": 12,
-    "total_enrollment": 27
+    "crosslisted_enrollment": 13,
+    "total_enrollment": 28
   },
   {
     "crn": "4691",
@@ -607,9 +607,9 @@
     "room": "ECS 200",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 29,
-    "enrolled": 26,
+    "enrolled": 27,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 27
+    "total_enrollment": 28
   },
   {
     "crn": "4696",
@@ -913,8 +913,8 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 25,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 15,
-    "total_enrollment": 27
+    "total_enrollment": 28
   }
 ]
