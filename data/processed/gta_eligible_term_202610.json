@@ -80,9 +80,9 @@
     "room": "ECS 301",
     "instructor": "Leutenegger, Scott T.",
     "seats": 39,
-    "enrolled": 39,
+    "enrolled": 38,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 39
+    "total_enrollment": 38
   },
   {
     "crn": "3026",
@@ -573,9 +573,9 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 31,
-    "enrolled": 30,
+    "enrolled": 31,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 31
   },
   {
     "crn": "4692",
@@ -607,9 +607,9 @@
     "room": "ECS 200",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 29,
-    "enrolled": 27,
+    "enrolled": 26,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 28
+    "total_enrollment": 27
   },
   {
     "crn": "4696",
@@ -624,9 +624,9 @@
     "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "4273",
