@@ -12,9 +12,9 @@
     "room": "STURM 480",
     "instructor": "Gao, Sky T.",
     "seats": 31,
-    "enrolled": 30,
+    "enrolled": 31,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 31
   },
   {
     "crn": "5008",
@@ -182,9 +182,9 @@
     "room": "ECS 301",
     "instructor": "Stevens, Alexander L.",
     "seats": 39,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "4285",
@@ -301,9 +301,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 30,
-    "enrolled": 20,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 21
   },
   {
     "crn": "2580",
@@ -352,9 +352,9 @@
     "room": "ECS 201",
     "instructor": "Kossek, Wojciech K.",
     "seats": 20,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "5035",
@@ -386,9 +386,9 @@
     "room": "ECS 201",
     "instructor": "Lopez, Mario A.",
     "seats": 30,
-    "enrolled": 22,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 21
   },
   {
     "crn": "5053",
@@ -539,9 +539,9 @@
     "room": "ECS 200",
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 12,
-    "total_enrollment": 20
+    "total_enrollment": 21
   },
   {
     "crn": "3952",
@@ -624,9 +624,9 @@
     "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "4273",
@@ -845,9 +845,9 @@
     "room": "SIE 3120",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "3334",
@@ -897,8 +897,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
     "enrolled": 12,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 20
+    "crosslisted_enrollment": 9,
+    "total_enrollment": 21
   },
   {
     "crn": "4289",
