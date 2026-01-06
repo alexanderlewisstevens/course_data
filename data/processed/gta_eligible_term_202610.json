@@ -182,9 +182,9 @@
     "room": "ECS 301",
     "instructor": "Stevens, Alexander L.",
     "seats": 39,
-    "enrolled": 16,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 15
   },
   {
     "crn": "4285",
@@ -233,9 +233,9 @@
     "room": "ECS 301",
     "instructor": "Hossain, Ismail",
     "seats": 40,
-    "enrolled": 13,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "3325",
@@ -250,9 +250,9 @@
     "room": "ECS 301",
     "instructor": "Taami, Tania",
     "seats": 25,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "3618",
@@ -318,9 +318,9 @@
     "room": "ECS 200",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 30,
-    "enrolled": 25,
+    "enrolled": 26,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 26
   },
   {
     "crn": "2573",
@@ -352,9 +352,9 @@
     "room": "ECS 201",
     "instructor": "Kossek, Wojciech K.",
     "seats": 20,
-    "enrolled": 14,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 12
   },
   {
     "crn": "5035",
@@ -368,10 +368,10 @@
     "hours": "4",
     "room": "",
     "instructor": "Sawle, Paul L.",
-    "seats": 20,
-    "enrolled": 20,
+    "seats": 25,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 23
   },
   {
     "crn": "1330",
@@ -386,9 +386,9 @@
     "room": "ECS 201",
     "instructor": "Lopez, Mario A.",
     "seats": 30,
-    "enrolled": 21,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 20
   },
   {
     "crn": "5053",
@@ -454,9 +454,9 @@
     "room": "ECS 201",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 14,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 16
   },
   {
     "crn": "3824",
@@ -522,9 +522,9 @@
     "room": "ECS 300",
     "instructor": "Leutenegger, Scott T.",
     "seats": 40,
-    "enrolled": 34,
+    "enrolled": 36,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 34
+    "total_enrollment": 36
   },
   {
     "crn": "4921",
@@ -590,9 +590,9 @@
     "room": "ECS 400",
     "instructor": "Taami, Tania",
     "seats": 30,
-    "enrolled": 17,
+    "enrolled": 18,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 18
   },
   {
     "crn": "4693",
@@ -607,9 +607,9 @@
     "room": "ECS 200",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 29,
-    "enrolled": 27,
+    "enrolled": 29,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 28
+    "total_enrollment": 30
   },
   {
     "crn": "4696",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "Mashinchi, Navid",
     "seats": 25,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "5011",
@@ -811,9 +811,9 @@
     "room": "",
     "instructor": "Rasool, Rahim",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "5010",
