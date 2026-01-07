@@ -539,9 +539,9 @@
     "room": "ECS 200",
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
-    "enrolled": 8,
+    "enrolled": 7,
     "crosslisted_enrollment": 13,
-    "total_enrollment": 21
+    "total_enrollment": 20
   },
   {
     "crn": "3952",
@@ -897,8 +897,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
     "enrolled": 13,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 21
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 20
   },
   {
     "crn": "4289",

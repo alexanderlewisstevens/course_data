@@ -1839,7 +1839,7 @@
     "room": "ECS 200",
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
-    "enrolled": 8,
+    "enrolled": 7,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -1877,7 +1877,7 @@
     "crosslist": "4916",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 21,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 13,
     "conflicts": "2789,2790,2791,4274"
   },
@@ -3782,8 +3782,8 @@
     "crosslist": "4921",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 21,
-    "crosslisted_enrollment": 8,
+    "total_enrollment": 20,
+    "crosslisted_enrollment": 7,
     "conflicts": "2789,2790,2791,4274"
   },
   {
@@ -4462,6 +4462,62 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2453",
+    "conflicts": ""
+  },
+  {
+    "term": "202610",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5426",
+    "course": "COMP 5995",
+    "section": "2",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "05-JAN-2026 to 20-MAR-2026",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Lopez, Mario A.",
+    "seats": 15,
+    "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2026-01-05",
+        "end": "2026-03-20"
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "2026-01-05",
+    "date_end": "2026-03-20",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "5426",
     "conflicts": ""
   },
   {
