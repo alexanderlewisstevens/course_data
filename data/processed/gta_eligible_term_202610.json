@@ -29,9 +29,9 @@
     "room": "ECS 200",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "3023",
@@ -97,9 +97,9 @@
     "room": "ECS 401",
     "instructor": "Hannum, Andrew T.",
     "seats": 28,
-    "enrolled": 23,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 23
+    "total_enrollment": 22
   },
   {
     "crn": "3031",
@@ -148,9 +148,9 @@
     "room": "ECS 200",
     "instructor": "Hossain, Ismail",
     "seats": 20,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 6
   },
   {
     "crn": "3034",
@@ -267,9 +267,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 11,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 10
   },
   {
     "crn": "3029",
@@ -369,9 +369,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 24,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 23
   },
   {
     "crn": "1330",
@@ -403,9 +403,9 @@
     "room": "ECS 200",
     "instructor": "Kraft, Aaron R.",
     "seats": 12,
-    "enrolled": 8,
+    "enrolled": 7,
     "crosslisted_enrollment": 11,
-    "total_enrollment": 19
+    "total_enrollment": 18
   },
   {
     "crn": "4996",
@@ -454,9 +454,9 @@
     "room": "ECS 201",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 16,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 15
   },
   {
     "crn": "3824",
@@ -471,9 +471,9 @@
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
     "seats": 36,
-    "enrolled": 37,
+    "enrolled": 36,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 37
+    "total_enrollment": 36
   },
   {
     "crn": "5060",
@@ -540,8 +540,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 7,
-    "crosslisted_enrollment": 13,
-    "total_enrollment": 20
+    "crosslisted_enrollment": 14,
+    "total_enrollment": 21
   },
   {
     "crn": "3952",
@@ -556,9 +556,9 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 20,
-    "enrolled": 17,
+    "enrolled": 18,
     "crosslisted_enrollment": 13,
-    "total_enrollment": 30
+    "total_enrollment": 31
   },
   {
     "crn": "4691",
@@ -693,8 +693,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 17,
     "enrolled": 11,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 19
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 18
   },
   {
     "crn": "2789",
@@ -845,9 +845,9 @@
     "room": "SIE 3120",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
-    "enrolled": 10,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 8
   },
   {
     "crn": "3334",
@@ -896,9 +896,9 @@
     "room": "ECS 200",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 7,
-    "total_enrollment": 20
+    "total_enrollment": 21
   },
   {
     "crn": "4289",
@@ -914,7 +914,7 @@
     "instructor": "Dewri, Rinku",
     "seats": 25,
     "enrolled": 13,
-    "crosslisted_enrollment": 17,
-    "total_enrollment": 30
+    "crosslisted_enrollment": 18,
+    "total_enrollment": 31
   }
 ]
