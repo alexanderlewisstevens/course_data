@@ -352,9 +352,9 @@
     "room": "ECS 201",
     "instructor": "Kossek, Wojciech K.",
     "seats": 20,
-    "enrolled": 11,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 10
   },
   {
     "crn": "5035",
@@ -540,8 +540,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 5,
-    "crosslisted_enrollment": 17,
-    "total_enrollment": 22
+    "crosslisted_enrollment": 16,
+    "total_enrollment": 21
   },
   {
     "crn": "3952",
@@ -590,9 +590,9 @@
     "room": "ECS 400",
     "instructor": "Taami, Tania",
     "seats": 30,
-    "enrolled": 18,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 17
   },
   {
     "crn": "4693",
@@ -607,9 +607,9 @@
     "room": "ECS 200",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 31,
-    "enrolled": 29,
+    "enrolled": 28,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "4696",
@@ -896,9 +896,9 @@
     "room": "ECS 200",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 17,
+    "enrolled": 16,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 22
+    "total_enrollment": 21
   },
   {
     "crn": "4289",
