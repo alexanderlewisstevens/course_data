@@ -272,23 +272,6 @@
     "total_enrollment": 10
   },
   {
-    "crn": "3029",
-    "course": "COMP 3004",
-    "section": "1",
-    "title": "Foundations in Discrete/Algo",
-    "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Stevens, Alexander L.",
-    "seats": 25,
-    "enrolled": 19,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 19
-  },
-  {
     "crn": "3901",
     "course": "COMP 3005",
     "section": "1",

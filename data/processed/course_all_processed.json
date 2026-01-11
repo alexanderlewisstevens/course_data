@@ -705,7 +705,7 @@
     "total_enrollment": 36,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4285",
-    "conflicts": "2578,3029,3324,3901,5053"
+    "conflicts": "2578,3324,3901,5053"
   },
   {
     "term": "202610",
@@ -949,13 +949,13 @@
     "course": "COMP 3004",
     "section": "1",
     "title": "Foundations in Discrete/Algo",
-    "course_type": "Lecture/Lab",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "M,W",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
     "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Stevens, Alexander L.",
+    "room": "",
+    "instructor": "",
     "seats": 25,
     "enrolled": 19,
     "exam_meeting_dates": "",
@@ -965,39 +965,36 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
       },
       "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
+        "list": [],
+        "canonical": ""
       },
       "dates": {
-        "start": "2026-01-05",
-        "end": "2026-03-16"
+        "start": "",
+        "end": ""
       }
     },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-01-05",
-    "date_end": "2026-03-16",
-    "gta_eligible": true,
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
     "total_enrollment": 19,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3029",
-    "conflicts": "2013,2578,3324,3901,4273,4285,5053"
+    "conflicts": ""
   },
   {
     "term": "202610",
@@ -1055,7 +1052,7 @@
     "total_enrollment": 21,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3901",
-    "conflicts": "2013,2578,3029,3324,4273,4285,5053"
+    "conflicts": "2013,2578,3324,4273,4285,5053"
   },
   {
     "term": "202610",
@@ -1407,7 +1404,7 @@
     "total_seats": 29,
     "total_enrollment": 18,
     "crosslisted_enrollment": 11,
-    "conflicts": "2013,2578,3029,3901,4273,4285"
+    "conflicts": "2013,2578,3901,4273,4285"
   },
   {
     "term": "202610",
@@ -2233,7 +2230,7 @@
     "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4273",
-    "conflicts": "2013,2578,2580,2794,3029,3324,3901,4984,5035,5053"
+    "conflicts": "2013,2578,2580,2794,3324,3901,4984,5035,5053"
   },
   {
     "term": "202610",
@@ -2350,7 +2347,7 @@
     "total_enrollment": 11,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2013",
-    "conflicts": "2578,2580,2794,3029,3324,3901,4273,4984,5053"
+    "conflicts": "2578,2580,2794,3324,3901,4273,4984,5053"
   },
   {
     "term": "202610",
@@ -3083,7 +3080,7 @@
     "total_seats": 29,
     "total_enrollment": 18,
     "crosslisted_enrollment": 7,
-    "conflicts": "2013,2578,3029,3901,4273,4285"
+    "conflicts": "2013,2578,3901,4273,4285"
   },
   {
     "term": "202610",
@@ -3433,7 +3430,7 @@
     "total_enrollment": 25,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2578",
-    "conflicts": "2013,3029,3324,3901,4273,4285,5053"
+    "conflicts": "2013,3324,3901,4273,4285,5053"
   },
   {
     "term": "202610",
