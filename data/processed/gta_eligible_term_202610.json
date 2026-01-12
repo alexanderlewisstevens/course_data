@@ -233,9 +233,9 @@
     "room": "ECS 301",
     "instructor": "Hossain, Ismail",
     "seats": 40,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "3325",
@@ -250,9 +250,9 @@
     "room": "ECS 301",
     "instructor": "Taami, Tania",
     "seats": 25,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "3618",
@@ -270,91 +270,6 @@
     "enrolled": 10,
     "crosslisted_enrollment": 0,
     "total_enrollment": 10
-  },
-  {
-    "crn": "3901",
-    "course": "COMP 3005",
-    "section": "1",
-    "title": "Foundation: Python Programming",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "Connin, Sean L.",
-    "seats": 30,
-    "enrolled": 21,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 21
-  },
-  {
-    "crn": "2580",
-    "course": "COMP 3006",
-    "section": "1",
-    "title": "Python Software Development",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Hamed, Ahmed Abdeen",
-    "seats": 30,
-    "enrolled": 25,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 25
-  },
-  {
-    "crn": "2573",
-    "course": "COMP 3006",
-    "section": "101",
-    "title": "Python Software Development",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Connin, Sean L.",
-    "seats": 25,
-    "enrolled": 24,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 24
-  },
-  {
-    "crn": "4984",
-    "course": "COMP 3009",
-    "section": "1",
-    "title": "Applied Math for DS and AI",
-    "course_type": "Lecture",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": 20,
-    "enrolled": 9,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 9
-  },
-  {
-    "crn": "5035",
-    "course": "COMP 3009",
-    "section": "101",
-    "title": "Applied Math for DS and AI",
-    "course_type": "Online/Distance",
-    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "M",
-    "hours": "4",
-    "room": "",
-    "instructor": "Sawle, Paul L.",
-    "seats": 25,
-    "enrolled": 21,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 21
   },
   {
     "crn": "1330",
@@ -454,9 +369,9 @@
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
     "seats": 36,
-    "enrolled": 36,
+    "enrolled": 35,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 36
+    "total_enrollment": 35
   },
   {
     "crn": "5060",
