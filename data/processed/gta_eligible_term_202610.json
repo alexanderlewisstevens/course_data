@@ -318,9 +318,9 @@
     "room": "ECS 400",
     "instructor": "Anjum, Iffat",
     "seats": 28,
-    "enrolled": 25,
+    "enrolled": 26,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 26
   },
   {
     "crn": "4287",
@@ -743,9 +743,9 @@
     "room": "SIE 3120",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
-    "enrolled": 8,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 7
   },
   {
     "crn": "3334",
