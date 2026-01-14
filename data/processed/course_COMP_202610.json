@@ -705,7 +705,7 @@
     "total_enrollment": 36,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4285",
-    "conflicts": "2578,3324,5053"
+    "conflicts": "2578,3029,3324,3901,5053"
   },
   {
     "term": "202610",
@@ -949,13 +949,13 @@
     "course": "COMP 3004",
     "section": "1",
     "title": "Foundations in Discrete/Algo",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "M,W",
     "hours": "4",
-    "room": "",
-    "instructor": "",
+    "room": "ECS 201",
+    "instructor": "Stevens, Alexander L.",
     "seats": 25,
     "enrolled": 19,
     "exam_meeting_dates": "",
@@ -965,36 +965,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-01-05",
+        "end": "2026-03-16"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-01-05",
+    "date_end": "2026-03-16",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
     "total_enrollment": 19,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3029",
-    "conflicts": ""
+    "conflicts": "2013,2578,3324,3901,4273,4285,5053"
   },
   {
     "term": "202610",
@@ -1005,13 +1008,13 @@
     "course": "COMP 3005",
     "section": "1",
     "title": "Foundation: Python Programming",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Online/Distance",
+    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "W",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Connin, Sean L.",
     "seats": 30,
     "enrolled": 21,
     "exam_meeting_dates": "",
@@ -1021,36 +1024,38 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "W"
+        ],
+        "canonical": "W"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-01-05",
+        "end": "2026-03-16"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "W",
+    "days_list": "W",
+    "date_start": "2026-01-05",
+    "date_end": "2026-03-16",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 21,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3901",
-    "conflicts": ""
+    "conflicts": "2013,2578,3029,3324,4273,4285,5053"
   },
   {
     "term": "202610",
@@ -1061,13 +1066,13 @@
     "course": "COMP 3006",
     "section": "1",
     "title": "Python Software Development",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "M,W",
     "hours": "4",
-    "room": "",
-    "instructor": "",
+    "room": "ECS 200",
+    "instructor": "Hamed, Ahmed Abdeen",
     "seats": 30,
     "enrolled": 25,
     "exam_meeting_dates": "",
@@ -1077,36 +1082,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-01-05",
+        "end": "2026-03-16"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-01-05",
+    "date_end": "2026-03-16",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 25,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2580",
-    "conflicts": ""
+    "conflicts": "2013,2794,4273,4984,5035"
   },
   {
     "term": "202610",
@@ -1117,13 +1125,13 @@
     "course": "COMP 3006",
     "section": "101",
     "title": "Python Software Development",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Online/Distance",
+    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Connin, Sean L.",
     "seats": 25,
     "enrolled": 24,
     "exam_meeting_dates": "",
@@ -1133,36 +1141,38 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-01-05",
+        "end": "2026-03-16"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2026-01-05",
+    "date_end": "2026-03-16",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
     "total_enrollment": 24,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2573",
-    "conflicts": ""
+    "conflicts": "2213,2579,3318,3952,4274,4287,4289,5009,5010,5011,5060"
   },
   {
     "term": "202610",
@@ -1173,13 +1183,13 @@
     "course": "COMP 3009",
     "section": "1",
     "title": "Applied Math for DS and AI",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "05-JAN-2026 to 20-MAR-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "M,W",
     "hours": "4",
-    "room": "",
-    "instructor": "",
+    "room": "ECS 201",
+    "instructor": "Kossek, Wojciech K.",
     "seats": 20,
     "enrolled": 9,
     "exam_meeting_dates": "",
@@ -1189,36 +1199,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-01-05",
+        "end": "2026-03-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-01-05",
+    "date_end": "2026-03-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 20,
     "total_enrollment": 9,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4984",
-    "conflicts": ""
+    "conflicts": "2013,2580,2794,4273,5035"
   },
   {
     "term": "202610",
@@ -1229,13 +1242,13 @@
     "course": "COMP 3009",
     "section": "101",
     "title": "Applied Math for DS and AI",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Online/Distance",
+    "meeting_dates": "05-JAN-2026 to 16-MAR-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "M",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Sawle, Paul L.",
     "seats": 25,
     "enrolled": 20,
     "exam_meeting_dates": "",
@@ -1245,36 +1258,38 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "M"
+        ],
+        "canonical": "M"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-01-05",
+        "end": "2026-03-16"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "M",
+    "days_list": "M",
+    "date_start": "2026-01-05",
+    "date_end": "2026-03-16",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
     "total_enrollment": 20,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "5035",
-    "conflicts": ""
+    "conflicts": "2580,4273,4984"
   },
   {
     "term": "202610",
@@ -1392,7 +1407,7 @@
     "total_seats": 29,
     "total_enrollment": 18,
     "crosslisted_enrollment": 11,
-    "conflicts": "2013,2578,4273,4285"
+    "conflicts": "2013,2578,3029,3901,4273,4285"
   },
   {
     "term": "202610",
@@ -1510,7 +1525,7 @@
     "total_seats": 35,
     "total_enrollment": 10,
     "crosslisted_enrollment": 5,
-    "conflicts": "2213,2579,3318,3334,3952,4289,5009,5010,5060"
+    "conflicts": "2213,2573,2579,3318,3334,3952,4289,5009,5010,5060"
   },
   {
     "term": "202610",
@@ -1569,7 +1584,7 @@
     "total_enrollment": 12,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3318",
-    "conflicts": "2213,2579,3334,3952,4287,4289,5009,5010,5011,5060"
+    "conflicts": "2213,2573,2579,3334,3952,4287,4289,5009,5010,5011,5060"
   },
   {
     "term": "202610",
@@ -1687,7 +1702,7 @@
     "total_seats": 30,
     "total_enrollment": 12,
     "crosslisted_enrollment": 8,
-    "conflicts": "2579,3318,3334,3952,4274,4287,4289,5009,5010,5011"
+    "conflicts": "2573,2579,3318,3334,3952,4274,4287,4289,5009,5010,5011"
   },
   {
     "term": "202610",
@@ -1746,7 +1761,7 @@
     "total_seats": 50,
     "total_enrollment": 8,
     "crosslisted_enrollment": 0,
-    "conflicts": "2213,2579,3318,3334,3952,4287,4289,5011,5060"
+    "conflicts": "2213,2573,2579,3318,3334,3952,4287,4289,5011,5060"
   },
   {
     "term": "202610",
@@ -1923,7 +1938,7 @@
     "total_seats": 45,
     "total_enrollment": 32,
     "crosslisted_enrollment": 15,
-    "conflicts": "2213,2579,3318,3334,4274,4287,5009,5010,5011,5060"
+    "conflicts": "2213,2573,2579,3318,3334,4274,4287,5009,5010,5011,5060"
   },
   {
     "term": "202610",
@@ -2218,7 +2233,7 @@
     "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4273",
-    "conflicts": "2013,2578,2794,3324,5053"
+    "conflicts": "2013,2578,2580,2794,3029,3324,3901,4984,5035,5053"
   },
   {
     "term": "202610",
@@ -2277,7 +2292,7 @@
     "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4274",
-    "conflicts": "2213,2579,2789,2790,2791,3334,3952,4289,4916,4921,5060"
+    "conflicts": "2213,2573,2579,2789,2790,2791,3334,3952,4289,4916,4921,5060"
   },
   {
     "term": "202610",
@@ -2335,7 +2350,7 @@
     "total_enrollment": 11,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2013",
-    "conflicts": "2578,2794,3324,4273,5053"
+    "conflicts": "2578,2580,2794,3029,3324,3901,4273,4984,5053"
   },
   {
     "term": "202610",
@@ -3068,7 +3083,7 @@
     "total_seats": 29,
     "total_enrollment": 18,
     "crosslisted_enrollment": 7,
-    "conflicts": "2013,2578,4273,4285"
+    "conflicts": "2013,2578,3029,3901,4273,4285"
   },
   {
     "term": "202610",
@@ -3185,7 +3200,7 @@
     "total_seats": 35,
     "total_enrollment": 10,
     "crosslisted_enrollment": 5,
-    "conflicts": "2213,2579,3318,3334,3952,4289,5009,5010,5060"
+    "conflicts": "2213,2573,2579,3318,3334,3952,4289,5009,5010,5060"
   },
   {
     "term": "202610",
@@ -3360,7 +3375,7 @@
     "total_seats": 30,
     "total_enrollment": 12,
     "crosslisted_enrollment": 4,
-    "conflicts": "2579,3318,3334,3952,4274,4287,4289,5009,5010,5011"
+    "conflicts": "2573,2579,3318,3334,3952,4274,4287,4289,5009,5010,5011"
   },
   {
     "term": "202610",
@@ -3418,7 +3433,7 @@
     "total_enrollment": 25,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2578",
-    "conflicts": "2013,3324,4273,4285,5053"
+    "conflicts": "2013,3029,3324,3901,4273,4285,5053"
   },
   {
     "term": "202610",
@@ -3476,7 +3491,7 @@
     "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2794",
-    "conflicts": "2013,4273"
+    "conflicts": "2013,2580,4273,4984"
   },
   {
     "term": "202610",
@@ -3535,7 +3550,7 @@
     "total_seats": 50,
     "total_enrollment": 8,
     "crosslisted_enrollment": 8,
-    "conflicts": "2213,2579,3318,3334,3952,4287,4289,5011,5060"
+    "conflicts": "2213,2573,2579,3318,3334,3952,4287,4289,5011,5060"
   },
   {
     "term": "202610",
@@ -3710,7 +3725,7 @@
     "total_enrollment": 6,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2579",
-    "conflicts": "2213,3318,3952,4274,4287,4289,5009,5010,5011,5060"
+    "conflicts": "2213,2573,3318,3952,4274,4287,4289,5009,5010,5011,5060"
   },
   {
     "term": "202610",
@@ -3828,7 +3843,7 @@
     "total_seats": 45,
     "total_enrollment": 32,
     "crosslisted_enrollment": 17,
-    "conflicts": "2213,2579,3318,3334,4274,4287,5009,5010,5011,5060"
+    "conflicts": "2213,2573,2579,3318,3334,4274,4287,5009,5010,5011,5060"
   },
   {
     "term": "202610",
