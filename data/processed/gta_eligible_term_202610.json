@@ -12,9 +12,9 @@
     "room": "STURM 480",
     "instructor": "Gao, Sky T.",
     "seats": 31,
-    "enrolled": 31,
+    "enrolled": 30,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 31
+    "total_enrollment": 30
   },
   {
     "crn": "5008",
@@ -454,9 +454,9 @@
     "room": "ECS 201",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "3824",
