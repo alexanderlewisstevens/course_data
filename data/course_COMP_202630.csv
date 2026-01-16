@@ -57,6 +57,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202630,ALL,COMP,Computer Science,3670,COMP 4531,1,Deep Learning,Lecture,30-MAR-2026 to 11-JUN-2026,5:00PM-6:50PM,"M,W",4,ECS 400,,30,0,,,,,
 202630,ALL,COMP,Computer Science,3668,COMP 4531,101,Deep Learning,Online/Distance,30-MAR-2026 to 11-JUN-2026,5:00PM-6:50PM,T,4,,,20,0,,,,,
 202630,ALL,COMP,Computer Science,2591,COMP 4581,101,Algorithms for DS & AI,Online/Distance,30-MAR-2026 to 11-JUN-2026,7:00PM-8:50PM,T,4,,,20,0,,,,,
+202630,ALL,COMP,Computer Science,4673,COMP 4620,1,Advanced Computer Vision,,,,,4,,,10,0,,,,,
 202630,ALL,COMP,Computer Science,3105,COMP 4703,1,Adv Topics-Artificial Intell,Lecture,30-MAR-2026 to 11-JUN-2026,4:00PM-5:50PM,"M,W",4,,,0,0,,,,,
 202630,ALL,COMP,Computer Science,3600,COMP 4703,3,Adv Topics-Artificial Intell,Lecture,30-MAR-2026 to 11-JUN-2026,10:00AM-11:50AM,"M,W",4,SIE 3110,,20,0,,,,,
 202630,ALL,COMP,Computer Science,3122,COMP 4705,1,Advanced Topics-Programming,Lecture,30-MAR-2026 to 11-JUN-2026,10:00AM-11:50AM,"M,W",4,MRB 1,,10,0,,,,,
