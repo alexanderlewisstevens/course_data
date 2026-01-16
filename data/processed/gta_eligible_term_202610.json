@@ -97,9 +97,9 @@
     "room": "ECS 401",
     "instructor": "Hannum, Andrew T.",
     "seats": 28,
-    "enrolled": 24,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 23
   },
   {
     "crn": "3031",
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
-    "enrolled": 26,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 26
+    "total_enrollment": 27
   },
   {
     "crn": "3032",
@@ -301,9 +301,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 30,
-    "enrolled": 21,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 22
   },
   {
     "crn": "2580",
@@ -386,9 +386,9 @@
     "room": "ECS 200",
     "instructor": "Lopez, Mario A.",
     "seats": 30,
-    "enrolled": 18,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 17
   },
   {
     "crn": "5053",
@@ -540,8 +540,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 5,
-    "crosslisted_enrollment": 16,
-    "total_enrollment": 21
+    "crosslisted_enrollment": 17,
+    "total_enrollment": 22
   },
   {
     "crn": "3952",
@@ -557,8 +557,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 20,
     "enrolled": 17,
-    "crosslisted_enrollment": 15,
-    "total_enrollment": 32
+    "crosslisted_enrollment": 16,
+    "total_enrollment": 33
   },
   {
     "crn": "4691",
@@ -573,9 +573,9 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 31,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "4692",
@@ -896,9 +896,9 @@
     "room": "ECS 200",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 16,
+    "enrolled": 17,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 21
+    "total_enrollment": 22
   },
   {
     "crn": "4289",
@@ -913,8 +913,8 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 25,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 17,
-    "total_enrollment": 32
+    "total_enrollment": 33
   }
 ]
