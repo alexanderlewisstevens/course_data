@@ -386,9 +386,9 @@
     "room": "ECS 200",
     "instructor": "Lopez, Mario A.",
     "seats": 30,
-    "enrolled": 17,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 16
   },
   {
     "crn": "5053",
@@ -420,9 +420,9 @@
     "room": "ECS 400",
     "instructor": "Anjum, Iffat",
     "seats": 28,
-    "enrolled": 26,
+    "enrolled": 25,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 26
+    "total_enrollment": 25
   },
   {
     "crn": "4287",
@@ -540,8 +540,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 5,
-    "crosslisted_enrollment": 17,
-    "total_enrollment": 22
+    "crosslisted_enrollment": 18,
+    "total_enrollment": 23
   },
   {
     "crn": "3952",
@@ -557,8 +557,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 20,
     "enrolled": 17,
-    "crosslisted_enrollment": 16,
-    "total_enrollment": 33
+    "crosslisted_enrollment": 17,
+    "total_enrollment": 34
   },
   {
     "crn": "4691",
@@ -896,9 +896,9 @@
     "room": "ECS 200",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 17,
+    "enrolled": 18,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "4289",
@@ -913,8 +913,8 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 25,
-    "enrolled": 16,
+    "enrolled": 17,
     "crosslisted_enrollment": 17,
-    "total_enrollment": 33
+    "total_enrollment": 34
   }
 ]
