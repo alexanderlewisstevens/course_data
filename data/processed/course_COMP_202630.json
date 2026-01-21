@@ -9,7 +9,7 @@
     "section": "1",
     "title": "Intro. to Computer Science III",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-10:50AM",
     "days": "T,R",
     "hours": "2",
@@ -38,7 +38,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -48,7 +48,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -68,7 +68,7 @@
     "section": "2",
     "title": "Intro. to Computer Science III",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "11:00AM-11:50AM",
     "days": "T,R",
     "hours": "2",
@@ -97,7 +97,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "11:00",
@@ -107,7 +107,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -127,7 +127,7 @@
     "section": "1",
     "title": "Introduction to Programming II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "3",
@@ -135,10 +135,10 @@
     "instructor": "Stevens, Alexander L.",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -156,7 +156,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -166,7 +166,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -186,7 +186,7 @@
     "section": "1",
     "title": "Data Struct. & Algorithms I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "3",
@@ -194,10 +194,10 @@
     "instructor": "Liu, Faan Tone",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "ECS 400",
     "description": "",
     "normalized": {
       "time": {
@@ -215,7 +215,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -225,7 +225,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -245,7 +245,7 @@
     "section": "2",
     "title": "Data Struct. & Algorithms I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "3",
@@ -253,10 +253,10 @@
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "ECS 401",
     "description": "",
     "normalized": {
       "time": {
@@ -274,7 +274,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -284,7 +284,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -304,7 +304,7 @@
     "section": "6",
     "title": "Data Struct. & Algorithms I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "3",
@@ -312,10 +312,10 @@
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -333,7 +333,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -343,7 +343,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -363,7 +363,7 @@
     "section": "1",
     "title": "Systems I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -392,7 +392,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "12:00",
@@ -402,7 +402,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -422,7 +422,7 @@
     "section": "2",
     "title": "Systems I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
@@ -451,7 +451,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "14:00",
@@ -461,7 +461,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -481,7 +481,7 @@
     "section": "3",
     "title": "Systems I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "4:00PM-5:50PM",
     "days": "M,W",
     "hours": "4",
@@ -510,7 +510,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "16:00",
@@ -520,7 +520,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -540,7 +540,7 @@
     "section": "1",
     "title": "Data Struct. & Algorithms II",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
@@ -548,9 +548,9 @@
     "instructor": "Stevens, Alexander L.",
     "seats": 0,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
     "exam_room": "",
     "description": "",
     "normalized": {
@@ -569,7 +569,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -579,7 +579,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -599,13 +599,714 @@
     "section": "1",
     "title": "Topics in Computer Science",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "1",
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 50,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "3719",
+    "conflicts": ""
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2786",
+    "course": "COMP 3006",
+    "section": "101",
+    "title": "Python Software Development",
+    "course_type": "Online/Distance",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 20,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 20,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "2786",
+    "conflicts": "2440,2789,3669"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2584",
+    "course": "COMP 3007",
+    "section": "101",
+    "title": "Foundations: DS Math I",
+    "course_type": "Online/Distance",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "T",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 20,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "T"
+        ],
+        "canonical": "T"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "T",
+    "days_list": "T",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 20,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "2584",
+    "conflicts": "2120,2252,2253,3668,4168"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2586",
+    "course": "COMP 3008",
+    "section": "101",
+    "title": "Foundations: DS Math II",
+    "course_type": "Online/Distance",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "W",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 20,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "W"
+        ],
+        "canonical": "W"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "W",
+    "days_list": "W",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 20,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "2586",
+    "conflicts": "2067,2788,2800,3214,4137"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4149",
+    "course": "COMP 3100",
+    "section": "1",
+    "title": "Human-Computer Interaction",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 401",
+    "instructor": "Oleson, Alannah",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "M",
+    "exam_room": "ECS 401",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4149",
+    "conflicts": "3597"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2251",
+    "course": "COMP 3351",
+    "section": "1",
+    "title": "Programming Languages",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "10:00AM-11:50AM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 300",
+    "instructor": "Edgington, Jeffrey M.",
+    "seats": 36,
+    "enrolled": 0,
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "ECS 300",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "10:00",
+        "end_24": "11:50",
+        "start_minutes": 600,
+        "end_minutes": 710
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "10:00",
+    "time_end_24": "11:50",
+    "time_start_minutes": 600,
+    "time_end_minutes": 710,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 36,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "2251",
+    "conflicts": "3111,3112,3121,4148,4150,4517,4527"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2800",
+    "course": "COMP 3356",
+    "section": "1",
+    "title": "Introductory C/C++ Programming",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 201",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "2800",
+    "conflicts": "2067,2586,2590,2787,2788,3214,4137"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "1288",
+    "course": "COMP 3371",
+    "section": "1",
+    "title": "Data Structures &  Algorithms",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "10:00AM-11:50AM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 201",
+    "instructor": "Lopez, Mario A.",
+    "seats": 32,
+    "enrolled": 0,
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "ECS 201",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "10:00",
+        "end_24": "11:50",
+        "start_minutes": 600,
+        "end_minutes": 710
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "10:00",
+    "time_end_24": "11:50",
+    "time_start_minutes": 600,
+    "time_end_minutes": 710,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 32,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "1288",
+    "conflicts": "3115,3116,3117,3122,3125,3599,3600"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "3720",
+    "course": "COMP 3382",
+    "section": "1",
+    "title": "Software Engineering II",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "4:00PM-5:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 401",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "M",
+    "exam_room": "ECS 401",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "16:00",
+    "time_end_24": "17:50",
+    "time_start_minutes": 960,
+    "time_end_minutes": 1070,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "3720",
+    "conflicts": "2588,2589,2601,2785,2790,2799,2805,2886,3104,3105,3598,3670"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4168",
+    "course": "COMP 3382",
+    "section": "2",
+    "title": "Software Engineering II",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "4:00PM-5:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 200",
+    "instructor": "Rutherford, Matthew J.",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 200",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "16:00",
+    "time_end_24": "17:50",
+    "time_start_minutes": 960,
+    "time_end_minutes": 1070,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4168",
+    "conflicts": "2120,2252,2253,2584,3668"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4150",
+    "course": "COMP 3411",
+    "section": "1",
+    "title": "Web Programming II",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "10:00AM-11:50AM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 400",
+    "instructor": "Hannum, Andrew T.",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "ECS 400",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "10:00",
+        "end_24": "11:50",
+        "start_minutes": 600,
+        "end_minutes": 710
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "10:00",
+    "time_end_24": "11:50",
+    "time_start_minutes": 600,
+    "time_end_minutes": 710,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4150",
+    "conflicts": "2251,3111,3112,3121,4148,4517,4527"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2588",
+    "course": "COMP 3421",
+    "section": "101",
+    "title": "Database Organization & Mgmt I",
+    "course_type": "Online/Distance",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "W",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "W"
+        ],
+        "canonical": "W"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "W",
+    "days_list": "W",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "2588",
+    "conflicts": "2067,2601,2785,2799,2805,2886,3104,3105,3598,3670,3720,4137"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4684",
+    "course": "COMP 3620",
+    "section": "1",
+    "title": "Computer Vision",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "Mahoor, Mohammad H.",
+    "seats": 0,
     "enrolled": 0,
     "exam_meeting_dates": "",
     "exam_time": "",
@@ -636,659 +1337,14 @@
     "days_list": "",
     "date_start": "2026-03-30",
     "date_end": "2026-06-11",
-    "gta_eligible": true,
+    "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
-    "total_seats": 50,
+    "total_seats": 0,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3719",
+    "crosslisted_crn": "4684",
     "conflicts": ""
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2786",
-    "course": "COMP 3006",
-    "section": "101",
-    "title": "Python Software Development",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "R",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "R"
-        ],
-        "canonical": "R"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "R",
-    "days_list": "R",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2786",
-    "conflicts": "2440,2789,3669"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2584",
-    "course": "COMP 3007",
-    "section": "101",
-    "title": "Foundations: DS Math I",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "T"
-        ],
-        "canonical": "T"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "T",
-    "days_list": "T",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2584",
-    "conflicts": "2120,2252,2253,3668,4168"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2586",
-    "course": "COMP 3008",
-    "section": "101",
-    "title": "Foundations: DS Math II",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "W",
-    "days_list": "W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2586",
-    "conflicts": "2067,2788,2800,3214,4137"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4149",
-    "course": "COMP 3100",
-    "section": "1",
-    "title": "Human-Computer Interaction",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "2:00PM-3:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 401",
-    "instructor": "Oleson, Alannah",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "14:00",
-    "time_end_24": "15:50",
-    "time_start_minutes": 840,
-    "time_end_minutes": 950,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "4149",
-    "conflicts": "3597"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2251",
-    "course": "COMP 3351",
-    "section": "1",
-    "title": "Programming Languages",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 300",
-    "instructor": "Edgington, Jeffrey M.",
-    "seats": 36,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "10:00",
-    "time_end_24": "11:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 710,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 36,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2251",
-    "conflicts": "3111,3112,3121,4148,4150,4517,4527"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2800",
-    "course": "COMP 3356",
-    "section": "1",
-    "title": "Introductory C/C++ Programming",
-    "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2800",
-    "conflicts": "2067,2586,2590,2787,2788,3214,4137"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "1288",
-    "course": "COMP 3371",
-    "section": "1",
-    "title": "Data Structures &  Algorithms",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Lopez, Mario A.",
-    "seats": 32,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "10:00",
-    "time_end_24": "11:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 710,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 32,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "1288",
-    "conflicts": "3115,3116,3117,3122,3125,3599,3600"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3720",
-    "course": "COMP 3382",
-    "section": "1",
-    "title": "Software Engineering II",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "4:00PM-5:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 401",
-    "instructor": "",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "16:00",
-    "time_end_24": "17:50",
-    "time_start_minutes": 960,
-    "time_end_minutes": 1070,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3720",
-    "conflicts": "2588,2589,2601,2785,2790,2799,2805,2886,3104,3105,3598,3670"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4168",
-    "course": "COMP 3382",
-    "section": "2",
-    "title": "Software Engineering II",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "4:00PM-5:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Rutherford, Matthew J.",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "16:00",
-    "time_end_24": "17:50",
-    "time_start_minutes": 960,
-    "time_end_minutes": 1070,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "4168",
-    "conflicts": "2120,2252,2253,2584,3668"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4150",
-    "course": "COMP 3411",
-    "section": "1",
-    "title": "Web Programming II",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 400",
-    "instructor": "Hannum, Andrew T.",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "10:00",
-    "time_end_24": "11:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 710,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "4150",
-    "conflicts": "2251,3111,3112,3121,4148,4517,4527"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2588",
-    "course": "COMP 3421",
-    "section": "101",
-    "title": "Database Organization & Mgmt I",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-11"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "W",
-    "days_list": "W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2588",
-    "conflicts": "2067,2601,2785,2799,2805,2886,3104,3105,3598,3670,3720,4137"
   },
   {
     "term": "202630",
@@ -1300,7 +1356,7 @@
     "section": "1",
     "title": "Topics-Artificial Intelligence",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "4:00PM-5:50PM",
     "days": "M,W",
     "hours": "4",
@@ -1308,9 +1364,9 @@
     "instructor": "",
     "seats": 0,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "M",
     "exam_room": "",
     "description": "",
     "normalized": {
@@ -1329,7 +1385,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "16:00",
@@ -1339,7 +1395,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1359,18 +1415,18 @@
     "section": "2",
     "title": "Topics-Artificial Intelligence",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
     "room": "ECS 201",
-    "instructor": "Hutt, Stephen J.",
+    "instructor": "",
     "seats": 22,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -1388,7 +1444,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "14:00",
@@ -1398,7 +1454,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1418,7 +1474,7 @@
     "section": "3",
     "title": "Topics-Artificial Intelligence",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
@@ -1426,10 +1482,10 @@
     "instructor": "",
     "seats": 15,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "MRH 214",
     "description": "",
     "normalized": {
       "time": {
@@ -1447,7 +1503,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -1457,7 +1513,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1477,7 +1533,7 @@
     "section": "1",
     "title": "Topics in Computer Science",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -1485,10 +1541,10 @@
     "instructor": "",
     "seats": 28,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "M",
+    "exam_room": "ECS 401",
     "description": "",
     "normalized": {
       "time": {
@@ -1506,7 +1562,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "12:00",
@@ -1516,7 +1572,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1536,7 +1592,7 @@
     "section": "2",
     "title": "Topics in Computer Science",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
@@ -1544,10 +1600,10 @@
     "instructor": "",
     "seats": 20,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -1565,7 +1621,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -1575,7 +1631,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1595,7 +1651,7 @@
     "section": "4",
     "title": "Topics in Computer Science",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
@@ -1603,10 +1659,10 @@
     "instructor": "",
     "seats": 20,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "BW 254",
     "description": "",
     "normalized": {
       "time": {
@@ -1624,7 +1680,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "14:00",
@@ -1634,7 +1690,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1654,7 +1710,7 @@
     "section": "5",
     "title": "Topics in Computer Science",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
@@ -1662,10 +1718,10 @@
     "instructor": "Durso, Catherine S.",
     "seats": 20,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -1683,7 +1739,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -1693,7 +1749,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslisted_crn": "4517,4527",
     "crosslist": "4527",
@@ -1713,7 +1769,7 @@
     "section": "1",
     "title": "Network Security",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
@@ -1742,7 +1798,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -1752,7 +1808,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslisted_crn": "2120,2252",
     "crosslist": "2120",
@@ -1772,7 +1828,7 @@
     "section": "1",
     "title": "Ethical Hacking",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
@@ -1801,7 +1857,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -1811,7 +1867,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslisted_crn": "2799,2805",
     "crosslist": "2799",
@@ -1831,7 +1887,7 @@
     "section": "1",
     "title": "Introduction Computer Graphics",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "4:00PM-5:50PM",
     "days": "M,W",
     "hours": "4",
@@ -1839,10 +1895,10 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "M",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -1860,7 +1916,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "16:00",
@@ -1870,7 +1926,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1890,7 +1946,7 @@
     "section": "1",
     "title": "Game Programming I",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "6:00PM-7:50PM",
     "days": "M,W",
     "hours": "4",
@@ -1898,10 +1954,10 @@
     "instructor": "",
     "seats": 20,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "6:00PM-7:50PM",
+    "exam_days": "M",
+    "exam_room": "ECS 200",
     "description": "",
     "normalized": {
       "time": {
@@ -1919,7 +1975,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "18:00",
@@ -1929,7 +1985,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1949,7 +2005,7 @@
     "section": "1",
     "title": "Game Capstone II",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "6:00PM-8:50PM",
     "days": "W",
     "hours": "4",
@@ -1977,7 +2033,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "18:00",
@@ -1987,7 +2043,7 @@
     "days_canonical": "W",
     "days_list": "W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2007,7 +2063,7 @@
     "section": "2",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2033,7 +2089,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -2043,7 +2099,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2119,7 +2175,7 @@
     "section": "4",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "4",
@@ -2145,7 +2201,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -2155,7 +2211,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2175,12 +2231,12 @@
     "section": "7",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "4",
     "room": "",
-    "instructor": "GauthierDickey, Christopher J.",
+    "instructor": "",
     "seats": 10,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -2201,7 +2257,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -2211,7 +2267,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2231,7 +2287,7 @@
     "section": "10",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "4",
@@ -2257,7 +2313,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -2267,7 +2323,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2287,7 +2343,7 @@
     "section": "11",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "4",
@@ -2313,7 +2369,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -2323,7 +2379,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2343,7 +2399,7 @@
     "section": "12",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2369,7 +2425,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -2379,7 +2435,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2399,7 +2455,7 @@
     "section": "13",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2425,7 +2481,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -2435,7 +2491,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2511,7 +2567,7 @@
     "section": "101",
     "title": "Parallel & Distrib Comp DSAI",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
     "days": "M",
     "hours": "4",
@@ -2539,7 +2595,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "19:00",
@@ -2549,7 +2605,7 @@
     "days_canonical": "M",
     "days_list": "M",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2569,7 +2625,7 @@
     "section": "2",
     "title": "Secure Software Engineering",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
@@ -2598,7 +2654,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "19:00",
@@ -2608,7 +2664,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2628,7 +2684,7 @@
     "section": "101",
     "title": "Machine Learning",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
     "days": "W",
     "hours": "4",
@@ -2656,7 +2712,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "19:00",
@@ -2666,7 +2722,7 @@
     "days_canonical": "W",
     "days_list": "W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2686,7 +2742,7 @@
     "section": "1",
     "title": "Data Visualization",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
@@ -2715,7 +2771,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "19:00",
@@ -2725,7 +2781,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2745,7 +2801,7 @@
     "section": "101",
     "title": "Data Visualization",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
     "days": "R",
     "hours": "4",
@@ -2773,7 +2829,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "19:00",
@@ -2783,7 +2839,7 @@
     "days_canonical": "R",
     "days_list": "R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2803,7 +2859,7 @@
     "section": "101",
     "title": "Probability and Statistics 1",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "M",
     "hours": "4",
@@ -2831,7 +2887,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -2841,7 +2897,7 @@
     "days_canonical": "M",
     "days_list": "M",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2861,7 +2917,7 @@
     "section": "1",
     "title": "Probability and Statistics 2",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
@@ -2890,7 +2946,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -2900,7 +2956,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2920,7 +2976,7 @@
     "section": "101",
     "title": "Probability and Statistics 2",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "W",
     "hours": "4",
@@ -2948,7 +3004,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -2958,7 +3014,7 @@
     "days_canonical": "W",
     "days_list": "W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2978,7 +3034,7 @@
     "section": "101",
     "title": "Data Science Tools 1",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
     "days": "M",
     "hours": "4",
@@ -3006,7 +3062,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "19:00",
@@ -3016,7 +3072,7 @@
     "days_canonical": "M",
     "days_list": "M",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3036,7 +3092,7 @@
     "section": "101",
     "title": "Data Science Tools 2",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "M",
     "hours": "4",
@@ -3064,7 +3120,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -3074,7 +3130,7 @@
     "days_canonical": "M",
     "days_list": "M",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3094,7 +3150,7 @@
     "section": "1",
     "title": "DS & AI Capstone",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
     "days": "M,W",
     "hours": "4",
@@ -3123,7 +3179,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "19:00",
@@ -3133,7 +3189,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3153,7 +3209,7 @@
     "section": "101",
     "title": "DS & AI Capstone",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "W",
     "hours": "4",
@@ -3181,7 +3237,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -3191,7 +3247,7 @@
     "days_canonical": "W",
     "days_list": "W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3211,7 +3267,7 @@
     "section": "1",
     "title": "Deep Learning",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
@@ -3240,7 +3296,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -3250,7 +3306,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3270,7 +3326,7 @@
     "section": "101",
     "title": "Deep Learning",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "T",
     "hours": "4",
@@ -3298,7 +3354,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -3308,7 +3364,7 @@
     "days_canonical": "T",
     "days_list": "T",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3328,7 +3384,7 @@
     "section": "101",
     "title": "Algorithms for DS & AI",
     "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
     "days": "T",
     "hours": "4",
@@ -3356,7 +3412,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "19:00",
@@ -3366,7 +3422,7 @@
     "days_canonical": "T",
     "days_list": "T",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3385,13 +3441,13 @@
     "course": "COMP 4620",
     "section": "1",
     "title": "Advanced Computer Vision",
-    "course_type": "",
-    "meeting_dates": "",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
     "time": "",
     "days": "",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -3411,8 +3467,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-03-30",
+        "end": "2026-06-11"
       }
     },
     "time_start_24": "",
@@ -3421,9 +3477,9 @@
     "time_end_minutes": null,
     "days_canonical": "",
     "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-11",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 10,
@@ -3442,7 +3498,7 @@
     "section": "1",
     "title": "Adv Topics-Artificial Intell",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "4:00PM-5:50PM",
     "days": "M,W",
     "hours": "4",
@@ -3450,9 +3506,9 @@
     "instructor": "",
     "seats": 0,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "M",
     "exam_room": "",
     "description": "",
     "normalized": {
@@ -3471,7 +3527,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "16:00",
@@ -3481,7 +3537,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3501,7 +3557,7 @@
     "section": "3",
     "title": "Adv Topics-Artificial Intell",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
@@ -3509,10 +3565,10 @@
     "instructor": "",
     "seats": 20,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "SIE 3110",
     "description": "",
     "normalized": {
       "time": {
@@ -3530,7 +3586,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -3540,7 +3596,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3560,7 +3616,7 @@
     "section": "1",
     "title": "Advanced Topics-Programming",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
@@ -3568,10 +3624,10 @@
     "instructor": "",
     "seats": 10,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "MRB 1",
     "description": "",
     "normalized": {
       "time": {
@@ -3589,7 +3645,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -3599,7 +3655,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3619,7 +3675,7 @@
     "section": "2",
     "title": "Advanced Topics-Programming",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -3627,10 +3683,10 @@
     "instructor": "Liu, Faan Tone",
     "seats": 8,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "M",
+    "exam_room": "BW 254",
     "description": "",
     "normalized": {
       "time": {
@@ -3648,7 +3704,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "12:00",
@@ -3658,7 +3714,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3678,7 +3734,7 @@
     "section": "3",
     "title": "Advanced Topics-Programming",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
@@ -3686,10 +3742,10 @@
     "instructor": "Durso, Catherine S.",
     "seats": 5,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "BW 254",
     "description": "",
     "normalized": {
       "time": {
@@ -3707,7 +3763,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "10:00",
@@ -3717,7 +3773,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslisted_crn": "4517,4527",
     "crosslist": "4517",
@@ -3793,7 +3849,7 @@
     "section": "1",
     "title": "Network Security",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
@@ -3822,7 +3878,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -3832,7 +3888,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslisted_crn": "2120,2252",
     "crosslist": "2252",
@@ -3852,7 +3908,7 @@
     "section": "1",
     "title": "Ethical Hacking",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
@@ -3881,7 +3937,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "17:00",
@@ -3891,7 +3947,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslisted_crn": "2799,2805",
     "crosslist": "2805",
@@ -3911,7 +3967,7 @@
     "section": "1",
     "title": "Cybersecurity Capstone",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "4",
@@ -3937,7 +3993,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -3947,7 +4003,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3967,7 +4023,7 @@
     "section": "0",
     "title": "Independent Study",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3993,7 +4049,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -4003,7 +4059,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -4023,7 +4079,7 @@
     "section": "0",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -4049,7 +4105,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -4059,7 +4115,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -4079,7 +4135,7 @@
     "section": "0",
     "title": "Independent Study",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -4105,7 +4161,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -4115,7 +4171,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -4135,7 +4191,7 @@
     "section": "0",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -4161,7 +4217,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "",
@@ -4171,7 +4227,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,

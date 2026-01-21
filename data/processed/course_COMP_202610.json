@@ -312,10 +312,10 @@
     "instructor": "Hannum, Andrew T.",
     "seats": 28,
     "enrolled": 23,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "ECS 401",
     "description": "",
     "normalized": {
       "time": {
@@ -371,10 +371,10 @@
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
     "enrolled": 27,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "W",
+    "exam_room": "ECS 200",
     "description": "",
     "normalized": {
       "time": {
@@ -430,10 +430,10 @@
     "instructor": "Anjum, Iffat",
     "seats": 30,
     "enrolled": 14,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 200",
     "description": "",
     "normalized": {
       "time": {
@@ -489,10 +489,10 @@
     "instructor": "Hossain, Ismail",
     "seats": 20,
     "enrolled": 5,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -548,10 +548,10 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 20,
     "enrolled": 15,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-MAR-2026 to 18-MAR-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 400",
     "description": "",
     "normalized": {
       "time": {
@@ -1309,10 +1309,10 @@
     "instructor": "Lopez, Mario A.",
     "seats": 30,
     "enrolled": 16,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 200",
     "description": "",
     "normalized": {
       "time": {
@@ -1486,9 +1486,9 @@
     "instructor": "Lopez, Mario A.",
     "seats": 30,
     "enrolled": 5,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
+    "exam_meeting_dates": "17-MAR-2026 to 17-MAR-2026",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "T",
     "exam_room": "",
     "description": "",
     "normalized": {
@@ -2979,13 +2979,13 @@
     "course": "COMP 3995",
     "section": "1",
     "title": "Independent Research",
-    "course_type": "",
-    "meeting_dates": "",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "05-JAN-2026 to 20-MAR-2026",
     "time": "",
     "days": "",
     "hours": "1",
     "room": "",
-    "instructor": "",
+    "instructor": "Oleson, Alannah",
     "seats": 5,
     "enrolled": 1,
     "exam_meeting_dates": "",
@@ -3005,8 +3005,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-01-05",
+        "end": "2026-03-20"
       }
     },
     "time_start_24": "",
@@ -3015,8 +3015,8 @@
     "time_end_minutes": null,
     "days_canonical": "",
     "days_list": "",
-    "date_start": "",
-    "date_end": "",
+    "date_start": "2026-01-05",
+    "date_end": "2026-03-20",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
