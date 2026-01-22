@@ -12,9 +12,9 @@
     "room": "STURM 480",
     "instructor": "Gao, Sky T.",
     "seats": 31,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "5008",
@@ -131,9 +131,9 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 30,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "3033",
@@ -165,9 +165,9 @@
     "room": "ECS 400",
     "instructor": "Kraft, Aaron R.",
     "seats": 20,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "3360",
