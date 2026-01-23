@@ -80,9 +80,9 @@
     "room": "ECS 301",
     "instructor": "Leutenegger, Scott T.",
     "seats": 39,
-    "enrolled": 37,
+    "enrolled": 36,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 37
+    "total_enrollment": 36
   },
   {
     "crn": "3026",
@@ -131,9 +131,9 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "3033",
@@ -216,9 +216,9 @@
     "room": "ECS 300",
     "instructor": "Albow, Mohammed M.",
     "seats": 39,
-    "enrolled": 37,
+    "enrolled": 35,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 37
+    "total_enrollment": 35
   },
   {
     "crn": "2797",
@@ -505,9 +505,9 @@
     "room": "ECS 410",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
-    "enrolled": 8,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 10
   },
   {
     "crn": "4689",
@@ -608,8 +608,8 @@
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 31,
     "enrolled": 28,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 29
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 30
   },
   {
     "crn": "4696",
@@ -829,8 +829,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 20,
     "enrolled": 0,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 8
+    "crosslisted_enrollment": 10,
+    "total_enrollment": 10
   },
   {
     "crn": "5061",

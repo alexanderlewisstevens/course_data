@@ -232,7 +232,7 @@
     "hours": "4",
     "room": "ECS 300",
     "instructor": "Edgington, Jeffrey M.",
-    "seats": 36,
+    "seats": 32,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
@@ -403,23 +403,6 @@
     "room": "ECS 401",
     "instructor": "",
     "seats": 28,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
-    "crn": "3125",
-    "course": "COMP 3705",
-    "section": "2",
-    "title": "Topics in Computer Science",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 301",
-    "instructor": "",
-    "seats": 20,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
