@@ -352,9 +352,9 @@
     "room": "ECS 201",
     "instructor": "Kossek, Wojciech K.",
     "seats": 20,
-    "enrolled": 9,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 8
   },
   {
     "crn": "5035",
@@ -879,9 +879,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 6,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 5
   },
   {
     "crn": "4916",
