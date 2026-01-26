@@ -134,7 +134,7 @@
     "room": "ECS 300",
     "instructor": "Leutenegger, Scott T.",
     "seats": 35,
-    "enrolled": 23,
+    "enrolled": 22,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -171,7 +171,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 35,
-    "total_enrollment": 23,
+    "total_enrollment": 22,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3023",
     "conflicts": "3026,3325,4690,4996,5061"
