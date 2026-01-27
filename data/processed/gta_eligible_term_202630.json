@@ -136,6 +136,23 @@
     "total_enrollment": 0
   },
   {
+    "crn": "4148",
+    "course": "COMP 2370",
+    "section": "1",
+    "title": "Data Struct. & Algorithms II",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "10:00AM-11:50AM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Hossain, Ismail",
+    "seats": 30,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
     "crn": "3719",
     "course": "COMP 2701",
     "section": "1",
@@ -368,7 +385,7 @@
     "hours": "4",
     "room": "",
     "instructor": "Kossek, Wojciech K.",
-    "seats": 12,
+    "seats": 10,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
@@ -386,6 +403,23 @@
     "room": "",
     "instructor": "Kraft, Aaron R.",
     "seats": 30,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
+    "crn": "4684",
+    "course": "COMP 3620",
+    "section": "1",
+    "title": "Computer Vision",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "Mahoor, Mohammad H.",
+    "seats": 8,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
@@ -436,7 +470,7 @@
     "hours": "4",
     "room": "",
     "instructor": "Edgington, Jeffrey M.",
-    "seats": 35,
+    "seats": 20,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
@@ -833,6 +867,23 @@
     "total_enrollment": 0
   },
   {
+    "crn": "4724",
+    "course": "COMP 4501",
+    "section": "1",
+    "title": "Introduction to AI",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Kraft, Aaron R.",
+    "seats": 2,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
     "crn": "3670",
     "course": "COMP 4531",
     "section": "1",
@@ -929,7 +980,7 @@
     "hours": "4",
     "room": "",
     "instructor": "Edgington, Jeffrey M.",
-    "seats": 6,
+    "seats": 2,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
