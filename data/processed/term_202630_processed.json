@@ -13,14 +13,14 @@
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "ECS 201",
+    "room": "CMK 207",
     "instructor": "",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
-    "exam_room": "ECS 201",
+    "exam_room": "CMK 207",
     "description": "",
     "normalized": {
       "time": {
@@ -115,7 +115,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3194",
-    "conflicts": "3112"
+    "conflicts": "3112,4741,4742"
   },
   {
     "term": "202630",
@@ -190,14 +190,14 @@
     "time": "12:00PM-12:50PM",
     "days": "T,R",
     "hours": "2",
-    "room": "",
+    "room": "ECS 301",
     "instructor": "Taami, Tania",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -233,7 +233,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3112",
-    "conflicts": "3194"
+    "conflicts": "3194,4741,4742"
   },
   {
     "term": "202630",
@@ -603,14 +603,14 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 300",
     "instructor": "Hossain, Ismail",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
-    "exam_room": "",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -761,7 +761,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4730",
-    "conflicts": "2120,2252,2584,4168"
+    "conflicts": "2120,2252,2584,2788,4168"
   },
   {
     "term": "202630",
@@ -935,7 +935,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2586",
-    "conflicts": "2067,2788,2800,4137"
+    "conflicts": "2067,2800,4137,4727"
   },
   {
     "term": "202630",
@@ -951,14 +951,14 @@
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "ECS",
+    "room": "JMAC 141",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "JMAC 141",
     "description": "",
     "normalized": {
       "time": {
@@ -1010,14 +1010,14 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "BAUD 102",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "BAUD 102",
     "description": "",
     "normalized": {
       "time": {
@@ -1171,7 +1171,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2800",
-    "conflicts": "2067,2586,2787,2788,4137"
+    "conflicts": "2067,2586,2787,4137,4727"
   },
   {
     "term": "202630",
@@ -1289,7 +1289,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4168",
-    "conflicts": "2120,2252,2584,4730"
+    "conflicts": "2120,2252,2584,2788,4730"
   },
   {
     "term": "202630",
@@ -1306,7 +1306,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 400",
-    "instructor": "Hannum, Andrew T.",
+    "instructor": "Kraft, Aaron R.",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
@@ -1406,7 +1406,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2588",
-    "conflicts": "2067,2601,2785,2799,2805,2886,4137,4727"
+    "conflicts": "2067,2601,2785,2799,2805,2886,4137"
   },
   {
     "term": "202630",
@@ -1422,14 +1422,14 @@
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
-    "room": "",
+    "room": "MRH 214",
     "instructor": "Kossek, Wojciech K.",
     "seats": 10,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "MRH 214",
     "description": "",
     "normalized": {
       "time": {
@@ -1481,14 +1481,14 @@
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "CMK 101",
     "instructor": "Kraft, Aaron R.",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "CMK 101",
     "description": "",
     "normalized": {
       "time": {
@@ -1540,14 +1540,14 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "BW 254",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 8,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "BW 254",
     "description": "",
     "normalized": {
       "time": {
@@ -1599,14 +1599,14 @@
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "CMK 101",
+    "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -1658,14 +1658,14 @@
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
-    "room": "",
+    "room": "ECS 301",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -1717,14 +1717,14 @@
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "7:00PM-8:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -1826,6 +1826,65 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "4742",
+    "course": "COMP 3705",
+    "section": "6",
+    "title": "Topics in Computer Science",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "12:00PM-1:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Dewri, Rinku",
+    "seats": 15,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslisted_crn": "4741,4742",
+    "crosslist": "4741",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "conflicts": "3112,3194"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "2252",
     "course": "COMP 3722",
     "section": "1",
@@ -1878,7 +1937,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2584,4168,4730"
+    "conflicts": "2584,2788,4168,4730"
   },
   {
     "term": "202630",
@@ -1937,7 +1996,7 @@
     "total_seats": 46,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2067,2588,2589,2601,2785,2886,4137,4727"
+    "conflicts": "2067,2588,2589,2601,2785,2886,4137"
   },
   {
     "term": "202630",
@@ -1996,7 +2055,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2785",
-    "conflicts": "2588,2589,2601,2799,2805,2886,4727"
+    "conflicts": "2588,2589,2601,2799,2805,2886"
   },
   {
     "term": "202630",
@@ -2055,7 +2114,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4137",
-    "conflicts": "2067,2586,2588,2589,2601,2787,2788,2799,2800,2805,2886,4727"
+    "conflicts": "2067,2586,2588,2589,2601,2787,2799,2800,2805,2886,4727"
   },
   {
     "term": "202630",
@@ -2113,7 +2172,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2067",
-    "conflicts": "2586,2588,2601,2788,2799,2800,2805,2886,4137,4727"
+    "conflicts": "2586,2588,2601,2799,2800,2805,2886,4137,4727"
   },
   {
     "term": "202630",
@@ -2633,14 +2692,14 @@
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "JMAC 141",
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "JMAC 141",
     "description": "",
     "normalized": {
       "time": {
@@ -2692,14 +2751,14 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "BAUD 102",
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "BAUD 102",
     "description": "",
     "normalized": {
       "time": {
@@ -2793,7 +2852,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2787",
-    "conflicts": "2800,4137"
+    "conflicts": "2800,4137,4727"
   },
   {
     "term": "202630",
@@ -2810,7 +2869,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 201",
-    "instructor": "",
+    "instructor": "Anjum, Iffat",
     "seats": 24,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -2865,12 +2924,71 @@
     "title": "Machine Learning",
     "course_type": "Lecture",
     "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "5:00PM-6:50PM",
+    "time": "7:00PM-8:50PM",
     "days": "M,W",
     "hours": "4",
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "10-JUN-2026 to 10-JUN-2026",
+    "exam_time": "7:00PM-8:50PM",
+    "exam_days": "W",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4727",
+    "conflicts": "2067,2586,2787,2800,4137"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "2788",
+    "course": "COMP 4432",
+    "section": "101",
+    "title": "Machine Learning",
+    "course_type": "Online/Distance",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Sawle, Paul L.",
+    "seats": 20,
     "enrolled": 0,
     "exam_meeting_dates": "",
     "exam_time": "",
@@ -2886,10 +3004,9 @@
       },
       "days": {
         "list": [
-          "M",
-          "W"
+          "R"
         ],
-        "canonical": "MW"
+        "canonical": "R"
       },
       "dates": {
         "start": "2026-03-30",
@@ -2900,66 +3017,8 @@
     "time_end_24": "18:50",
     "time_start_minutes": 1020,
     "time_end_minutes": 1130,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "4727",
-    "conflicts": "2067,2588,2589,2601,2785,2799,2805,2886,4137"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2788",
-    "course": "COMP 4432",
-    "section": "101",
-    "title": "Machine Learning",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "Sawle, Paul L.",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "W",
-    "days_list": "W",
+    "days_canonical": "R",
+    "days_list": "R",
     "date_start": "2026-03-30",
     "date_end": "2026-06-07",
     "gta_eligible": true,
@@ -2969,7 +3028,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2788",
-    "conflicts": "2067,2586,2800,4137"
+    "conflicts": "2120,2252,4168,4730"
   },
   {
     "term": "202630",
@@ -3144,7 +3203,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2589",
-    "conflicts": "2785,2799,2805,4137,4727"
+    "conflicts": "2785,2799,2805,4137"
   },
   {
     "term": "202630",
@@ -3202,7 +3261,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2601",
-    "conflicts": "2067,2588,2785,2799,2805,2886,4137,4727"
+    "conflicts": "2067,2588,2785,2799,2805,2886,4137"
   },
   {
     "term": "202630",
@@ -3260,7 +3319,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2886",
-    "conflicts": "2067,2588,2601,2785,2799,2805,4137,4727"
+    "conflicts": "2067,2588,2601,2785,2799,2805,4137"
   },
   {
     "term": "202630",
@@ -3332,14 +3391,14 @@
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
-    "room": "",
+    "room": "MRH 214",
     "instructor": "Kossek, Wojciech K.",
     "seats": 2,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "MRH 214",
     "description": "",
     "normalized": {
       "time": {
@@ -3391,14 +3450,14 @@
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "CMK 101",
     "instructor": "Kraft, Aaron R.",
     "seats": 2,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "CMK 101",
     "description": "",
     "normalized": {
       "time": {
@@ -3450,14 +3509,14 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "BW 254",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "BW 254",
     "description": "",
     "normalized": {
       "time": {
@@ -3568,14 +3627,14 @@
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
-    "room": "",
+    "room": "ECS 301",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "M",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -3623,18 +3682,18 @@
     "section": "2",
     "title": "Advanced Topics-Systems",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "7:00PM-8:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -3652,7 +3711,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "19:00",
@@ -3662,7 +3721,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslisted_crn": "4711,4712",
     "crosslist": "4711",
@@ -3686,14 +3745,14 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "BW 254",
+    "room": "ECS 301",
     "instructor": "Durso, Catherine S.",
     "seats": 5,
     "enrolled": 0,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
-    "exam_room": "BW 254",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -3730,6 +3789,65 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "conflicts": "3111,3121,4148,4150,4673,4684,4707,4726"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4741",
+    "course": "COMP 4709",
+    "section": "1",
+    "title": "Special Tpcs-Computer Security",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "time": "12:00PM-1:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Dewri, Rinku",
+    "seats": 15,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-11"
+      }
+    },
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-11",
+    "gta_eligible": true,
+    "crosslisted_crn": "4741,4742",
+    "crosslist": "4742",
+    "lower_crosslist": false,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "conflicts": "3112,3194"
   },
   {
     "term": "202630",
@@ -3788,7 +3906,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2584,4168,4730"
+    "conflicts": "2584,2788,4168,4730"
   },
   {
     "term": "202630",
@@ -3847,7 +3965,7 @@
     "total_seats": 46,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2067,2588,2589,2601,2785,2886,4137,4727"
+    "conflicts": "2067,2588,2589,2601,2785,2886,4137"
   },
   {
     "term": "202630",
