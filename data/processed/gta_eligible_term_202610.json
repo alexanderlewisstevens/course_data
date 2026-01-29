@@ -148,9 +148,9 @@
     "room": "ECS 201",
     "instructor": "Hossain, Ismail",
     "seats": 20,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 6
   },
   {
     "crn": "3034",
@@ -845,9 +845,9 @@
     "room": "SIE 3120",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "3334",
