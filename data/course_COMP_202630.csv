@@ -17,7 +17,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202630,ALL,COMP,Computer Science,2586,COMP 3008,101,Foundations: DS Math II,Online/Distance,30-MAR-2026 to 07-JUN-2026,7:00PM-8:50PM,W,4,,,20,0,,,,,
 202630,ALL,COMP,Computer Science,4149,COMP 3100,1,Human-Computer Interaction,Lecture,30-MAR-2026 to 07-JUN-2026,2:00PM-3:50PM,"T,R",4,JMAC 141,"Xie, Benjamin X.",30,0,09-JUN-2026 to 09-JUN-2026,2:00PM-3:50PM,T,JMAC 141,
 202630,ALL,COMP,Computer Science,4707,COMP 3100,2,Human-Computer Interaction,Lecture,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"T,R",4,BAUD 102,"Xie, Benjamin X.",30,0,09-JUN-2026 to 09-JUN-2026,10:00AM-11:50AM,T,BAUD 102,
-202630,ALL,COMP,Computer Science,2251,COMP 3351,1,Programming Languages,Lecture,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"M,W",4,ECS,"Stevenson, Daniel E.",32,0,,,,,
+202630,ALL,COMP,Computer Science,2251,COMP 3351,1,Programming Languages,Lecture,30-MAR-2026 to 07-JUN-2026,2:00PM-3:50PM,"M,W",4,ECS,"Stevenson, Daniel E.",32,0,,,,,
 202630,ALL,COMP,Computer Science,2800,COMP 3356,1,Introductory C/C++ Programming,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,7:00PM-8:50PM,"M,W",4,ECS 201,"Petrehn, Sydney M.",25,0,,,,,
 202630,ALL,COMP,Computer Science,1288,COMP 3371,1,Data Structures &  Algorithms,Lecture,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"M,W",4,ECS 201,"Lopez, Mario A.",32,0,08-JUN-2026 to 08-JUN-2026,10:00AM-11:50AM,M,ECS 201,
 202630,ALL,COMP,Computer Science,4168,COMP 3382,2,Software Engineering II,Lecture,30-MAR-2026 to 07-JUN-2026,4:00PM-5:50PM,"T,R",4,ECS 200,"Rutherford, Matthew J.",30,0,09-JUN-2026 to 09-JUN-2026,4:00PM-5:50PM,T,ECS 200,
