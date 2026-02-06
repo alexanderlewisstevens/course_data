@@ -493,23 +493,6 @@
     "total_enrollment": 0
   },
   {
-    "crn": "4711",
-    "course": "COMP 3704",
-    "section": "2",
-    "title": "Advanced Topics: Systems",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 300",
-    "instructor": "Dewri, Rinku",
-    "seats": 15,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "4517",
     "course": "COMP 3705",
     "section": "5",
@@ -913,23 +896,6 @@
     "room": "ECS 301",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
-    "crn": "4712",
-    "course": "COMP 4704",
-    "section": "2",
-    "title": "Advanced Topics-Systems",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 300",
-    "instructor": "Dewri, Rinku",
-    "seats": 15,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
