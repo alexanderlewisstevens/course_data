@@ -1896,7 +1896,7 @@
     "hours": "4",
     "room": "ECS 301",
     "instructor": "Evans, Nathan S.",
-    "seats": 26,
+    "seats": 20,
     "enrolled": 0,
     "exam_meeting_dates": "",
     "exam_time": "",
@@ -1934,7 +1934,7 @@
     "crosslisted_crn": "2799,2805",
     "crosslist": "2799",
     "lower_crosslist": true,
-    "total_seats": 46,
+    "total_seats": 40,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "conflicts": "2067,2588,2589,2601,2785,2886,4137"
@@ -3844,7 +3844,7 @@
     "crosslisted_crn": "2799,2805",
     "crosslist": "2805",
     "lower_crosslist": false,
-    "total_seats": 46,
+    "total_seats": 40,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "conflicts": "2067,2588,2589,2601,2785,2886,4137"
