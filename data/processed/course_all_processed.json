@@ -4869,7 +4869,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3115",
-    "conflicts": "1288,3116,3117,3600,4710,4716,4717,4723"
+    "conflicts": "1288,3116,3117,4716,4717"
   },
   {
     "term": "202630",
@@ -4928,7 +4928,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3116",
-    "conflicts": "1288,3115,3117,3600,4710,4716,4717,4723"
+    "conflicts": "1288,3115,3117,4716,4717"
   },
   {
     "term": "202630",
@@ -4987,7 +4987,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3117",
-    "conflicts": "1288,3115,3116,3600,4710,4716,4717,4723"
+    "conflicts": "1288,3115,3116,4716,4717"
   },
   {
     "term": "202630",
@@ -5338,7 +5338,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4730",
-    "conflicts": "2120,2252,2584,2788,4168"
+    "conflicts": "2120,2252,2584,2788,4168,4860"
   },
   {
     "term": "202630",
@@ -5355,7 +5355,7 @@
     "days": "R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Connin, Sean L.",
     "seats": 20,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -5454,7 +5454,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2584",
-    "conflicts": "2120,2252,4168,4730"
+    "conflicts": "2120,2252,4168,4730,4860"
   },
   {
     "term": "202630",
@@ -5512,7 +5512,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2586",
-    "conflicts": "2067,2800,4137,4727"
+    "conflicts": "2067,2800,2886,4137,4727"
   },
   {
     "term": "202630",
@@ -5748,7 +5748,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2800",
-    "conflicts": "2067,2586,2787,4137,4727"
+    "conflicts": "2067,2586,2886,4137,4727"
   },
   {
     "term": "202630",
@@ -5807,7 +5807,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1288",
-    "conflicts": "3115,3116,3117,3600,4710,4716,4717,4723"
+    "conflicts": "3115,3116,3117,4716,4717"
   },
   {
     "term": "202630",
@@ -5866,7 +5866,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4168",
-    "conflicts": "2120,2252,2584,2788,4730"
+    "conflicts": "2120,2252,2584,2788,4730,4860"
   },
   {
     "term": "202630",
@@ -5983,66 +5983,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2588",
-    "conflicts": "2067,2601,2785,2799,2805,2886,4137"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4710",
-    "course": "COMP 3490",
-    "section": "1",
-    "title": "Understanding AI",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "MRH 214",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": 0,
-    "enrolled": 0,
-    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
-    "exam_time": "10:00AM-11:50AM",
-    "exam_days": "M",
-    "exam_room": "MRH 214",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "10:00",
-    "time_end_24": "11:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 710,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": false,
-    "crosslisted_crn": "4710,4723",
-    "crosslist": "4723",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "conflicts": "1288,3115,3116,3117,3600,4716,4717"
+    "conflicts": "2067,2601,2785,2799,2805,4137,4728"
   },
   {
     "term": "202630",
@@ -6278,7 +6219,7 @@
     "total_seats": 22,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "1288,3115,3116,3117,3600,4710,4723"
+    "conflicts": "1288,3115,3116,3117"
   },
   {
     "term": "202630",
@@ -6455,7 +6396,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2584,2788,4168,4730"
+    "conflicts": "2584,2788,4168,4730,4860"
   },
   {
     "term": "202630",
@@ -6514,7 +6455,7 @@
     "total_seats": 40,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2067,2588,2589,2601,2785,2886,4137"
+    "conflicts": "2067,2588,2589,2601,2785,4137,4728"
   },
   {
     "term": "202630",
@@ -6573,7 +6514,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2785",
-    "conflicts": "2588,2589,2601,2799,2805,2886"
+    "conflicts": "2588,2589,2601,2799,2805,4728"
   },
   {
     "term": "202630",
@@ -6632,7 +6573,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4137",
-    "conflicts": "2067,2586,2588,2589,2601,2787,2799,2800,2805,2886,4727"
+    "conflicts": "2067,2586,2588,2589,2601,2799,2800,2805,2886,4727,4728"
   },
   {
     "term": "202630",
@@ -6690,7 +6631,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2067",
-    "conflicts": "2586,2588,2601,2799,2800,2805,2886,4137,4727"
+    "conflicts": "2586,2588,2601,2799,2800,2805,2886,4137,4727,4728"
   },
   {
     "term": "202630",
@@ -7326,7 +7267,7 @@
     "course_type": "Online/Distance",
     "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "7:00PM-8:50PM",
-    "days": "M",
+    "days": "T",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -7346,9 +7287,9 @@
       },
       "days": {
         "list": [
-          "M"
+          "T"
         ],
-        "canonical": "M"
+        "canonical": "T"
       },
       "dates": {
         "start": "2026-03-30",
@@ -7359,8 +7300,8 @@
     "time_end_24": "20:50",
     "time_start_minutes": 1140,
     "time_end_minutes": 1250,
-    "days_canonical": "M",
-    "days_list": "M",
+    "days_canonical": "T",
+    "days_list": "T",
     "date_start": "2026-03-30",
     "date_end": "2026-06-07",
     "gta_eligible": true,
@@ -7370,7 +7311,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2787",
-    "conflicts": "2800,4137,4727"
+    "conflicts": "2440,3669"
   },
   {
     "term": "202630",
@@ -7429,7 +7370,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2440",
-    "conflicts": "2786,2789,3669"
+    "conflicts": "2786,2787,2789,3669"
   },
   {
     "term": "202630",
@@ -7488,7 +7429,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4727",
-    "conflicts": "2067,2586,2787,2800,4137"
+    "conflicts": "2067,2586,2800,2886,4137"
   },
   {
     "term": "202630",
@@ -7546,7 +7487,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2788",
-    "conflicts": "2120,2252,4168,4730"
+    "conflicts": "2120,2252,4168,4730,4860"
   },
   {
     "term": "202630",
@@ -7563,7 +7504,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 200",
-    "instructor": "",
+    "instructor": "Kossek, Wojciech K.",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -7605,7 +7546,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3669",
-    "conflicts": "2440,2786,2789"
+    "conflicts": "2440,2786,2787,2789"
   },
   {
     "term": "202630",
@@ -7779,7 +7720,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2601",
-    "conflicts": "2067,2588,2785,2799,2805,2886,4137"
+    "conflicts": "2067,2588,2785,2799,2805,4137,4728"
   },
   {
     "term": "202630",
@@ -7792,12 +7733,70 @@
     "title": "DS & AI Capstone",
     "course_type": "Online/Distance",
     "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "5:00PM-6:50PM",
+    "time": "7:00PM-8:50PM",
     "days": "W",
     "hours": "4",
     "room": "",
     "instructor": "",
     "seats": 20,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "W"
+        ],
+        "canonical": "W"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "W",
+    "days_list": "W",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 20,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "2886",
+    "conflicts": "2067,2586,2800,4137,4727"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4728",
+    "course": "COMP 4451",
+    "section": "1",
+    "title": "LLMs for DS and AI",
+    "course_type": "Online/Distance",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Connin, Sean L.",
+    "seats": 25,
     "enrolled": 0,
     "exam_meeting_dates": "",
     "exam_time": "",
@@ -7833,126 +7832,11 @@
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2886",
-    "conflicts": "2067,2588,2601,2785,2799,2805,4137"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4728",
-    "course": "COMP 4451",
-    "section": "1",
-    "title": "LLMs for DS and AI",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "",
-    "days": "",
-    "hours": "4",
-    "room": "",
-    "instructor": "Connin, Sean L.",
-    "seats": 25,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
-      },
-      "days": {
-        "list": [],
-        "canonical": ""
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
     "total_seats": 25,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4728",
-    "conflicts": ""
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4723",
-    "course": "COMP 4490",
-    "section": "1",
-    "title": "Understanding AI",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "MRH 214",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": 0,
-    "enrolled": 0,
-    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
-    "exam_time": "10:00AM-11:50AM",
-    "exam_days": "M",
-    "exam_room": "MRH 214",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "10:00",
-    "time_end_24": "11:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 710,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": false,
-    "crosslisted_crn": "4710,4723",
-    "crosslist": "4710",
-    "lower_crosslist": false,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "conflicts": "1288,3115,3116,3117,3600,4716,4717"
+    "conflicts": "2067,2588,2601,2785,2799,2805,4137"
   },
   {
     "term": "202630",
@@ -8018,6 +7902,65 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "4860",
+    "course": "COMP 4531",
+    "section": "2",
+    "title": "Deep Learning",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4860",
+    "conflicts": "2120,2252,2584,2788,4168,4730"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "4673",
     "course": "COMP 4620",
     "section": "1",
@@ -8077,65 +8020,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3600",
-    "course": "COMP 4703",
-    "section": "3",
-    "title": "Adv Topics-Artificial Intell",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "SIE 3110",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
-    "exam_time": "10:00AM-11:50AM",
-    "exam_days": "M",
-    "exam_room": "SIE 3110",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "10:00",
-    "time_end_24": "11:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 710,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3600",
-    "conflicts": "1288,3115,3116,3117,4710,4716,4717,4723"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "4717",
     "course": "COMP 4703",
     "section": "4",
@@ -8188,7 +8072,7 @@
     "total_seats": 22,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "1288,3115,3116,3117,3600,4710,4723"
+    "conflicts": "1288,3115,3116,3117"
   },
   {
     "term": "202630",
@@ -8259,7 +8143,7 @@
     "section": "1",
     "title": "Special Tpcs-Computer Security",
     "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "12:00PM-1:50PM",
     "days": "T,R",
     "hours": "4",
@@ -8288,7 +8172,7 @@
       },
       "dates": {
         "start": "2026-03-30",
-        "end": "2026-06-11"
+        "end": "2026-06-07"
       }
     },
     "time_start_24": "12:00",
@@ -8298,7 +8182,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-03-30",
-    "date_end": "2026-06-11",
+    "date_end": "2026-06-07",
     "gta_eligible": true,
     "crosslisted_crn": "4741,4742",
     "crosslist": "4742",
@@ -8365,7 +8249,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2584,2788,4168,4730"
+    "conflicts": "2584,2788,4168,4730,4860"
   },
   {
     "term": "202630",
@@ -8381,7 +8265,7 @@
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "OLIN 103",
+    "room": "ECS 301",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
     "enrolled": 0,
@@ -8424,7 +8308,7 @@
     "total_seats": 40,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2067,2588,2589,2601,2785,2886,4137"
+    "conflicts": "2067,2588,2589,2601,2785,4137,4728"
   },
   {
     "term": "202630",
