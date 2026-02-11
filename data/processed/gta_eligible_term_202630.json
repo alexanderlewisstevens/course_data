@@ -408,23 +408,6 @@
     "total_enrollment": 0
   },
   {
-    "crn": "4710",
-    "course": "COMP 3490",
-    "section": "1",
-    "title": "Understanding AI",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "MRH 214",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": 10,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "4713",
     "course": "COMP 3501",
     "section": "1",
@@ -811,23 +794,6 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
-    "crn": "4723",
-    "course": "COMP 4490",
-    "section": "1",
-    "title": "Understanding AI",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "MRH 214",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": 2,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
