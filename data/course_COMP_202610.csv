@@ -23,7 +23,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202610,ALL,COMP,Computer Science,5035,COMP 3009,101,Applied Math for DS and AI,Online/Distance,05-JAN-2026 to 16-MAR-2026,7:00PM-8:50PM,M,4,,"Sawle, Paul L.",25,20,,,,,
 202610,ALL,COMP,Computer Science,1330,COMP 3200,1,Discrete Structures,Lecture,05-JAN-2026 to 16-MAR-2026,12:00PM-1:50PM,"T,R",4,ECS 200,"Lopez, Mario A.",30,16,17-MAR-2026 to 17-MAR-2026,12:00PM-1:50PM,T,ECS 200,
 202610,ALL,COMP,Computer Science,5053,COMP 3334,1,Parallel & Distrib Comp DSAI,Lecture,05-JAN-2026 to 16-MAR-2026,5:00PM-6:50PM,"M,W",4,ECS 200,"Kraft, Aaron R.",12,7,18-MAR-2026 to 18-MAR-2026,5:00PM-6:50PM,W,ECS 200,
-202610,ALL,COMP,Computer Science,4996,COMP 3352,1,Elements of Compiler Design,Lecture,05-JAN-2026 to 16-MAR-2026,10:00AM-11:50AM,"T,R",4,ECS 400,"Anjum, Iffat",28,25,17-MAR-2026 to 17-MAR-2026,10:00AM-11:50AM,T,ECS 400,
+202610,ALL,COMP,Computer Science,4996,COMP 3352,1,Elements of Compiler Design,Lecture,05-JAN-2026 to 16-MAR-2026,10:00AM-11:50AM,"T,R",4,ECS 400,"Anjum, Iffat",28,24,17-MAR-2026 to 17-MAR-2026,10:00AM-11:50AM,T,ECS 400,
 202610,ALL,COMP,Computer Science,4287,COMP 3372,1,Advanced Algorithms,Lecture,05-JAN-2026 to 16-MAR-2026,4:00PM-5:50PM,"T,R",4,ECS 200,"Lopez, Mario A.",30,5,17-MAR-2026 to 17-MAR-2026,4:00PM-5:50PM,T,,
 202610,ALL,COMP,Computer Science,3318,COMP 3381,1,Software Engineering I,Lecture,05-JAN-2026 to 16-MAR-2026,4:00PM-5:50PM,"T,R",4,ECS 201,"Rutherford, Matthew J.",30,13,17-MAR-2026 to 17-MAR-2026,4:00PM-5:50PM,T,ECS 201,
 202610,ALL,COMP,Computer Science,3824,COMP 3410,1,Web Programming I,Lecture,05-JAN-2026 to 16-MAR-2026,12:00PM-1:50PM,"M,W",4,ECS 300,"Hannum, Andrew T.",36,35,18-MAR-2026 to 18-MAR-2026,12:00PM-1:50PM,W,ECS 300,
