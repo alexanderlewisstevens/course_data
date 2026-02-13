@@ -1481,14 +1481,14 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "BW 254",
+    "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 8,
     "enrolled": 0,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
-    "exam_room": "BW 254",
+    "exam_room": "MRH 019",
     "description": "",
     "normalized": {
       "time": {
@@ -3393,14 +3393,14 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "BW 254",
+    "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
     "enrolled": 0,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
-    "exam_room": "BW 254",
+    "exam_room": "MRH 019",
     "description": "",
     "normalized": {
       "time": {
