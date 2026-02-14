@@ -335,9 +335,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 24,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 23
   },
   {
     "crn": "4984",
@@ -743,9 +743,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 14,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 13
   },
   {
     "crn": "2791",
