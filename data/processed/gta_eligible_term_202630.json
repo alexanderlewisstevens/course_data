@@ -403,9 +403,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "4713",
@@ -454,9 +454,9 @@
     "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "4716",
@@ -825,7 +825,7 @@
     "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 201",
     "instructor": "Dalton, Donald A.",
     "seats": 25,
     "enrolled": 0,
