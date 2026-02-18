@@ -302,8 +302,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
     "enrolled": 1,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 2
   },
   {
     "crn": "2251",
@@ -318,9 +318,9 @@
     "room": "ECS 401",
     "instructor": "Stevenson, Daniel E.",
     "seats": 32,
-    "enrolled": 3,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 5
   },
   {
     "crn": "2800",
@@ -352,9 +352,9 @@
     "room": "ECS 201",
     "instructor": "Lopez, Mario A.",
     "seats": 32,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "4168",
@@ -438,8 +438,8 @@
     "instructor": "Mahoor, Mohammad H.",
     "seats": 8,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 1
   },
   {
     "crn": "4705",
@@ -471,9 +471,9 @@
     "room": "ECS 301",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4517",
@@ -523,8 +523,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 1
   },
   {
     "crn": "2805",
@@ -539,9 +539,9 @@
     "room": "ECS 301",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 1,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "enrolled": 2,
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 3
   },
   {
     "crn": "2785",
@@ -624,9 +624,9 @@
     "room": "BAUD 102",
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "2787",
@@ -658,9 +658,9 @@
     "room": "ECS 201",
     "instructor": "Anjum, Iffat",
     "seats": 24,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4727",
@@ -675,9 +675,9 @@
     "room": "ECS 401",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 4
   },
   {
     "crn": "2788",
@@ -726,9 +726,9 @@
     "room": "",
     "instructor": "",
     "seats": 20,
-    "enrolled": 4,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 5
   },
   {
     "crn": "2589",
@@ -748,23 +748,6 @@
     "total_enrollment": 1
   },
   {
-    "crn": "2601",
-    "course": "COMP 4442",
-    "section": "101",
-    "title": "Probability and Statistics 2",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "2886",
     "course": "COMP 4449",
     "section": "101",
@@ -777,9 +760,9 @@
     "room": "",
     "instructor": "Mashinchi, Navid",
     "seats": 20,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4728",
@@ -794,9 +777,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 4
   },
   {
     "crn": "4724",
@@ -828,9 +811,9 @@
     "room": "ECS 201",
     "instructor": "Dalton, Donald A.",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4673",
@@ -845,9 +828,9 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4717",
@@ -863,8 +846,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 1
   },
   {
     "crn": "4527",
@@ -913,9 +896,9 @@
     "room": "ECS 410",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "2799",
@@ -930,9 +913,9 @@
     "room": "ECS 301",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 0,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 1
+    "enrolled": 1,
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 3
   },
   {
     "crn": "2639",
