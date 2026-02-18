@@ -5983,7 +5983,7 @@
     "total_enrollment": 3,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2588",
-    "conflicts": "2067,2601,2785,2799,2805,4137,4728"
+    "conflicts": "2067,2785,2799,2805,4137,4728"
   },
   {
     "term": "202630",
@@ -6455,7 +6455,7 @@
     "total_seats": 40,
     "total_enrollment": 3,
     "crosslisted_enrollment": 1,
-    "conflicts": "2067,2588,2589,2601,2785,4137,4728"
+    "conflicts": "2067,2588,2589,2785,4137,4728"
   },
   {
     "term": "202630",
@@ -6514,7 +6514,7 @@
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2785",
-    "conflicts": "2588,2589,2601,2799,2805,4728"
+    "conflicts": "2588,2589,2799,2805,4728"
   },
   {
     "term": "202630",
@@ -6573,7 +6573,7 @@
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4137",
-    "conflicts": "2067,2586,2588,2589,2601,2799,2800,2805,2886,4727,4728"
+    "conflicts": "2067,2586,2588,2589,2799,2800,2805,2886,4727,4728"
   },
   {
     "term": "202630",
@@ -6631,7 +6631,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2067",
-    "conflicts": "2586,2588,2601,2799,2800,2805,2886,4137,4727,4728"
+    "conflicts": "2586,2588,2799,2800,2805,2886,4137,4727,4728"
   },
   {
     "term": "202630",
@@ -7270,7 +7270,7 @@
     "days": "T",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Daskevich, Ronald J.",
     "seats": 20,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -7669,64 +7669,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2601",
-    "course": "COMP 4442",
-    "section": "101",
-    "title": "Probability and Statistics 2",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 0,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "W",
-    "days_list": "W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2601",
-    "conflicts": "2067,2588,2785,2799,2805,4137,4728"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "2886",
     "course": "COMP 4449",
     "section": "101",
@@ -7836,7 +7778,7 @@
     "total_enrollment": 4,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4728",
-    "conflicts": "2067,2588,2601,2785,2799,2805,4137"
+    "conflicts": "2067,2588,2785,2799,2805,4137"
   },
   {
     "term": "202630",
@@ -8308,7 +8250,7 @@
     "total_seats": 40,
     "total_enrollment": 3,
     "crosslisted_enrollment": 2,
-    "conflicts": "2067,2588,2589,2601,2785,4137,4728"
+    "conflicts": "2067,2588,2589,2785,4137,4728"
   },
   {
     "term": "202630",
