@@ -1,6 +1,6 @@
 term,college,subject_code,subject_label,crn,course,section,title,course_type,meeting_dates,time,days,hours,room,instructor,seats,enrolled,exam_meeting_dates,exam_time,exam_days,exam_room,description
 202610,ALL,COMP,Computer Science,4690,COMP 1101,1,Analytical Inquiry I,Lecture,05-JAN-2026 to 16-MAR-2026,10:00AM-11:50AM,"T,R",4,STURM 480,"Gao, Sky T.",31,29,17-MAR-2026 to 17-MAR-2026,10:00AM-11:50AM,T,STURM 480,
-202610,ALL,COMP,Computer Science,5008,COMP 1101,2,Analytical Inquiry I,Lecture,05-JAN-2026 to 16-MAR-2026,2:00PM-3:50PM,"T,R",4,ECS 200,"Gao, Sky T.",30,16,17-MAR-2026 to 17-MAR-2026,2:00PM-3:50PM,T,ECS 200,
+202610,ALL,COMP,Computer Science,5008,COMP 1101,2,Analytical Inquiry I,Lecture,05-JAN-2026 to 16-MAR-2026,2:00PM-3:50PM,"T,R",4,ECS 200,"Gao, Sky T.",30,15,17-MAR-2026 to 17-MAR-2026,2:00PM-3:50PM,T,ECS 200,
 202610,ALL,COMP,Computer Science,3023,COMP 1202,1,Intro. to Computer Science II,Lecture/Lab,05-JAN-2026 to 16-MAR-2026,10:00AM-10:50AM,"T,R",2,ECS 300,"Leutenegger, Scott T.",35,20,,,,,
 202610,ALL,COMP,Computer Science,3024,COMP 1202,2,Intro. to Computer Science II,Lecture/Lab,05-JAN-2026 to 16-MAR-2026,11:00AM-11:50AM,"T,R",2,ECS 300,"Leutenegger, Scott T.",35,14,,,,,
 202610,ALL,COMP,Computer Science,3025,COMP 1202,4,Intro. to Computer Science II,Lecture/Lab,05-JAN-2026 to 16-MAR-2026,1:00PM-1:50PM,"T,R",2,ECS 301,"Leutenegger, Scott T.",39,36,,,,,
