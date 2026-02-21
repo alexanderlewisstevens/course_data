@@ -665,7 +665,7 @@
     "room": "ECS 401",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 20,
-    "enrolled": 2,
+    "enrolled": 3,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -702,7 +702,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 2,
+    "total_enrollment": 3,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4730",
     "conflicts": "2120,2252,2584,2788,4168,4860"

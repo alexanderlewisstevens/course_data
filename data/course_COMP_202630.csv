@@ -10,7 +10,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202630,ALL,COMP,Computer Science,3596,COMP 2361,1,Systems I,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,12:00PM-1:50PM,"M,W",4,ECS 400,"Hannum, Andrew T.",30,0,,,,,
 202630,ALL,COMP,Computer Science,3597,COMP 2361,2,Systems I,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,2:00PM-3:50PM,"M,W",4,ECS 400,"Hannum, Andrew T.",30,0,,,,,
 202630,ALL,COMP,Computer Science,4148,COMP 2370,1,Data Struct. & Algorithms II,Lecture,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"T,R",4,ECS 300,"Hossain, Ismail",30,0,09-JUN-2026 to 09-JUN-2026,10:00AM-11:50AM,T,ECS 300,
-202630,ALL,COMP,Computer Science,4730,COMP 3006,1,Python Software Development,Lecture,30-MAR-2026 to 07-JUN-2026,5:00PM-6:50PM,"T,R",4,ECS 401,"Hamed, Ahmed Abdeen",20,2,,,,,
+202630,ALL,COMP,Computer Science,4730,COMP 3006,1,Python Software Development,Lecture,30-MAR-2026 to 07-JUN-2026,5:00PM-6:50PM,"T,R",4,ECS 401,"Hamed, Ahmed Abdeen",20,3,,,,,
 202630,ALL,COMP,Computer Science,2786,COMP 3006,101,Python Software Development,Online/Distance,30-MAR-2026 to 07-JUN-2026,7:00PM-8:50PM,R,4,,"Connin, Sean L.",20,6,,,,,
 202630,ALL,COMP,Computer Science,2584,COMP 3007,101,Foundations: DS Math I,Online/Distance,30-MAR-2026 to 07-JUN-2026,5:00PM-6:50PM,T,4,,,20,0,,,,,
 202630,ALL,COMP,Computer Science,2586,COMP 3008,101,Foundations: DS Math II,Online/Distance,30-MAR-2026 to 07-JUN-2026,7:00PM-8:50PM,W,4,,,20,0,,,,,
