@@ -95,7 +95,7 @@
     "days": "M,W",
     "hours": "3",
     "room": "ECS 400",
-    "instructor": "Hamed, Ahmed Abdeen",
+    "instructor": "Hossain, Ismail",
     "seats": 30,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
@@ -384,11 +384,11 @@
     "days": "W",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 9
   },
   {
     "crn": "4713",
@@ -454,9 +454,9 @@
     "room": "ECS 301",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "4517",
@@ -829,8 +829,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
     "enrolled": 0,
-    "crosslisted_enrollment": 6,
-    "total_enrollment": 6
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 7
   },
   {
     "crn": "4527",
