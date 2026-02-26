@@ -165,9 +165,9 @@
     "room": "ECS 400",
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "4148",
@@ -357,6 +357,23 @@
     "total_enrollment": 8
   },
   {
+    "crn": "4942",
+    "course": "COMP 3384",
+    "section": "1",
+    "title": "Secure Software Engineering",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Anjum, Iffat",
+    "seats": 8,
+    "enrolled": 2,
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 8
+  },
+  {
     "crn": "4150",
     "course": "COMP 3411",
     "section": "1",
@@ -386,9 +403,9 @@
     "room": "",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "4713",
@@ -438,8 +455,8 @@
     "instructor": "Oleson, Alannah",
     "seats": 15,
     "enrolled": 7,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 8
   },
   {
     "crn": "4716",
@@ -642,8 +659,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 20,
     "enrolled": 6,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 8
   },
   {
     "crn": "4727",
@@ -692,9 +709,9 @@
     "room": "ECS 200",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "2789",
@@ -814,6 +831,23 @@
     "enrolled": 2,
     "crosslisted_enrollment": 0,
     "total_enrollment": 2
+  },
+  {
+    "crn": "4971",
+    "course": "COMP 4701",
+    "section": "1",
+    "title": "Special Tpcs-Computer Graphics",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Oleson, Alannah",
+    "seats": 3,
+    "enrolled": 1,
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 8
   },
   {
     "crn": "4717",

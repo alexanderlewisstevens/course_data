@@ -4633,7 +4633,7 @@
     "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1579",
-    "conflicts": "4149,4705,4713,4724,4725"
+    "conflicts": "4149,4705,4713,4724,4725,4971"
   },
   {
     "term": "202630",
@@ -5124,7 +5124,7 @@
     "room": "ECS 400",
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
-    "enrolled": 11,
+    "enrolled": 12,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -5161,7 +5161,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 11,
+    "total_enrollment": 12,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3597",
     "conflicts": "2251"
@@ -5340,7 +5340,7 @@
     "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2786",
-    "conflicts": "2440,2789,3669"
+    "conflicts": "2440,2789,3669,4942"
   },
   {
     "term": "202630",
@@ -5515,7 +5515,7 @@
     "total_seats": 32,
     "total_enrollment": 29,
     "crosslisted_enrollment": 0,
-    "conflicts": "1579,4705,4713,4724"
+    "conflicts": "1579,4705,4713,4724,4971"
   },
   {
     "term": "202630",
@@ -5817,6 +5817,65 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "4942",
+    "course": "COMP 3384",
+    "section": "1",
+    "title": "Secure Software Engineering",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Anjum, Iffat",
+    "seats": 8,
+    "enrolled": 2,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslisted_crn": "2440,4942",
+    "crosslist": "2440",
+    "lower_crosslist": true,
+    "total_seats": 28,
+    "total_enrollment": 8,
+    "crosslisted_enrollment": 6,
+    "conflicts": "2786,2787,2789,3669"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "4150",
     "course": "COMP 3411",
     "section": "1",
@@ -5888,7 +5947,7 @@
     "room": "",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 18,
+    "enrolled": 19,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -5924,7 +5983,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 18,
+    "total_enrollment": 19,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2588",
     "conflicts": "2067,2785,2799,2805,4137,4728"
@@ -5986,7 +6045,7 @@
     "total_seats": 32,
     "total_enrollment": 23,
     "crosslisted_enrollment": 0,
-    "conflicts": "1579,4149,4705,4725"
+    "conflicts": "1579,4149,4705,4725,4971"
   },
   {
     "term": "202630",
@@ -6098,12 +6157,12 @@
     "date_start": "2026-03-30",
     "date_end": "2026-06-07",
     "gta_eligible": true,
-    "crosslist": "",
+    "crosslisted_crn": "4705,4971",
+    "crosslist": "4971",
     "lower_crosslist": true,
-    "total_seats": 15,
-    "total_enrollment": 7,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "4705",
+    "total_seats": 18,
+    "total_enrollment": 8,
+    "crosslisted_enrollment": 1,
     "conflicts": "1579,4149,4713,4724,4725"
   },
   {
@@ -7138,7 +7197,7 @@
     "total_seats": 32,
     "total_enrollment": 29,
     "crosslisted_enrollment": 29,
-    "conflicts": "1579,4705,4713,4724"
+    "conflicts": "1579,4705,4713,4724,4971"
   },
   {
     "term": "202630",
@@ -7255,7 +7314,7 @@
     "total_enrollment": 2,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2787",
-    "conflicts": "2440,3669"
+    "conflicts": "2440,3669,4942"
   },
   {
     "term": "202630",
@@ -7308,12 +7367,12 @@
     "date_start": "2026-03-30",
     "date_end": "2026-06-07",
     "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 6,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2440",
+    "crosslisted_crn": "2440,4942",
+    "crosslist": "4942",
+    "lower_crosslist": false,
+    "total_seats": 28,
+    "total_enrollment": 8,
+    "crosslisted_enrollment": 2,
     "conflicts": "2786,2787,2789,3669"
   },
   {
@@ -7450,7 +7509,7 @@
     "room": "ECS 200",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 1,
+    "enrolled": 2,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -7487,10 +7546,10 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 1,
+    "total_enrollment": 2,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3669",
-    "conflicts": "2440,2786,2787,2789"
+    "conflicts": "2440,2786,2787,2789,4942"
   },
   {
     "term": "202630",
@@ -7548,7 +7607,7 @@
     "total_enrollment": 19,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2789",
-    "conflicts": "2440,2786,3669"
+    "conflicts": "2440,2786,3669,4942"
   },
   {
     "term": "202630",
@@ -7781,7 +7840,7 @@
     "total_seats": 32,
     "total_enrollment": 23,
     "crosslisted_enrollment": 23,
-    "conflicts": "1579,4149,4705,4725"
+    "conflicts": "1579,4149,4705,4725,4971"
   },
   {
     "term": "202630",
@@ -7900,6 +7959,65 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4673",
     "conflicts": "3111,3121,4148,4150,4517,4527,4684,4707,4726"
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4971",
+    "course": "COMP 4701",
+    "section": "1",
+    "title": "Special Tpcs-Computer Graphics",
+    "course_type": "Lecture",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Oleson, Alannah",
+    "seats": 3,
+    "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-07"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-07",
+    "gta_eligible": true,
+    "crosslisted_crn": "4705,4971",
+    "crosslist": "4705",
+    "lower_crosslist": false,
+    "total_seats": 18,
+    "total_enrollment": 8,
+    "crosslisted_enrollment": 7,
+    "conflicts": "1579,4149,4713,4724,4725"
   },
   {
     "term": "202630",
