@@ -16,7 +16,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202610,ALL,COMP,Computer Science,3325,COMP 2381,1,Object-Oriented Software Dev.,Lecture/Lab,05-JAN-2026 to 16-MAR-2026,10:00AM-11:50AM,"T,R",4,ECS 301,"Taami, Tania",25,14,,,,,
 202610,ALL,COMP,Computer Science,3618,COMP 2701,1,Topics in Computer Science,Online/Distance,05-JAN-2026 to 16-MAR-2026,,,1,,"Rutherford, Matthew J.",50,9,,,,,
 202610,ALL,COMP,Computer Science,3029,COMP 3004,1,Foundations in Discrete/Algo,Lecture/Lab,05-JAN-2026 to 16-MAR-2026,5:00PM-6:50PM,"M,W",4,ECS 201,"Stevens, Alexander L.",25,19,,,,,
-202610,ALL,COMP,Computer Science,3901,COMP 3005,1,Foundation: Python Programming,Online/Distance,05-JAN-2026 to 16-MAR-2026,5:00PM-6:50PM,W,4,,"Connin, Sean L.",30,21,,,,,
+202610,ALL,COMP,Computer Science,3901,COMP 3005,1,Foundation: Python Programming,Online/Distance,05-JAN-2026 to 16-MAR-2026,5:00PM-6:50PM,W,4,,"Connin, Sean L.",30,20,,,,,
 202610,ALL,COMP,Computer Science,2580,COMP 3006,1,Python Software Development,Lecture,05-JAN-2026 to 16-MAR-2026,7:00PM-8:50PM,"M,W",4,ECS 200,"Hamed, Ahmed Abdeen",30,25,,,,,
 202610,ALL,COMP,Computer Science,2573,COMP 3006,101,Python Software Development,Online/Distance,05-JAN-2026 to 16-MAR-2026,5:00PM-6:50PM,R,4,,"Connin, Sean L.",25,23,,,,,
 202610,ALL,COMP,Computer Science,4984,COMP 3009,1,Applied Math for DS and AI,Lecture,05-JAN-2026 to 20-MAR-2026,7:00PM-8:50PM,"M,W",4,ECS 201,"Kossek, Wojciech K.",20,8,,,,,
