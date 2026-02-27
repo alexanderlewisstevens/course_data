@@ -63,9 +63,9 @@
     "room": "ECS 301",
     "instructor": "Taami, Tania",
     "seats": 30,
-    "enrolled": 20,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 21
   },
   {
     "crn": "3115",
@@ -165,9 +165,9 @@
     "room": "ECS 400",
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "4148",
@@ -267,9 +267,9 @@
     "room": "JMAC 141",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 31,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 31
   },
   {
     "crn": "4707",
@@ -370,8 +370,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 8,
     "enrolled": 2,
-    "crosslisted_enrollment": 7,
-    "total_enrollment": 9
+    "crosslisted_enrollment": 8,
+    "total_enrollment": 10
   },
   {
     "crn": "4150",
@@ -420,9 +420,9 @@
     "room": "CMK 101",
     "instructor": "Kraft, Aaron R.",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 28
+    "total_enrollment": 29
   },
   {
     "crn": "4684",
@@ -523,8 +523,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 4,
-    "crosslisted_enrollment": 10,
-    "total_enrollment": 14
+    "crosslisted_enrollment": 11,
+    "total_enrollment": 15
   },
   {
     "crn": "2805",
@@ -582,12 +582,12 @@
     "course": "COMP 3833",
     "section": "1",
     "title": "Game Capstone II",
-    "course_type": "Online/Distance",
+    "course_type": "Lecture",
     "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
     "time": "6:00PM-8:50PM",
     "days": "W",
     "hours": "4",
-    "room": "",
+    "room": "ECS 358",
     "instructor": "Gansciu, Serban B.",
     "seats": 10,
     "enrolled": 9,
@@ -608,8 +608,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
     "enrolled": 0,
-    "crosslisted_enrollment": 30,
-    "total_enrollment": 30
+    "crosslisted_enrollment": 31,
+    "total_enrollment": 31
   },
   {
     "crn": "4726",
@@ -658,9 +658,9 @@
     "room": "ECS 201",
     "instructor": "Anjum, Iffat",
     "seats": 20,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 2,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "4727",
@@ -795,8 +795,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 2,
     "enrolled": 0,
-    "crosslisted_enrollment": 28,
-    "total_enrollment": 28
+    "crosslisted_enrollment": 29,
+    "total_enrollment": 29
   },
   {
     "crn": "4860",
@@ -842,7 +842,7 @@
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 3,
     "enrolled": 1,
@@ -913,9 +913,9 @@
     "room": "ECS 410",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 4,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "2799",
