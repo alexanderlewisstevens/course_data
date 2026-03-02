@@ -46,9 +46,9 @@
     "room": "ECS 200",
     "instructor": "Taami, Tania",
     "seats": 30,
-    "enrolled": 19,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "3112",
@@ -369,9 +369,9 @@
     "room": "",
     "instructor": "Anjum, Iffat",
     "seats": 8,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 8,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "4150",
@@ -659,8 +659,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 20,
     "enrolled": 8,
-    "crosslisted_enrollment": 2,
-    "total_enrollment": 10
+    "crosslisted_enrollment": 3,
+    "total_enrollment": 11
   },
   {
     "crn": "4727",

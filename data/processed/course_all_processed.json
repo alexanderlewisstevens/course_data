@@ -4711,7 +4711,7 @@
     "room": "ECS 200",
     "instructor": "Taami, Tania",
     "seats": 30,
-    "enrolled": 19,
+    "enrolled": 20,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -4748,7 +4748,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 19,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3111",
     "conflicts": "3121,4148,4150,4517,4527,4673,4684,4707,4726"
@@ -5829,7 +5829,7 @@
     "room": "",
     "instructor": "Anjum, Iffat",
     "seats": 8,
-    "enrolled": 2,
+    "enrolled": 3,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -5867,7 +5867,7 @@
     "crosslist": "2440",
     "lower_crosslist": true,
     "total_seats": 28,
-    "total_enrollment": 10,
+    "total_enrollment": 11,
     "crosslisted_enrollment": 8,
     "conflicts": "2786,2787,2789,3669"
   },
@@ -7371,8 +7371,8 @@
     "crosslist": "4942",
     "lower_crosslist": false,
     "total_seats": 28,
-    "total_enrollment": 10,
-    "crosslisted_enrollment": 2,
+    "total_enrollment": 11,
+    "crosslisted_enrollment": 3,
     "conflicts": "2786,2787,2789,3669"
   },
   {
