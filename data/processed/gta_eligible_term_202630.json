@@ -29,9 +29,9 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "3111",
@@ -80,9 +80,9 @@
     "room": "ECS 300",
     "instructor": "Anjum, Iffat",
     "seats": 30,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "3116",
@@ -165,9 +165,9 @@
     "room": "ECS 400",
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
-    "enrolled": 16,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 17
   },
   {
     "crn": "4148",
@@ -182,9 +182,9 @@
     "room": "ECS 300",
     "instructor": "Hossain, Ismail",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "4730",
@@ -216,9 +216,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "2584",
@@ -318,9 +318,9 @@
     "room": "ECS 201",
     "instructor": "Petrehn, Sydney M.",
     "seats": 25,
-    "enrolled": 11,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 13
   },
   {
     "crn": "1288",
@@ -352,9 +352,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "4942",
@@ -369,9 +369,9 @@
     "room": "",
     "instructor": "Anjum, Iffat",
     "seats": 8,
-    "enrolled": 3,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 11
+    "enrolled": 5,
+    "crosslisted_enrollment": 9,
+    "total_enrollment": 14
   },
   {
     "crn": "4150",
@@ -403,9 +403,9 @@
     "room": "",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 19,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "4713",
@@ -471,9 +471,9 @@
     "room": "ECS 301",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "4517",
@@ -539,9 +539,9 @@
     "room": "ECS 301",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 20,
-    "crosslisted_enrollment": 9,
-    "total_enrollment": 29
+    "enrolled": 21,
+    "crosslisted_enrollment": 10,
+    "total_enrollment": 31
   },
   {
     "crn": "2785",
@@ -658,9 +658,9 @@
     "room": "ECS 201",
     "instructor": "Anjum, Iffat",
     "seats": 20,
-    "enrolled": 8,
-    "crosslisted_enrollment": 3,
-    "total_enrollment": 11
+    "enrolled": 9,
+    "crosslisted_enrollment": 5,
+    "total_enrollment": 14
   },
   {
     "crn": "4727",
@@ -725,10 +725,10 @@
     "hours": "4",
     "room": "",
     "instructor": "",
-    "seats": 20,
-    "enrolled": 20,
+    "seats": 25,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 22
   },
   {
     "crn": "2589",
@@ -743,9 +743,9 @@
     "room": "",
     "instructor": "",
     "seats": 20,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "2886",
@@ -777,9 +777,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 9,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 12
   },
   {
     "crn": "4724",
@@ -863,8 +863,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
     "enrolled": 0,
-    "crosslisted_enrollment": 10,
-    "total_enrollment": 10
+    "crosslisted_enrollment": 11,
+    "total_enrollment": 11
   },
   {
     "crn": "4527",
@@ -930,9 +930,9 @@
     "room": "ECS 301",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 9,
-    "crosslisted_enrollment": 20,
-    "total_enrollment": 29
+    "enrolled": 10,
+    "crosslisted_enrollment": 21,
+    "total_enrollment": 31
   },
   {
     "crn": "2639",
