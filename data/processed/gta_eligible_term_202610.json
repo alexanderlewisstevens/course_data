@@ -301,9 +301,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 30,
-    "enrolled": 20,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 19
   },
   {
     "crn": "2580",
@@ -335,9 +335,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 23,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 23
+    "total_enrollment": 22
   },
   {
     "crn": "4984",
@@ -607,9 +607,9 @@
     "room": "ECS 200",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 31,
-    "enrolled": 28,
+    "enrolled": 27,
     "crosslisted_enrollment": 2,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "4696",
@@ -794,9 +794,9 @@
     "room": "",
     "instructor": "Christensen, Wendy N.",
     "seats": 25,
-    "enrolled": 24,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 23
   },
   {
     "crn": "2794",
