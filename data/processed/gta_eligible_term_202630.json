@@ -536,7 +536,7 @@
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 301",
+    "room": "ECS 410",
     "instructor": "Evans, Nathan S.",
     "seats": 30,
     "enrolled": 27,
@@ -777,9 +777,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "4724",
@@ -811,9 +811,9 @@
     "room": "ECS 201",
     "instructor": "Dalton, Donald A.",
     "seats": 25,
-    "enrolled": 4,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 5
   },
   {
     "crn": "4673",
@@ -927,7 +927,7 @@
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 301",
+    "room": "ECS 410",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
     "enrolled": 12,
