@@ -97,9 +97,9 @@
     "room": "ECS 401",
     "instructor": "Hannum, Andrew T.",
     "seats": 28,
-    "enrolled": 22,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 21
   },
   {
     "crn": "3031",
@@ -301,9 +301,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 30,
-    "enrolled": 19,
+    "enrolled": 18,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 18
   },
   {
     "crn": "2580",
@@ -369,9 +369,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 20,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 19
   },
   {
     "crn": "1330",
