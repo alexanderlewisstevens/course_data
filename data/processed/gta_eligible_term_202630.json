@@ -216,9 +216,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "2584",
@@ -488,9 +488,9 @@
     "room": "ECS 301",
     "instructor": "Durso, Catherine S.",
     "seats": 20,
-    "enrolled": 7,
+    "enrolled": 6,
     "crosslisted_enrollment": 4,
-    "total_enrollment": 11
+    "total_enrollment": 10
   },
   {
     "crn": "4742",
@@ -675,9 +675,9 @@
     "room": "ECS 401",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "2788",
@@ -880,8 +880,8 @@
     "instructor": "Durso, Catherine S.",
     "seats": 5,
     "enrolled": 4,
-    "crosslisted_enrollment": 7,
-    "total_enrollment": 11
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 10
   },
   {
     "crn": "4741",
