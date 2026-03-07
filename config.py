@@ -2,6 +2,8 @@
 #
 # Update TERMS as new term codes become available. Keys are term codes used
 # by the DU site; values are human-friendly labels for clarity.
+# In CI, terms are discovered dynamically and filtered by year window.
+# TERMS is used as a fallback list when live term discovery fails.
 
 TERMS = {
     "202610": "Winter Quarter 2026",

@@ -30,36 +30,139 @@ jobs:
         run: |
           mkdir -p data/json
           python - <<'PY'
+          from __future__ import annotations
+
+          import datetime as dt
           import json
+          import re
           import subprocess
           from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          import requests
+          from bs4 import BeautifulSoup
+
           import config
 
-          data_dir = Path("data")
-          all_rows = []
+          BASE_URL = "https://apps25.du.edu:8446/mdb/pducrs.p_duSlctCrsOff"
 
-          for term in config.TERMS:
+
+          def term_year(term_code: str) -> int | None:
+              if not term_code or len(term_code) < 4 or not term_code[:4].isdigit():
+                  return None
+              return int(term_code[:4])
+
+
+          def discover_term_codes() -> list[str]:
+              resp = requests.get(BASE_URL, timeout=30)
+              resp.raise_for_status()
+              soup = BeautifulSoup(resp.text, "html.parser")
+              term_select = soup.find("select", attrs={"name": "p_term"})
+              if not term_select:
+                  raise RuntimeError("term selector p_term not found")
+              terms: list[str] = []
+              for option in term_select.find_all("option"):
+                  code = (option.get("value") or "").strip()
+                  if code and re.match(r"^\d+$", code):
+                      terms.append(code)
+              return terms
+
+
+          denver_year = dt.datetime.now(ZoneInfo("America/Denver")).year
+          target_years = {denver_year, denver_year + 1}
+          data_dir = Path("data")
+          active_terms: list[str]
+          discovered_terms: list[str] = []
+          used_fallback = False
+
+          try:
+              discovered_terms = discover_term_codes()
+              active_terms = sorted({t for t in discovered_terms if term_year(t) in target_years})
+              if not active_terms:
+                  raise RuntimeError("no active terms discovered in current/next year window")
+          except Exception as exc:
+              used_fallback = True
+              print(f"term discovery failed ({exc}); falling back to config.TERMS")
+              active_terms = sorted({t for t in config.TERMS if term_year(t) in target_years})
+
+          success_terms: set[str] = set()
+          failed_terms: set[str] = set()
+          successful_active_files: list[Path] = []
+
+          for term in active_terms:
+              term_failed = False
+              term_files: list[Path] = []
               for subj in config.SUBJECTS:
                   out_csv = data_dir / f"course_{subj}_{term}.csv"
-                  subprocess.run(
-                      ["python", "scripts/fetch_courses.py", term, config.COLLEGE, subj, str(out_csv)],
-                      check=True,
-                  )
                   out_json = out_csv.with_suffix(".json")
-                  if out_json.exists():
-                      all_rows.extend(json.loads(out_json.read_text()))
+                  try:
+                      subprocess.run(
+                          ["python", "scripts/fetch_courses.py", term, config.COLLEGE, subj, str(out_csv)],
+                          check=True,
+                      )
+                      if not out_json.exists():
+                          raise FileNotFoundError(f"missing scrape output: {out_json}")
+                      term_files.append(out_json)
+                  except Exception as exc:
+                      term_failed = True
+                      print(f"scrape failed for term={term} subject={subj}: {exc}")
+              if term_failed:
+                  failed_terms.add(term)
+                  continue
+              success_terms.add(term)
+              successful_active_files.extend(term_files)
+
+          historical_cache_files: list[Path] = []
+          for subj in config.SUBJECTS:
+              for path in sorted(data_dir.glob(f"course_{subj}_*.json")):
+                  stem_parts = path.stem.split("_")
+                  if len(stem_parts) < 3:
+                      continue
+                  term = stem_parts[-1]
+                  year = term_year(term)
+                  if year is None:
+                      continue
+                  if year < denver_year:
+                      historical_cache_files.append(path)
+
+          selected_input_paths = sorted(
+              {p.resolve() for p in (successful_active_files + historical_cache_files)},
+              key=lambda p: str(p),
+          )
+          if not selected_input_paths:
+              raise SystemExit("No selected inputs to combine/process.")
+
+          all_rows: list[dict] = []
+          for input_path in selected_input_paths:
+              all_rows.extend(json.loads(input_path.read_text()))
 
           combined = Path("data/json/course_all.json")
           combined.parent.mkdir(parents=True, exist_ok=True)
           combined.write_text(json.dumps(all_rows, indent=2))
-          print(f"combined {len(all_rows)} rows into {combined}")
 
-          # Post-process to add crosslist/total fields
-          inputs = [str(Path("data") / f"course_{subj}_{term}.json") for term in config.TERMS for subj in config.SUBJECTS]
           subprocess.run(
-              ["python", "scripts/process_courses.py", *inputs, "--outdir", "data/processed", "--combine", "data/processed/course_all_processed.json"],
+              [
+                  "python",
+                  "scripts/process_courses.py",
+                  *[str(p) for p in selected_input_paths],
+                  "--outdir",
+                  "data/processed",
+                  "--combine",
+                  "data/processed/course_all_processed.json",
+              ],
               check=True,
           )
+
+          print("=== scrape summary ===")
+          print(f"denver_year={denver_year} target_years={sorted(target_years)}")
+          print(f"term_discovery_used_fallback={used_fallback}")
+          print(f"discovered_terms={sorted(set(discovered_terms)) if discovered_terms else []}")
+          print(f"active_terms_targeted={active_terms}")
+          print(f"success_terms={sorted(success_terms)}")
+          print(f"failed_terms={sorted(failed_terms)}")
+          print(f"historical_cache_files_included={len(historical_cache_files)}")
+          print(f"selected_inputs={len(selected_input_paths)}")
+          print(f"combined_rows={len(all_rows)} -> {combined}")
           PY
 
       - name: Commit and push if changed

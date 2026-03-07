@@ -39,7 +39,8 @@ Power Query:
 - Base M script lives in `power_query/master_all_terms.m` and pulls `data/processed/course_all_processed.json` (fields above) into Excel. Use per-term reference queries or `FILTER` sheets for separate tabs.
 
 Configuration:
-- Edit `config.py` to change terms, subjects, or college code. TERM codes are kept as constants there for easy updates each term.
+- Edit `config.py` to change subjects or college code.
+- In CI (`.github/workflows/scrape.yml`), term targeting is dynamic: scrape all DU terms whose code year matches the current Denver year or next year. `config.TERMS` is used only as a fallback list if live term discovery fails.
 
 Current term codes (config.py):
 - `202610` → Winter Quarter 2026
@@ -54,4 +55,3 @@ python scripts/process_courses.py --outdir data/processed --combine data/process
 
 
 Prerequesites
-
