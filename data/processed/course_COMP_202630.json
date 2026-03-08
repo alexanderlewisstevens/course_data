@@ -2815,7 +2815,7 @@
     "room": "ECS 401",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 12,
+    "enrolled": 13,
     "exam_meeting_dates": "10-JUN-2026 to 10-JUN-2026",
     "exam_time": "7:00PM-8:50PM",
     "exam_days": "W",
@@ -2852,7 +2852,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 12,
+    "total_enrollment": 13,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4727",
     "conflicts": "2067,2586,2800,2886,4137"
