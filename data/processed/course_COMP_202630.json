@@ -724,7 +724,7 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 10,
+    "enrolled": 11,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -760,7 +760,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 10,
+    "total_enrollment": 11,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2786",
     "conflicts": "2440,2789,3669,4942"
