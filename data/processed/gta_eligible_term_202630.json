@@ -12,9 +12,9 @@
     "room": "CMK 207",
     "instructor": "",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 30,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 30
   },
   {
     "crn": "3194",
@@ -97,9 +97,9 @@
     "room": "ECS 400",
     "instructor": "Hossain, Ismail",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "3117",
@@ -437,9 +437,9 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "4705",
@@ -540,8 +540,8 @@
     "instructor": "Evans, Nathan S.",
     "seats": 30,
     "enrolled": 30,
-    "crosslisted_enrollment": 13,
-    "total_enrollment": 43
+    "crosslisted_enrollment": 15,
+    "total_enrollment": 45
   },
   {
     "crn": "2785",
@@ -709,9 +709,9 @@
     "room": "ECS 200",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "2789",
@@ -777,9 +777,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "4724",
@@ -828,9 +828,9 @@
     "room": "MRH 019",
     "instructor": "",
     "seats": 10,
-    "enrolled": 2,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 1
   },
   {
     "crn": "4971",
@@ -930,9 +930,9 @@
     "room": "ECS 410",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 13,
+    "enrolled": 15,
     "crosslisted_enrollment": 30,
-    "total_enrollment": 43
+    "total_enrollment": 45
   },
   {
     "crn": "2639",
