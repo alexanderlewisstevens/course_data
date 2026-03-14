@@ -187,6 +187,23 @@
     "total_enrollment": 15
   },
   {
+    "crn": "5117",
+    "course": "COMP 2401",
+    "section": "1",
+    "title": "Unix Command-Line Bootcamp",
+    "course_type": "Online/Distance",
+    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Rutherford, Matthew J.",
+    "seats": 50,
+    "enrolled": 1,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 1
+  },
+  {
     "crn": "4730",
     "course": "COMP 3006",
     "section": "1",
@@ -438,8 +455,8 @@
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
     "enrolled": 15,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 16
   },
   {
     "crn": "5109",
@@ -843,11 +860,11 @@
     "days": "T,R",
     "hours": "4",
     "room": "MRH 019",
-    "instructor": "",
+    "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
     "enrolled": 1,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "crosslisted_enrollment": 15,
+    "total_enrollment": 16
   },
   {
     "crn": "5105",
