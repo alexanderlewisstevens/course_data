@@ -665,7 +665,7 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 1,
+    "enrolled": 2,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -699,7 +699,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 50,
-    "total_enrollment": 1,
+    "total_enrollment": 2,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "5117",
     "conflicts": ""
