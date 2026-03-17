@@ -233,9 +233,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "2584",
@@ -335,9 +335,9 @@
     "room": "ECS 201",
     "instructor": "Petrehn, Sydney M.",
     "seats": 25,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "1288",
@@ -386,9 +386,9 @@
     "room": "",
     "instructor": "Anjum, Iffat",
     "seats": 8,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 11,
-    "total_enrollment": 16
+    "total_enrollment": 17
   },
   {
     "crn": "4150",
@@ -693,8 +693,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 20,
     "enrolled": 11,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 16
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 17
   },
   {
     "crn": "4727",
