@@ -335,9 +335,9 @@
     "room": "ECS 201",
     "instructor": "Petrehn, Sydney M.",
     "seats": 25,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "1288",
@@ -369,9 +369,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 9,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 11
   },
   {
     "crn": "4942",
@@ -387,8 +387,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 8,
     "enrolled": 6,
-    "crosslisted_enrollment": 11,
-    "total_enrollment": 17
+    "crosslisted_enrollment": 14,
+    "total_enrollment": 20
   },
   {
     "crn": "4150",
@@ -420,9 +420,9 @@
     "room": "",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 24,
+    "enrolled": 25,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 25
   },
   {
     "crn": "4713",
@@ -455,8 +455,8 @@
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
     "enrolled": 15,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 16
+    "crosslisted_enrollment": 3,
+    "total_enrollment": 18
   },
   {
     "crn": "5109",
@@ -557,8 +557,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 3,
-    "crosslisted_enrollment": 13,
-    "total_enrollment": 16
+    "crosslisted_enrollment": 15,
+    "total_enrollment": 18
   },
   {
     "crn": "2805",
@@ -692,9 +692,9 @@
     "room": "ECS 201",
     "instructor": "Anjum, Iffat",
     "seats": 20,
-    "enrolled": 11,
+    "enrolled": 14,
     "crosslisted_enrollment": 6,
-    "total_enrollment": 17
+    "total_enrollment": 20
   },
   {
     "crn": "4727",
@@ -862,9 +862,9 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
-    "enrolled": 1,
+    "enrolled": 3,
     "crosslisted_enrollment": 15,
-    "total_enrollment": 16
+    "total_enrollment": 18
   },
   {
     "crn": "5105",
@@ -964,9 +964,9 @@
     "room": "ECS 410",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 13,
+    "enrolled": 15,
     "crosslisted_enrollment": 3,
-    "total_enrollment": 16
+    "total_enrollment": 18
   },
   {
     "crn": "2799",
