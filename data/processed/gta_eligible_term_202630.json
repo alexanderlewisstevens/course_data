@@ -335,9 +335,9 @@
     "room": "ECS 201",
     "instructor": "Petrehn, Sydney M.",
     "seats": 25,
-    "enrolled": 17,
+    "enrolled": 18,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 18
   },
   {
     "crn": "1288",
@@ -437,9 +437,9 @@
     "room": "CMK 101",
     "instructor": "Kraft, Aaron R.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 30,
     "crosslisted_enrollment": 2,
-    "total_enrollment": 31
+    "total_enrollment": 32
   },
   {
     "crn": "4684",
@@ -812,8 +812,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 2,
     "enrolled": 2,
-    "crosslisted_enrollment": 29,
-    "total_enrollment": 31
+    "crosslisted_enrollment": 30,
+    "total_enrollment": 32
   },
   {
     "crn": "4860",

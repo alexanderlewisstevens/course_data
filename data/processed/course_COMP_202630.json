@@ -56,7 +56,7 @@
     "total_enrollment": 29,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1579",
-    "conflicts": "4149,4705,4713,4724,4725,4971,5105,5109"
+    "conflicts": "4149,4705,4713,4724,4725,4971"
   },
   {
     "term": "202630",
@@ -994,7 +994,7 @@
     "total_seats": 32,
     "total_enrollment": 30,
     "crosslisted_enrollment": 0,
-    "conflicts": "1579,4705,4713,4724,4971,5105,5109"
+    "conflicts": "1579,4705,4713,4724,4971"
   },
   {
     "term": "202630",
@@ -1131,7 +1131,7 @@
     "room": "ECS 201",
     "instructor": "Petrehn, Sydney M.",
     "seats": 25,
-    "enrolled": 17,
+    "enrolled": 18,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -1168,7 +1168,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 17,
+    "total_enrollment": 18,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2800",
     "conflicts": "2067,2586,2886,4137,4727"
@@ -1484,7 +1484,7 @@
     "room": "CMK 101",
     "instructor": "Kraft, Aaron R.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 30,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
@@ -1522,9 +1522,9 @@
     "crosslist": "4724",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 31,
+    "total_enrollment": 32,
     "crosslisted_enrollment": 2,
-    "conflicts": "1579,4149,4705,4725,4971,5105,5109"
+    "conflicts": "1579,4149,4705,4725,4971"
   },
   {
     "term": "202630",
@@ -1590,65 +1590,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "5109",
-    "course": "COMP 3620",
-    "section": "2",
-    "title": "Computer Vision",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "2:00PM-3:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Mahoor, Mohammad H.",
-    "seats": 0,
-    "enrolled": 1,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "14:00",
-    "time_end_24": "15:50",
-    "time_start_minutes": 840,
-    "time_end_minutes": 950,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": false,
-    "crosslisted_crn": "5105,5109",
-    "crosslist": "5105",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 1,
-    "crosslisted_enrollment": 0,
-    "conflicts": "1579,4149,4705,4713,4724,4725,4971"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "4705",
     "course": "COMP 3701",
     "section": "1",
@@ -1701,7 +1642,7 @@
     "total_seats": 18,
     "total_enrollment": 7,
     "crosslisted_enrollment": 1,
-    "conflicts": "1579,4149,4713,4724,4725,5105,5109"
+    "conflicts": "1579,4149,4713,4724,4725"
   },
   {
     "term": "202630",
@@ -2735,7 +2676,7 @@
     "total_seats": 32,
     "total_enrollment": 30,
     "crosslisted_enrollment": 30,
-    "conflicts": "1579,4705,4713,4724,4971,5105,5109"
+    "conflicts": "1579,4705,4713,4724,4971"
   },
   {
     "term": "202630",
@@ -3376,9 +3317,9 @@
     "crosslist": "4713",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 31,
-    "crosslisted_enrollment": 29,
-    "conflicts": "1579,4149,4705,4725,4971,5105,5109"
+    "total_enrollment": 32,
+    "crosslisted_enrollment": 30,
+    "conflicts": "1579,4149,4705,4725,4971"
   },
   {
     "term": "202630",
@@ -3503,65 +3444,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "5105",
-    "course": "COMP 4620",
-    "section": "2",
-    "title": "Advanced Computer Vision",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "2:00PM-3:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Mahoor, Mohammad H.",
-    "seats": 0,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "14:00",
-    "time_end_24": "15:50",
-    "time_start_minutes": 840,
-    "time_end_minutes": 950,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": false,
-    "crosslisted_crn": "5105,5109",
-    "crosslist": "5109",
-    "lower_crosslist": false,
-    "total_seats": 0,
-    "total_enrollment": 1,
-    "crosslisted_enrollment": 1,
-    "conflicts": "1579,4149,4705,4713,4724,4725,4971"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "4971",
     "course": "COMP 4701",
     "section": "1",
@@ -3614,7 +3496,7 @@
     "total_seats": 18,
     "total_enrollment": 7,
     "crosslisted_enrollment": 6,
-    "conflicts": "1579,4149,4713,4724,4725,5105,5109"
+    "conflicts": "1579,4149,4713,4724,4725"
   },
   {
     "term": "202630",
