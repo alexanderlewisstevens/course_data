@@ -761,7 +761,7 @@
     "total_enrollment": 4,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4730",
-    "conflicts": "2120,2252,2584,2788,4168,4860"
+    "conflicts": "2120,2252,2788,4168,4860"
   },
   {
     "term": "202630",
@@ -819,123 +819,7 @@
     "total_enrollment": 13,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2786",
-    "conflicts": "2440,2789,3669,4942"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2584",
-    "course": "COMP 3007",
-    "section": "101",
-    "title": "Foundations: DS Math I",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 0,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "T"
-        ],
-        "canonical": "T"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "T",
-    "days_list": "T",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2584",
-    "conflicts": "2120,2252,4168,4730,4860"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2586",
-    "course": "COMP 3008",
-    "section": "101",
-    "title": "Foundations: DS Math II",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 0,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "W",
-    "days_list": "W",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2586",
-    "conflicts": "2067,2800,2886,4137,4727"
+    "conflicts": "2440,2789,4942"
   },
   {
     "term": "202630",
@@ -1171,7 +1055,7 @@
     "total_enrollment": 18,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2800",
-    "conflicts": "2067,2586,2886,4137,4727"
+    "conflicts": "2067,2886,4137,4727"
   },
   {
     "term": "202630",
@@ -1187,14 +1071,14 @@
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 201",
+    "room": "ECS 301",
     "instructor": "Lopez, Mario A.",
     "seats": 32,
     "enrolled": 10,
     "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "M",
-    "exam_room": "ECS 201",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -1289,7 +1173,7 @@
     "total_enrollment": 11,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4168",
-    "conflicts": "2120,2252,2584,2788,4730,4860"
+    "conflicts": "2120,2252,2788,4730,4860"
   },
   {
     "term": "202630",
@@ -1348,7 +1232,7 @@
     "total_seats": 28,
     "total_enrollment": 19,
     "crosslisted_enrollment": 14,
-    "conflicts": "2786,2787,2789,3669"
+    "conflicts": "2786,2787,2789"
   },
   {
     "term": "202630",
@@ -1658,14 +1542,14 @@
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 301",
+    "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
     "enrolled": 13,
     "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "M",
-    "exam_room": "ECS 301",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -1878,7 +1762,7 @@
     "total_seats": 30,
     "total_enrollment": 17,
     "crosslisted_enrollment": 14,
-    "conflicts": "2584,2788,4168,4730,4860"
+    "conflicts": "2788,4168,4730,4860"
   },
   {
     "term": "202630",
@@ -2055,7 +1939,7 @@
     "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4137",
-    "conflicts": "2067,2586,2588,2589,2799,2800,2805,2886,4727,4728"
+    "conflicts": "2067,2588,2589,2799,2800,2805,2886,4727,4728"
   },
   {
     "term": "202630",
@@ -2113,7 +1997,7 @@
     "total_enrollment": 9,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2067",
-    "conflicts": "2586,2588,2799,2800,2805,2886,4137,4727,4728"
+    "conflicts": "2588,2799,2800,2805,2886,4137,4727,4728"
   },
   {
     "term": "202630",
@@ -2793,7 +2677,7 @@
     "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2787",
-    "conflicts": "2440,3669,4942"
+    "conflicts": "2440,4942"
   },
   {
     "term": "202630",
@@ -2852,7 +2736,7 @@
     "total_seats": 28,
     "total_enrollment": 19,
     "crosslisted_enrollment": 5,
-    "conflicts": "2786,2787,2789,3669"
+    "conflicts": "2786,2787,2789"
   },
   {
     "term": "202630",
@@ -2911,7 +2795,7 @@
     "total_enrollment": 14,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4727",
-    "conflicts": "2067,2586,2800,2886,4137"
+    "conflicts": "2067,2800,2886,4137"
   },
   {
     "term": "202630",
@@ -2976,65 +2860,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3669",
-    "course": "COMP 4433",
-    "section": "1",
-    "title": "Data Visualization",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": 0,
-    "enrolled": 3,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-03-30",
-        "end": "2026-06-07"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2026-03-30",
-    "date_end": "2026-06-07",
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 3,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3669",
-    "conflicts": "2440,2786,2787,2789,4942"
-  },
-  {
-    "term": "202630",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "2789",
     "course": "COMP 4433",
     "section": "101",
@@ -3045,7 +2870,7 @@
     "days": "R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Siebrase, Benjamin E.",
     "seats": 30,
     "enrolled": 25,
     "exam_meeting_dates": "",
@@ -3086,7 +2911,7 @@
     "total_enrollment": 25,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2789",
-    "conflicts": "2440,2786,3669,4942"
+    "conflicts": "2440,2786,4942"
   },
   {
     "term": "202630",
@@ -3103,7 +2928,7 @@
     "days": "M",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Christensen, Wendy N.",
     "seats": 20,
     "enrolled": 9,
     "exam_meeting_dates": "",
@@ -3202,7 +3027,7 @@
     "total_enrollment": 5,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2886",
-    "conflicts": "2067,2586,2800,4137,4727"
+    "conflicts": "2067,2800,4137,4727"
   },
   {
     "term": "202630",
@@ -3378,7 +3203,7 @@
     "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4860",
-    "conflicts": "2120,2252,2584,2788,4168,4730"
+    "conflicts": "2120,2252,2788,4168,4730"
   },
   {
     "term": "202630",
@@ -3512,14 +3337,14 @@
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 301",
+    "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
     "enrolled": 0,
     "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "M",
-    "exam_room": "ECS 301",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -3732,7 +3557,7 @@
     "total_seats": 30,
     "total_enrollment": 17,
     "crosslisted_enrollment": 3,
-    "conflicts": "2584,2788,4168,4730,4860"
+    "conflicts": "2788,4168,4730,4860"
   },
   {
     "term": "202630",
