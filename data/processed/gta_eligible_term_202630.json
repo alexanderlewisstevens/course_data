@@ -12,9 +12,9 @@
     "room": "CMK 207",
     "instructor": "",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 30,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 30
   },
   {
     "crn": "3194",
@@ -238,40 +238,6 @@
     "total_enrollment": 13
   },
   {
-    "crn": "2584",
-    "course": "COMP 3007",
-    "section": "101",
-    "title": "Foundations: DS Math I",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
-    "crn": "2586",
-    "course": "COMP 3008",
-    "section": "101",
-    "title": "Foundations: DS Math II",
-    "course_type": "Online/Distance",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "4149",
     "course": "COMP 3100",
     "section": "1",
@@ -352,9 +318,9 @@
     "room": "ECS 201",
     "instructor": "Lopez, Mario A.",
     "seats": 32,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "4168",
@@ -455,8 +421,8 @@
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
     "enrolled": 15,
-    "crosslisted_enrollment": 4,
-    "total_enrollment": 19
+    "crosslisted_enrollment": 5,
+    "total_enrollment": 20
   },
   {
     "crn": "4705",
@@ -714,23 +680,6 @@
     "total_enrollment": 9
   },
   {
-    "crn": "3669",
-    "course": "COMP 4433",
-    "section": "1",
-    "title": "Data Visualization",
-    "course_type": "Lecture",
-    "meeting_dates": "30-MAR-2026 to 07-JUN-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 200",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": 30,
-    "enrolled": 3,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 3
-  },
-  {
     "crn": "2789",
     "course": "COMP 4433",
     "section": "101",
@@ -742,7 +691,7 @@
     "hours": "4",
     "room": "",
     "instructor": "",
-    "seats": 25,
+    "seats": 30,
     "enrolled": 25,
     "crosslisted_enrollment": 0,
     "total_enrollment": 25
@@ -760,9 +709,9 @@
     "room": "",
     "instructor": "",
     "seats": 20,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "2886",
@@ -845,9 +794,9 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
-    "enrolled": 4,
+    "enrolled": 5,
     "crosslisted_enrollment": 15,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "4971",
