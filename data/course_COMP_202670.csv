@@ -8,7 +8,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202670,ALL,COMP,Computer Science,2857,COMP 1351,1,Introduction to Programming I,Lecture/Lab,08-SEP-2026 to 20-NOV-2026,10:00AM-11:50AM,"M,W",3,,"Albow, Mohammed M.",30,0,,,,,
 202670,ALL,COMP,Computer Science,2858,COMP 1351,2,Introduction to Programming I,Lecture/Lab,08-SEP-2026 to 20-NOV-2026,10:00AM-11:50AM,"M,W",3,,"Anjum, Iffat",32,0,,,,,
 202670,ALL,COMP,Computer Science,2859,COMP 1351,4,Introduction to Programming I,Lecture/Lab,08-SEP-2026 to 20-NOV-2026,2:00PM-3:50PM,"M,W",3,,"Hannum, Andrew T.",30,0,,,,,
-202670,ALL,COMP,Computer Science,3693,COMP 1351,8,Introduction to Programming I,Lecture/Lab,08-SEP-2026 to 20-NOV-2026,2:00PM-3:50PM,"M,W",3,,,47,0,,,,,
+202670,ALL,COMP,Computer Science,3693,COMP 1351,8,Introduction to Programming I,Lecture/Lab,08-SEP-2026 to 20-NOV-2026,2:00PM-3:50PM,"M,W",3,,,30,0,,,,,
 202670,ALL,COMP,Computer Science,3989,COMP 1351,9,Introduction to Programming I,Lecture/Lab,08-SEP-2026 to 20-NOV-2026,2:00PM-3:50PM,"M,W",3,,,17,0,,,,,
 202670,ALL,COMP,Computer Science,3044,COMP 1353,1,Data Struct. & Algorithms I,Lecture/Lab,08-SEP-2026 to 20-NOV-2026,12:00PM-1:50PM,"M,W",3,,"Hossain, Ismail",32,0,,,,,
 202670,ALL,COMP,Computer Science,2038,COMP 2300,1,Discrete Structures in CS,Lecture,08-SEP-2026 to 20-NOV-2026,10:00AM-11:50AM,"T,R",4,,"Stevens, Alexander L.",34,0,,,,,

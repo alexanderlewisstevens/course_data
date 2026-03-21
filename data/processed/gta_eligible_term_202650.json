@@ -29,9 +29,9 @@
     "room": "ECS 201",
     "instructor": "",
     "seats": 5,
-    "enrolled": 1,
+    "enrolled": 0,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 0
   },
   {
     "crn": "1342",
@@ -63,9 +63,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "1344",
@@ -80,26 +80,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 1,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
-  },
-  {
-    "crn": "1345",
-    "course": "COMP 4449",
-    "section": "1",
-    "title": "DS & AI Capstone",
-    "course_type": "Online/Distance",
-    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 3
   },
   {
     "crn": "1346",
@@ -114,9 +97,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "1347",

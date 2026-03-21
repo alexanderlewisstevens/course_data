@@ -80,9 +80,9 @@
     "room": "ECS 300",
     "instructor": "Anjum, Iffat",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "3116",
@@ -165,9 +165,9 @@
     "room": "ECS 400",
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
-    "enrolled": 19,
+    "enrolled": 18,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 18
   },
   {
     "crn": "4148",
@@ -182,9 +182,9 @@
     "room": "ECS 300",
     "instructor": "Hossain, Ismail",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "5117",
@@ -233,9 +233,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 13,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "4149",
