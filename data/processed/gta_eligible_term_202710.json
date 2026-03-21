@@ -17,6 +17,23 @@
     "total_enrollment": 0
   },
   {
+    "crn": "4373",
+    "course": "COMP 1101",
+    "section": "3",
+    "title": "Analytical Inquiry I",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
     "crn": "2819",
     "course": "COMP 1202",
     "section": "1",
@@ -233,6 +250,23 @@
     "room": "",
     "instructor": "",
     "seats": 25,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
+    "crn": "4374",
+    "course": "COMP 2401",
+    "section": "1",
+    "title": "Unix Command-Line Bootcamp",
+    "course_type": "Online/Distance",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Rutherford, Matthew J.",
+    "seats": 50,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0

@@ -323,6 +323,23 @@
     "total_enrollment": 0
   },
   {
+    "crn": "4625",
+    "course": "COMP 2401",
+    "section": "1",
+    "title": "Unix Command-Line Bootcamp",
+    "course_type": "Online/Distance",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Rutherford, Matthew J.",
+    "seats": 50,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
     "crn": "3302",
     "course": "COMP 2701",
     "section": "1",

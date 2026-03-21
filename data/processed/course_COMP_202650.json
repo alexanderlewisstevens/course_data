@@ -56,7 +56,7 @@
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1341",
-    "conflicts": "1344,1346"
+    "conflicts": ""
   },
   {
     "term": "202650",
@@ -115,7 +115,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1352",
-    "conflicts": "1343,1345,1351"
+    "conflicts": "1344,1346,1351"
   },
   {
     "term": "202650",
@@ -186,13 +186,71 @@
     "title": "Data Visualization",
     "course_type": "Online/Distance",
     "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
-    "time": "5:00PM-6:50PM",
+    "time": "7:00PM-8:50PM",
     "days": "R",
     "hours": "4",
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
     "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
+      },
+      "dates": {
+        "start": "2026-06-20",
+        "end": "2026-08-21"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2026-06-20",
+    "date_end": "2026-08-21",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "1343",
+    "conflicts": "1347"
+  },
+  {
+    "term": "202650",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "1344",
+    "course": "COMP 4442",
+    "section": "1",
+    "title": "Probability and Statistics 2",
+    "course_type": "Online/Distance",
+    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -228,9 +286,9 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 1,
+    "total_enrollment": 4,
     "crosslisted_enrollment": 0,
-    "crosslisted_crn": "1343",
+    "crosslisted_crn": "1344",
     "conflicts": "1351,1352"
   },
   {
@@ -238,68 +296,10 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "1344",
-    "course": "COMP 4442",
+    "crn": "1346",
+    "course": "COMP 4450",
     "section": "1",
-    "title": "Probability and Statistics 2",
-    "course_type": "Online/Distance",
-    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 3,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-06-20",
-        "end": "2026-08-21"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "W",
-    "days_list": "W",
-    "date_start": "2026-06-20",
-    "date_end": "2026-08-21",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 3,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "1344",
-    "conflicts": "1341"
-  },
-  {
-    "term": "202650",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "1345",
-    "course": "COMP 4449",
-    "section": "1",
-    "title": "DS & AI Capstone",
+    "title": "Machine Learning Operations",
     "course_type": "Online/Distance",
     "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
     "time": "5:00PM-6:50PM",
@@ -307,8 +307,8 @@
     "hours": "4",
     "room": "",
     "instructor": "",
-    "seats": 0,
-    "enrolled": 0,
+    "seats": 25,
+    "enrolled": 3,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -340,72 +340,14 @@
     "days_list": "T",
     "date_start": "2026-06-20",
     "date_end": "2026-08-21",
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "1345",
-    "conflicts": "1351,1352"
-  },
-  {
-    "term": "202650",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "1346",
-    "course": "COMP 4450",
-    "section": "1",
-    "title": "Machine Learning Operations",
-    "course_type": "Online/Distance",
-    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "M",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 2,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "M"
-        ],
-        "canonical": "M"
-      },
-      "dates": {
-        "start": "2026-06-20",
-        "end": "2026-08-21"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "M",
-    "days_list": "M",
-    "date_start": "2026-06-20",
-    "date_end": "2026-08-21",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 2,
+    "total_enrollment": 3,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1346",
-    "conflicts": "1341"
+    "conflicts": "1351,1352"
   },
   {
     "term": "202650",
@@ -464,7 +406,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1347",
-    "conflicts": ""
+    "conflicts": "1343"
   },
   {
     "term": "202650",
@@ -523,7 +465,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1351",
-    "conflicts": "1343,1345,1352"
+    "conflicts": "1344,1346,1352"
   },
   {
     "term": "202650",

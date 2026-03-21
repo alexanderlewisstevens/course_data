@@ -56,7 +56,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1555",
-    "conflicts": "2894,3513"
+    "conflicts": "2894,3513,4012,4013"
   },
   {
     "term": "202730",
@@ -652,7 +652,7 @@
     "subject_label": "Computer Science",
     "crn": "3523",
     "course": "COMP 2370",
-    "section": "0",
+    "section": "1",
     "title": "Data Struct. & Algorithms II",
     "course_type": "Lecture",
     "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
@@ -1171,7 +1171,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3541",
-    "conflicts": "2050,2161,2162,3205"
+    "conflicts": "2050,2161,2162,3205,3704,3705"
   },
   {
     "term": "202730",
@@ -1299,10 +1299,10 @@
     "course": "COMP 3490",
     "section": "1",
     "title": "Understanding AI",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
+    "time": "4:00PM-5:50PM",
+    "days": "T,R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -1315,36 +1315,98 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2027-03-29",
+        "end": "2027-06-10"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "16:00",
+    "time_end_24": "17:50",
+    "time_start_minutes": 960,
+    "time_end_minutes": 1070,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-03-29",
+    "date_end": "2027-06-10",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3704",
-    "conflicts": ""
+    "conflicts": "2050,2161,2162,3205,3541,3705"
+  },
+  {
+    "term": "202730",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4012",
+    "course": "COMP 3620",
+    "section": "1",
+    "title": "Computer Vision",
+    "course_type": "Lecture",
+    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Mahoor, Mohammad H.",
+    "seats": 10,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2027-03-29",
+        "end": "2027-06-10"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-03-29",
+    "date_end": "2027-06-10",
+    "gta_eligible": true,
+    "crosslisted_crn": "4012,4013",
+    "crosslist": "4013",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "conflicts": "1555,2894,3513"
   },
   {
     "term": "202730",
@@ -1462,7 +1524,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2894",
-    "conflicts": "1555,3513"
+    "conflicts": "1555,3513,4012,4013"
   },
   {
     "term": "202730",
@@ -1580,7 +1642,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3513",
-    "conflicts": "1555,2894"
+    "conflicts": "1555,2894,4012,4013"
   },
   {
     "term": "202730",
@@ -1757,7 +1819,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2162,3205,3541"
+    "conflicts": "2162,3205,3541,3704,3705"
   },
   {
     "term": "202730",
@@ -2905,7 +2967,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2162",
-    "conflicts": "2050,2161,3205,3541"
+    "conflicts": "2050,2161,3205,3541,3704,3705"
   },
   {
     "term": "202730",
@@ -3207,10 +3269,10 @@
     "course": "COMP 4490",
     "section": "1",
     "title": "Understanding AI",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
+    "time": "4:00PM-5:50PM",
+    "days": "T,R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -3223,36 +3285,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2027-03-29",
+        "end": "2027-06-10"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "16:00",
+    "time_end_24": "17:50",
+    "time_start_minutes": 960,
+    "time_end_minutes": 1070,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-03-29",
+    "date_end": "2027-06-10",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 10,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3705",
-    "conflicts": ""
+    "conflicts": "2050,2161,2162,3205,3541,3704"
   },
   {
     "term": "202730",
@@ -3369,7 +3434,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3205",
-    "conflicts": "2050,2161,2162,3541"
+    "conflicts": "2050,2161,2162,3541,3704,3705"
   },
   {
     "term": "202730",
@@ -3428,6 +3493,65 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2457",
     "conflicts": "2321,3206"
+  },
+  {
+    "term": "202730",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4013",
+    "course": "COMP 4620",
+    "section": "1",
+    "title": "Advanced Computer Vision",
+    "course_type": "Lecture",
+    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Mahoor, Mohammad H.",
+    "seats": 15,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2027-03-29",
+        "end": "2027-06-10"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-03-29",
+    "date_end": "2027-06-10",
+    "gta_eligible": true,
+    "crosslisted_crn": "4012,4013",
+    "crosslist": "4012",
+    "lower_crosslist": false,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "conflicts": "1555,2894,3513"
   },
   {
     "term": "202730",
@@ -3722,7 +3846,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2162,3205,3541"
+    "conflicts": "2162,3205,3541,3704,3705"
   },
   {
     "term": "202730",

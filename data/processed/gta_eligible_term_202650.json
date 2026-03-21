@@ -57,7 +57,7 @@
     "title": "Data Visualization",
     "course_type": "Online/Distance",
     "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
-    "time": "5:00PM-6:50PM",
+    "time": "7:00PM-8:50PM",
     "days": "R",
     "hours": "4",
     "room": "",
@@ -75,14 +75,14 @@
     "course_type": "Online/Distance",
     "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
     "time": "5:00PM-6:50PM",
-    "days": "W",
+    "days": "R",
     "hours": "4",
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "1346",
@@ -92,14 +92,14 @@
     "course_type": "Online/Distance",
     "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
     "time": "5:00PM-6:50PM",
-    "days": "M",
+    "days": "T",
     "hours": "4",
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "1347",

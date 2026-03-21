@@ -4591,7 +4591,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "CMK 207",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": 30,
     "enrolled": 30,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
@@ -4650,7 +4650,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 300",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": 30,
     "enrolled": 30,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
@@ -5296,7 +5296,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 401",
-    "instructor": "Hamed, Ahmed Abdeen",
+    "instructor": "Kossek, Wojciech K.",
     "seats": 20,
     "enrolled": 4,
     "exam_meeting_dates": "",
@@ -7449,7 +7449,7 @@
     "room": "",
     "instructor": "Siebrase, Benjamin E.",
     "seats": 30,
-    "enrolled": 25,
+    "enrolled": 26,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -7485,7 +7485,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 25,
+    "total_enrollment": 26,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2789",
     "conflicts": "2440,2786,4942"
@@ -8532,7 +8532,7 @@
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1341",
-    "conflicts": "1344,1346"
+    "conflicts": ""
   },
   {
     "term": "202650",
@@ -8591,7 +8591,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1352",
-    "conflicts": "1343,1345,1351"
+    "conflicts": "1344,1346,1351"
   },
   {
     "term": "202650",
@@ -8662,13 +8662,71 @@
     "title": "Data Visualization",
     "course_type": "Online/Distance",
     "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
-    "time": "5:00PM-6:50PM",
+    "time": "7:00PM-8:50PM",
     "days": "R",
     "hours": "4",
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
     "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
+      },
+      "dates": {
+        "start": "2026-06-20",
+        "end": "2026-08-21"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2026-06-20",
+    "date_end": "2026-08-21",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "1343",
+    "conflicts": "1347"
+  },
+  {
+    "term": "202650",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "1344",
+    "course": "COMP 4442",
+    "section": "1",
+    "title": "Probability and Statistics 2",
+    "course_type": "Online/Distance",
+    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -8704,9 +8762,9 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 1,
+    "total_enrollment": 4,
     "crosslisted_enrollment": 0,
-    "crosslisted_crn": "1343",
+    "crosslisted_crn": "1344",
     "conflicts": "1351,1352"
   },
   {
@@ -8714,68 +8772,10 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "1344",
-    "course": "COMP 4442",
+    "crn": "1346",
+    "course": "COMP 4450",
     "section": "1",
-    "title": "Probability and Statistics 2",
-    "course_type": "Online/Distance",
-    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 3,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2026-06-20",
-        "end": "2026-08-21"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "W",
-    "days_list": "W",
-    "date_start": "2026-06-20",
-    "date_end": "2026-08-21",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 3,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "1344",
-    "conflicts": "1341"
-  },
-  {
-    "term": "202650",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "1345",
-    "course": "COMP 4449",
-    "section": "1",
-    "title": "DS & AI Capstone",
+    "title": "Machine Learning Operations",
     "course_type": "Online/Distance",
     "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
     "time": "5:00PM-6:50PM",
@@ -8783,8 +8783,8 @@
     "hours": "4",
     "room": "",
     "instructor": "",
-    "seats": 0,
-    "enrolled": 0,
+    "seats": 25,
+    "enrolled": 3,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -8816,72 +8816,14 @@
     "days_list": "T",
     "date_start": "2026-06-20",
     "date_end": "2026-08-21",
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "1345",
-    "conflicts": "1351,1352"
-  },
-  {
-    "term": "202650",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "1346",
-    "course": "COMP 4450",
-    "section": "1",
-    "title": "Machine Learning Operations",
-    "course_type": "Online/Distance",
-    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "M",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 2,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "M"
-        ],
-        "canonical": "M"
-      },
-      "dates": {
-        "start": "2026-06-20",
-        "end": "2026-08-21"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "M",
-    "days_list": "M",
-    "date_start": "2026-06-20",
-    "date_end": "2026-08-21",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 2,
+    "total_enrollment": 3,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1346",
-    "conflicts": "1341"
+    "conflicts": "1351,1352"
   },
   {
     "term": "202650",
@@ -8940,7 +8882,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1347",
-    "conflicts": ""
+    "conflicts": "1343"
   },
   {
     "term": "202650",
@@ -8999,7 +8941,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1351",
-    "conflicts": "1343,1345,1352"
+    "conflicts": "1344,1346,1352"
   },
   {
     "term": "202650",
@@ -9770,6 +9712,230 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "4621",
+    "course": "COMP 1451",
+    "section": "1",
+    "title": "Engineering Programming",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4621",
+    "conflicts": ""
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4622",
+    "course": "COMP 1451",
+    "section": "2",
+    "title": "Engineering Programming",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4622",
+    "conflicts": ""
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4623",
+    "course": "COMP 1451",
+    "section": "3",
+    "title": "Engineering Programming",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4623",
+    "conflicts": ""
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4624",
+    "course": "COMP 1451",
+    "section": "4",
+    "title": "Engineering Programming",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4624",
+    "conflicts": ""
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "2038",
     "course": "COMP 2300",
     "section": "1",
@@ -10177,6 +10343,62 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3304",
     "conflicts": "2587,2597,3047,3703,3815,3934"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4625",
+    "course": "COMP 2401",
+    "section": "1",
+    "title": "Unix Command-Line Bootcamp",
+    "course_type": "Online/Distance",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Rutherford, Matthew J.",
+    "seats": 50,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2026-09-08",
+        "end": "2026-11-20"
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 50,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4625",
+    "conflicts": ""
   },
   {
     "term": "202670",
@@ -11786,6 +12008,230 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "4626",
+    "course": "COMP 4005",
+    "section": "1",
+    "title": "Foundation: Python Programming",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4626",
+    "conflicts": ""
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4627",
+    "course": "COMP 4005",
+    "section": "2",
+    "title": "Foundation: Python Programming",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4627",
+    "conflicts": ""
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4628",
+    "course": "COMP 4009",
+    "section": "1",
+    "title": "Applied Math for DS and AI",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4628",
+    "conflicts": ""
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4629",
+    "course": "COMP 4009",
+    "section": "2",
+    "title": "Applied Math for DS and AI",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4629",
+    "conflicts": ""
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "3675",
     "course": "COMP 4100",
     "section": "2",
@@ -11897,6 +12343,62 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3545",
     "conflicts": "2305,2878,2879,3048,3204,3538"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4631",
+    "course": "COMP 4421",
+    "section": "1",
+    "title": "Database Organization & Mgmt I",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4631",
+    "conflicts": ""
   },
   {
     "term": "202670",
@@ -12131,6 +12633,62 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "conflicts": "3673,3674"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4632",
+    "course": "COMP 4531",
+    "section": "2",
+    "title": "Deep Learning",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4632",
+    "conflicts": ""
   },
   {
     "term": "202670",
@@ -13165,6 +13723,65 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "4373",
+    "course": "COMP 1101",
+    "section": "3",
+    "title": "Analytical Inquiry I",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-19"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4373",
+    "conflicts": "3062,3653"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "2819",
     "course": "COMP 1202",
     "section": "1",
@@ -13689,7 +14306,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3062",
-    "conflicts": "3653"
+    "conflicts": "3653,4373"
   },
   {
     "term": "202710",
@@ -13926,6 +14543,62 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3035",
     "conflicts": "2819,2820,2822,3651,3881,3936"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4374",
+    "course": "COMP 2401",
+    "section": "1",
+    "title": "Unix Command-Line Bootcamp",
+    "course_type": "Online/Distance",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Rutherford, Matthew J.",
+    "seats": 50,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-19"
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 50,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4374",
+    "conflicts": ""
   },
   {
     "term": "202710",
@@ -14748,7 +15421,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3653",
-    "conflicts": "3062"
+    "conflicts": "3062,4373"
   },
   {
     "term": "202710",
@@ -15779,6 +16452,230 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "4375",
+    "course": "COMP 4005",
+    "section": "1",
+    "title": "Foundation: Python Programming",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4375",
+    "conflicts": ""
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4376",
+    "course": "COMP 4006",
+    "section": "1",
+    "title": "Python Software Development",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4376",
+    "conflicts": ""
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4378",
+    "course": "COMP 4009",
+    "section": "1",
+    "title": "Applied Math for DS and AI",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4378",
+    "conflicts": ""
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4379",
+    "course": "COMP 4009",
+    "section": "2",
+    "title": "Applied Math for DS and AI",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4379",
+    "conflicts": ""
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "3034",
     "course": "COMP 4334",
     "section": "1",
@@ -16188,6 +17085,62 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "4380",
+    "course": "COMP 4442",
+    "section": "1",
+    "title": "Probability and Statistics 2",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4380",
+    "conflicts": ""
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "2635",
     "course": "COMP 4449",
     "section": "101",
@@ -16240,6 +17193,118 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2635",
     "conflicts": "1952,3489"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4381",
+    "course": "COMP 4450",
+    "section": "1",
+    "title": "Machine Learning Operations",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4381",
+    "conflicts": ""
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4382",
+    "course": "COMP 4451",
+    "section": "1",
+    "title": "LLMs for DS and AI",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4382",
+    "conflicts": ""
   },
   {
     "term": "202710",
@@ -17154,7 +18219,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1555",
-    "conflicts": "2894,3513"
+    "conflicts": "2894,3513,4012,4013"
   },
   {
     "term": "202730",
@@ -17750,7 +18815,7 @@
     "subject_label": "Computer Science",
     "crn": "3523",
     "course": "COMP 2370",
-    "section": "0",
+    "section": "1",
     "title": "Data Struct. & Algorithms II",
     "course_type": "Lecture",
     "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
@@ -18269,7 +19334,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3541",
-    "conflicts": "2050,2161,2162,3205"
+    "conflicts": "2050,2161,2162,3205,3704,3705"
   },
   {
     "term": "202730",
@@ -18397,10 +19462,10 @@
     "course": "COMP 3490",
     "section": "1",
     "title": "Understanding AI",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
+    "time": "4:00PM-5:50PM",
+    "days": "T,R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -18413,36 +19478,98 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2027-03-29",
+        "end": "2027-06-10"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "16:00",
+    "time_end_24": "17:50",
+    "time_start_minutes": 960,
+    "time_end_minutes": 1070,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-03-29",
+    "date_end": "2027-06-10",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3704",
-    "conflicts": ""
+    "conflicts": "2050,2161,2162,3205,3541,3705"
+  },
+  {
+    "term": "202730",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4012",
+    "course": "COMP 3620",
+    "section": "1",
+    "title": "Computer Vision",
+    "course_type": "Lecture",
+    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Mahoor, Mohammad H.",
+    "seats": 10,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2027-03-29",
+        "end": "2027-06-10"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-03-29",
+    "date_end": "2027-06-10",
+    "gta_eligible": true,
+    "crosslisted_crn": "4012,4013",
+    "crosslist": "4013",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "conflicts": "1555,2894,3513"
   },
   {
     "term": "202730",
@@ -18560,7 +19687,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2894",
-    "conflicts": "1555,3513"
+    "conflicts": "1555,3513,4012,4013"
   },
   {
     "term": "202730",
@@ -18678,7 +19805,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3513",
-    "conflicts": "1555,2894"
+    "conflicts": "1555,2894,4012,4013"
   },
   {
     "term": "202730",
@@ -18855,7 +19982,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2162,3205,3541"
+    "conflicts": "2162,3205,3541,3704,3705"
   },
   {
     "term": "202730",
@@ -20003,7 +21130,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2162",
-    "conflicts": "2050,2161,3205,3541"
+    "conflicts": "2050,2161,3205,3541,3704,3705"
   },
   {
     "term": "202730",
@@ -20305,10 +21432,10 @@
     "course": "COMP 4490",
     "section": "1",
     "title": "Understanding AI",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
+    "time": "4:00PM-5:50PM",
+    "days": "T,R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -20321,36 +21448,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2027-03-29",
+        "end": "2027-06-10"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "16:00",
+    "time_end_24": "17:50",
+    "time_start_minutes": 960,
+    "time_end_minutes": 1070,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-03-29",
+    "date_end": "2027-06-10",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 10,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3705",
-    "conflicts": ""
+    "conflicts": "2050,2161,2162,3205,3541,3704"
   },
   {
     "term": "202730",
@@ -20467,7 +21597,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3205",
-    "conflicts": "2050,2161,2162,3541"
+    "conflicts": "2050,2161,2162,3541,3704,3705"
   },
   {
     "term": "202730",
@@ -20526,6 +21656,65 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2457",
     "conflicts": "2321,3206"
+  },
+  {
+    "term": "202730",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4013",
+    "course": "COMP 4620",
+    "section": "1",
+    "title": "Advanced Computer Vision",
+    "course_type": "Lecture",
+    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Mahoor, Mohammad H.",
+    "seats": 15,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2027-03-29",
+        "end": "2027-06-10"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-03-29",
+    "date_end": "2027-06-10",
+    "gta_eligible": true,
+    "crosslisted_crn": "4012,4013",
+    "crosslist": "4012",
+    "lower_crosslist": false,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "conflicts": "1555,2894,3513"
   },
   {
     "term": "202730",
@@ -20820,7 +22009,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2162,3205,3541"
+    "conflicts": "2162,3205,3541,3704,3705"
   },
   {
     "term": "202730",

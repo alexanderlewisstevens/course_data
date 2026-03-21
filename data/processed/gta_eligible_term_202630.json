@@ -10,7 +10,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "CMK 207",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": 30,
     "enrolled": 30,
     "crosslisted_enrollment": 0,
@@ -27,7 +27,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 300",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": 30,
     "enrolled": 30,
     "crosslisted_enrollment": 0,
@@ -214,7 +214,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 401",
-    "instructor": "Hamed, Ahmed Abdeen",
+    "instructor": "Kossek, Wojciech K.",
     "seats": 20,
     "enrolled": 4,
     "crosslisted_enrollment": 0,
@@ -692,9 +692,9 @@
     "room": "",
     "instructor": "Siebrase, Benjamin E.",
     "seats": 30,
-    "enrolled": 25,
+    "enrolled": 26,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 26
   },
   {
     "crn": "2589",
