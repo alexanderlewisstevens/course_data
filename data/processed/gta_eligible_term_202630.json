@@ -251,8 +251,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
     "enrolled": 30,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 31
   },
   {
     "crn": "4707",
@@ -488,9 +488,9 @@
     "room": "ECS 401",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "2252",
@@ -590,9 +590,9 @@
     "room": "JMAC 141",
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 30,
-    "total_enrollment": 30
+    "total_enrollment": 31
   },
   {
     "crn": "4726",
@@ -863,8 +863,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 1,
-    "crosslisted_enrollment": 10,
-    "total_enrollment": 11
+    "crosslisted_enrollment": 11,
+    "total_enrollment": 12
   },
   {
     "crn": "2120",

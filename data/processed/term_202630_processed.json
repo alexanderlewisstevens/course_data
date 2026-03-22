@@ -876,8 +876,8 @@
     "crosslist": "4725",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 30,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 31,
+    "crosslisted_enrollment": 1,
     "conflicts": "1579,4705,4713,4724,4971"
   },
   {
@@ -1663,7 +1663,7 @@
     "room": "ECS 401",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 10,
+    "enrolled": 11,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -1701,7 +1701,7 @@
     "crosslist": "4741",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 11,
+    "total_enrollment": 12,
     "crosslisted_enrollment": 1,
     "conflicts": "3112,3194"
   },
@@ -2520,7 +2520,7 @@
     "room": "JMAC 141",
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
@@ -2558,7 +2558,7 @@
     "crosslist": "4149",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 30,
+    "total_enrollment": 31,
     "crosslisted_enrollment": 30,
     "conflicts": "1579,4705,4713,4724,4971"
   },
@@ -3496,8 +3496,8 @@
     "crosslist": "4742",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 11,
-    "crosslisted_enrollment": 10,
+    "total_enrollment": 12,
+    "crosslisted_enrollment": 11,
     "conflicts": "3112,3194"
   },
   {
