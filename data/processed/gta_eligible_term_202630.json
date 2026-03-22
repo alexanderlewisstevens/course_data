@@ -386,9 +386,9 @@
     "room": "",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 25,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 24
   },
   {
     "crn": "4713",
@@ -454,9 +454,9 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "4517",
@@ -692,9 +692,9 @@
     "room": "",
     "instructor": "Siebrase, Benjamin E.",
     "seats": 30,
-    "enrolled": 26,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 26
+    "total_enrollment": 27
   },
   {
     "crn": "2589",
@@ -726,9 +726,9 @@
     "room": "",
     "instructor": "Mashinchi, Navid",
     "seats": 20,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 6
   },
   {
     "crn": "4728",
@@ -829,8 +829,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
     "enrolled": 0,
-    "crosslisted_enrollment": 13,
-    "total_enrollment": 13
+    "crosslisted_enrollment": 14,
+    "total_enrollment": 14
   },
   {
     "crn": "4527",
