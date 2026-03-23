@@ -1427,7 +1427,7 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
-    "enrolled": 15,
+    "enrolled": 16,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
@@ -1465,7 +1465,7 @@
     "crosslist": "4673",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 20,
+    "total_enrollment": 21,
     "crosslisted_enrollment": 5,
     "conflicts": "3111,3121,4148,4150,4517,4527,4707,4726"
   },
@@ -1819,8 +1819,8 @@
     "crosslist": "2799",
     "lower_crosslist": true,
     "total_seats": 50,
-    "total_enrollment": 43,
-    "crosslisted_enrollment": 14,
+    "total_enrollment": 44,
+    "crosslisted_enrollment": 15,
     "conflicts": "2067,2588,2589,2785,4137,4728"
   },
   {
@@ -2930,7 +2930,7 @@
     "room": "",
     "instructor": "Christensen, Wendy N.",
     "seats": 20,
-    "enrolled": 9,
+    "enrolled": 10,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2966,7 +2966,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 9,
+    "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2589",
     "conflicts": "2785,2799,2805,4137"
@@ -3260,8 +3260,8 @@
     "crosslist": "4684",
     "lower_crosslist": false,
     "total_seats": 25,
-    "total_enrollment": 20,
-    "crosslisted_enrollment": 15,
+    "total_enrollment": 21,
+    "crosslisted_enrollment": 16,
     "conflicts": "3111,3121,4148,4150,4517,4527,4707,4726"
   },
   {
@@ -3576,7 +3576,7 @@
     "room": "ECS 410",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 14,
+    "enrolled": 15,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3614,7 +3614,7 @@
     "crosslist": "2805",
     "lower_crosslist": false,
     "total_seats": 50,
-    "total_enrollment": 43,
+    "total_enrollment": 44,
     "crosslisted_enrollment": 29,
     "conflicts": "2067,2588,2589,2785,4137,4728"
   },

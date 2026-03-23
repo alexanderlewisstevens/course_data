@@ -420,9 +420,9 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 20
+    "total_enrollment": 21
   },
   {
     "crn": "4705",
@@ -523,8 +523,8 @@
     "instructor": "Evans, Nathan S.",
     "seats": 30,
     "enrolled": 29,
-    "crosslisted_enrollment": 14,
-    "total_enrollment": 43
+    "crosslisted_enrollment": 15,
+    "total_enrollment": 44
   },
   {
     "crn": "2785",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "Christensen, Wendy N.",
     "seats": 20,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "2886",
@@ -795,8 +795,8 @@
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
     "enrolled": 5,
-    "crosslisted_enrollment": 15,
-    "total_enrollment": 20
+    "crosslisted_enrollment": 16,
+    "total_enrollment": 21
   },
   {
     "crn": "4971",
@@ -896,9 +896,9 @@
     "room": "ECS 410",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 29,
-    "total_enrollment": 43
+    "total_enrollment": 44
   },
   {
     "crn": "2639",
