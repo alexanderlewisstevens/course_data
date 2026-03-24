@@ -945,62 +945,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3169",
-    "course": "COMP 2701",
-    "section": "1",
-    "title": "Topics in Computer Science",
-    "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "",
-    "days": "",
-    "hours": "1",
-    "room": "",
-    "instructor": "Rutherford, Matthew J.",
-    "seats": 50,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
-      },
-      "days": {
-        "list": [],
-        "canonical": ""
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 50,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3169",
-    "conflicts": ""
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "1318",
     "course": "COMP 3200",
     "section": "1",
@@ -1230,7 +1174,7 @@
     "total_seats": 35,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2122,2455,3030,3041,3275,3503,3891,3892,3935"
+    "conflicts": "2122,2455,3030,3275,3503,3891,3892,3935"
   },
   {
     "term": "202710",
@@ -1289,7 +1233,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3030",
-    "conflicts": "2122,2455,3041,3275,3501,3503,3891,3892,3893,3935"
+    "conflicts": "2122,2455,3275,3501,3503,3891,3892,3893,3935"
   },
   {
     "term": "202710",
@@ -1407,7 +1351,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2455,3030,3041,3275,3490,3501,3503,3891,3892,3893"
+    "conflicts": "2455,3030,3275,3490,3501,3503,3891,3892,3893"
   },
   {
     "term": "202710",
@@ -1466,7 +1410,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3891",
-    "conflicts": "2122,2455,3030,3041,3275,3501,3503,3892,3893,3935"
+    "conflicts": "2122,2455,3030,3275,3501,3503,3892,3893,3935"
   },
   {
     "term": "202710",
@@ -1584,7 +1528,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3848",
-    "conflicts": "2630,2631,2632,3490,3846"
+    "conflicts": "2630,2631,3490,3846"
   },
   {
     "term": "202710",
@@ -1643,7 +1587,7 @@
     "total_seats": 40,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2122,2455,3030,3041,3490,3501,3891,3892,3893,3935"
+    "conflicts": "2122,2455,3030,3490,3501,3891,3892,3893,3935"
   },
   {
     "term": "202710",
@@ -1938,7 +1882,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3489",
-    "conflicts": "1952,2454,2635,3034,3928"
+    "conflicts": "1952,2454,3034,3928"
   },
   {
     "term": "202710",
@@ -1997,7 +1941,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3490",
-    "conflicts": "2122,2455,2630,2631,2632,3041,3275,3503,3846,3848,3935"
+    "conflicts": "2122,2455,2630,2631,3275,3503,3846,3848,3935"
   },
   {
     "term": "202710",
@@ -2055,7 +1999,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1952",
-    "conflicts": "2454,2635,3034,3489,3928"
+    "conflicts": "2454,3034,3489,3928"
   },
   {
     "term": "202710",
@@ -3126,7 +3070,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2630",
-    "conflicts": "2632,3490,3846,3848"
+    "conflicts": "3490,3846,3848"
   },
   {
     "term": "202710",
@@ -3185,7 +3129,7 @@
     "total_seats": 35,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2122,2455,3030,3041,3275,3503,3891,3892,3935"
+    "conflicts": "2122,2455,3030,3275,3503,3891,3892,3935"
   },
   {
     "term": "202710",
@@ -3250,64 +3194,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2632",
-    "course": "COMP 4433",
-    "section": "101",
-    "title": "Data Visualization",
-    "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "7:00PM-8:50PM",
-    "days": "R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Siebrase, Benjamin E.",
-    "seats": 25,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "R"
-        ],
-        "canonical": "R"
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "R",
-    "days_list": "R",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2632",
-    "conflicts": "2630,3490,3846,3848"
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "2122",
     "course": "COMP 4441",
     "section": "1",
@@ -3360,7 +3246,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2455,3030,3041,3275,3490,3501,3503,3891,3892,3893"
+    "conflicts": "2455,3030,3275,3490,3501,3503,3891,3892,3893"
   },
   {
     "term": "202710",
@@ -3475,64 +3361,6 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4380",
     "conflicts": ""
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2635",
-    "course": "COMP 4449",
-    "section": "101",
-    "title": "DS & AI Capstone",
-    "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "7:00PM-8:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "W",
-    "days_list": "W",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2635",
-    "conflicts": "1952,3489"
   },
   {
     "term": "202710",
@@ -3703,7 +3531,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3892",
-    "conflicts": "2122,2455,3030,3041,3275,3501,3503,3891,3893,3935"
+    "conflicts": "2122,2455,3030,3275,3501,3503,3891,3893,3935"
   },
   {
     "term": "202710",
@@ -3769,64 +3597,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3041",
-    "course": "COMP 4531",
-    "section": "101",
-    "title": "Deep Learning",
-    "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "5:00PM-6:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "Dalton, Donald A.",
-    "seats": 25,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "T"
-        ],
-        "canonical": "T"
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "T",
-    "days_list": "T",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3041",
-    "conflicts": "2122,2455,3030,3275,3490,3501,3503,3891,3892,3893,3935"
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "2455",
     "course": "COMP 4581",
     "section": "101",
@@ -3878,7 +3648,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2455",
-    "conflicts": "2122,3030,3041,3275,3490,3501,3503,3891,3892,3893,3935"
+    "conflicts": "2122,3030,3275,3490,3501,3503,3891,3892,3893,3935"
   },
   {
     "term": "202710",
@@ -3937,7 +3707,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3846",
-    "conflicts": "2630,2631,2632,3490,3848"
+    "conflicts": "2630,2631,3490,3848"
   },
   {
     "term": "202710",
@@ -3996,7 +3766,7 @@
     "total_seats": 40,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2122,2455,3030,3041,3490,3501,3891,3892,3893,3935"
+    "conflicts": "2122,2455,3030,3490,3501,3891,3892,3893,3935"
   },
   {
     "term": "202710",

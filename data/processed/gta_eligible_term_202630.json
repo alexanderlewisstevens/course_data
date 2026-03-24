@@ -80,9 +80,9 @@
     "room": "ECS 300",
     "instructor": "Anjum, Iffat",
     "seats": 30,
-    "enrolled": 16,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 15
   },
   {
     "crn": "3116",
@@ -335,9 +335,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 10,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 9
   },
   {
     "crn": "4942",
@@ -455,8 +455,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
     "enrolled": 14,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 15
   },
   {
     "crn": "4517",
@@ -472,8 +472,8 @@
     "instructor": "Durso, Catherine S.",
     "seats": 20,
     "enrolled": 8,
-    "crosslisted_enrollment": 4,
-    "total_enrollment": 12
+    "crosslisted_enrollment": 5,
+    "total_enrollment": 13
   },
   {
     "crn": "4742",
@@ -523,8 +523,8 @@
     "instructor": "Evans, Nathan S.",
     "seats": 30,
     "enrolled": 29,
-    "crosslisted_enrollment": 15,
-    "total_enrollment": 44
+    "crosslisted_enrollment": 16,
+    "total_enrollment": 45
   },
   {
     "crn": "2785",
@@ -658,9 +658,9 @@
     "room": "ECS 401",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "2788",
@@ -828,9 +828,9 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 14,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "4527",
@@ -845,9 +845,9 @@
     "room": "ECS 301",
     "instructor": "Durso, Catherine S.",
     "seats": 5,
-    "enrolled": 4,
+    "enrolled": 5,
     "crosslisted_enrollment": 8,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "4741",
@@ -896,9 +896,9 @@
     "room": "ECS 410",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 29,
-    "total_enrollment": 44
+    "total_enrollment": 45
   },
   {
     "crn": "2639",

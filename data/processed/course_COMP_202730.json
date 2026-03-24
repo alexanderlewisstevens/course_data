@@ -292,7 +292,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2885",
-    "conflicts": "1278,2886,2887,2890,2893,3171,3172,3703"
+    "conflicts": "1278,2886,2887,2890,2893,3703"
   },
   {
     "term": "202730",
@@ -351,7 +351,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2886",
-    "conflicts": "1278,2885,2887,2890,2893,3171,3172,3703"
+    "conflicts": "1278,2885,2887,2890,2893,3703"
   },
   {
     "term": "202730",
@@ -410,7 +410,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2887",
-    "conflicts": "1278,2885,2886,2890,2893,3171,3172,3703"
+    "conflicts": "1278,2885,2886,2890,2893,3703"
   },
   {
     "term": "202730",
@@ -528,7 +528,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3168",
-    "conflicts": "2891,2892"
+    "conflicts": ""
   },
   {
     "term": "202730",
@@ -709,62 +709,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3221",
-    "course": "COMP 2701",
-    "section": "1",
-    "title": "Topics in Computer Science",
-    "course_type": "Online/Distance",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "",
-    "days": "",
-    "hours": "1",
-    "room": "",
-    "instructor": "Rutherford, Matthew J.",
-    "seats": 50,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
-      },
-      "days": {
-        "list": [],
-        "canonical": ""
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 50,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3221",
-    "conflicts": ""
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "3524",
     "course": "COMP 3100",
     "section": "1",
@@ -876,7 +820,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3703",
-    "conflicts": "1278,2885,2886,2887,2890,2893,3171,3172"
+    "conflicts": "1278,2885,2886,2887,2890,2893"
   },
   {
     "term": "202730",
@@ -994,7 +938,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2639",
-    "conflicts": "2005,2456,2626,2627,2956,3512"
+    "conflicts": "2005,2626,2627,3512"
   },
   {
     "term": "202730",
@@ -1053,66 +997,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1278",
-    "conflicts": "2885,2886,2887,2890,2893,3171,3172,3703"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3222",
-    "course": "COMP 3382",
-    "section": "1",
-    "title": "Software Engineering II",
-    "course_type": "Lecture",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "4:00PM-5:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "16:00",
-    "time_end_24": "17:50",
-    "time_start_minutes": 960,
-    "time_end_minutes": 1070,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3222",
-    "conflicts": "2454,2455,2464,2624,2629,2638,2643,2716,2877,2878,3207"
+    "conflicts": "2885,2886,2887,2890,2893,3703"
   },
   {
     "term": "202730",
@@ -1171,7 +1056,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3541",
-    "conflicts": "2050,2161,2162,3205,3704,3705"
+    "conflicts": "2050,2161,3205,3704,3705"
   },
   {
     "term": "202730",
@@ -1288,7 +1173,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2454",
-    "conflicts": "2005,2464,2624,2638,2643,2716,2877,2878,3207,3222,3512"
+    "conflicts": "2005,2624,2638,2643,3207,3512"
   },
   {
     "term": "202730",
@@ -1347,7 +1232,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3704",
-    "conflicts": "2050,2161,2162,3205,3541,3705"
+    "conflicts": "2050,2161,3205,3541,3705"
   },
   {
     "term": "202730",
@@ -1413,65 +1298,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2877",
-    "course": "COMP 3703",
-    "section": "1",
-    "title": "Topics-Artificial Intelligence",
-    "course_type": "Lecture",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "4:00PM-5:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 0,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "16:00",
-    "time_end_24": "17:50",
-    "time_start_minutes": 960,
-    "time_end_minutes": 1070,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2877",
-    "conflicts": "2454,2455,2464,2624,2629,2638,2643,2716,2878,3207,3222"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "2894",
     "course": "COMP 3703",
     "section": "2",
@@ -1525,65 +1351,6 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2894",
     "conflicts": "1555,3513,4012,4013"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3171",
-    "course": "COMP 3703",
-    "section": "3",
-    "title": "Topics-Artificial Intelligence",
-    "course_type": "Lecture",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 15,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "10:00",
-    "time_end_24": "11:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 710,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 15,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3171",
-    "conflicts": "1278,2885,2886,2887,2890,2893,3172,3703"
   },
   {
     "term": "202730",
@@ -1649,65 +1416,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2892",
-    "course": "COMP 3705",
-    "section": "1",
-    "title": "Topics in Computer Science",
-    "course_type": "Lecture",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "12:00PM-1:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 28,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "12:00",
-        "end_24": "13:50",
-        "start_minutes": 720,
-        "end_minutes": 830
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "12:00",
-    "time_end_24": "13:50",
-    "time_start_minutes": 720,
-    "time_end_minutes": 830,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 28,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2892",
-    "conflicts": "2891,3168"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "2893",
     "course": "COMP 3705",
     "section": "2",
@@ -1760,7 +1468,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2893",
-    "conflicts": "1278,2885,2886,2887,2890,3171,3172,3703"
+    "conflicts": "1278,2885,2886,2887,2890,3703"
   },
   {
     "term": "202730",
@@ -1819,7 +1527,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2162,3205,3541,3704,3705"
+    "conflicts": "3205,3541,3704,3705"
   },
   {
     "term": "202730",
@@ -1878,7 +1586,7 @@
     "total_seats": 46,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2005,2454,2455,2464,2624,2629,2716,2877,2878,3207,3222,3512"
+    "conflicts": "2005,2454,2455,2624,3207,3512"
   },
   {
     "term": "202730",
@@ -1937,7 +1645,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2624",
-    "conflicts": "2454,2455,2464,2629,2638,2643,2716,2877,2878,3207,3222"
+    "conflicts": "2454,2455,2638,2643,3207"
   },
   {
     "term": "202730",
@@ -1996,7 +1704,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3512",
-    "conflicts": "2005,2454,2455,2456,2464,2626,2627,2629,2638,2639,2643,2716,2956,3207"
+    "conflicts": "2005,2454,2455,2626,2627,2638,2639,2643,3207"
   },
   {
     "term": "202730",
@@ -2054,7 +1762,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2005",
-    "conflicts": "2454,2464,2627,2638,2639,2643,2716,2956,3207,3512"
+    "conflicts": "2454,2627,2638,2639,2643,3207,3512"
   },
   {
     "term": "202730",
@@ -2616,7 +2324,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2626",
-    "conflicts": "2456,2639,2956,3512"
+    "conflicts": "2639,3512"
   },
   {
     "term": "202730",
@@ -2733,7 +2441,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2627",
-    "conflicts": "2005,2639,2956,3512"
+    "conflicts": "2005,2639,3512"
   },
   {
     "term": "202730",
@@ -2908,357 +2616,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2455",
-    "conflicts": "2624,2629,2638,2643,2877,2878,3207,3222,3512"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2162",
-    "course": "COMP 4442",
-    "section": "1",
-    "title": "Probability and Statistics 2",
-    "course_type": "Lecture",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "5:00PM-6:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2162",
-    "conflicts": "2050,2161,3205,3541,3704,3705"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2464",
-    "course": "COMP 4442",
-    "section": "101",
-    "title": "Probability and Statistics 2",
-    "course_type": "Online/Distance",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "W",
-    "days_list": "W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2464",
-    "conflicts": "2005,2454,2624,2638,2643,2716,2877,2878,3207,3222,3512"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2456",
-    "course": "COMP 4447",
-    "section": "101",
-    "title": "Data Science Tools 1",
-    "course_type": "Online/Distance",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "7:00PM-8:50PM",
-    "days": "M",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "M"
-        ],
-        "canonical": "M"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "M",
-    "days_list": "M",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2456",
-    "conflicts": "2626,2639,2956,3512"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2629",
-    "course": "COMP 4448",
-    "section": "101",
-    "title": "Data Science Tools 2",
-    "course_type": "Online/Distance",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "5:00PM-6:50PM",
-    "days": "M",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "M"
-        ],
-        "canonical": "M"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "M",
-    "days_list": "M",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2629",
-    "conflicts": "2455,2624,2638,2643,2877,2878,3207,3222,3512"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2956",
-    "course": "COMP 4449",
-    "section": "1",
-    "title": "DS & AI Capstone",
-    "course_type": "Online/Distance",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "7:00PM-8:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2956",
-    "conflicts": "2005,2456,2626,2627,2639,3512"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2716",
-    "course": "COMP 4449",
-    "section": "101",
-    "title": "DS & AI Capstone",
-    "course_type": "Online/Distance",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "5:00PM-6:50PM",
-    "days": "W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "W"
-        ],
-        "canonical": "W"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "W",
-    "days_list": "W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2716",
-    "conflicts": "2005,2454,2464,2624,2638,2643,2877,2878,3207,3222,3512"
+    "conflicts": "2624,2638,2643,3207,3512"
   },
   {
     "term": "202730",
@@ -3317,7 +2675,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3705",
-    "conflicts": "2050,2161,2162,3205,3541,3704"
+    "conflicts": "2050,2161,3205,3541,3704"
   },
   {
     "term": "202730",
@@ -3376,7 +2734,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3207",
-    "conflicts": "2005,2454,2455,2464,2624,2629,2638,2643,2716,2877,2878,3222,3512"
+    "conflicts": "2005,2454,2455,2624,2638,2643,3512"
   },
   {
     "term": "202730",
@@ -3434,7 +2792,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3205",
-    "conflicts": "2050,2161,2162,3541,3704,3705"
+    "conflicts": "2050,2161,3541,3704,3705"
   },
   {
     "term": "202730",
@@ -3558,124 +2916,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "2878",
-    "course": "COMP 4703",
-    "section": "1",
-    "title": "Adv Topics-Artificial Intell",
-    "course_type": "Lecture",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "4:00PM-5:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 0,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "16:00",
-        "end_24": "17:50",
-        "start_minutes": 960,
-        "end_minutes": 1070
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "16:00",
-    "time_end_24": "17:50",
-    "time_start_minutes": 960,
-    "time_end_minutes": 1070,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2878",
-    "conflicts": "2454,2455,2464,2624,2629,2638,2643,2716,2877,3207,3222"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3172",
-    "course": "COMP 4703",
-    "section": "3",
-    "title": "Adv Topics-Artificial Intell",
-    "course_type": "Lecture",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "10:00AM-11:50AM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 20,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "10:00",
-    "time_end_24": "11:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 710,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3172",
-    "conflicts": "1278,2885,2886,2887,2890,2893,3171,3703"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "2890",
     "course": "COMP 4705",
     "section": "1",
@@ -3728,66 +2968,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2890",
-    "conflicts": "1278,2885,2886,2887,2893,3171,3172,3703"
-  },
-  {
-    "term": "202730",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2891",
-    "course": "COMP 4705",
-    "section": "2",
-    "title": "Advanced Topics-Programming",
-    "course_type": "Lecture",
-    "meeting_dates": "29-MAR-2027 to 10-JUN-2027",
-    "time": "12:00PM-1:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "",
-    "instructor": "Liu, Faan Tone",
-    "seats": 8,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "12:00",
-        "end_24": "13:50",
-        "start_minutes": 720,
-        "end_minutes": 830
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-03-29",
-        "end": "2027-06-10"
-      }
-    },
-    "time_start_24": "12:00",
-    "time_end_24": "13:50",
-    "time_start_minutes": 720,
-    "time_end_minutes": 830,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-03-29",
-    "date_end": "2027-06-10",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 8,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2891",
-    "conflicts": "2892,3168"
+    "conflicts": "1278,2885,2886,2887,2893,3703"
   },
   {
     "term": "202730",
@@ -3846,7 +3027,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2162,3205,3541,3704,3705"
+    "conflicts": "3205,3541,3704,3705"
   },
   {
     "term": "202730",
@@ -3905,7 +3086,7 @@
     "total_seats": 46,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2005,2454,2455,2464,2624,2629,2716,2877,2878,3207,3222,3512"
+    "conflicts": "2005,2454,2455,2624,3207,3512"
   },
   {
     "term": "202730",
