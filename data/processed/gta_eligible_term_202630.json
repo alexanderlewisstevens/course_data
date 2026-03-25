@@ -97,9 +97,9 @@
     "room": "ECS 400",
     "instructor": "Hossain, Ismail",
     "seats": 30,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "3117",
@@ -199,9 +199,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 4,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 3
   },
   {
     "crn": "4730",
@@ -420,9 +420,9 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
-    "enrolled": 16,
+    "enrolled": 17,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 21
+    "total_enrollment": 22
   },
   {
     "crn": "4705",
@@ -523,8 +523,8 @@
     "instructor": "Evans, Nathan S.",
     "seats": 30,
     "enrolled": 29,
-    "crosslisted_enrollment": 16,
-    "total_enrollment": 45
+    "crosslisted_enrollment": 18,
+    "total_enrollment": 47
   },
   {
     "crn": "2785",
@@ -692,9 +692,9 @@
     "room": "",
     "instructor": "Siebrase, Benjamin E.",
     "seats": 30,
-    "enrolled": 27,
+    "enrolled": 28,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 27
+    "total_enrollment": 28
   },
   {
     "crn": "2589",
@@ -795,8 +795,8 @@
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
     "enrolled": 5,
-    "crosslisted_enrollment": 16,
-    "total_enrollment": 21
+    "crosslisted_enrollment": 17,
+    "total_enrollment": 22
   },
   {
     "crn": "4971",
@@ -896,9 +896,9 @@
     "room": "ECS 410",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 16,
+    "enrolled": 18,
     "crosslisted_enrollment": 29,
-    "total_enrollment": 45
+    "total_enrollment": 47
   },
   {
     "crn": "2639",
