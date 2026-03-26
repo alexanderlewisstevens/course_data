@@ -29,9 +29,9 @@
     "room": "ECS 300",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "3111",
@@ -335,9 +335,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "4942",
@@ -352,9 +352,9 @@
     "room": "",
     "instructor": "Anjum, Iffat",
     "seats": 8,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 14,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "4150",
@@ -642,8 +642,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 20,
     "enrolled": 14,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 19
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 20
   },
   {
     "crn": "4727",
