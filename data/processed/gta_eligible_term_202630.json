@@ -505,9 +505,9 @@
     "room": "ECS 410",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 14,
-    "total_enrollment": 17
+    "total_enrollment": 18
   },
   {
     "crn": "2805",
@@ -622,7 +622,7 @@
     "days": "T",
     "hours": "4",
     "room": "",
-    "instructor": "Daskevich, Ronald J.",
+    "instructor": "Kossek, Wojciech K.",
     "seats": 20,
     "enrolled": 8,
     "crosslisted_enrollment": 0,
@@ -880,8 +880,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 14,
-    "crosslisted_enrollment": 3,
-    "total_enrollment": 17
+    "crosslisted_enrollment": 4,
+    "total_enrollment": 18
   },
   {
     "crn": "2799",

@@ -1722,7 +1722,7 @@
     "room": "ECS 410",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 3,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -1760,7 +1760,7 @@
     "crosslist": "2120",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 17,
+    "total_enrollment": 18,
     "crosslisted_enrollment": 14,
     "conflicts": "2788,4168,4730,4860"
   },
@@ -2636,7 +2636,7 @@
     "days": "T",
     "hours": "4",
     "room": "",
-    "instructor": "Daskevich, Ronald J.",
+    "instructor": "Kossek, Wojciech K.",
     "seats": 20,
     "enrolled": 8,
     "exam_meeting_dates": "",
@@ -3555,8 +3555,8 @@
     "crosslist": "2252",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 17,
-    "crosslisted_enrollment": 3,
+    "total_enrollment": 18,
+    "crosslisted_enrollment": 4,
     "conflicts": "2788,4168,4730,4860"
   },
   {
