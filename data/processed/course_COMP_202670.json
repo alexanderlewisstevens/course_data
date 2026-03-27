@@ -115,7 +115,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3934",
-    "conflicts": "2587,3047,3304,3815"
+    "conflicts": "3047,3304,3815"
   },
   {
     "term": "202670",
@@ -1342,7 +1342,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3304",
-    "conflicts": "2587,3047,3815,3934"
+    "conflicts": "3047,3815,3934"
   },
   {
     "term": "202670",
@@ -1575,65 +1575,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3815",
-    "conflicts": "2587,3047,3304,3934"
-  },
-  {
-    "term": "202670",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2587",
-    "course": "COMP 3421",
-    "section": "101",
-    "title": "Database Organization & Mgmt I",
-    "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "R",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
-      },
-      "days": {
-        "list": [
-          "R"
-        ],
-        "canonical": "R"
-      },
-      "dates": {
-        "start": "2026-09-08",
-        "end": "2026-11-20"
-      }
-    },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
-    "days_canonical": "R",
-    "days_list": "R",
-    "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2587",
-    "conflicts": "3304,3815,3934"
+    "conflicts": "3047,3304,3934"
   },
   {
     "term": "202670",

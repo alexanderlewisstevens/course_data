@@ -391,23 +391,6 @@
     "total_enrollment": 0
   },
   {
-    "crn": "2587",
-    "course": "COMP 3421",
-    "section": "101",
-    "title": "Database Organization & Mgmt I",
-    "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
-    "time": "5:00PM-6:50PM",
-    "days": "R",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "3950",
     "course": "COMP 3490",
     "section": "1",

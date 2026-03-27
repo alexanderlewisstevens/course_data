@@ -29,9 +29,9 @@
     "room": "ECS 300",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 30,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 30
   },
   {
     "crn": "3111",
@@ -386,9 +386,9 @@
     "room": "",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 24,
+    "enrolled": 25,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 25
   },
   {
     "crn": "4713",
@@ -421,8 +421,8 @@
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
     "enrolled": 17,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 22
+    "crosslisted_enrollment": 4,
+    "total_enrollment": 21
   },
   {
     "crn": "4705",
@@ -692,9 +692,9 @@
     "room": "",
     "instructor": "Siebrase, Benjamin E.",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 28
+    "total_enrollment": 29
   },
   {
     "crn": "2589",
@@ -794,9 +794,9 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
-    "enrolled": 5,
+    "enrolled": 4,
     "crosslisted_enrollment": 17,
-    "total_enrollment": 22
+    "total_enrollment": 21
   },
   {
     "crn": "4971",
