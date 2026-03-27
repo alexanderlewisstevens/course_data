@@ -1606,5 +1606,29 @@
     "exam_days": "",
     "exam_room": "",
     "description": ""
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5247",
+    "course": "COMP 5995",
+    "section": "1",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Lopez, Mario A.",
+    "seats": "10",
+    "enrolled": "1",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": ""
   }
 ]
