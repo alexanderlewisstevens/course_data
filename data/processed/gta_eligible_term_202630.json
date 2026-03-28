@@ -318,9 +318,9 @@
     "room": "ECS 301",
     "instructor": "Lopez, Mario A.",
     "seats": 32,
-    "enrolled": 10,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 12
   },
   {
     "crn": "4168",
@@ -386,9 +386,9 @@
     "room": "",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 25,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 24
   },
   {
     "crn": "4713",
@@ -455,8 +455,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
     "enrolled": 14,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 15
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 14
   },
   {
     "crn": "4517",
@@ -472,8 +472,8 @@
     "instructor": "Durso, Catherine S.",
     "seats": 20,
     "enrolled": 8,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 13
+    "crosslisted_enrollment": 4,
+    "total_enrollment": 12
   },
   {
     "crn": "4742",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 20,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "2440",
@@ -675,9 +675,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 20,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "2789",
@@ -777,9 +777,9 @@
     "room": "ECS 201",
     "instructor": "Dalton, Donald A.",
     "seats": 25,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "4673",
@@ -828,9 +828,9 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
-    "enrolled": 1,
+    "enrolled": 0,
     "crosslisted_enrollment": 14,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "4527",
@@ -845,9 +845,9 @@
     "room": "ECS 301",
     "instructor": "Durso, Catherine S.",
     "seats": 5,
-    "enrolled": 5,
+    "enrolled": 4,
     "crosslisted_enrollment": 8,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "4741",
