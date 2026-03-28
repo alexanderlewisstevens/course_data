@@ -199,9 +199,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "4730",
@@ -488,9 +488,9 @@
     "room": "ECS 401",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "2252",
@@ -863,8 +863,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 1,
-    "crosslisted_enrollment": 11,
-    "total_enrollment": 12
+    "crosslisted_enrollment": 12,
+    "total_enrollment": 13
   },
   {
     "crn": "2120",
