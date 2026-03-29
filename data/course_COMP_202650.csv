@@ -5,6 +5,6 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202650,ALL,COMP,Computer Science,1343,COMP 4433,1,Data Visualization,Online/Distance,20-JUN-2026 to 21-AUG-2026,7:00PM-8:50PM,R,4,,"Kossek, Wojciech K.",25,2,,,,,
 202650,ALL,COMP,Computer Science,1344,COMP 4442,1,Probability and Statistics 2,Online/Distance,20-JUN-2026 to 21-AUG-2026,5:00PM-6:50PM,R,4,,,25,5,,,,,
 202650,ALL,COMP,Computer Science,1346,COMP 4450,1,Machine Learning Operations,Online/Distance,20-JUN-2026 to 21-AUG-2026,5:00PM-6:50PM,T,4,,,25,8,,,,,
-202650,ALL,COMP,Computer Science,1347,COMP 4455,1,Shell Scripting & Sys Tools,Lecture/Lab,20-JUN-2026 to 21-AUG-2026,7:00PM-8:50PM,"T,R",4,ECS 200,"Evans, Nathan S.",20,3,,,,,
-202650,ALL,COMP,Computer Science,1351,COMP 4704,1,Advanced Topics-Systems,Lecture,20-JUN-2026 to 21-AUG-2026,5:00PM-6:50PM,"T,R",4,ECS 201,,20,3,,,,,
+202650,ALL,COMP,Computer Science,1347,COMP 4455,1,Shell Scripting & Sys Tools,Lecture/Lab,20-JUN-2026 to 21-AUG-2026,7:00PM-8:50PM,"T,R",4,ECS 200,"Evans, Nathan S.",20,4,,,,,
+202650,ALL,COMP,Computer Science,1351,COMP 4704,1,Advanced Topics-Systems,Lecture,20-JUN-2026 to 21-AUG-2026,5:00PM-6:50PM,"T,R",4,ECS 201,,20,4,,,,,
 202650,ALL,COMP,Computer Science,1348,COMP 4799,1,Cybersecurity Capstone,Directed Study/Research,20-JUN-2026 to 21-AUG-2026,,,4,,,20,1,,,,,

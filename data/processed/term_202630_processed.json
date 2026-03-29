@@ -488,7 +488,7 @@
     "room": "ECS 400",
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
-    "enrolled": 25,
+    "enrolled": 26,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -525,7 +525,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 25,
+    "total_enrollment": 26,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3596",
     "conflicts": ""
@@ -1545,7 +1545,7 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
-    "enrolled": 14,
+    "enrolled": 15,
     "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "M",
@@ -1583,7 +1583,7 @@
     "crosslist": "4717",
     "lower_crosslist": true,
     "total_seats": 22,
-    "total_enrollment": 14,
+    "total_enrollment": 15,
     "crosslisted_enrollment": 0,
     "conflicts": "1288,3115,3116,3117"
   },
@@ -3378,8 +3378,8 @@
     "crosslist": "4716",
     "lower_crosslist": false,
     "total_seats": 22,
-    "total_enrollment": 14,
-    "crosslisted_enrollment": 14,
+    "total_enrollment": 15,
+    "crosslisted_enrollment": 15,
     "conflicts": "1288,3115,3116,3117"
   },
   {
