@@ -80,9 +80,9 @@
     "room": "ECS 300",
     "instructor": "Anjum, Iffat",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "3116",
@@ -284,9 +284,9 @@
     "room": "ECS 300",
     "instructor": "Stevenson, Daniel E.",
     "seats": 32,
-    "enrolled": 37,
+    "enrolled": 36,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 37
+    "total_enrollment": 36
   },
   {
     "crn": "2800",
@@ -454,9 +454,9 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "4517",
@@ -472,8 +472,8 @@
     "instructor": "Durso, Catherine S.",
     "seats": 20,
     "enrolled": 8,
-    "crosslisted_enrollment": 4,
-    "total_enrollment": 12
+    "crosslisted_enrollment": 5,
+    "total_enrollment": 13
   },
   {
     "crn": "4742",
@@ -488,9 +488,9 @@
     "room": "ECS 401",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 12,
+    "enrolled": 11,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "2252",
@@ -506,8 +506,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 4,
-    "crosslisted_enrollment": 14,
-    "total_enrollment": 18
+    "crosslisted_enrollment": 15,
+    "total_enrollment": 19
   },
   {
     "crn": "2805",
@@ -556,9 +556,9 @@
     "room": "ECS 200",
     "instructor": "Dunagan, Ryan A.",
     "seats": 20,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "2067",
@@ -573,9 +573,9 @@
     "room": "ECS 358",
     "instructor": "Gansciu, Serban B.",
     "seats": 10,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "4725",
@@ -829,8 +829,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
     "enrolled": 0,
-    "crosslisted_enrollment": 15,
-    "total_enrollment": 15
+    "crosslisted_enrollment": 16,
+    "total_enrollment": 16
   },
   {
     "crn": "4527",
@@ -845,9 +845,9 @@
     "room": "ECS 301",
     "instructor": "Durso, Catherine S.",
     "seats": 5,
-    "enrolled": 4,
+    "enrolled": 5,
     "crosslisted_enrollment": 8,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "4741",
@@ -863,8 +863,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 1,
-    "crosslisted_enrollment": 12,
-    "total_enrollment": 13
+    "crosslisted_enrollment": 11,
+    "total_enrollment": 12
   },
   {
     "crn": "2120",
@@ -879,9 +879,9 @@
     "room": "ECS 410",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 4,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "2799",
