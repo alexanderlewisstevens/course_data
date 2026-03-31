@@ -250,9 +250,9 @@
     "room": "JMAC 141",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 31
+    "total_enrollment": 30
   },
   {
     "crn": "4707",
@@ -335,9 +335,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 10,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 9
   },
   {
     "crn": "4942",
@@ -471,9 +471,9 @@
     "room": "ECS 301",
     "instructor": "Durso, Catherine S.",
     "seats": 20,
-    "enrolled": 7,
+    "enrolled": 6,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 12
+    "total_enrollment": 11
   },
   {
     "crn": "4742",
@@ -591,8 +591,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
     "enrolled": 1,
-    "crosslisted_enrollment": 30,
-    "total_enrollment": 31
+    "crosslisted_enrollment": 29,
+    "total_enrollment": 30
   },
   {
     "crn": "4726",
@@ -846,8 +846,8 @@
     "instructor": "Durso, Catherine S.",
     "seats": 5,
     "enrolled": 5,
-    "crosslisted_enrollment": 7,
-    "total_enrollment": 12
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 11
   },
   {
     "crn": "4741",

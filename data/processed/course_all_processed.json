@@ -5415,7 +5415,7 @@
     "room": "JMAC 141",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 29,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
@@ -5453,7 +5453,7 @@
     "crosslist": "4725",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 31,
+    "total_enrollment": 30,
     "crosslisted_enrollment": 1,
     "conflicts": "1579,4705,4713,4724,4971"
   },
@@ -5710,7 +5710,7 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 10,
+    "enrolled": 9,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "4:00PM-5:50PM",
     "exam_days": "T",
@@ -5747,7 +5747,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 10,
+    "total_enrollment": 9,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4168",
     "conflicts": "2120,2252,2788,4730,4860"
@@ -6181,7 +6181,7 @@
     "room": "ECS 301",
     "instructor": "Durso, Catherine S.",
     "seats": 20,
-    "enrolled": 7,
+    "enrolled": 6,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
@@ -6219,7 +6219,7 @@
     "crosslist": "4527",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 12,
+    "total_enrollment": 11,
     "crosslisted_enrollment": 5,
     "conflicts": "3111,3121,4148,4150,4673,4684,4707,4726"
   },
@@ -7135,8 +7135,8 @@
     "crosslist": "4149",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 31,
-    "crosslisted_enrollment": 30,
+    "total_enrollment": 30,
+    "crosslisted_enrollment": 29,
     "conflicts": "1579,4705,4713,4724,4971"
   },
   {
@@ -8014,8 +8014,8 @@
     "crosslist": "4517",
     "lower_crosslist": false,
     "total_seats": 25,
-    "total_enrollment": 12,
-    "crosslisted_enrollment": 7,
+    "total_enrollment": 11,
+    "crosslisted_enrollment": 6,
     "conflicts": "3111,3121,4148,4150,4673,4684,4707,4726"
   },
   {
@@ -8361,6 +8361,62 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1362",
+    "conflicts": ""
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5264",
+    "course": "COMP 4995",
+    "section": "1",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Xie, Benjamin X.",
+    "seats": 15,
+    "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-11"
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-11",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "5264",
     "conflicts": ""
   },
   {
