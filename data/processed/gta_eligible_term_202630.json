@@ -97,9 +97,9 @@
     "room": "ECS 400",
     "instructor": "Hossain, Ismail",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "3117",
@@ -131,9 +131,9 @@
     "room": "ECS 201",
     "instructor": "Stevens, Alexander L.",
     "seats": 30,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "3596",
@@ -148,9 +148,9 @@
     "room": "ECS 400",
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
-    "enrolled": 26,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 26
+    "total_enrollment": 27
   },
   {
     "crn": "3597",
@@ -199,9 +199,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 6
   },
   {
     "crn": "4730",
@@ -267,8 +267,8 @@
     "room": "BAUD 102",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
-    "enrolled": 31,
-    "crosslisted_enrollment": 1,
+    "enrolled": 30,
+    "crosslisted_enrollment": 2,
     "total_enrollment": 32
   },
   {
@@ -301,9 +301,9 @@
     "room": "ECS 201",
     "instructor": "Petrehn, Sydney M.",
     "seats": 25,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "1288",
@@ -353,8 +353,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 8,
     "enrolled": 6,
-    "crosslisted_enrollment": 14,
-    "total_enrollment": 20
+    "crosslisted_enrollment": 16,
+    "total_enrollment": 22
   },
   {
     "crn": "4150",
@@ -369,9 +369,9 @@
     "room": "ECS 400",
     "instructor": "Kraft, Aaron R.",
     "seats": 30,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "2588",
@@ -420,8 +420,8 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
-    "enrolled": 17,
-    "crosslisted_enrollment": 4,
+    "enrolled": 16,
+    "crosslisted_enrollment": 5,
     "total_enrollment": 21
   },
   {
@@ -437,9 +437,9 @@
     "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "4716",
@@ -454,8 +454,8 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
-    "enrolled": 16,
-    "crosslisted_enrollment": 0,
+    "enrolled": 15,
+    "crosslisted_enrollment": 1,
     "total_enrollment": 16
   },
   {
@@ -471,9 +471,9 @@
     "room": "ECS 301",
     "instructor": "Durso, Catherine S.",
     "seats": 20,
-    "enrolled": 8,
+    "enrolled": 7,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "4742",
@@ -488,8 +488,8 @@
     "room": "ECS 401",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 10,
-    "crosslisted_enrollment": 1,
+    "enrolled": 9,
+    "crosslisted_enrollment": 2,
     "total_enrollment": 11
   },
   {
@@ -607,8 +607,8 @@
     "room": "BAUD 102",
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
-    "enrolled": 1,
-    "crosslisted_enrollment": 31,
+    "enrolled": 2,
+    "crosslisted_enrollment": 30,
     "total_enrollment": 32
   },
   {
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 20,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "2440",
@@ -641,9 +641,9 @@
     "room": "ECS 201",
     "instructor": "Anjum, Iffat",
     "seats": 20,
-    "enrolled": 14,
+    "enrolled": 16,
     "crosslisted_enrollment": 6,
-    "total_enrollment": 20
+    "total_enrollment": 22
   },
   {
     "crn": "4727",
@@ -658,9 +658,9 @@
     "room": "ECS 401",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 15,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 17
   },
   {
     "crn": "2788",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "Christensen, Wendy N.",
     "seats": 20,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "2886",
@@ -726,9 +726,9 @@
     "room": "",
     "instructor": "Mashinchi, Navid",
     "seats": 20,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "4728",
@@ -794,8 +794,8 @@
     "room": "MRH 019",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
-    "enrolled": 4,
-    "crosslisted_enrollment": 17,
+    "enrolled": 5,
+    "crosslisted_enrollment": 16,
     "total_enrollment": 21
   },
   {
@@ -812,8 +812,8 @@
     "instructor": "Oleson, Alannah",
     "seats": 3,
     "enrolled": 1,
-    "crosslisted_enrollment": 6,
-    "total_enrollment": 7
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 8
   },
   {
     "crn": "4717",
@@ -828,8 +828,8 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
-    "enrolled": 0,
-    "crosslisted_enrollment": 16,
+    "enrolled": 1,
+    "crosslisted_enrollment": 15,
     "total_enrollment": 16
   },
   {
@@ -846,8 +846,8 @@
     "instructor": "Durso, Catherine S.",
     "seats": 5,
     "enrolled": 5,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 13
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 12
   },
   {
     "crn": "4741",
@@ -862,8 +862,8 @@
     "room": "ECS 401",
     "instructor": "Dewri, Rinku",
     "seats": 15,
-    "enrolled": 1,
-    "crosslisted_enrollment": 10,
+    "enrolled": 2,
+    "crosslisted_enrollment": 9,
     "total_enrollment": 11
   },
   {
