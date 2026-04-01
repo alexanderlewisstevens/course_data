@@ -199,9 +199,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 7,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 6
   },
   {
     "crn": "4730",
@@ -522,9 +522,9 @@
     "room": "ECS 410",
     "instructor": "Evans, Nathan S.",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 29,
     "crosslisted_enrollment": 18,
-    "total_enrollment": 46
+    "total_enrollment": 47
   },
   {
     "crn": "2785",
@@ -777,9 +777,9 @@
     "room": "ECS 201",
     "instructor": "Dalton, Donald A.",
     "seats": 25,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "4673",
@@ -897,8 +897,8 @@
     "instructor": "Evans, Nathan S.",
     "seats": 20,
     "enrolled": 18,
-    "crosslisted_enrollment": 28,
-    "total_enrollment": 46
+    "crosslisted_enrollment": 29,
+    "total_enrollment": 47
   },
   {
     "crn": "2639",

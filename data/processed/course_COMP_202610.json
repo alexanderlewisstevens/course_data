@@ -3913,13 +3913,13 @@
     "course": "COMP 4799",
     "section": "0",
     "title": "Cybersecurity Capstone",
-    "course_type": "",
-    "meeting_dates": "",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "05-JAN-2026 to 20-MAR-2026",
     "time": "",
     "days": "",
     "hours": "1",
     "room": "",
-    "instructor": "",
+    "instructor": "Evans, Nathan S.",
     "seats": 0,
     "enrolled": 1,
     "exam_meeting_dates": "",
@@ -3939,8 +3939,8 @@
         "canonical": ""
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-01-05",
+        "end": "2026-03-20"
       }
     },
     "time_start_24": "",
@@ -3949,8 +3949,8 @@
     "time_end_minutes": null,
     "days_canonical": "",
     "days_list": "",
-    "date_start": "",
-    "date_end": "",
+    "date_start": "2026-01-05",
+    "date_end": "2026-03-20",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
