@@ -5887,7 +5887,7 @@
     "room": "",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 23,
+    "enrolled": 24,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -5923,7 +5923,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 23,
+    "total_enrollment": 24,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2588",
     "conflicts": "2067,2785,2799,2805,4137,4728"
