@@ -8312,6 +8312,62 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "5305",
+    "course": "COMP 4991",
+    "section": "2",
+    "title": "Independent Study",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "Albow, Mohammed M.",
+    "seats": 1,
+    "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-11"
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-11",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 1,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "5305",
+    "conflicts": ""
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "1362",
     "course": "COMP 4995",
     "section": "0",
@@ -8780,7 +8836,7 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 3,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -8816,7 +8872,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 2,
+    "total_enrollment": 3,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1343",
     "conflicts": "1347"
@@ -9640,7 +9696,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2859",
-    "conflicts": "3693,3694,3792,3950,3989"
+    "conflicts": "3693,3694,3792,3950,3989,4621,4622"
   },
   {
     "term": "202670",
@@ -9699,7 +9755,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3693",
-    "conflicts": "2859,3694,3792,3950,3989"
+    "conflicts": "2859,3694,3792,3950,3989,4621,4622"
   },
   {
     "term": "202670",
@@ -9758,7 +9814,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3989",
-    "conflicts": "2859,3693,3694,3792,3950"
+    "conflicts": "2859,3693,3694,3792,3950,4621,4622"
   },
   {
     "term": "202670",
@@ -9828,10 +9884,10 @@
     "course": "COMP 1451",
     "section": "1",
     "title": "Engineering Programming",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "M,W",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -9844,36 +9900,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4621",
-    "conflicts": ""
+    "conflicts": "2859,3693,3694,3792,3950,3989,4622"
   },
   {
     "term": "202670",
@@ -9884,10 +9943,10 @@
     "course": "COMP 1451",
     "section": "2",
     "title": "Engineering Programming",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "M,W",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -9900,36 +9959,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4622",
-    "conflicts": ""
+    "conflicts": "2859,3693,3694,3792,3950,3989,4621"
   },
   {
     "term": "202670",
@@ -9940,10 +10002,10 @@
     "course": "COMP 1451",
     "section": "3",
     "title": "Engineering Programming",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -9956,36 +10018,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4623",
-    "conflicts": ""
+    "conflicts": "2899,3317,3673,3674,4624"
   },
   {
     "term": "202670",
@@ -9996,10 +10061,10 @@
     "course": "COMP 1451",
     "section": "4",
     "title": "Engineering Programming",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -10012,36 +10077,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4624",
-    "conflicts": ""
+    "conflicts": "2899,3317,3673,3674,4623"
   },
   {
     "term": "202670",
@@ -10336,7 +10404,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3694",
-    "conflicts": "2859,3693,3792,3950,3989"
+    "conflicts": "2859,3693,3792,3950,3989,4621,4622"
   },
   {
     "term": "202670",
@@ -10746,7 +10814,7 @@
     "total_seats": 25,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2859,3693,3694,3989"
+    "conflicts": "2859,3693,3694,3989,4621,4622"
   },
   {
     "term": "202670",
@@ -10805,7 +10873,7 @@
     "total_seats": 32,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "3673,3674"
+    "conflicts": "3673,3674,4623,4624"
   },
   {
     "term": "202670",
@@ -10923,7 +10991,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2899,3317"
+    "conflicts": "2899,3317,4623,4624"
   },
   {
     "term": "202670",
@@ -12455,7 +12523,7 @@
     "total_seats": 25,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2859,3693,3694,3989"
+    "conflicts": "2859,3693,3694,3989,4621,4622"
   },
   {
     "term": "202670",
@@ -12514,7 +12582,7 @@
     "total_seats": 32,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "3673,3674"
+    "conflicts": "3673,3674,4623,4624"
   },
   {
     "term": "202670",
@@ -12746,7 +12814,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2899,3317"
+    "conflicts": "2899,3317,4623,4624"
   },
   {
     "term": "202670",

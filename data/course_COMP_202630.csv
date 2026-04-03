@@ -63,6 +63,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202630,ALL,COMP,Computer Science,2799,COMP 4723,1,Ethical Hacking,Lecture,30-MAR-2026 to 07-JUN-2026,5:00PM-6:50PM,"M,W",4,ECS 410,"Evans, Nathan S.",20,17,,,,,
 202630,ALL,COMP,Computer Science,2639,COMP 4799,1,Cybersecurity Capstone,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,,,4,,"Evans, Nathan S.",2,1,,,,,
 202630,ALL,COMP,Computer Science,1339,COMP 4991,0,Independent Study,Independent Study/Research,30-MAR-2026 to 07-JUN-2026,,,1,,,0,0,,,,,
+202630,ALL,COMP,Computer Science,5305,COMP 4991,2,Independent Study,Independent Study/Research,30-MAR-2026 to 11-JUN-2026,,,4,,"Albow, Mohammed M.",1,1,,,,,
 202630,ALL,COMP,Computer Science,1362,COMP 4995,0,Independent Research,Independent Study/Research,30-MAR-2026 to 07-JUN-2026,,,1,,,0,0,,,,,
 202630,ALL,COMP,Computer Science,5264,COMP 4995,1,Independent Research,Independent Study/Research,30-MAR-2026 to 11-JUN-2026,,,1,,"Xie, Benjamin X.",15,2,,,,,
 202630,ALL,COMP,Computer Science,1368,COMP 5991,0,Independent Study,Independent Study/Research,30-MAR-2026 to 07-JUN-2026,,,1,,,0,0,,,,,
