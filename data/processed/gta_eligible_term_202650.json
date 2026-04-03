@@ -46,9 +46,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "1343",
@@ -80,9 +80,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 5,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 8
   },
   {
     "crn": "1346",
@@ -97,9 +97,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "1347",

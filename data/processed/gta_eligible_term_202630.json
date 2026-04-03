@@ -29,9 +29,9 @@
     "room": "ECS 300",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "3111",
@@ -386,9 +386,9 @@
     "room": "",
     "instructor": "Hamed, Ahmed Abdeen",
     "seats": 25,
-    "enrolled": 24,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 22
   },
   {
     "crn": "4713",
@@ -726,9 +726,9 @@
     "room": "",
     "instructor": "Mashinchi, Navid",
     "seats": 20,
-    "enrolled": 7,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 6
   },
   {
     "crn": "4728",
