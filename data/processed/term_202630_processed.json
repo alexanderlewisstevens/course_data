@@ -2930,7 +2930,7 @@
     "room": "",
     "instructor": "Christensen, Wendy N.",
     "seats": 20,
-    "enrolled": 12,
+    "enrolled": 13,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2966,7 +2966,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 12,
+    "total_enrollment": 13,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2589",
     "conflicts": "2785,2799,2805,4137"
@@ -3896,6 +3896,62 @@
     "total_enrollment": 2,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "5264",
+    "conflicts": ""
+  },
+  {
+    "term": "202630",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5317",
+    "course": "COMP 4995",
+    "section": "2",
+    "title": "Independent Research",
+    "course_type": "Independent Study/Research",
+    "meeting_dates": "30-MAR-2026 to 11-JUN-2026",
+    "time": "",
+    "days": "",
+    "hours": "1",
+    "room": "",
+    "instructor": "Albow, Mohammed M.",
+    "seats": 15,
+    "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "2026-03-30",
+        "end": "2026-06-11"
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "2026-03-30",
+    "date_end": "2026-06-11",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 15,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "5317",
     "conflicts": ""
   },
   {
