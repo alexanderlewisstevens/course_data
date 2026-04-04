@@ -233,9 +233,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 12,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 11
   },
   {
     "crn": "4149",
@@ -267,9 +267,9 @@
     "room": "BAUD 102",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
-    "enrolled": 32,
+    "enrolled": 31,
     "crosslisted_enrollment": 2,
-    "total_enrollment": 34
+    "total_enrollment": 33
   },
   {
     "crn": "2251",
@@ -455,8 +455,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 20,
     "enrolled": 15,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 16
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 15
   },
   {
     "crn": "4517",
@@ -608,8 +608,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
     "enrolled": 2,
-    "crosslisted_enrollment": 32,
-    "total_enrollment": 34
+    "crosslisted_enrollment": 31,
+    "total_enrollment": 33
   },
   {
     "crn": "2787",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 20,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "2440",
@@ -777,9 +777,9 @@
     "room": "ECS 201",
     "instructor": "Dalton, Donald A.",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 9
   },
   {
     "crn": "4673",
@@ -828,9 +828,9 @@
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 2,
-    "enrolled": 1,
+    "enrolled": 0,
     "crosslisted_enrollment": 15,
-    "total_enrollment": 16
+    "total_enrollment": 15
   },
   {
     "crn": "4527",
