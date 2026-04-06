@@ -29,9 +29,9 @@
     "room": "ECS 300",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 28,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 28
   },
   {
     "crn": "3111",
@@ -335,9 +335,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 9,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 8
   },
   {
     "crn": "4942",
