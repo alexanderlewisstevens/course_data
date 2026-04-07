@@ -97,9 +97,9 @@
     "room": "ECS 400",
     "instructor": "Hossain, Ismail",
     "seats": 30,
-    "enrolled": 16,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 15
   },
   {
     "crn": "3117",
@@ -417,7 +417,7 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "MRH 019",
+    "room": "CMK 101",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 15,
     "enrolled": 15,
@@ -791,7 +791,7 @@
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
-    "room": "MRH 019",
+    "room": "CMK 101",
     "instructor": "Mahoor, Mohammad H.",
     "seats": 10,
     "enrolled": 5,
