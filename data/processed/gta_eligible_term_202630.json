@@ -46,9 +46,9 @@
     "room": "ECS 200",
     "instructor": "Taami, Tania",
     "seats": 30,
-    "enrolled": 20,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 21
   },
   {
     "crn": "3112",

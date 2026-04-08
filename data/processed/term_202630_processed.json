@@ -134,7 +134,7 @@
     "room": "ECS 200",
     "instructor": "Taami, Tania",
     "seats": 30,
-    "enrolled": 20,
+    "enrolled": 21,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -171,7 +171,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 20,
+    "total_enrollment": 21,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3111",
     "conflicts": "3121,4148,4150,4517,4527,4673,4684,4707,4726"
