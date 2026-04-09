@@ -472,8 +472,8 @@
     "instructor": "Durso, Catherine S.",
     "seats": 20,
     "enrolled": 5,
-    "crosslisted_enrollment": 6,
-    "total_enrollment": 11
+    "crosslisted_enrollment": 5,
+    "total_enrollment": 10
   },
   {
     "crn": "4742",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 20,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "2440",
@@ -845,9 +845,9 @@
     "room": "ECS 301",
     "instructor": "Durso, Catherine S.",
     "seats": 5,
-    "enrolled": 6,
+    "enrolled": 5,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 11
+    "total_enrollment": 10
   },
   {
     "crn": "4741",
