@@ -75,7 +75,7 @@
     "room": "ECS 300",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 29,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "T",
@@ -112,7 +112,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 28,
+    "total_enrollment": 29,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3194",
     "conflicts": "3112,4741,4742"
