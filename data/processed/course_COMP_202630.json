@@ -370,7 +370,7 @@
     "room": "ECS 401",
     "instructor": "Stevens, Alexander L.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 30,
     "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "M",
@@ -407,7 +407,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 29,
+    "total_enrollment": 30,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3117",
     "conflicts": "1288,3115,3116,4716,4717"
