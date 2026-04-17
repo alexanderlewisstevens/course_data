@@ -5474,7 +5474,7 @@
     "room": "BAUD 102",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 31,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
@@ -5512,7 +5512,7 @@
     "crosslist": "4726",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 32,
+    "total_enrollment": 33,
     "crosslisted_enrollment": 2,
     "conflicts": "3111,3121,4148,4150,4517,4527,4673,4684"
   },
@@ -7194,8 +7194,8 @@
     "crosslist": "4707",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 32,
-    "crosslisted_enrollment": 30,
+    "total_enrollment": 33,
+    "crosslisted_enrollment": 31,
     "conflicts": "3111,3121,4148,4150,4517,4527,4673,4684"
   },
   {
@@ -8892,7 +8892,7 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 4,
+    "enrolled": 5,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -8928,7 +8928,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 4,
+    "total_enrollment": 5,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1343",
     "conflicts": "1347"
