@@ -80,9 +80,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 8,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 7
   },
   {
     "crn": "1346",
@@ -131,8 +131,8 @@
     "room": "ECS 201",
     "instructor": "",
     "seats": 20,
-    "enrolled": 4,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 5
   }
 ]
