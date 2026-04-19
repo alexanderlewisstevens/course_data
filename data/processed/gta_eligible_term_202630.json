@@ -267,9 +267,9 @@
     "room": "BAUD 102",
     "instructor": "Xie, Benjamin X.",
     "seats": 30,
-    "enrolled": 31,
+    "enrolled": 30,
     "crosslisted_enrollment": 2,
-    "total_enrollment": 33
+    "total_enrollment": 32
   },
   {
     "crn": "2251",
@@ -608,8 +608,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 2,
     "enrolled": 2,
-    "crosslisted_enrollment": 31,
-    "total_enrollment": 33
+    "crosslisted_enrollment": 30,
+    "total_enrollment": 32
   },
   {
     "crn": "2787",
