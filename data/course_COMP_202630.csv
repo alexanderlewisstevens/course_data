@@ -60,7 +60,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202630,ALL,COMP,Computer Science,4717,COMP 4703,4,Adv Topics-Artificial Intell,Lecture,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"M,W",4,ECS 201,"Edgington, Jeffrey M.",2,0,08-JUN-2026 to 08-JUN-2026,10:00AM-11:50AM,M,ECS 201,
 202630,ALL,COMP,Computer Science,4527,COMP 4705,3,Advanced Topics-Programming,Lecture,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"T,R",4,ECS 301,"Durso, Catherine S.",5,5,09-JUN-2026 to 09-JUN-2026,10:00AM-11:50AM,T,ECS 301,
 202630,ALL,COMP,Computer Science,4741,COMP 4709,1,Special Tpcs-Computer Security,Lecture,30-MAR-2026 to 07-JUN-2026,12:00PM-1:50PM,"T,R",4,ECS 401,"Dewri, Rinku",15,1,,,,,
-202630,ALL,COMP,Computer Science,2120,COMP 4722,1,Network Security,Lecture,30-MAR-2026 to 07-JUN-2026,5:00PM-6:50PM,"T,R",4,ECS 410,"Dewri, Rinku",16,15,,,,,
+202630,ALL,COMP,Computer Science,2120,COMP 4722,1,Network Security,Lecture,30-MAR-2026 to 07-JUN-2026,5:00PM-6:50PM,"T,R",4,ECS 410,"Dewri, Rinku",16,16,,,,,
 202630,ALL,COMP,Computer Science,2799,COMP 4723,1,Ethical Hacking,Lecture,30-MAR-2026 to 07-JUN-2026,5:00PM-6:50PM,"M,W",4,ECS 410,"Evans, Nathan S.",20,17,,,,,
 202630,ALL,COMP,Computer Science,2639,COMP 4799,1,Cybersecurity Capstone,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,,,4,,"Evans, Nathan S.",2,1,,,,,
 202630,ALL,COMP,Computer Science,1339,COMP 4991,0,Independent Study,Independent Study/Research,30-MAR-2026 to 07-JUN-2026,,,1,,,0,0,,,,,

@@ -506,8 +506,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 4,
-    "crosslisted_enrollment": 15,
-    "total_enrollment": 19
+    "crosslisted_enrollment": 16,
+    "total_enrollment": 20
   },
   {
     "crn": "2805",
@@ -879,9 +879,9 @@
     "room": "ECS 410",
     "instructor": "Dewri, Rinku",
     "seats": 16,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 4,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "2799",

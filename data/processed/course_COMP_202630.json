@@ -1760,8 +1760,8 @@
     "crosslist": "2120",
     "lower_crosslist": true,
     "total_seats": 31,
-    "total_enrollment": 19,
-    "crosslisted_enrollment": 15,
+    "total_enrollment": 20,
+    "crosslisted_enrollment": 16,
     "conflicts": "2788,4168,4730,4860"
   },
   {
@@ -3573,7 +3573,7 @@
     "room": "ECS 410",
     "instructor": "Dewri, Rinku",
     "seats": 16,
-    "enrolled": 15,
+    "enrolled": 16,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3611,7 +3611,7 @@
     "crosslist": "2252",
     "lower_crosslist": false,
     "total_seats": 31,
-    "total_enrollment": 19,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 4,
     "conflicts": "2788,4168,4730,4860"
   },
