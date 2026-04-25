@@ -80,9 +80,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "1346",
@@ -97,9 +97,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "1347",
