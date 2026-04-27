@@ -7,7 +7,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202630,ALL,COMP,Computer Science,3116,COMP 1353,1,Data Struct. & Algorithms I,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"M,W",3,ECS 400,"Hossain, Ismail",30,15,08-JUN-2026 to 08-JUN-2026,10:00AM-11:50AM,M,ECS 400,
 202630,ALL,COMP,Computer Science,3117,COMP 1353,2,Data Struct. & Algorithms I,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"M,W",3,ECS 401,"Stevens, Alexander L.",30,30,08-JUN-2026 to 08-JUN-2026,10:00AM-11:50AM,M,ECS 401,
 202630,ALL,COMP,Computer Science,3121,COMP 1353,6,Data Struct. & Algorithms I,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"T,R",3,ECS 201,"Stevens, Alexander L.",30,17,09-JUN-2026 to 09-JUN-2026,10:00AM-11:50AM,T,ECS 201,
-202630,ALL,COMP,Computer Science,3596,COMP 2361,1,Systems I,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,12:00PM-1:50PM,"M,W",4,ECS 400,"Hannum, Andrew T.",30,29,,,,,
+202630,ALL,COMP,Computer Science,3596,COMP 2361,1,Systems I,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,12:00PM-1:50PM,"M,W",4,ECS 400,"Hannum, Andrew T.",30,28,,,,,
 202630,ALL,COMP,Computer Science,3597,COMP 2361,2,Systems I,Lecture/Lab,30-MAR-2026 to 07-JUN-2026,2:00PM-3:50PM,"M,W",4,ECS 400,"Hannum, Andrew T.",30,18,,,,,
 202630,ALL,COMP,Computer Science,4148,COMP 2370,1,Data Struct. & Algorithms II,Lecture,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"T,R",4,ECS 300,"Hossain, Ismail",30,15,09-JUN-2026 to 09-JUN-2026,10:00AM-11:50AM,T,ECS 300,
 202630,ALL,COMP,Computer Science,5117,COMP 2401,1,Unix Command-Line Bootcamp,Online/Distance,30-MAR-2026 to 07-JUN-2026,,,1,,"Rutherford, Matthew J.",50,6,,,,,
