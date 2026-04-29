@@ -9451,7 +9451,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3934",
-    "conflicts": "3047,3304,3815"
+    "conflicts": "3304,3815"
   },
   {
     "term": "202670",
@@ -9569,125 +9569,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2856",
-    "conflicts": "2038"
-  },
-  {
-    "term": "202670",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3972",
-    "course": "COMP 1201",
-    "section": "3",
-    "title": "Intro. to Computer Science I",
-    "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
-    "time": "1:00PM-1:50PM",
-    "days": "M,W",
-    "hours": "2",
-    "room": "ECS 201",
-    "instructor": "Hannum, Andrew T.",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "13:00",
-        "end_24": "13:50",
-        "start_minutes": 780,
-        "end_minutes": 830
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-09-08",
-        "end": "2026-11-20"
-      }
-    },
-    "time_start_24": "13:00",
-    "time_end_24": "13:50",
-    "time_start_minutes": 780,
-    "time_end_minutes": 830,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3972",
-    "conflicts": "3002,3044,3675,3676"
-  },
-  {
-    "term": "202670",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "2861",
-    "course": "COMP 1201",
-    "section": "4",
-    "title": "Intro. to Computer Science I",
-    "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
-    "time": "10:00AM-10:50AM",
-    "days": "T,R",
-    "hours": "2",
-    "room": "ECS 300",
-    "instructor": "Hannum, Andrew T.",
-    "seats": 42,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "10:00",
-        "end_24": "10:50",
-        "start_minutes": 600,
-        "end_minutes": 650
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2026-09-08",
-        "end": "2026-11-20"
-      }
-    },
-    "time_start_24": "10:00",
-    "time_end_24": "10:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 650,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 42,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "2861",
-    "conflicts": "2038"
+    "conflicts": "2038,3538"
   },
   {
     "term": "202670",
@@ -9704,7 +9586,7 @@
     "days": "M,W",
     "hours": "3",
     "room": "ECS 401",
-    "instructor": "Albow, Mohammed M.",
+    "instructor": "Liu, Faan Tone",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -9746,7 +9628,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2857",
-    "conflicts": "2858,3653"
+    "conflicts": "2858"
   },
   {
     "term": "202670",
@@ -9763,7 +9645,7 @@
     "days": "M,W",
     "hours": "3",
     "room": "ECS 200",
-    "instructor": "Anjum, Iffat",
+    "instructor": "",
     "seats": 32,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -9805,7 +9687,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2858",
-    "conflicts": "2857,3653"
+    "conflicts": "2857"
   },
   {
     "term": "202670",
@@ -10041,7 +9923,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3044",
-    "conflicts": "3002,3675,3676,3972"
+    "conflicts": "3002,3653,3675"
   },
   {
     "term": "202670",
@@ -10117,7 +9999,7 @@
     "days": "M,W",
     "hours": "4",
     "room": "ECS 401",
-    "instructor": "",
+    "instructor": "Albow, Mohammed M.",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -10176,7 +10058,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 400",
-    "instructor": "",
+    "instructor": "Albow, Mohammed M.",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -10336,7 +10218,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2038",
-    "conflicts": "2856,2861"
+    "conflicts": "2856,3538"
   },
   {
     "term": "202670",
@@ -10353,7 +10235,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 301",
-    "instructor": "Stevens, Alexander L.",
+    "instructor": "",
     "seats": 34,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -10408,10 +10290,10 @@
     "title": "Systems I",
     "course_type": "Lecture/Lab",
     "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
-    "time": "10:00AM-11:50AM",
+    "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 400",
+    "room": "ECS",
     "instructor": "Stevenson, Daniel E.",
     "seats": 30,
     "enrolled": 0,
@@ -10422,10 +10304,10 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "10:00",
-        "end_24": "11:50",
-        "start_minutes": 600,
-        "end_minutes": 710
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
       },
       "days": {
         "list": [
@@ -10439,10 +10321,10 @@
         "end": "2026-11-20"
       }
     },
-    "time_start_24": "10:00",
-    "time_end_24": "11:50",
-    "time_start_minutes": 600,
-    "time_end_minutes": 710,
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
@@ -10454,7 +10336,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3653",
-    "conflicts": "2857,2858"
+    "conflicts": "3002,3044,3675"
   },
   {
     "term": "202670",
@@ -10513,7 +10395,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3204",
-    "conflicts": "2878,2879,3545"
+    "conflicts": "2878,2879,3047,3545"
   },
   {
     "term": "202670",
@@ -10589,7 +10471,7 @@
     "days": "M,W",
     "hours": "4",
     "room": "ECS 300",
-    "instructor": "",
+    "instructor": "Anjum, Iffat",
     "seats": 40,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -10631,7 +10513,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3002",
-    "conflicts": "3044,3675,3676,3972"
+    "conflicts": "3044,3653,3675"
   },
   {
     "term": "202670",
@@ -10690,7 +10572,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3304",
-    "conflicts": "3047,3815,3934"
+    "conflicts": "3815,3934"
   },
   {
     "term": "202670",
@@ -10759,8 +10641,8 @@
     "title": "Introductory Game Design",
     "course_type": "Lecture",
     "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
-    "time": "6:00PM-7:50PM",
-    "days": "M,W",
+    "time": "10:00AM-11:50AM",
+    "days": "T,R",
     "hours": "4",
     "room": "ECS 201",
     "instructor": "Edgington, Jeffrey M.",
@@ -10773,29 +10655,29 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "18:00",
-        "end_24": "19:50",
-        "start_minutes": 1080,
-        "end_minutes": 1190
+        "start_24": "10:00",
+        "end_24": "11:50",
+        "start_minutes": 600,
+        "end_minutes": 710
       },
       "days": {
         "list": [
-          "M",
-          "W"
+          "T",
+          "R"
         ],
-        "canonical": "MW"
+        "canonical": "TR"
       },
       "dates": {
         "start": "2026-09-08",
         "end": "2026-11-20"
       }
     },
-    "time_start_24": "18:00",
-    "time_end_24": "19:50",
-    "time_start_minutes": 1080,
-    "time_end_minutes": 1190,
-    "days_canonical": "MW",
-    "days_list": "M,W",
+    "time_start_24": "10:00",
+    "time_end_24": "11:50",
+    "time_start_minutes": 600,
+    "time_end_minutes": 710,
+    "days_canonical": "TR",
+    "days_list": "T,R",
     "date_start": "2026-09-08",
     "date_end": "2026-11-20",
     "gta_eligible": true,
@@ -10805,66 +10687,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3538",
-    "conflicts": "2305,2758,2878,2879,3545,3637,3947,3948"
-  },
-  {
-    "term": "202670",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3676",
-    "course": "COMP 3100",
-    "section": "2",
-    "title": "Human-Computer Interaction",
-    "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
-    "time": "12:00PM-1:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 400",
-    "instructor": "Oleson, Alannah",
-    "seats": 16,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "12:00",
-        "end_24": "13:50",
-        "start_minutes": 720,
-        "end_minutes": 830
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2026-09-08",
-        "end": "2026-11-20"
-      }
-    },
-    "time_start_24": "12:00",
-    "time_end_24": "13:50",
-    "time_start_minutes": 720,
-    "time_end_minutes": 830,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
-    "gta_eligible": true,
-    "crosslisted_crn": "3675,3676",
-    "crosslist": "3675",
-    "lower_crosslist": true,
-    "total_seats": 20,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "conflicts": "3002,3044,3972"
+    "conflicts": "2038,2856"
   },
   {
     "term": "202670",
@@ -10923,7 +10746,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3815",
-    "conflicts": "3047,3304,3934"
+    "conflicts": "3304,3934"
   },
   {
     "term": "202670",
@@ -10940,7 +10763,7 @@
     "days": "M,W",
     "hours": "4",
     "room": "ECS 410",
-    "instructor": "Kossek, Wojciech K.",
+    "instructor": "Xie, Benjamin X.",
     "seats": 12,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -11100,7 +10923,7 @@
     "total_seats": 39,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2305,2758,3538,3637"
+    "conflicts": "2305,2758"
   },
   {
     "term": "202670",
@@ -11277,7 +11100,7 @@
     "total_seats": 32,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2305,2758,3204,3538,3545"
+    "conflicts": "2305,2758,3047,3204,3545"
   },
   {
     "term": "202670",
@@ -11335,7 +11158,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2758",
-    "conflicts": "2878,2879,3538,3947,3948"
+    "conflicts": "2878,2879,3047,3947,3948"
   },
   {
     "term": "202670",
@@ -11617,7 +11440,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2305",
-    "conflicts": "2878,2879,3538,3545,3637,3947,3948"
+    "conflicts": "2878,2879,3545,3947,3948"
   },
   {
     "term": "202670",
@@ -12454,13 +12277,13 @@
     "date_start": "2026-09-08",
     "date_end": "2026-11-20",
     "gta_eligible": true,
-    "crosslisted_crn": "3675,3676",
-    "crosslist": "3676",
-    "lower_crosslist": false,
-    "total_seats": 20,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 4,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "3002,3044,3972"
+    "crosslisted_crn": "3675",
+    "conflicts": "3002,3044,3653"
   },
   {
     "term": "202670",
@@ -12518,7 +12341,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3545",
-    "conflicts": "2305,2878,2879,3204,3538"
+    "conflicts": "2305,2878,2879,3204"
   },
   {
     "term": "202670",
@@ -12588,7 +12411,7 @@
     "course_type": "Online/Distance",
     "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
     "time": "7:00PM-8:50PM",
-    "days": "M",
+    "days": "T",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -12608,9 +12431,9 @@
       },
       "days": {
         "list": [
-          "M"
+          "T"
         ],
-        "canonical": "M"
+        "canonical": "T"
       },
       "dates": {
         "start": "2026-09-08",
@@ -12621,8 +12444,8 @@
     "time_end_24": "20:50",
     "time_start_minutes": 1140,
     "time_end_minutes": 1250,
-    "days_canonical": "M",
-    "days_list": "M",
+    "days_canonical": "T",
+    "days_list": "T",
     "date_start": "2026-09-08",
     "date_end": "2026-11-20",
     "gta_eligible": true,
@@ -12632,7 +12455,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3637",
-    "conflicts": "2305,3538,3947,3948"
+    "conflicts": ""
   },
   {
     "term": "202670",
@@ -12649,7 +12472,7 @@
     "days": "M,W",
     "hours": "4",
     "room": "ECS 410",
-    "instructor": "Kossek, Wojciech K.",
+    "instructor": "Xie, Benjamin X.",
     "seats": 13,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -12820,7 +12643,7 @@
     "course_type": "Online/Distance",
     "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
     "time": "5:00PM-6:50PM",
-    "days": "T",
+    "days": "W",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -12840,9 +12663,9 @@
       },
       "days": {
         "list": [
-          "T"
+          "W"
         ],
-        "canonical": "T"
+        "canonical": "W"
       },
       "dates": {
         "start": "2026-09-08",
@@ -12853,8 +12676,8 @@
     "time_end_24": "18:50",
     "time_start_minutes": 1020,
     "time_end_minutes": 1130,
-    "days_canonical": "T",
-    "days_list": "T",
+    "days_canonical": "W",
+    "days_list": "W",
     "date_start": "2026-09-08",
     "date_end": "2026-11-20",
     "gta_eligible": true,
@@ -12864,7 +12687,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3047",
-    "conflicts": "3304,3815,3934"
+    "conflicts": "2758,2878,2879,3204"
   },
   {
     "term": "202670",
@@ -12923,7 +12746,7 @@
     "total_seats": 39,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2305,2758,3538,3637"
+    "conflicts": "2305,2758"
   },
   {
     "term": "202670",
@@ -13100,7 +12923,7 @@
     "total_seats": 32,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2305,2758,3204,3538,3545"
+    "conflicts": "2305,2758,3047,3204,3545"
   },
   {
     "term": "202670",
