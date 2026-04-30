@@ -46,9 +46,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 5,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 7
   },
   {
     "crn": "1343",
@@ -97,9 +97,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "1347",
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 4,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 5
   },
   {
     "crn": "1351",
