@@ -1,5 +1,22 @@
 [
   {
+    "crn": "1780",
+    "course": "COMP 1101",
+    "section": "1",
+    "title": "Analytical Inquiry I",
+    "course_type": "Online/Distance",
+    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 30,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
     "crn": "1341",
     "course": "COMP 3421",
     "section": "1",
