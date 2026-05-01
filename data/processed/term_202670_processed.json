@@ -115,7 +115,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3934",
-    "conflicts": "3304,3815"
+    "conflicts": "3304,3815,4626,4627,4631"
   },
   {
     "term": "202670",
@@ -1059,7 +1059,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3304",
-    "conflicts": "3815,3934"
+    "conflicts": "3815,3934,4626,4627,4631"
   },
   {
     "term": "202670",
@@ -1233,7 +1233,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3815",
-    "conflicts": "3304,3934"
+    "conflicts": "3304,3934,4626,4627,4631"
   },
   {
     "term": "202670",
@@ -1410,7 +1410,7 @@
     "total_seats": 39,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2305,2758"
+    "conflicts": "2305,2758,4629"
   },
   {
     "term": "202670",
@@ -1645,7 +1645,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2758",
-    "conflicts": "2878,2879,3047,3947,3948"
+    "conflicts": "2878,2879,3047,3947,3948,4629"
   },
   {
     "term": "202670",
@@ -1927,7 +1927,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2305",
-    "conflicts": "2878,2879,3545,3947,3948"
+    "conflicts": "2878,2879,3545,3947,3948,4629"
   },
   {
     "term": "202670",
@@ -2498,10 +2498,10 @@
     "course": "COMP 4005",
     "section": "1",
     "title": "Foundation: Python Programming",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Online/Distance",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -2514,36 +2514,38 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4626",
-    "conflicts": ""
+    "conflicts": "3304,3815,3934,4627,4631"
   },
   {
     "term": "202670",
@@ -2554,10 +2556,10 @@
     "course": "COMP 4005",
     "section": "2",
     "title": "Foundation: Python Programming",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -2570,36 +2572,38 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4627",
-    "conflicts": ""
+    "conflicts": "3304,3815,3934,4626,4631"
   },
   {
     "term": "202670",
@@ -2610,10 +2614,10 @@
     "course": "COMP 4009",
     "section": "1",
     "title": "Applied Math for DS and AI",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Online/Distance",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "T",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -2626,36 +2630,38 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "T"
+        ],
+        "canonical": "T"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "T",
+    "days_list": "T",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4628",
-    "conflicts": ""
+    "conflicts": "3637,4632"
   },
   {
     "term": "202670",
@@ -2666,10 +2672,10 @@
     "course": "COMP 4009",
     "section": "2",
     "title": "Applied Math for DS and AI",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "M,W",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -2682,36 +2688,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4629",
-    "conflicts": ""
+    "conflicts": "2305,2758,3947,3948"
   },
   {
     "term": "202670",
@@ -2839,10 +2848,10 @@
     "course": "COMP 4421",
     "section": "1",
     "title": "Database Organization & Mgmt I",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Online/Distance",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -2855,36 +2864,38 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4631",
-    "conflicts": ""
+    "conflicts": "3304,3815,3934,4626,4627"
   },
   {
     "term": "202670",
@@ -2942,7 +2953,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3637",
-    "conflicts": ""
+    "conflicts": "4628,4632"
   },
   {
     "term": "202670",
@@ -3071,10 +3082,10 @@
     "course": "COMP 4531",
     "section": "2",
     "title": "Deep Learning",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "T,R",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -3087,36 +3098,39 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2026-09-08",
+        "end": "2026-11-20"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4632",
-    "conflicts": ""
+    "conflicts": "3637,4628"
   },
   {
     "term": "202670",
@@ -3233,7 +3247,7 @@
     "total_seats": 39,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2305,2758"
+    "conflicts": "2305,2758,4629"
   },
   {
     "term": "202670",
