@@ -193,7 +193,7 @@
     "room": "ECS 301",
     "instructor": "Taami, Tania",
     "seats": 30,
-    "enrolled": 26,
+    "enrolled": 27,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "T",
@@ -230,7 +230,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 26,
+    "total_enrollment": 27,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3112",
     "conflicts": "3194,4741,4742"

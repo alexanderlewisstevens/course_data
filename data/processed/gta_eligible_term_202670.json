@@ -323,23 +323,6 @@
     "total_enrollment": 0
   },
   {
-    "crn": "3538",
-    "course": "COMP 2821",
-    "section": "1",
-    "title": "Introductory Game Design",
-    "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
-    "time": "10:00AM-11:50AM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Edgington, Jeffrey M.",
-    "seats": 15,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "3815",
     "course": "COMP 3361",
     "section": "3",
