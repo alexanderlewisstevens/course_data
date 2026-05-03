@@ -5065,7 +5065,7 @@
     "room": "ECS 400",
     "instructor": "Hannum, Andrew T.",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 27,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -5102,7 +5102,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 28,
+    "total_enrollment": 27,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3596",
     "conflicts": ""
