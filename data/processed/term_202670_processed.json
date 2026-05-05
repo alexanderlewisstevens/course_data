@@ -9,7 +9,7 @@
     "section": "1",
     "title": "Analytical Inquiry I",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "12:00PM-1:50PM",
     "days": "T,R",
     "hours": "4",
@@ -17,10 +17,10 @@
     "instructor": "",
     "seats": 8,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 200",
     "description": "",
     "normalized": {
       "time": {
@@ -38,7 +38,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "12:00",
@@ -48,7 +48,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -68,7 +68,7 @@
     "section": "4",
     "title": "Analytical Inquiry I",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "4:00PM-5:50PM",
     "days": "T,R",
     "hours": "4",
@@ -76,10 +76,10 @@
     "instructor": "",
     "seats": 8,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -97,7 +97,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "16:00",
@@ -107,7 +107,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -127,7 +127,7 @@
     "section": "1",
     "title": "Intro. to Computer Science I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "1:00PM-1:50PM",
     "days": "T,R",
     "hours": "2",
@@ -156,7 +156,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "13:00",
@@ -166,7 +166,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -186,7 +186,7 @@
     "section": "2",
     "title": "Intro. to Computer Science I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "11:00AM-11:50AM",
     "days": "T,R",
     "hours": "2",
@@ -215,7 +215,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "11:00",
@@ -225,7 +225,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -245,7 +245,7 @@
     "section": "1",
     "title": "Introduction to Programming I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "3",
@@ -253,10 +253,10 @@
     "instructor": "Liu, Faan Tone",
     "seats": 6,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "W",
+    "exam_room": "ECS 401",
     "description": "",
     "normalized": {
       "time": {
@@ -274,7 +274,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "10:00",
@@ -284,7 +284,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -304,7 +304,7 @@
     "section": "8",
     "title": "Introduction to Programming I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "3",
@@ -312,10 +312,10 @@
     "instructor": "Stevens, Alexander L.",
     "seats": 4,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 400",
     "description": "",
     "normalized": {
       "time": {
@@ -333,7 +333,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -343,7 +343,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -363,7 +363,7 @@
     "section": "1",
     "title": "Data Struct. & Algorithms I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "3",
@@ -371,10 +371,10 @@
     "instructor": "",
     "seats": 32,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 200",
     "description": "",
     "normalized": {
       "time": {
@@ -392,7 +392,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "12:00",
@@ -402,7 +402,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -422,7 +422,7 @@
     "section": "1",
     "title": "Engineering Programming",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
@@ -430,10 +430,10 @@
     "instructor": "",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 200",
     "description": "",
     "normalized": {
       "time": {
@@ -451,7 +451,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -461,7 +461,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -481,7 +481,7 @@
     "section": "2",
     "title": "Engineering Programming",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
@@ -489,10 +489,10 @@
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 401",
     "description": "",
     "normalized": {
       "time": {
@@ -510,7 +510,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -520,7 +520,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -540,7 +540,7 @@
     "section": "3",
     "title": "Engineering Programming",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
@@ -548,10 +548,10 @@
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 400",
     "description": "",
     "normalized": {
       "time": {
@@ -569,7 +569,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -579,7 +579,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -599,7 +599,7 @@
     "section": "4",
     "title": "Engineering Programming",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
@@ -607,10 +607,10 @@
     "instructor": "",
     "seats": 30,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 200",
     "description": "",
     "normalized": {
       "time": {
@@ -628,7 +628,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -638,7 +638,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -658,7 +658,7 @@
     "section": "1",
     "title": "Discrete Structures in CS",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
@@ -666,10 +666,10 @@
     "instructor": "Stevens, Alexander L.",
     "seats": 34,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "CMK 207",
     "description": "",
     "normalized": {
       "time": {
@@ -687,7 +687,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "10:00",
@@ -697,7 +697,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -717,7 +717,7 @@
     "section": "2",
     "title": "Discrete Structures in CS",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "12:00PM-1:50PM",
     "days": "T,R",
     "hours": "4",
@@ -725,10 +725,10 @@
     "instructor": "Stevens, Alexander L.",
     "seats": 34,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -746,7 +746,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "12:00",
@@ -756,7 +756,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -776,7 +776,7 @@
     "section": "2",
     "title": "Systems I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -805,7 +805,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "12:00",
@@ -815,7 +815,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -835,7 +835,7 @@
     "section": "3",
     "title": "Systems II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "4:00PM-5:50PM",
     "days": "M,W",
     "hours": "4",
@@ -843,10 +843,10 @@
     "instructor": "Stevenson, Daniel E.",
     "seats": 32,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -864,7 +864,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "16:00",
@@ -874,7 +874,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -894,7 +894,7 @@
     "section": "4",
     "title": "Systems II",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
@@ -902,10 +902,10 @@
     "instructor": "Stevenson, Daniel E.",
     "seats": 42,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -923,7 +923,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -933,7 +933,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -953,7 +953,7 @@
     "section": "1",
     "title": "Object-Oriented Software Dev.",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -982,7 +982,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "12:00",
@@ -992,7 +992,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1012,7 +1012,7 @@
     "section": "4",
     "title": "Object-Oriented Software Dev.",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "4:00PM-5:50PM",
     "days": "T,R",
     "hours": "4",
@@ -1041,7 +1041,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "16:00",
@@ -1051,7 +1051,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1071,7 +1071,7 @@
     "section": "1",
     "title": "Unix Command-Line Bootcamp",
     "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -1097,7 +1097,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -1107,7 +1107,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1127,7 +1127,7 @@
     "section": "1",
     "title": "Introductory Game Design",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
@@ -1135,10 +1135,10 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 0,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "10:00AM-11:50AM",
+    "exam_days": "T",
+    "exam_room": "ECS 201",
     "description": "",
     "normalized": {
       "time": {
@@ -1156,7 +1156,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "10:00",
@@ -1166,7 +1166,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1186,7 +1186,7 @@
     "section": "3",
     "title": "Operating Systems I",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "4:00PM-5:50PM",
     "days": "T,R",
     "hours": "4",
@@ -1194,10 +1194,10 @@
     "instructor": "Dewri, Rinku",
     "seats": 40,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "4:00PM-5:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -1215,7 +1215,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "16:00",
@@ -1225,7 +1225,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1245,7 +1245,7 @@
     "section": "1",
     "title": "Understanding AI",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
@@ -1253,10 +1253,10 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 12,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 410",
     "description": "",
     "normalized": {
       "time": {
@@ -1274,7 +1274,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -1284,7 +1284,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "3792,3950",
     "crosslist": "3792",
@@ -1304,7 +1304,7 @@
     "section": "1",
     "title": "Intro Artificial Intelligence",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
@@ -1312,10 +1312,10 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 28,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -1333,7 +1333,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -1343,7 +1343,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "2899,3317",
     "crosslist": "3317",
@@ -1363,7 +1363,7 @@
     "section": "2",
     "title": "Computer Networking",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "7:00PM-8:50PM",
     "days": "M,W",
     "hours": "4",
@@ -1392,7 +1392,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "19:00",
@@ -1402,7 +1402,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "3947,3948",
     "crosslist": "3948",
@@ -1422,7 +1422,7 @@
     "section": "1",
     "title": "Topics-Artificial Intelligence",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
@@ -1430,10 +1430,10 @@
     "instructor": "Lopez, Mario A.",
     "seats": 15,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -1451,7 +1451,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -1461,7 +1461,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "3673,3674",
     "crosslist": "3673",
@@ -1481,7 +1481,7 @@
     "section": "1",
     "title": "Topics in Computer Science",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "12:00PM-1:50PM",
     "days": "T,R",
     "hours": "4",
@@ -1489,10 +1489,10 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 22,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 400",
     "description": "",
     "normalized": {
       "time": {
@@ -1510,7 +1510,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "12:00",
@@ -1520,7 +1520,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "3299,3300",
     "crosslist": "3299",
@@ -1540,7 +1540,7 @@
     "section": "1",
     "title": "Computer Security",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
@@ -1569,7 +1569,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "17:00",
@@ -1579,7 +1579,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "2878,2879",
     "crosslist": "2879",
@@ -1599,7 +1599,7 @@
     "section": "2",
     "title": "Game Prototyping",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "6:00PM-8:50PM",
     "days": "W",
     "hours": "4",
@@ -1607,10 +1607,10 @@
     "instructor": "Gansciu, Serban B.",
     "seats": 20,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "19-NOV-2026 to 19-NOV-2026",
+    "exam_time": "6:00PM-7:50PM",
+    "exam_days": "R",
+    "exam_room": "ECS 358",
     "description": "",
     "normalized": {
       "time": {
@@ -1627,7 +1627,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "18:00",
@@ -1637,7 +1637,7 @@
     "days_canonical": "W",
     "days_list": "W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1657,7 +1657,7 @@
     "section": "1",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "4",
@@ -1683,7 +1683,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -1693,7 +1693,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1713,7 +1713,7 @@
     "section": "3",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -1739,7 +1739,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -1749,7 +1749,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1769,7 +1769,7 @@
     "section": "4",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -1795,7 +1795,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -1805,7 +1805,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1825,7 +1825,7 @@
     "section": "5",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -1851,7 +1851,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -1861,7 +1861,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1881,7 +1881,7 @@
     "section": "7",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "6:00PM-9:30PM",
     "days": "M",
     "hours": "0",
@@ -1909,7 +1909,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "18:00",
@@ -1919,7 +1919,7 @@
     "days_canonical": "M",
     "days_list": "M",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1939,7 +1939,7 @@
     "section": "9",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -1965,7 +1965,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -1975,7 +1975,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -1995,7 +1995,7 @@
     "section": "15",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2021,7 +2021,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -2031,7 +2031,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2051,7 +2051,7 @@
     "section": "16",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2077,7 +2077,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -2087,7 +2087,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2107,7 +2107,7 @@
     "section": "17",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "4",
@@ -2133,7 +2133,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -2143,7 +2143,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2163,7 +2163,7 @@
     "section": "23",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "0",
@@ -2189,7 +2189,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -2199,7 +2199,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2387,7 +2387,7 @@
     "section": "1",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -2413,7 +2413,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -2423,7 +2423,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2443,7 +2443,7 @@
     "section": "2",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -2469,7 +2469,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -2479,7 +2479,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2499,7 +2499,7 @@
     "section": "1",
     "title": "Foundation: Python Programming",
     "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "5:00PM-6:50PM",
     "days": "R",
     "hours": "4",
@@ -2527,7 +2527,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "17:00",
@@ -2537,7 +2537,7 @@
     "days_canonical": "R",
     "days_list": "R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2557,11 +2557,11 @@
     "section": "2",
     "title": "Foundation: Python Programming",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "5:00PM-6:50PM",
     "days": "R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 401",
     "instructor": "",
     "seats": 30,
     "enrolled": 0,
@@ -2585,7 +2585,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "17:00",
@@ -2595,7 +2595,7 @@
     "days_canonical": "R",
     "days_list": "R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2615,7 +2615,7 @@
     "section": "1",
     "title": "Applied Math for DS and AI",
     "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "7:00PM-8:50PM",
     "days": "T",
     "hours": "4",
@@ -2643,7 +2643,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "19:00",
@@ -2653,7 +2653,7 @@
     "days_canonical": "T",
     "days_list": "T",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2673,11 +2673,11 @@
     "section": "2",
     "title": "Applied Math for DS and AI",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "7:00PM-8:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "",
+    "room": "ECS 300",
     "instructor": "",
     "seats": 30,
     "enrolled": 0,
@@ -2702,7 +2702,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "19:00",
@@ -2712,7 +2712,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2732,7 +2732,7 @@
     "section": "2",
     "title": "Human-Computer Interaction",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -2740,10 +2740,10 @@
     "instructor": "Oleson, Alannah",
     "seats": 4,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 400",
     "description": "",
     "normalized": {
       "time": {
@@ -2761,7 +2761,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "12:00",
@@ -2771,7 +2771,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2791,7 +2791,7 @@
     "section": "101",
     "title": "Parallel & Distrib Comp DSAI",
     "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "5:00PM-6:50PM",
     "days": "M",
     "hours": "4",
@@ -2819,7 +2819,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "17:00",
@@ -2829,7 +2829,7 @@
     "days_canonical": "M",
     "days_list": "M",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2849,7 +2849,7 @@
     "section": "1",
     "title": "Database Organization & Mgmt I",
     "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "5:00PM-6:50PM",
     "days": "R",
     "hours": "4",
@@ -2877,7 +2877,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "17:00",
@@ -2887,7 +2887,7 @@
     "days_canonical": "R",
     "days_list": "R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2907,7 +2907,7 @@
     "section": "1",
     "title": "Machine Learning Operations",
     "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "7:00PM-8:50PM",
     "days": "T",
     "hours": "4",
@@ -2935,7 +2935,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "19:00",
@@ -2945,7 +2945,7 @@
     "days_canonical": "T",
     "days_list": "T",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -2965,7 +2965,7 @@
     "section": "1",
     "title": "Understanding AI",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
@@ -2973,10 +2973,10 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 13,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 410",
     "description": "",
     "normalized": {
       "time": {
@@ -2994,7 +2994,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -3004,7 +3004,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "3792,3950",
     "crosslist": "3950",
@@ -3024,7 +3024,7 @@
     "section": "1",
     "title": "Introduction to AI",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
@@ -3032,10 +3032,10 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 4,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 301",
     "description": "",
     "normalized": {
       "time": {
@@ -3053,7 +3053,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -3063,7 +3063,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "2899,3317",
     "crosslist": "2899",
@@ -3083,11 +3083,11 @@
     "section": "2",
     "title": "Deep Learning",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 401",
     "instructor": "",
     "seats": 30,
     "enrolled": 0,
@@ -3112,7 +3112,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "19:00",
@@ -3122,7 +3122,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3142,7 +3142,7 @@
     "section": "101",
     "title": "Deep Learning",
     "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "5:00PM-6:50PM",
     "days": "W",
     "hours": "4",
@@ -3170,7 +3170,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "17:00",
@@ -3180,7 +3180,7 @@
     "days_canonical": "W",
     "days_list": "W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3200,7 +3200,7 @@
     "section": "2",
     "title": "Computer Networking",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "7:00PM-8:50PM",
     "days": "M,W",
     "hours": "4",
@@ -3229,7 +3229,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "19:00",
@@ -3239,7 +3239,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "3947,3948",
     "crosslist": "3947",
@@ -3259,7 +3259,7 @@
     "section": "1",
     "title": "Adv Topics-Artificial Intell",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
@@ -3267,10 +3267,10 @@
     "instructor": "Lopez, Mario A.",
     "seats": 15,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "2:00PM-3:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 300",
     "description": "",
     "normalized": {
       "time": {
@@ -3288,7 +3288,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -3298,7 +3298,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "3673,3674",
     "crosslist": "3674",
@@ -3318,7 +3318,7 @@
     "section": "1",
     "title": "Advanced Topics-Programming",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "12:00PM-1:50PM",
     "days": "T,R",
     "hours": "4",
@@ -3326,10 +3326,10 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 10,
     "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
+    "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
+    "exam_room": "ECS 400",
     "description": "",
     "normalized": {
       "time": {
@@ -3347,7 +3347,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "12:00",
@@ -3357,7 +3357,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "3299,3300",
     "crosslist": "3300",
@@ -3377,7 +3377,7 @@
     "section": "1",
     "title": "Computer Security",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
@@ -3406,7 +3406,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "17:00",
@@ -3416,7 +3416,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "2878,2879",
     "crosslist": "2878",
@@ -3436,7 +3436,7 @@
     "section": "1",
     "title": "Cybersecurity Capstone",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3462,7 +3462,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -3472,7 +3472,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3604,7 +3604,7 @@
     "section": "1",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3630,7 +3630,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -3640,7 +3640,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3660,7 +3660,7 @@
     "section": "2",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3686,7 +3686,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -3696,7 +3696,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3716,7 +3716,7 @@
     "section": "3",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3742,7 +3742,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -3752,7 +3752,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3772,7 +3772,7 @@
     "section": "4",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3798,7 +3798,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -3808,7 +3808,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3828,7 +3828,7 @@
     "section": "1",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3854,7 +3854,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -3864,7 +3864,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3884,7 +3884,7 @@
     "section": "2",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3910,7 +3910,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -3920,7 +3920,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3940,7 +3940,7 @@
     "section": "3",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "",
     "days": "",
     "hours": "1",
@@ -3966,7 +3966,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "",
@@ -3976,7 +3976,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
