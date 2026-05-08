@@ -34,6 +34,23 @@
     "total_enrollment": 7
   },
   {
+    "crn": "1804",
+    "course": "COMP 3433",
+    "section": "1",
+    "title": "Data Visualization",
+    "course_type": "Online/Distance",
+    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Kossek, Wojciech K.",
+    "seats": 1,
+    "enrolled": 1,
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 7
+  },
+  {
     "crn": "1352",
     "course": "COMP 3704",
     "section": "1",
@@ -81,8 +98,8 @@
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
     "enrolled": 6,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 7
   },
   {
     "crn": "1344",

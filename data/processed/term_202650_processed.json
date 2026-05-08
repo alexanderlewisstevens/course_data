@@ -119,6 +119,64 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "1804",
+    "course": "COMP 3433",
+    "section": "1",
+    "title": "Data Visualization",
+    "course_type": "Online/Distance",
+    "meeting_dates": "20-JUN-2026 to 21-AUG-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Kossek, Wojciech K.",
+    "seats": 1,
+    "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
+      },
+      "dates": {
+        "start": "2026-06-20",
+        "end": "2026-08-21"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2026-06-20",
+    "date_end": "2026-08-21",
+    "gta_eligible": true,
+    "crosslisted_crn": "1343,1804",
+    "crosslist": "1343",
+    "lower_crosslist": true,
+    "total_seats": 26,
+    "total_enrollment": 7,
+    "crosslisted_enrollment": 6,
+    "conflicts": "1347"
+  },
+  {
+    "term": "202650",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "1352",
     "course": "COMP 3704",
     "section": "1",
@@ -281,12 +339,12 @@
     "date_start": "2026-06-20",
     "date_end": "2026-08-21",
     "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 6,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "1343",
+    "crosslisted_crn": "1343,1804",
+    "crosslist": "1804",
+    "lower_crosslist": false,
+    "total_seats": 26,
+    "total_enrollment": 7,
+    "crosslisted_enrollment": 1,
     "conflicts": "1347"
   },
   {
@@ -462,7 +520,7 @@
     "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1347",
-    "conflicts": "1343"
+    "conflicts": "1343,1804"
   },
   {
     "term": "202650",
