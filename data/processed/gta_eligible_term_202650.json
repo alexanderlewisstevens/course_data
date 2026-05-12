@@ -63,9 +63,9 @@
     "room": "ECS 201",
     "instructor": "",
     "seats": 5,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "1342",
@@ -148,9 +148,9 @@
     "room": "ECS 200",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 8,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 10
   },
   {
     "crn": "1351",

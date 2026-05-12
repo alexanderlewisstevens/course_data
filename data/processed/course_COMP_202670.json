@@ -1193,7 +1193,7 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 40,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "4:00PM-5:50PM",
     "exam_days": "T",
@@ -1230,7 +1230,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 40,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3815",
     "conflicts": "3304,3934,4626,4627,4631"
@@ -1290,8 +1290,8 @@
     "crosslist": "3792",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 1,
     "conflicts": "3693,3694,4621,4622"
   },
   {
@@ -1370,7 +1370,7 @@
     "room": "ECS 200",
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -1408,7 +1408,7 @@
     "crosslist": "3948",
     "lower_crosslist": true,
     "total_seats": 39,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "conflicts": "2305,2758,4629"
   },
@@ -1526,8 +1526,8 @@
     "crosslist": "3299",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 1,
     "conflicts": "2855,2860,3075"
   },
   {
@@ -1547,7 +1547,7 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 15,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -1585,7 +1585,7 @@
     "crosslist": "2879",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "conflicts": "2305,2758,3047,3204,3545"
   },
@@ -2972,7 +2972,7 @@
     "room": "ECS 410",
     "instructor": "Xie, Benjamin X.",
     "seats": 13,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "W",
@@ -3010,7 +3010,7 @@
     "crosslist": "3950",
     "lower_crosslist": false,
     "total_seats": 25,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "conflicts": "3693,3694,4621,4622"
   },
@@ -3090,7 +3090,7 @@
     "room": "ECS 401",
     "instructor": "",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3127,7 +3127,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4632",
     "conflicts": "3637,4628"
@@ -3245,8 +3245,8 @@
     "crosslist": "3947",
     "lower_crosslist": false,
     "total_seats": 39,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 1,
     "conflicts": "2305,2758,4629"
   },
   {
@@ -3325,7 +3325,7 @@
     "room": "ECS 400",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 10,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "T",
@@ -3363,7 +3363,7 @@
     "crosslist": "3300",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "conflicts": "2855,2860,3075"
   },
@@ -3422,8 +3422,8 @@
     "crosslist": "2878",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 1,
     "conflicts": "2305,2758,3047,3204,3545"
   },
   {
