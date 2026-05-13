@@ -29,9 +29,9 @@
     "room": "ECS 300",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 28,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 28
   },
   {
     "crn": "3111",
@@ -63,9 +63,9 @@
     "room": "ECS 301",
     "instructor": "Taami, Tania",
     "seats": 30,
-    "enrolled": 27,
+    "enrolled": 26,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 27
+    "total_enrollment": 26
   },
   {
     "crn": "3115",
@@ -97,9 +97,9 @@
     "room": "ECS 400",
     "instructor": "Hossain, Ismail",
     "seats": 30,
-    "enrolled": 13,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "3117",
@@ -114,9 +114,9 @@
     "room": "ECS 401",
     "instructor": "Stevens, Alexander L.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 28,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 28
   },
   {
     "crn": "3121",
@@ -318,9 +318,9 @@
     "room": "ECS 301",
     "instructor": "Lopez, Mario A.",
     "seats": 32,
-    "enrolled": 13,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "4168",
