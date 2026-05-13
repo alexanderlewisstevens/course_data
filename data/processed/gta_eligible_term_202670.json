@@ -112,7 +112,7 @@
     "days": "M,W",
     "hours": "3",
     "room": "ECS 200",
-    "instructor": "",
+    "instructor": "Edgington, Jeffrey M.",
     "seats": 32,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
@@ -323,6 +323,23 @@
     "total_enrollment": 0
   },
   {
+    "crn": "3676",
+    "course": "COMP 3100",
+    "section": "2",
+    "title": "Human-Computer Interaction",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 400",
+    "instructor": "",
+    "seats": 16,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
     "crn": "3815",
     "course": "COMP 3361",
     "section": "3",
@@ -372,6 +389,23 @@
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
+  },
+  {
+    "crn": "5131",
+    "course": "COMP 3591",
+    "section": "1",
+    "title": "Computational Geometry",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Lopez, Mario A.",
+    "seats": 10,
+    "enrolled": 1,
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 2
   },
   {
     "crn": "3947",
@@ -539,9 +573,9 @@
     "room": "",
     "instructor": "",
     "seats": 20,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "4631",
@@ -556,9 +590,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "3792",
@@ -624,9 +658,26 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 4,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 7
+  },
+  {
+    "crn": "5132",
+    "course": "COMP 4591",
+    "section": "1",
+    "title": "Computational Geometry",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Lopez, Mario A.",
+    "seats": 10,
+    "enrolled": 1,
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 2
   },
   {
     "crn": "3948",

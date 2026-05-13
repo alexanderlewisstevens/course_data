@@ -1664,9 +1664,9 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 8,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
     "exam_room": "",
     "description": "",
     "normalized": {
@@ -3518,7 +3518,7 @@
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "T",
-    "exam_room": "",
+    "exam_room": "ECS 401",
     "description": "",
     "normalized": {
       "time": {

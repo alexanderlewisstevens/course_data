@@ -6241,9 +6241,9 @@
     "instructor": "Dewri, Rinku",
     "seats": 15,
     "enrolled": 8,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
+    "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "T",
     "exam_room": "",
     "description": "",
     "normalized": {
@@ -8095,7 +8095,7 @@
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "T",
-    "exam_room": "",
+    "exam_room": "ECS 401",
     "description": "",
     "normalized": {
       "time": {
@@ -9060,7 +9060,7 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 11,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -9096,7 +9096,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 10,
+    "total_enrollment": 11,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1342",
     "conflicts": ""
@@ -9176,7 +9176,7 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 11,
+    "enrolled": 10,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -9212,7 +9212,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 11,
+    "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1344",
     "conflicts": "1351,1352"
@@ -9818,7 +9818,7 @@
     "days": "M,W",
     "hours": "3",
     "room": "ECS 200",
-    "instructor": "",
+    "instructor": "Edgington, Jeffrey M.",
     "seats": 32,
     "enrolled": 0,
     "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
@@ -9860,7 +9860,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3044",
-    "conflicts": "3002,3653,3675"
+    "conflicts": "3002,3653,3675,3676"
   },
   {
     "term": "202670",
@@ -10037,7 +10037,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4623",
-    "conflicts": "2899,3317,4624"
+    "conflicts": "2899,3317,4624,5131,5132"
   },
   {
     "term": "202670",
@@ -10096,7 +10096,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4624",
-    "conflicts": "2899,3317,4623"
+    "conflicts": "2899,3317,4623,5131,5132"
   },
   {
     "term": "202670",
@@ -10273,7 +10273,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3653",
-    "conflicts": "3002,3044,3675"
+    "conflicts": "3002,3044,3675,3676"
   },
   {
     "term": "202670",
@@ -10450,7 +10450,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3002",
-    "conflicts": "3044,3653,3675"
+    "conflicts": "3044,3653,3675,3676"
   },
   {
     "term": "202670",
@@ -10631,6 +10631,65 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "3676",
+    "course": "COMP 3100",
+    "section": "2",
+    "title": "Human-Computer Interaction",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 400",
+    "instructor": "",
+    "seats": 16,
+    "enrolled": 0,
+    "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
+    "exam_time": "12:00PM-1:50PM",
+    "exam_days": "W",
+    "exam_room": "ECS 400",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2026-09-08",
+        "end": "2026-11-16"
+      }
+    },
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-16",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 16,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "3676",
+    "conflicts": "3002,3044,3653,3675"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "3815",
     "course": "COMP 3361",
     "section": "3",
@@ -10801,7 +10860,66 @@
     "total_seats": 32,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "4623,4624"
+    "conflicts": "4623,4624,5131,5132"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5131",
+    "course": "COMP 3591",
+    "section": "1",
+    "title": "Computational Geometry",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Lopez, Mario A.",
+    "seats": 10,
+    "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-09-08",
+        "end": "2026-11-20"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
+    "crosslisted_crn": "5131,5132",
+    "crosslist": "5132",
+    "lower_crosslist": true,
+    "total_seats": 20,
+    "total_enrollment": 2,
+    "crosslisted_enrollment": 1,
+    "conflicts": "2899,3317,4623,4624"
   },
   {
     "term": "202670",
@@ -10860,7 +10978,7 @@
     "total_seats": 39,
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
-    "conflicts": "2305,2758,4629"
+    "conflicts": "2305,2758,3637,4629"
   },
   {
     "term": "202670",
@@ -11318,7 +11436,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2305",
-    "conflicts": "2878,2879,3545,3947,3948,4629"
+    "conflicts": "2878,2879,3545,3637,3947,3948,4629"
   },
   {
     "term": "202670",
@@ -12052,7 +12170,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4628",
-    "conflicts": "3637,4632"
+    "conflicts": "4632"
   },
   {
     "term": "202670",
@@ -12111,7 +12229,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4629",
-    "conflicts": "2305,2758,3947,3948"
+    "conflicts": "2305,2758,3637,3947,3948"
   },
   {
     "term": "202670",
@@ -12170,7 +12288,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3675",
-    "conflicts": "3002,3044,3653"
+    "conflicts": "3002,3044,3653,3676"
   },
   {
     "term": "202670",
@@ -12189,7 +12307,7 @@
     "room": "",
     "instructor": "",
     "seats": 20,
-    "enrolled": 6,
+    "enrolled": 7,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -12225,7 +12343,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 6,
+    "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3545",
     "conflicts": "2305,2878,2879,3204"
@@ -12247,7 +12365,7 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 1,
+    "enrolled": 2,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -12283,7 +12401,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 1,
+    "total_enrollment": 2,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4631",
     "conflicts": "3304,3815,3934,4626,4627"
@@ -12300,7 +12418,7 @@
     "course_type": "Online/Distance",
     "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "7:00PM-8:50PM",
-    "days": "T",
+    "days": "M",
     "hours": "4",
     "room": "",
     "instructor": "",
@@ -12320,9 +12438,9 @@
       },
       "days": {
         "list": [
-          "T"
+          "M"
         ],
-        "canonical": "T"
+        "canonical": "M"
       },
       "dates": {
         "start": "2026-09-08",
@@ -12333,8 +12451,8 @@
     "time_end_24": "20:50",
     "time_start_minutes": 1140,
     "time_end_minutes": 1250,
-    "days_canonical": "T",
-    "days_list": "T",
+    "days_canonical": "M",
+    "days_list": "M",
     "date_start": "2026-09-08",
     "date_end": "2026-11-16",
     "gta_eligible": false,
@@ -12344,7 +12462,7 @@
     "total_enrollment": 2,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3637",
-    "conflicts": "4628,4632"
+    "conflicts": "2305,3947,3948,4629"
   },
   {
     "term": "202670",
@@ -12462,7 +12580,7 @@
     "total_seats": 32,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "4623,4624"
+    "conflicts": "4623,4624,5131,5132"
   },
   {
     "term": "202670",
@@ -12521,7 +12639,7 @@
     "total_enrollment": 3,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4632",
-    "conflicts": "3637,4628"
+    "conflicts": "4628"
   },
   {
     "term": "202670",
@@ -12540,7 +12658,7 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 4,
+    "enrolled": 7,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -12576,10 +12694,69 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 4,
+    "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3047",
     "conflicts": "2758,2878,2879,3204"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5132",
+    "course": "COMP 4591",
+    "section": "1",
+    "title": "Computational Geometry",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Lopez, Mario A.",
+    "seats": 10,
+    "enrolled": 1,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-09-08",
+        "end": "2026-11-20"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-20",
+    "gta_eligible": true,
+    "crosslisted_crn": "5131,5132",
+    "crosslist": "5131",
+    "lower_crosslist": false,
+    "total_seats": 20,
+    "total_enrollment": 2,
+    "crosslisted_enrollment": 1,
+    "conflicts": "2899,3317,4623,4624"
   },
   {
     "term": "202670",
@@ -12638,7 +12815,7 @@
     "total_seats": 39,
     "total_enrollment": 1,
     "crosslisted_enrollment": 1,
-    "conflicts": "2305,2758,4629"
+    "conflicts": "2305,2758,3637,4629"
   },
   {
     "term": "202670",
