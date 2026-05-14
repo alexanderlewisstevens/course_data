@@ -2739,7 +2739,7 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 30,
-    "enrolled": 1,
+    "enrolled": 2,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2776,7 +2776,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 1,
+    "total_enrollment": 2,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4629",
     "conflicts": "2305,2758,3637,3947,3948"
