@@ -12,9 +12,9 @@
     "room": "",
     "instructor": "",
     "seats": 30,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "1341",
@@ -47,8 +47,8 @@
     "instructor": "Kossek, Wojciech K.",
     "seats": 1,
     "enrolled": 1,
-    "crosslisted_enrollment": 7,
-    "total_enrollment": 8
+    "crosslisted_enrollment": 8,
+    "total_enrollment": 9
   },
   {
     "crn": "1352",
@@ -80,9 +80,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "1343",
@@ -97,9 +97,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "1344",

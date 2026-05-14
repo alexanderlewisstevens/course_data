@@ -404,8 +404,8 @@
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 1,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 2
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 3
   },
   {
     "crn": "3947",
@@ -438,8 +438,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 22,
     "enrolled": 0,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 1
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
   },
   {
     "crn": "2878",
@@ -522,9 +522,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4629",
@@ -539,9 +539,9 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3675",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 6
   },
   {
     "crn": "3792",
@@ -641,9 +641,9 @@
     "room": "ECS 401",
     "instructor": "",
     "seats": 30,
-    "enrolled": 3,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 6
   },
   {
     "crn": "3047",
@@ -658,9 +658,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "5132",
@@ -675,9 +675,9 @@
     "room": "",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "3948",
@@ -709,9 +709,9 @@
     "room": "ECS 400",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 10,
-    "enrolled": 1,
+    "enrolled": 0,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 0
   },
   {
     "crn": "2879",
