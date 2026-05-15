@@ -189,7 +189,7 @@
     "room": "ECS 201",
     "instructor": "",
     "seats": 5,
-    "enrolled": 3,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -226,7 +226,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 5,
-    "total_enrollment": 3,
+    "total_enrollment": 4,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1352",
     "conflicts": "1344,1346,1351"
