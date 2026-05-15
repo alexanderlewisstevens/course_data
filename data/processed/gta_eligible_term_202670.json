@@ -404,8 +404,8 @@
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 1,
-    "crosslisted_enrollment": 2,
-    "total_enrollment": 3
+    "crosslisted_enrollment": 3,
+    "total_enrollment": 4
   },
   {
     "crn": "3947",
@@ -539,9 +539,9 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 30,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "3675",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "3792",
@@ -658,9 +658,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 8,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 10
   },
   {
     "crn": "5132",
@@ -675,9 +675,9 @@
     "room": "",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "3948",
