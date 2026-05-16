@@ -9116,7 +9116,7 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 12,
+    "enrolled": 13,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -9152,7 +9152,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 12,
+    "total_enrollment": 13,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1342",
     "conflicts": ""
