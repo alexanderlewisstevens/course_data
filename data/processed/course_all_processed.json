@@ -8884,7 +8884,7 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 30,
-    "enrolled": 7,
+    "enrolled": 8,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -8921,7 +8921,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 7,
+    "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1341",
     "conflicts": ""
@@ -8980,8 +8980,8 @@
     "crosslist": "1343",
     "lower_crosslist": true,
     "total_seats": 26,
-    "total_enrollment": 9,
-    "crosslisted_enrollment": 8,
+    "total_enrollment": 10,
+    "crosslisted_enrollment": 9,
     "conflicts": "1347"
   },
   {
@@ -9174,7 +9174,7 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 8,
+    "enrolled": 9,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -9211,7 +9211,7 @@
     "crosslist": "1804",
     "lower_crosslist": false,
     "total_seats": 26,
-    "total_enrollment": 9,
+    "total_enrollment": 10,
     "crosslisted_enrollment": 1,
     "conflicts": "1347"
   },
