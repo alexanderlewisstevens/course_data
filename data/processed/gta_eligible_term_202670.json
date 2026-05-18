@@ -607,9 +607,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "5150",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "3792",
@@ -675,9 +675,9 @@
     "room": "ECS 401",
     "instructor": "",
     "seats": 30,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "3047",
