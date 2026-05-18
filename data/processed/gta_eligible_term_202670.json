@@ -80,9 +80,9 @@
     "room": "ECS 200",
     "instructor": "Hannum, Andrew T.",
     "seats": 7,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "2857",
@@ -97,9 +97,9 @@
     "room": "ECS 401",
     "instructor": "Liu, Faan Tone",
     "seats": 6,
-    "enrolled": 0,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 3
   },
   {
     "crn": "3693",
@@ -216,9 +216,9 @@
     "room": "CMK 207",
     "instructor": "Stevens, Alexander L.",
     "seats": 34,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3075",
@@ -352,9 +352,9 @@
     "room": "ECS 400",
     "instructor": "",
     "seats": 16,
-    "enrolled": 0,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 2
   },
   {
     "crn": "3815",
@@ -369,9 +369,9 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 40,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "3950",
@@ -403,9 +403,9 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 28,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "5131",
@@ -437,9 +437,9 @@
     "room": "ECS 200",
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "3300",
@@ -454,9 +454,9 @@
     "room": "ECS 400",
     "instructor": "Edgington, Jeffrey M.",
     "seats": 22,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "2878",
@@ -607,9 +607,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "5150",
@@ -659,8 +659,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 4,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 1
   },
   {
     "crn": "4632",
@@ -692,9 +692,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "5132",
@@ -727,8 +727,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 24,
     "enrolled": 0,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 1
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 2
   },
   {
     "crn": "3299",
@@ -744,8 +744,8 @@
     "instructor": "Edgington, Jeffrey M.",
     "seats": 10,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 1
   },
   {
     "crn": "2879",
