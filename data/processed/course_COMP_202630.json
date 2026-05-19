@@ -16,7 +16,7 @@
     "room": "CMK 207",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 28,
     "exam_meeting_dates": "09-JUN-2026 to 09-JUN-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
@@ -53,7 +53,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 29,
+    "total_enrollment": 28,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1579",
     "conflicts": "4149,4705,4713,4724,4725,4971"
