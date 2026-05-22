@@ -148,9 +148,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 30,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "4622",
@@ -165,9 +165,9 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 10,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 13
   },
   {
     "crn": "4623",
@@ -182,9 +182,9 @@
     "room": "ECS 400",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 8,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 13
   },
   {
     "crn": "4624",
@@ -420,9 +420,9 @@
     "room": "",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 4,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "3947",
@@ -607,9 +607,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "5150",
@@ -675,9 +675,9 @@
     "room": "ECS 401",
     "instructor": "",
     "seats": 30,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "3047",
@@ -710,8 +710,8 @@
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 4,
-    "crosslisted_enrollment": 6,
-    "total_enrollment": 10
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 11
   },
   {
     "crn": "3948",
