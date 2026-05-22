@@ -311,7 +311,7 @@
     "room": "ECS 400",
     "instructor": "Hossain, Ismail",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 11,
     "exam_meeting_dates": "08-JUN-2026 to 08-JUN-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "M",
@@ -348,7 +348,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 12,
+    "total_enrollment": 11,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3116",
     "conflicts": "1288,3115,3117,4716,4717"
