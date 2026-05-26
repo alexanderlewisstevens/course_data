@@ -45,7 +45,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202630,ALL,COMP,Computer Science,5401,COMP 3995,1,Independent Research,Independent Study/Research,30-MAR-2026 to 11-JUN-2026,,,1,,"Kraft, Aaron R.",15,1,,,,,
 202630,ALL,COMP,Computer Science,4725,COMP 4100,1,Human-Computer Interaction,Lecture,30-MAR-2026 to 07-JUN-2026,2:00PM-3:50PM,"T,R",4,JMAC 141,"Xie, Benjamin X.",2,2,09-JUN-2026 to 09-JUN-2026,2:00PM-3:50PM,T,JMAC 141,
 202630,ALL,COMP,Computer Science,4726,COMP 4100,2,Human-Computer Interaction,Lecture,30-MAR-2026 to 07-JUN-2026,10:00AM-11:50AM,"T,R",4,BAUD 102,"Xie, Benjamin X.",2,2,09-JUN-2026 to 09-JUN-2026,10:00AM-11:50AM,T,BAUD 102,
-202630,ALL,COMP,Computer Science,2787,COMP 4334,101,Parallel & Distrib Comp DSAI,Online/Distance,30-MAR-2026 to 07-JUN-2026,7:00PM-8:50PM,T,4,,"Kossek, Wojciech K.",20,12,,,,,
+202630,ALL,COMP,Computer Science,2787,COMP 4334,101,Parallel & Distrib Comp DSAI,Online/Distance,30-MAR-2026 to 07-JUN-2026,7:00PM-8:50PM,T,4,,"Kossek, Wojciech K.",20,11,,,,,
 202630,ALL,COMP,Computer Science,2440,COMP 4384,2,Secure Software Engineering,Lecture,30-MAR-2026 to 07-JUN-2026,7:00PM-8:50PM,"T,R",4,ECS 201,"Anjum, Iffat",20,17,,,,,
 202630,ALL,COMP,Computer Science,4727,COMP 4432,1,Machine Learning,Lecture,30-MAR-2026 to 07-JUN-2026,7:00PM-8:50PM,"M,W",4,ECS 401,"Sawle, Paul L.",25,17,10-JUN-2026 to 10-JUN-2026,7:00PM-8:50PM,W,ECS 401,
 202630,ALL,COMP,Computer Science,2788,COMP 4432,101,Machine Learning,Online/Distance,30-MAR-2026 to 07-JUN-2026,5:00PM-6:50PM,R,4,,"Sawle, Paul L.",20,10,,,,,
