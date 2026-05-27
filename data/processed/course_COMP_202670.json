@@ -841,7 +841,7 @@
     "room": "ECS",
     "instructor": "Stevenson, Daniel E.",
     "seats": 30,
-    "enrolled": 7,
+    "enrolled": 8,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -878,7 +878,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 7,
+    "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3653",
     "conflicts": "3002,3044,3675,3676"
