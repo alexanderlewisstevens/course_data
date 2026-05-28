@@ -2611,6 +2611,65 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "5170",
+    "course": "COMP 4003",
+    "section": "1",
+    "title": "Foundations in Comp Systems",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 17-NOV-2026",
+    "time": "7:00PM-8:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Evans, Nathan S.",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-09-08",
+        "end": "2026-11-17"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-17",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "5170",
+    "conflicts": "4628,4632"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "4626",
     "course": "COMP 4005",
     "section": "1",
@@ -2676,9 +2735,9 @@
     "course_type": "Lecture",
     "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "5:00PM-6:50PM",
-    "days": "R",
+    "days": "T,R",
     "hours": "4",
-    "room": "ECS 401",
+    "room": "ECS",
     "instructor": "",
     "seats": 30,
     "enrolled": 0,
@@ -2696,9 +2755,10 @@
       },
       "days": {
         "list": [
+          "T",
           "R"
         ],
-        "canonical": "R"
+        "canonical": "TR"
       },
       "dates": {
         "start": "2026-09-08",
@@ -2709,8 +2769,8 @@
     "time_end_24": "18:50",
     "time_start_minutes": 1020,
     "time_end_minutes": 1130,
-    "days_canonical": "R",
-    "days_list": "R",
+    "days_canonical": "TR",
+    "days_list": "T,R",
     "date_start": "2026-09-08",
     "date_end": "2026-11-16",
     "gta_eligible": true,
@@ -2778,7 +2838,7 @@
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4628",
-    "conflicts": "4632"
+    "conflicts": "4632,5170"
   },
   {
     "term": "202670",
@@ -3303,7 +3363,7 @@
     "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4632",
-    "conflicts": "4628"
+    "conflicts": "4628,5170"
   },
   {
     "term": "202670",
