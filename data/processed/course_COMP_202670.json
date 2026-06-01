@@ -723,7 +723,7 @@
     "room": "CMK 207",
     "instructor": "Stevens, Alexander L.",
     "seats": 34,
-    "enrolled": 13,
+    "enrolled": 14,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
@@ -760,7 +760,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 34,
-    "total_enrollment": 13,
+    "total_enrollment": 14,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2038",
     "conflicts": "2856,3538"
