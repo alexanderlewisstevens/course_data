@@ -39,7 +39,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202630,ALL,COMP,Computer Science,2157,COMP 3904,7,Internship/Co-Op in Computing,Internship/Externship/Coop Ed.,30-MAR-2026 to 07-JUN-2026,,,4,,,10,0,,,,,
 202630,ALL,COMP,Computer Science,2165,COMP 3904,10,Internship/Co-Op in Computing,Internship/Externship/Coop Ed.,30-MAR-2026 to 07-JUN-2026,,,4,,"Edgington, Jeffrey M.",1,0,,,,,
 202630,ALL,COMP,Computer Science,2620,COMP 3904,11,Internship/Co-Op in Computing,Internship/Externship/Coop Ed.,30-MAR-2026 to 07-JUN-2026,,,4,,,15,0,,,,,
-202630,ALL,COMP,Computer Science,2625,COMP 3904,12,Internship/Co-Op in Computing,Internship/Externship/Coop Ed.,30-MAR-2026 to 07-JUN-2026,,,0,,"Liu, Faan Tone",1,0,,,,,
+202630,ALL,COMP,Computer Science,2625,COMP 3904,12,Internship/Co-Op in Computing,Internship/Externship/Coop Ed.,30-MAR-2026 to 07-JUN-2026,,,0,,"Liu, Faan Tone",1,1,,,,,
 202630,ALL,COMP,Computer Science,2463,COMP 3904,13,Internship/Co-Op in Computing,Internship/Externship/Coop Ed.,30-MAR-2026 to 07-JUN-2026,,,0,,"Evans, Nathan S.",15,0,,,,,
 202630,ALL,COMP,Computer Science,2148,COMP 3995,0,Independent Research,,,,,1,,,0,0,,,,,
 202630,ALL,COMP,Computer Science,5401,COMP 3995,1,Independent Research,Independent Study/Research,30-MAR-2026 to 11-JUN-2026,,,1,,"Kraft, Aaron R.",15,1,,,,,
