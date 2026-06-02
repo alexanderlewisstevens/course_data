@@ -46,9 +46,9 @@
     "room": "",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "2855",
@@ -267,9 +267,9 @@
     "room": "ECS 201",
     "instructor": "Stevenson, Daniel E.",
     "seats": 32,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 6
   },
   {
     "crn": "3694",
@@ -369,9 +369,9 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 40,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "3950",
@@ -539,9 +539,9 @@
     "room": "ECS",
     "instructor": "",
     "seats": 30,
-    "enrolled": 2,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 4
   },
   {
     "crn": "4628",
@@ -556,9 +556,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "4629",
@@ -573,9 +573,9 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 30,
-    "enrolled": 3,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 5
   },
   {
     "crn": "3675",
