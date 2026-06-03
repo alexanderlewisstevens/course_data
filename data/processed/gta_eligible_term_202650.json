@@ -12,9 +12,9 @@
     "room": "",
     "instructor": "",
     "seats": 30,
-    "enrolled": 5,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 4
   },
   {
     "crn": "1341",
@@ -29,9 +29,9 @@
     "room": "ECS 200",
     "instructor": "Dalton, Donald A.",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 11
   },
   {
     "crn": "1804",
@@ -46,9 +46,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 3,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 8,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "1352",
@@ -80,9 +80,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "1343",
@@ -98,8 +98,8 @@
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
     "enrolled": 8,
-    "crosslisted_enrollment": 2,
-    "total_enrollment": 10
+    "crosslisted_enrollment": 3,
+    "total_enrollment": 11
   },
   {
     "crn": "1344",
