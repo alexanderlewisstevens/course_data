@@ -386,9 +386,9 @@
     "room": "ECS 410",
     "instructor": "Xie, Benjamin X.",
     "seats": 12,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 4
+    "total_enrollment": 5
   },
   {
     "crn": "2899",
@@ -522,9 +522,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "4627",
@@ -573,9 +573,9 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 30,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "3675",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "5150",
@@ -641,9 +641,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "3792",
@@ -659,8 +659,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 13,
     "enrolled": 1,
-    "crosslisted_enrollment": 3,
-    "total_enrollment": 4
+    "crosslisted_enrollment": 4,
+    "total_enrollment": 5
   },
   {
     "crn": "3317",
