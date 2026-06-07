@@ -2682,7 +2682,7 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 9,
+    "enrolled": 10,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2718,7 +2718,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 9,
+    "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4626",
     "conflicts": "3304,3815,3934,4627,4631"

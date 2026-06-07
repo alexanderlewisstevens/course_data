@@ -45,7 +45,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202670,ALL,COMP,Computer Science,4158,COMP 3995,1,Independent Research,Independent Study/Research,08-SEP-2026 to 16-NOV-2026,,,1,,"Oleson, Alannah",15,0,,,,,
 202670,ALL,COMP,Computer Science,4220,COMP 3995,2,Independent Research,Independent Study/Research,08-SEP-2026 to 16-NOV-2026,,,1,,"Stevens, Alexander L.",15,0,,,,,
 202670,ALL,COMP,Computer Science,5170,COMP 4003,1,Foundations in Comp Systems,Lecture,08-SEP-2026 to 17-NOV-2026,7:00PM-8:50PM,"T,R",4,,"Evans, Nathan S.",30,3,,,,,
-202670,ALL,COMP,Computer Science,4626,COMP 4005,1,Foundation: Python Programming,Online/Distance,08-SEP-2026 to 16-NOV-2026,5:00PM-6:50PM,R,4,,,25,9,,,,,
+202670,ALL,COMP,Computer Science,4626,COMP 4005,1,Foundation: Python Programming,Online/Distance,08-SEP-2026 to 16-NOV-2026,5:00PM-6:50PM,R,4,,,25,10,,,,,
 202670,ALL,COMP,Computer Science,4627,COMP 4005,2,Foundation: Python Programming,Lecture,08-SEP-2026 to 16-NOV-2026,5:00PM-6:50PM,"T,R",4,ECS,,30,6,,,,,
 202670,ALL,COMP,Computer Science,4628,COMP 4009,1,Applied Math for DS and AI,Online/Distance,08-SEP-2026 to 16-NOV-2026,7:00PM-8:50PM,T,4,,,25,8,,,,,
 202670,ALL,COMP,Computer Science,4629,COMP 4009,2,Applied Math for DS and AI,Lecture,08-SEP-2026 to 16-NOV-2026,7:00PM-8:50PM,"M,W",4,ECS 300,,30,9,,,,,
