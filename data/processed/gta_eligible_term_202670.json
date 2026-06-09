@@ -387,8 +387,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 12,
     "enrolled": 4,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 5
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 6
   },
   {
     "crn": "2899",
@@ -438,8 +438,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
     "enrolled": 15,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 16
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 17
   },
   {
     "crn": "3300",
@@ -472,8 +472,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 15,
     "enrolled": 10,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 11
   },
   {
     "crn": "2758",
@@ -505,9 +505,9 @@
     "room": "",
     "instructor": "Evans, Nathan S.",
     "seats": 30,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "4626",
@@ -522,9 +522,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 9
   },
   {
     "crn": "4627",
@@ -658,9 +658,9 @@
     "room": "ECS 410",
     "instructor": "Xie, Benjamin X.",
     "seats": 13,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 4,
-    "total_enrollment": 5
+    "total_enrollment": 6
   },
   {
     "crn": "3317",
@@ -743,9 +743,9 @@
     "room": "ECS 200",
     "instructor": "Kraft, Aaron R.",
     "seats": 24,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 15,
-    "total_enrollment": 16
+    "total_enrollment": 17
   },
   {
     "crn": "3299",
@@ -777,8 +777,8 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 17,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 10,
-    "total_enrollment": 10
+    "total_enrollment": 11
   }
 ]
