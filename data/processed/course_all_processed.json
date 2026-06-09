@@ -8980,8 +8980,8 @@
     "crosslist": "1343",
     "lower_crosslist": true,
     "total_seats": 28,
-    "total_enrollment": 10,
-    "crosslisted_enrollment": 7,
+    "total_enrollment": 11,
+    "crosslisted_enrollment": 8,
     "conflicts": "1347"
   },
   {
@@ -9174,7 +9174,7 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -9211,7 +9211,7 @@
     "crosslist": "1804",
     "lower_crosslist": false,
     "total_seats": 28,
-    "total_enrollment": 10,
+    "total_enrollment": 11,
     "crosslisted_enrollment": 3,
     "conflicts": "1347"
   },
@@ -9466,7 +9466,7 @@
     "room": "",
     "instructor": "",
     "seats": 20,
-    "enrolled": 11,
+    "enrolled": 9,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -9500,7 +9500,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 11,
+    "total_enrollment": 9,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1348",
     "conflicts": ""
@@ -9644,7 +9644,7 @@
     "exam_meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "M,W",
-    "exam_room": "",
+    "exam_room": "ECS 301",
     "description": "Lecture | 08-SEP-2026 to 16-NOV-2026 | 2:00PM-3:50PM | R",
     "normalized": {
       "time": {
@@ -10986,11 +10986,11 @@
     "section": "1",
     "title": "Computational Geometry",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 300",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 7,
@@ -11015,7 +11015,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -11025,7 +11025,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "5131,5132",
     "crosslist": "5132",
@@ -12122,7 +12122,7 @@
     "section": "1",
     "title": "Foundations in Comp Systems",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 17-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
@@ -12151,7 +12151,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-17"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "19:00",
@@ -12161,7 +12161,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-17",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -12939,11 +12939,11 @@
     "section": "1",
     "title": "Computational Geometry",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 300",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 4,
@@ -12968,7 +12968,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -12978,7 +12978,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "5131,5132",
     "crosslist": "5131",

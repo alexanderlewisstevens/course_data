@@ -138,7 +138,7 @@
     "exam_meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "M,W",
-    "exam_room": "",
+    "exam_room": "ECS 301",
     "description": "Lecture | 08-SEP-2026 to 16-NOV-2026 | 2:00PM-3:50PM | R",
     "normalized": {
       "time": {
@@ -1480,11 +1480,11 @@
     "section": "1",
     "title": "Computational Geometry",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 300",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 7,
@@ -1509,7 +1509,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -1519,7 +1519,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "5131,5132",
     "crosslist": "5132",
@@ -2616,7 +2616,7 @@
     "section": "1",
     "title": "Foundations in Comp Systems",
     "course_type": "Lecture",
-    "meeting_dates": "08-SEP-2026 to 17-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
@@ -2645,7 +2645,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-17"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "19:00",
@@ -2655,7 +2655,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-17",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -3433,11 +3433,11 @@
     "section": "1",
     "title": "Computational Geometry",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 300",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 4,
@@ -3462,7 +3462,7 @@
       },
       "dates": {
         "start": "2026-09-08",
-        "end": "2026-11-20"
+        "end": "2026-11-16"
       }
     },
     "time_start_24": "14:00",
@@ -3472,7 +3472,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
-    "date_end": "2026-11-20",
+    "date_end": "2026-11-16",
     "gta_eligible": true,
     "crosslisted_crn": "5131,5132",
     "crosslist": "5131",

@@ -1,7 +1,7 @@
 term,college,subject_code,subject_label,crn,course,section,title,course_type,meeting_dates,time,days,hours,room,instructor,seats,enrolled,exam_meeting_dates,exam_time,exam_days,exam_room,description
 202670,ALL,COMP,Computer Science,2860,COMP 1101,1,Analytical Inquiry I,Lecture,08-SEP-2026 to 16-NOV-2026,12:00PM-1:50PM,"T,R",4,ECS 200,,8,8,17-NOV-2026 to 17-NOV-2026,12:00PM-1:50PM,T,ECS 200,
 202670,ALL,COMP,Computer Science,3934,COMP 1101,4,Analytical Inquiry I,Lecture,08-SEP-2026 to 16-NOV-2026,4:00PM-5:50PM,"T,R",4,ECS 201,,8,8,17-NOV-2026 to 17-NOV-2026,4:00PM-5:50PM,T,ECS 201,
-202670,ALL,COMP,Computer Science,5147,COMP 1111,1,Electronics for the Arts,Lecture,08-SEP-2026 to 16-NOV-2026,12:00PM-1:50PM,R,4,,"Hannum, Andrew T.",35,11,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,"M,W",,Lecture | 08-SEP-2026 to 16-NOV-2026 | 2:00PM-3:50PM | R
+202670,ALL,COMP,Computer Science,5147,COMP 1111,1,Electronics for the Arts,Lecture,08-SEP-2026 to 16-NOV-2026,12:00PM-1:50PM,R,4,,"Hannum, Andrew T.",35,11,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,"M,W",ECS 301,Lecture | 08-SEP-2026 to 16-NOV-2026 | 2:00PM-3:50PM | R
 202670,ALL,COMP,Computer Science,2855,COMP 1201,1,Intro. to Computer Science I,Lecture/Lab,08-SEP-2026 to 16-NOV-2026,1:00PM-1:50PM,"T,R",2,ECS 300,"Hannum, Andrew T.",8,9,,,,,
 202670,ALL,COMP,Computer Science,2856,COMP 1201,2,Intro. to Computer Science I,Lecture/Lab,08-SEP-2026 to 16-NOV-2026,11:00AM-11:50AM,"T,R",2,ECS 200,"Hannum, Andrew T.",7,7,,,,,
 202670,ALL,COMP,Computer Science,2857,COMP 1351,1,Introduction to Programming I,Lecture/Lab,08-SEP-2026 to 16-NOV-2026,10:00AM-11:50AM,"M,W",3,ECS 401,"Liu, Faan Tone",6,6,18-NOV-2026 to 18-NOV-2026,10:00AM-11:50AM,W,ECS 401,
@@ -24,7 +24,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202670,ALL,COMP,Computer Science,3815,COMP 3361,3,Operating Systems I,Lecture,08-SEP-2026 to 16-NOV-2026,4:00PM-5:50PM,"T,R",4,ECS 300,"Dewri, Rinku",40,11,17-NOV-2026 to 17-NOV-2026,4:00PM-5:50PM,T,ECS 300,
 202670,ALL,COMP,Computer Science,3950,COMP 3490,1,Understanding AI,Lecture,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,"M,W",4,ECS 410,"Xie, Benjamin X.",12,4,18-NOV-2026 to 18-NOV-2026,2:00PM-3:50PM,W,ECS 410,
 202670,ALL,COMP,Computer Science,2899,COMP 3501,1,Intro Artificial Intelligence,Lecture,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,"T,R",4,ECS 301,"Kraft, Aaron R.",28,17,17-NOV-2026 to 17-NOV-2026,2:00PM-3:50PM,T,ECS 301,
-202670,ALL,COMP,Computer Science,5131,COMP 3591,1,Computational Geometry,Lecture/Lab,08-SEP-2026 to 20-NOV-2026,2:00PM-3:50PM,"T,R",4,,"Lopez, Mario A.",10,7,,,,,
+202670,ALL,COMP,Computer Science,5131,COMP 3591,1,Computational Geometry,Lecture/Lab,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,"T,R",4,ECS 300,"Lopez, Mario A.",10,7,,,,,
 202670,ALL,COMP,Computer Science,3947,COMP 3621,2,Computer Networking,Lecture,08-SEP-2026 to 16-NOV-2026,7:00PM-8:50PM,"M,W",4,ECS 200,"Kraft, Aaron R.",15,15,,,,,
 202670,ALL,COMP,Computer Science,3300,COMP 3705,1,Topics in Computer Science,Lecture,08-SEP-2026 to 16-NOV-2026,12:00PM-1:50PM,"T,R",4,ECS 400,"Edgington, Jeffrey M.",22,20,17-NOV-2026 to 17-NOV-2026,12:00PM-1:50PM,T,ECS 400,
 202670,ALL,COMP,Computer Science,2878,COMP 3721,1,Computer Security,Lecture,08-SEP-2026 to 16-NOV-2026,5:00PM-6:50PM,"M,W",4,ECS 200,"Anjum, Iffat",15,10,,,,,
@@ -44,7 +44,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202670,ALL,COMP,Computer Science,2492,COMP 3995,0,Independent Research,,,,,1,,,0,0,,,,,
 202670,ALL,COMP,Computer Science,4158,COMP 3995,1,Independent Research,Independent Study/Research,08-SEP-2026 to 16-NOV-2026,,,1,,"Oleson, Alannah",15,0,,,,,
 202670,ALL,COMP,Computer Science,4220,COMP 3995,2,Independent Research,Independent Study/Research,08-SEP-2026 to 16-NOV-2026,,,1,,"Stevens, Alexander L.",15,0,,,,,
-202670,ALL,COMP,Computer Science,5170,COMP 4003,1,Foundations in Comp Systems,Lecture,08-SEP-2026 to 17-NOV-2026,7:00PM-8:50PM,"T,R",4,,"Evans, Nathan S.",30,4,,,,,
+202670,ALL,COMP,Computer Science,5170,COMP 4003,1,Foundations in Comp Systems,Lecture,08-SEP-2026 to 16-NOV-2026,7:00PM-8:50PM,"T,R",4,,"Evans, Nathan S.",30,4,,,,,
 202670,ALL,COMP,Computer Science,4626,COMP 4005,1,Foundation: Python Programming,Online/Distance,08-SEP-2026 to 16-NOV-2026,5:00PM-6:50PM,R,4,,,25,9,,,,,
 202670,ALL,COMP,Computer Science,4627,COMP 4005,2,Foundation: Python Programming,Lecture,08-SEP-2026 to 16-NOV-2026,5:00PM-6:50PM,"T,R",4,ECS,,30,7,,,,,
 202670,ALL,COMP,Computer Science,4628,COMP 4009,1,Applied Math for DS and AI,Online/Distance,08-SEP-2026 to 16-NOV-2026,7:00PM-8:50PM,T,4,,,25,8,,,,,
@@ -58,7 +58,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202670,ALL,COMP,Computer Science,3317,COMP 4501,1,Introduction to AI,Lecture,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,"T,R",4,ECS 301,"Kraft, Aaron R.",4,0,17-NOV-2026 to 17-NOV-2026,2:00PM-3:50PM,T,ECS 301,
 202670,ALL,COMP,Computer Science,4632,COMP 4531,2,Deep Learning,Lecture,08-SEP-2026 to 16-NOV-2026,7:00PM-8:50PM,"T,R",4,ECS 401,,30,9,,,,,
 202670,ALL,COMP,Computer Science,3047,COMP 4531,101,Deep Learning,Online/Distance,08-SEP-2026 to 16-NOV-2026,5:00PM-6:50PM,W,4,,,25,13,,,,,
-202670,ALL,COMP,Computer Science,5132,COMP 4591,1,Computational Geometry,Lecture/Lab,08-SEP-2026 to 20-NOV-2026,2:00PM-3:50PM,"T,R",4,,"Lopez, Mario A.",10,4,,,,,
+202670,ALL,COMP,Computer Science,5132,COMP 4591,1,Computational Geometry,Lecture/Lab,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,"T,R",4,ECS 300,"Lopez, Mario A.",10,4,,,,,
 202670,ALL,COMP,Computer Science,3948,COMP 4621,2,Computer Networking,Lecture,08-SEP-2026 to 16-NOV-2026,7:00PM-8:50PM,"M,W",4,ECS 200,"Kraft, Aaron R.",24,2,,,,,
 202670,ALL,COMP,Computer Science,3299,COMP 4705,1,Advanced Topics-Programming,Lecture,08-SEP-2026 to 16-NOV-2026,12:00PM-1:50PM,"T,R",4,ECS 400,"Edgington, Jeffrey M.",10,1,17-NOV-2026 to 17-NOV-2026,12:00PM-1:50PM,T,ECS 400,
 202670,ALL,COMP,Computer Science,2879,COMP 4721,1,Computer Security,Lecture,08-SEP-2026 to 16-NOV-2026,5:00PM-6:50PM,"M,W",4,ECS 200,"Anjum, Iffat",17,1,,,,,
