@@ -47,8 +47,8 @@
     "instructor": "Kossek, Wojciech K.",
     "seats": 3,
     "enrolled": 3,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 11
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 10
   },
   {
     "crn": "1352",
@@ -97,9 +97,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 8,
+    "enrolled": 7,
     "crosslisted_enrollment": 3,
-    "total_enrollment": 11
+    "total_enrollment": 10
   },
   {
     "crn": "1344",
@@ -114,9 +114,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 11,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 10
   },
   {
     "crn": "1346",
@@ -148,9 +148,9 @@
     "room": "ECS 200",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 13,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 15
   },
   {
     "crn": "1351",
@@ -165,8 +165,8 @@
     "room": "ECS 201",
     "instructor": "Hannum, Andrew T.",
     "seats": 20,
-    "enrolled": 9,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 12
   }
 ]
