@@ -11090,8 +11090,8 @@
     "crosslist": "3948",
     "lower_crosslist": true,
     "total_seats": 39,
-    "total_enrollment": 17,
-    "crosslisted_enrollment": 2,
+    "total_enrollment": 20,
+    "crosslisted_enrollment": 5,
     "conflicts": "2305,2758,4629,5150"
   },
   {
@@ -11208,8 +11208,8 @@
     "crosslist": "2879",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 11,
-    "crosslisted_enrollment": 1,
+    "total_enrollment": 14,
+    "crosslisted_enrollment": 4,
     "conflicts": "2305,2758,3047,3204,3545"
   },
   {
@@ -13005,7 +13005,7 @@
     "room": "ECS 200",
     "instructor": "Kraft, Aaron R.",
     "seats": 24,
-    "enrolled": 2,
+    "enrolled": 5,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -13043,7 +13043,7 @@
     "crosslist": "3947",
     "lower_crosslist": false,
     "total_seats": 39,
-    "total_enrollment": 17,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 15,
     "conflicts": "2305,2758,4629,5150"
   },
@@ -13123,7 +13123,7 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 17,
-    "enrolled": 1,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -13161,7 +13161,7 @@
     "crosslist": "2878",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 11,
+    "total_enrollment": 14,
     "crosslisted_enrollment": 10,
     "conflicts": "2305,2758,3047,3204,3545"
   },
