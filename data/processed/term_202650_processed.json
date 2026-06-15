@@ -227,8 +227,8 @@
     "crosslist": "1351",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 18,
-    "crosslisted_enrollment": 14,
+    "total_enrollment": 17,
+    "crosslisted_enrollment": 13,
     "conflicts": "1344,1346"
   },
   {
@@ -304,7 +304,7 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 16,
+    "enrolled": 17,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -340,7 +340,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 16,
+    "total_enrollment": 17,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1342",
     "conflicts": ""
@@ -595,7 +595,7 @@
     "room": "ECS 201",
     "instructor": "Hannum, Andrew T.",
     "seats": 20,
-    "enrolled": 14,
+    "enrolled": 13,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -633,7 +633,7 @@
     "crosslist": "1352",
     "lower_crosslist": false,
     "total_seats": 25,
-    "total_enrollment": 18,
+    "total_enrollment": 17,
     "crosslisted_enrollment": 4,
     "conflicts": "1344,1346"
   },
