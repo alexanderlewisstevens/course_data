@@ -46,9 +46,9 @@
     "room": "",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "2855",
@@ -641,9 +641,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "3792",
@@ -692,9 +692,9 @@
     "room": "ECS 401",
     "instructor": "",
     "seats": 30,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "3047",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 14,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 13
   },
   {
     "crn": "5132",

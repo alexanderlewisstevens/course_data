@@ -189,7 +189,7 @@
     "room": "ECS 201",
     "instructor": "Hannum, Andrew T.",
     "seats": 5,
-    "enrolled": 4,
+    "enrolled": 5,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -227,7 +227,7 @@
     "crosslist": "1351",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 17,
+    "total_enrollment": 18,
     "crosslisted_enrollment": 13,
     "conflicts": "1344,1346"
   },
@@ -633,8 +633,8 @@
     "crosslist": "1352",
     "lower_crosslist": false,
     "total_seats": 25,
-    "total_enrollment": 17,
-    "crosslisted_enrollment": 4,
+    "total_enrollment": 18,
+    "crosslisted_enrollment": 5,
     "conflicts": "1344,1346"
   },
   {
