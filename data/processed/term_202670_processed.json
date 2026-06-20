@@ -959,7 +959,7 @@
     "room": "ECS 300",
     "instructor": "Stevenson, Daniel E.",
     "seats": 42,
-    "enrolled": 22,
+    "enrolled": 23,
     "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "W",
@@ -996,7 +996,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 42,
-    "total_enrollment": 22,
+    "total_enrollment": 23,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3694",
     "conflicts": "3693,3792,3950,4621,4622"
@@ -1664,7 +1664,7 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 15,
-    "enrolled": 11,
+    "enrolled": 12,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -1702,7 +1702,7 @@
     "crosslist": "2879",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 15,
+    "total_enrollment": 16,
     "crosslisted_enrollment": 4,
     "conflicts": "2305,2758,3047,3204,3545"
   },
@@ -3487,8 +3487,8 @@
     "crosslist": "2878",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 15,
-    "crosslisted_enrollment": 11,
+    "total_enrollment": 16,
+    "crosslisted_enrollment": 12,
     "conflicts": "2305,2758,3047,3204,3545"
   },
   {

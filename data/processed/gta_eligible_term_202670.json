@@ -284,9 +284,9 @@
     "room": "ECS 300",
     "instructor": "Stevenson, Daniel E.",
     "seats": 42,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "3002",
@@ -471,9 +471,9 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 15,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 4,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "2758",
@@ -778,7 +778,7 @@
     "instructor": "Anjum, Iffat",
     "seats": 17,
     "enrolled": 4,
-    "crosslisted_enrollment": 11,
-    "total_enrollment": 15
+    "crosslisted_enrollment": 12,
+    "total_enrollment": 16
   }
 ]
