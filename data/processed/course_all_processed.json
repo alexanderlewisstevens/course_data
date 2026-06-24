@@ -9466,7 +9466,7 @@
     "room": "",
     "instructor": "Evans, Nathan S.",
     "seats": 20,
-    "enrolled": 12,
+    "enrolled": 13,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -9500,7 +9500,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 12,
+    "total_enrollment": 13,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1348",
     "conflicts": ""
@@ -11090,8 +11090,8 @@
     "crosslist": "3948",
     "lower_crosslist": true,
     "total_seats": 39,
-    "total_enrollment": 20,
-    "crosslisted_enrollment": 5,
+    "total_enrollment": 21,
+    "crosslisted_enrollment": 6,
     "conflicts": "2305,2758,4629,5150"
   },
   {
@@ -12837,7 +12837,7 @@
     "room": "ECS 200",
     "instructor": "Kraft, Aaron R.",
     "seats": 24,
-    "enrolled": 5,
+    "enrolled": 6,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -12875,7 +12875,7 @@
     "crosslist": "3947",
     "lower_crosslist": false,
     "total_seats": 39,
-    "total_enrollment": 20,
+    "total_enrollment": 21,
     "crosslisted_enrollment": 15,
     "conflicts": "2305,2758,4629,5150"
   },
