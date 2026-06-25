@@ -1,5 +1,5 @@
 term,college,subject_code,subject_label,crn,course,section,title,course_type,meeting_dates,time,days,hours,room,instructor,seats,enrolled,exam_meeting_dates,exam_time,exam_days,exam_room,description
-202650,ALL,COMP,Computer Science,1780,COMP 1101,1,Analytical Inquiry I,Online/Distance,20-JUN-2026 to 21-AUG-2026,,,4,,,30,4,,,,,
+202650,ALL,COMP,Computer Science,1780,COMP 1101,1,Analytical Inquiry I,Online/Distance,20-JUN-2026 to 21-AUG-2026,,,4,,"Sinclair, Jordan",30,4,,,,,
 202650,ALL,COMP,Computer Science,1341,COMP 3421,1,Database Organization & Mgmt I,Lecture,20-JUN-2026 to 21-AUG-2026,5:00PM-6:50PM,"M,W",4,ECS 200,"Dalton, Donald A.",30,13,,,,,
 202650,ALL,COMP,Computer Science,1804,COMP 3433,1,Data Visualization,Online/Distance,20-JUN-2026 to 21-AUG-2026,7:00PM-8:50PM,R,4,,"Kossek, Wojciech K.",5,5,,,,,
 202650,ALL,COMP,Computer Science,1352,COMP 3704,1,Advanced Topics: Systems,Lecture,20-JUN-2026 to 21-AUG-2026,5:00PM-6:50PM,"T,R",4,ECS 201,"Hannum, Andrew T.",5,5,,,,,

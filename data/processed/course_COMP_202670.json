@@ -546,7 +546,7 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 19,
+    "enrolled": 20,
     "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "W",
@@ -583,7 +583,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 19,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4622",
     "conflicts": "3693,3694,3792,3950,4621"
