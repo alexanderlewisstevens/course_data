@@ -11961,7 +11961,7 @@
     "room": "",
     "instructor": "Evans, Nathan S.",
     "seats": 30,
-    "enrolled": 8,
+    "enrolled": 7,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -11998,7 +11998,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 8,
+    "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "5170",
     "conflicts": "4628,4632"
