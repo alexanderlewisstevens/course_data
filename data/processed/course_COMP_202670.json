@@ -1310,7 +1310,7 @@
     "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 40,
-    "enrolled": 11,
+    "enrolled": 12,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "4:00PM-5:50PM",
     "exam_days": "T",
@@ -1347,7 +1347,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 40,
-    "total_enrollment": 11,
+    "total_enrollment": 12,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3815",
     "conflicts": "3304,3934,4626,4627,4631"
