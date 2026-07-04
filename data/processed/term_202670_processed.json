@@ -134,7 +134,7 @@
     "room": "",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 12,
+    "enrolled": 13,
     "exam_meeting_dates": "08-SEP-2026 to 16-NOV-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "M,W",
@@ -170,7 +170,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 35,
-    "total_enrollment": 12,
+    "total_enrollment": 13,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "5147",
     "conflicts": "2855,2860,3075,3299,3300"
