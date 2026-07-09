@@ -46,9 +46,9 @@
     "room": "",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 13,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "2855",
@@ -387,8 +387,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 12,
     "enrolled": 4,
-    "crosslisted_enrollment": 2,
-    "total_enrollment": 6
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 5
   },
   {
     "crn": "2899",
@@ -641,9 +641,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "3792",
@@ -658,9 +658,9 @@
     "room": "ECS 410",
     "instructor": "Xie, Benjamin X.",
     "seats": 13,
-    "enrolled": 2,
+    "enrolled": 1,
     "crosslisted_enrollment": 4,
-    "total_enrollment": 6
+    "total_enrollment": 5
   },
   {
     "crn": "3317",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "5132",
