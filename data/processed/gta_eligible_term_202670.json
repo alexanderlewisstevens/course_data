@@ -46,9 +46,9 @@
     "room": "",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "2855",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 16,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 17
   },
   {
     "crn": "5132",
