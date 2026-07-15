@@ -56,7 +56,7 @@
     "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2860",
-    "conflicts": "2855,3075,3299,3300,5147"
+    "conflicts": "2855,3075,3299,3300,5416"
   },
   {
     "term": "202670",
@@ -128,18 +128,77 @@
     "title": "Electronics for the Arts",
     "course_type": "Lecture",
     "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
-    "time": "12:00PM-1:50PM",
-    "days": "R",
+    "time": "2:00PM-3:50PM",
+    "days": "M,W",
     "hours": "4",
-    "room": "",
+    "room": "ECS 301",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
     "enrolled": 12,
-    "exam_meeting_dates": "08-SEP-2026 to 16-NOV-2026",
-    "exam_time": "2:00PM-3:50PM",
-    "exam_days": "M,W",
-    "exam_room": "ECS 301",
-    "description": "Lecture | 08-SEP-2026 to 16-NOV-2026 | 2:00PM-3:50PM | R",
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2026-09-08",
+        "end": "2026-11-16"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-16",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 35,
+    "total_enrollment": 12,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "5147",
+    "conflicts": "3693,3694,3792,3950,4621,4622"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5416",
+    "course": "COMP 1111",
+    "section": "2",
+    "title": "Electronics for the Arts",
+    "course_type": "Lab",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
+    "time": "12:00PM-1:50PM",
+    "days": "R",
+    "hours": "0",
+    "room": "",
+    "instructor": "Hannum, Andrew T.",
+    "seats": 10,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
     "normalized": {
       "time": {
         "start_24": "12:00",
@@ -169,11 +228,69 @@
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
-    "total_seats": 35,
-    "total_enrollment": 12,
+    "total_seats": 10,
+    "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "crosslisted_crn": "5147",
+    "crosslisted_crn": "5416",
     "conflicts": "2855,2860,3075,3299,3300"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5417",
+    "course": "COMP 1111",
+    "section": "3",
+    "title": "Electronics for the Arts",
+    "course_type": "Lab",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "R",
+    "hours": "0",
+    "room": "",
+    "instructor": "Hannum, Andrew T.",
+    "seats": 10,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
+      },
+      "dates": {
+        "start": "2026-09-08",
+        "end": "2026-11-16"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-16",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 10,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "5417",
+    "conflicts": "2899,3317,4623,4624,5131,5132,5423"
   },
   {
     "term": "202670",
@@ -232,7 +349,7 @@
     "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2855",
-    "conflicts": "2860,3075,3299,3300,5147"
+    "conflicts": "2860,3075,3299,3300,5416"
   },
   {
     "term": "202670",
@@ -409,7 +526,7 @@
     "total_enrollment": 4,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3693",
-    "conflicts": "3694,3792,3950,4621,4622"
+    "conflicts": "3694,3792,3950,4621,4622,5147"
   },
   {
     "term": "202670",
@@ -527,7 +644,7 @@
     "total_enrollment": 6,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4621",
-    "conflicts": "3693,3694,3792,3950,4622"
+    "conflicts": "3693,3694,3792,3950,4622,5147"
   },
   {
     "term": "202670",
@@ -586,7 +703,7 @@
     "total_enrollment": 20,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4622",
-    "conflicts": "3693,3694,3792,3950,4621"
+    "conflicts": "3693,3694,3792,3950,4621,5147"
   },
   {
     "term": "202670",
@@ -645,7 +762,7 @@
     "total_enrollment": 16,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4623",
-    "conflicts": "2899,3317,4624,5131,5132"
+    "conflicts": "2899,3317,4624,5131,5132,5417,5423"
   },
   {
     "term": "202670",
@@ -704,7 +821,7 @@
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4624",
-    "conflicts": "2899,3317,4623,5131,5132"
+    "conflicts": "2899,3317,4623,5131,5132,5417,5423"
   },
   {
     "term": "202670",
@@ -822,7 +939,7 @@
     "total_enrollment": 21,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3075",
-    "conflicts": "2855,2860,3299,3300,5147"
+    "conflicts": "2855,2860,3299,3300,5416"
   },
   {
     "term": "202670",
@@ -999,7 +1116,7 @@
     "total_enrollment": 23,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3694",
-    "conflicts": "3693,3792,3950,4621,4622"
+    "conflicts": "3693,3792,3950,4621,4622,5147"
   },
   {
     "term": "202670",
@@ -1357,6 +1474,62 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "5422",
+    "course": "COMP 3421",
+    "section": "1",
+    "title": "Database Organization & Mgmt I",
+    "course_type": "",
+    "meeting_dates": "",
+    "time": "",
+    "days": "",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 0,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "",
+        "end_24": "",
+        "start_minutes": null,
+        "end_minutes": null
+      },
+      "days": {
+        "list": [],
+        "canonical": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "time_start_24": "",
+    "time_end_24": "",
+    "time_start_minutes": null,
+    "time_end_minutes": null,
+    "days_canonical": "",
+    "days_list": "",
+    "date_start": "",
+    "date_end": "",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 0,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "5422",
+    "conflicts": ""
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "3950",
     "course": "COMP 3490",
     "section": "1",
@@ -1409,7 +1582,7 @@
     "total_seats": 25,
     "total_enrollment": 5,
     "crosslisted_enrollment": 1,
-    "conflicts": "3693,3694,4621,4622"
+    "conflicts": "3693,3694,4621,4622,5147"
   },
   {
     "term": "202670",
@@ -1468,7 +1641,7 @@
     "total_seats": 32,
     "total_enrollment": 18,
     "crosslisted_enrollment": 0,
-    "conflicts": "4623,4624,5131,5132"
+    "conflicts": "4623,4624,5131,5132,5417,5423"
   },
   {
     "term": "202670",
@@ -1527,7 +1700,7 @@
     "total_seats": 20,
     "total_enrollment": 12,
     "crosslisted_enrollment": 5,
-    "conflicts": "2899,3317,4623,4624"
+    "conflicts": "2899,3317,4623,4624,5417,5423"
   },
   {
     "term": "202670",
@@ -1645,7 +1818,7 @@
     "total_seats": 32,
     "total_enrollment": 21,
     "crosslisted_enrollment": 1,
-    "conflicts": "2855,2860,3075,5147"
+    "conflicts": "2855,2860,3075,5416"
   },
   {
     "term": "202670",
@@ -2853,6 +3026,65 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "5423",
+    "course": "COMP 4361",
+    "section": "1",
+    "title": "Operating Systems I",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
+    "time": "2:00PM-3:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 0,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2026-09-08",
+        "end": "2026-11-16"
+      }
+    },
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2026-09-08",
+    "date_end": "2026-11-16",
+    "gta_eligible": false,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 0,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "5423",
+    "conflicts": "2899,3317,4623,4624,5131,5132,5417"
+  },
+  {
+    "term": "202670",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "4631",
     "course": "COMP 4421",
     "section": "1",
@@ -3077,7 +3309,7 @@
     "total_seats": 25,
     "total_enrollment": 5,
     "crosslisted_enrollment": 4,
-    "conflicts": "3693,3694,4621,4622"
+    "conflicts": "3693,3694,4621,4622,5147"
   },
   {
     "term": "202670",
@@ -3136,7 +3368,7 @@
     "total_seats": 32,
     "total_enrollment": 18,
     "crosslisted_enrollment": 18,
-    "conflicts": "4623,4624,5131,5132"
+    "conflicts": "4623,4624,5131,5132,5417,5423"
   },
   {
     "term": "202670",
@@ -3312,7 +3544,7 @@
     "total_seats": 20,
     "total_enrollment": 12,
     "crosslisted_enrollment": 7,
-    "conflicts": "2899,3317,4623,4624"
+    "conflicts": "2899,3317,4623,4624,5417,5423"
   },
   {
     "term": "202670",
@@ -3430,7 +3662,7 @@
     "total_seats": 32,
     "total_enrollment": 21,
     "crosslisted_enrollment": 20,
-    "conflicts": "2855,2860,3075,5147"
+    "conflicts": "2855,2860,3075,5416"
   },
   {
     "term": "202670",
