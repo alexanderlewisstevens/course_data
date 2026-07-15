@@ -63,8 +63,8 @@
     "room": "ECS 201",
     "instructor": "Hannum, Andrew T.",
     "seats": 5,
-    "enrolled": 5,
-    "crosslisted_enrollment": 13,
+    "enrolled": 3,
+    "crosslisted_enrollment": 15,
     "total_enrollment": 18
   },
   {
@@ -165,8 +165,8 @@
     "room": "ECS 201",
     "instructor": "Hannum, Andrew T.",
     "seats": 20,
-    "enrolled": 13,
-    "crosslisted_enrollment": 5,
+    "enrolled": 15,
+    "crosslisted_enrollment": 3,
     "total_enrollment": 18
   }
 ]
