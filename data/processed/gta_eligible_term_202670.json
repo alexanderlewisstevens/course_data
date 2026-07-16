@@ -506,8 +506,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 15,
     "enrolled": 12,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 17
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 18
   },
   {
     "crn": "2758",
@@ -811,8 +811,8 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 17,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 12,
-    "total_enrollment": 17
+    "total_enrollment": 18
   }
 ]

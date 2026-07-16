@@ -1875,8 +1875,8 @@
     "crosslist": "2879",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 17,
-    "crosslisted_enrollment": 5,
+    "total_enrollment": 18,
+    "crosslisted_enrollment": 6,
     "conflicts": "2305,2758,3047,3204,3545"
   },
   {
@@ -3681,7 +3681,7 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 17,
-    "enrolled": 5,
+    "enrolled": 6,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3719,7 +3719,7 @@
     "crosslist": "2878",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 17,
+    "total_enrollment": 18,
     "crosslisted_enrollment": 12,
     "conflicts": "2305,2758,3047,3204,3545"
   },
