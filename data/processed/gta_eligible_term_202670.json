@@ -369,9 +369,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "3676",
@@ -573,9 +573,9 @@
     "room": "ECS",
     "instructor": "",
     "seats": 30,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "4628",
@@ -607,9 +607,9 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 30,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "3675",
