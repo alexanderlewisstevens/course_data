@@ -11,7 +11,7 @@
     "hours": "4",
     "room": "ECS 200",
     "instructor": "",
-    "seats": 8,
+    "seats": 16,
     "enrolled": 8,
     "crosslisted_enrollment": 0,
     "total_enrollment": 8
@@ -28,7 +28,7 @@
     "hours": "4",
     "room": "ECS 201",
     "instructor": "",
-    "seats": 8,
+    "seats": 14,
     "enrolled": 8,
     "crosslisted_enrollment": 0,
     "total_enrollment": 8
@@ -96,7 +96,7 @@
     "hours": "2",
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
-    "seats": 8,
+    "seats": 17,
     "enrolled": 8,
     "crosslisted_enrollment": 0,
     "total_enrollment": 8
@@ -113,7 +113,7 @@
     "hours": "2",
     "room": "ECS 200",
     "instructor": "Hannum, Andrew T.",
-    "seats": 7,
+    "seats": 14,
     "enrolled": 7,
     "crosslisted_enrollment": 0,
     "total_enrollment": 7
@@ -130,7 +130,7 @@
     "hours": "3",
     "room": "ECS 401",
     "instructor": "Liu, Faan Tone",
-    "seats": 6,
+    "seats": 12,
     "enrolled": 6,
     "crosslisted_enrollment": 0,
     "total_enrollment": 6
@@ -147,7 +147,7 @@
     "hours": "3",
     "room": "ECS 400",
     "instructor": "Stevens, Alexander L.",
-    "seats": 4,
+    "seats": 8,
     "enrolled": 4,
     "crosslisted_enrollment": 0,
     "total_enrollment": 4
