@@ -11,7 +11,7 @@
     "hours": "4",
     "room": "ECS 200",
     "instructor": "",
-    "seats": 32,
+    "seats": 40,
     "enrolled": 19,
     "crosslisted_enrollment": 0,
     "total_enrollment": 19
@@ -28,7 +28,7 @@
     "hours": "4",
     "room": "ECS 201",
     "instructor": "",
-    "seats": 25,
+    "seats": 30,
     "enrolled": 24,
     "crosslisted_enrollment": 0,
     "total_enrollment": 24
@@ -46,9 +46,9 @@
     "room": "ECS 301",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 25,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 24
   },
   {
     "crn": "5416",
@@ -80,9 +80,9 @@
     "room": "",
     "instructor": "Hannum, Andrew T.",
     "seats": 10,
-    "enrolled": 8,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 7
   },
   {
     "crn": "2855",
@@ -96,7 +96,7 @@
     "hours": "2",
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
-    "seats": 34,
+    "seats": 42,
     "enrolled": 28,
     "crosslisted_enrollment": 0,
     "total_enrollment": 28
@@ -113,10 +113,10 @@
     "hours": "2",
     "room": "ECS 200",
     "instructor": "Hannum, Andrew T.",
-    "seats": 28,
-    "enrolled": 13,
+    "seats": 35,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "2857",
@@ -130,7 +130,7 @@
     "hours": "3",
     "room": "ECS 401",
     "instructor": "Liu, Faan Tone",
-    "seats": 24,
+    "seats": 30,
     "enrolled": 11,
     "crosslisted_enrollment": 0,
     "total_enrollment": 11
@@ -147,10 +147,10 @@
     "hours": "3",
     "room": "ECS 400",
     "instructor": "Stevens, Alexander L.",
-    "seats": 16,
-    "enrolled": 16,
+    "seats": 20,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 17
   },
   {
     "crn": "3044",
@@ -182,9 +182,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 30,
-    "enrolled": 19,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 23
   },
   {
     "crn": "4622",
@@ -233,9 +233,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 30,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "2038",
