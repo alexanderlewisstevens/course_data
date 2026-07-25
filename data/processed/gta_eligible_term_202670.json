@@ -11,7 +11,7 @@
     "hours": "4",
     "room": "ECS 200",
     "instructor": "",
-    "seats": 40,
+    "seats": 30,
     "enrolled": 22,
     "crosslisted_enrollment": 0,
     "total_enrollment": 22
@@ -97,9 +97,9 @@
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
     "seats": 42,
-    "enrolled": 30,
+    "enrolled": 33,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 33
   },
   {
     "crn": "2856",
@@ -131,9 +131,9 @@
     "room": "ECS 401",
     "instructor": "Liu, Faan Tone",
     "seats": 30,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "3693",
@@ -372,6 +372,23 @@
     "enrolled": 6,
     "crosslisted_enrollment": 0,
     "total_enrollment": 6
+  },
+  {
+    "crn": "3538",
+    "course": "COMP 2821",
+    "section": "1",
+    "title": "Introductory Game Design",
+    "course_type": "Lecture",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
+    "time": "10:00AM-11:50AM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "ECS 358",
+    "instructor": "Edgington, Jeffrey M.",
+    "seats": 15,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
   },
   {
     "crn": "3676",
