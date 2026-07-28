@@ -10,11 +10,11 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 200",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "3934",
@@ -27,7 +27,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 201",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": 30,
     "enrolled": 28,
     "crosslisted_enrollment": 0,
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "2857",
@@ -131,9 +131,9 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "3693",
@@ -233,9 +233,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "2038",
@@ -352,9 +352,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 19,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "4625",
@@ -386,9 +386,9 @@
     "room": "ECS 358",
     "instructor": "",
     "seats": 15,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3676",
@@ -522,9 +522,9 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 15,
-    "enrolled": 12,
+    "enrolled": 11,
     "crosslisted_enrollment": 8,
-    "total_enrollment": 20
+    "total_enrollment": 19
   },
   {
     "crn": "2758",
@@ -573,9 +573,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 18,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 17
   },
   {
     "crn": "4627",
@@ -607,9 +607,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "4629",
@@ -758,7 +758,7 @@
     "days": "W",
     "hours": "4",
     "room": "",
-    "instructor": "Dalton, Donald A.",
+    "instructor": "Durso, Catherine S.",
     "seats": 25,
     "enrolled": 18,
     "crosslisted_enrollment": 0,
@@ -829,7 +829,7 @@
     "instructor": "Anjum, Iffat",
     "seats": 17,
     "enrolled": 8,
-    "crosslisted_enrollment": 12,
-    "total_enrollment": 20
+    "crosslisted_enrollment": 11,
+    "total_enrollment": 19
   }
 ]
