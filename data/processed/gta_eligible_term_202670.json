@@ -12,9 +12,9 @@
     "room": "ECS 200",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 24,
+    "enrolled": 25,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 25
   },
   {
     "crn": "3934",
@@ -29,9 +29,9 @@
     "room": "ECS 201",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 27,
+    "enrolled": 28,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 27
+    "total_enrollment": 28
   },
   {
     "crn": "5147",
@@ -97,9 +97,9 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 42,
-    "enrolled": 35,
+    "enrolled": 38,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 35
+    "total_enrollment": 38
   },
   {
     "crn": "2856",
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 16,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 17
   },
   {
     "crn": "2857",
@@ -131,9 +131,9 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 17
   },
   {
     "crn": "3693",
@@ -147,10 +147,10 @@
     "hours": "3",
     "room": "ECS 400",
     "instructor": "Stevens, Alexander L.",
-    "seats": 20,
-    "enrolled": 17,
+    "seats": 25,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 22
   },
   {
     "crn": "3044",
@@ -386,9 +386,9 @@
     "room": "ECS 358",
     "instructor": "",
     "seats": 15,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "3676",
