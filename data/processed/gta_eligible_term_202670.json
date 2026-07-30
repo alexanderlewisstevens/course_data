@@ -97,9 +97,9 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 42,
-    "enrolled": 38,
+    "enrolled": 39,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 38
+    "total_enrollment": 39
   },
   {
     "crn": "2856",
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 17,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 19
   },
   {
     "crn": "2857",
@@ -214,7 +214,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 400",
-    "instructor": "Albow, Mohammed M.",
+    "instructor": "",
     "seats": 30,
     "enrolled": 29,
     "crosslisted_enrollment": 0,
@@ -301,9 +301,9 @@
     "room": "ECS 201",
     "instructor": "Stevenson, Daniel E.",
     "seats": 32,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "3694",
@@ -318,9 +318,9 @@
     "room": "ECS 300",
     "instructor": "Stevenson, Daniel E.",
     "seats": 42,
-    "enrolled": 23,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 23
+    "total_enrollment": 22
   },
   {
     "crn": "3002",
