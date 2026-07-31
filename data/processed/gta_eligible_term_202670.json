@@ -197,7 +197,7 @@
     "days": "M,W",
     "hours": "4",
     "room": "ECS 401",
-    "instructor": "Albow, Mohammed M.",
+    "instructor": "",
     "seats": 30,
     "enrolled": 29,
     "crosslisted_enrollment": 0,
@@ -423,6 +423,23 @@
     "enrolled": 12,
     "crosslisted_enrollment": 0,
     "total_enrollment": 12
+  },
+  {
+    "crn": "5422",
+    "course": "COMP 3421",
+    "section": "1",
+    "title": "Database Organization & Mgmt I",
+    "course_type": "Online/Distance",
+    "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
+    "time": "5:00PM-6:50PM",
+    "days": "R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Kossek, Wojciech K.",
+    "seats": 5,
+    "enrolled": 0,
+    "crosslisted_enrollment": 16,
+    "total_enrollment": 16
   },
   {
     "crn": "3950",
