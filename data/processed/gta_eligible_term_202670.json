@@ -97,9 +97,9 @@
     "room": "ECS 300",
     "instructor": "",
     "seats": 42,
-    "enrolled": 39,
+    "enrolled": 40,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 39
+    "total_enrollment": 40
   },
   {
     "crn": "2856",
@@ -233,9 +233,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "2038",
@@ -386,9 +386,9 @@
     "room": "ECS 358",
     "instructor": "",
     "seats": 15,
-    "enrolled": 4,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 5
   },
   {
     "crn": "3676",
@@ -573,9 +573,9 @@
     "room": "",
     "instructor": "Evans, Nathan S.",
     "seats": 30,
-    "enrolled": 9,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 8
   },
   {
     "crn": "4626",
