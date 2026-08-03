@@ -46,9 +46,9 @@
     "room": "ECS 301",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 24,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 23
   },
   {
     "crn": "5416",
@@ -131,9 +131,9 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "3693",
@@ -386,9 +386,9 @@
     "room": "ECS 358",
     "instructor": "",
     "seats": 15,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 6
   },
   {
     "crn": "3676",
