@@ -506,8 +506,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
     "enrolled": 14,
-    "crosslisted_enrollment": 12,
-    "total_enrollment": 26
+    "crosslisted_enrollment": 13,
+    "total_enrollment": 27
   },
   {
     "crn": "3300",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 18,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 17
   },
   {
     "crn": "4627",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 16,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 17
   },
   {
     "crn": "4629",
@@ -641,9 +641,9 @@
     "room": "ECS 300",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "3675",
@@ -675,9 +675,9 @@
     "room": "",
     "instructor": "Mashinchi, Navid",
     "seats": 20,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "4631",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "3792",
@@ -811,9 +811,9 @@
     "room": "ECS 200",
     "instructor": "Kraft, Aaron R.",
     "seats": 24,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 14,
-    "total_enrollment": 26
+    "total_enrollment": 27
   },
   {
     "crn": "3299",
