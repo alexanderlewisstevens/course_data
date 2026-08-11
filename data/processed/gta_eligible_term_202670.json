@@ -131,9 +131,9 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 20,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 21
   },
   {
     "crn": "3693",
@@ -148,9 +148,9 @@
     "room": "ECS 400",
     "instructor": "Stevens, Alexander L.",
     "seats": 25,
-    "enrolled": 23,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 23
+    "total_enrollment": 24
   },
   {
     "crn": "3044",
@@ -506,8 +506,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
     "enrolled": 14,
-    "crosslisted_enrollment": 13,
-    "total_enrollment": 27
+    "crosslisted_enrollment": 14,
+    "total_enrollment": 28
   },
   {
     "crn": "3300",
@@ -540,8 +540,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 15,
     "enrolled": 11,
-    "crosslisted_enrollment": 13,
-    "total_enrollment": 24
+    "crosslisted_enrollment": 14,
+    "total_enrollment": 25
   },
   {
     "crn": "2758",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "4627",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "4629",
@@ -811,9 +811,9 @@
     "room": "ECS 200",
     "instructor": "Kraft, Aaron R.",
     "seats": 24,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 14,
-    "total_enrollment": 27
+    "total_enrollment": 28
   },
   {
     "crn": "3299",
@@ -845,8 +845,8 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 17,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 11,
-    "total_enrollment": 24
+    "total_enrollment": 25
   }
 ]
