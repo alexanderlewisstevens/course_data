@@ -29,9 +29,9 @@
     "room": "ECS 201",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "5147",
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "2857",
@@ -607,9 +607,9 @@
     "room": "CMK 101",
     "instructor": "",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "4628",
