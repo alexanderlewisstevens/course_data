@@ -29,9 +29,9 @@
     "room": "ECS 201",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 28,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 28
   },
   {
     "crn": "5147",
@@ -438,8 +438,8 @@
     "instructor": "Kossek, Wojciech K.",
     "seats": 5,
     "enrolled": 0,
-    "crosslisted_enrollment": 16,
-    "total_enrollment": 16
+    "crosslisted_enrollment": 17,
+    "total_enrollment": 17
   },
   {
     "crn": "3950",
@@ -658,9 +658,9 @@
     "room": "ECS 400",
     "instructor": "",
     "seats": 4,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3545",
@@ -692,9 +692,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 16,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 17
   },
   {
     "crn": "5150",
