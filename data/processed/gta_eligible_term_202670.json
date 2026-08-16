@@ -506,8 +506,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
     "enrolled": 14,
-    "crosslisted_enrollment": 14,
-    "total_enrollment": 28
+    "crosslisted_enrollment": 15,
+    "total_enrollment": 29
   },
   {
     "crn": "3300",
@@ -540,8 +540,8 @@
     "instructor": "Anjum, Iffat",
     "seats": 15,
     "enrolled": 11,
-    "crosslisted_enrollment": 14,
-    "total_enrollment": 25
+    "crosslisted_enrollment": 15,
+    "total_enrollment": 26
   },
   {
     "crn": "2758",
@@ -573,9 +573,9 @@
     "room": "ECS 201",
     "instructor": "Evans, Nathan S.",
     "seats": 30,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "4626",
@@ -607,9 +607,9 @@
     "room": "CMK 101",
     "instructor": "",
     "seats": 30,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "4628",
@@ -777,9 +777,9 @@
     "room": "",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 21,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 22
   },
   {
     "crn": "5132",
@@ -811,9 +811,9 @@
     "room": "ECS 200",
     "instructor": "Kraft, Aaron R.",
     "seats": 24,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 14,
-    "total_enrollment": 28
+    "total_enrollment": 29
   },
   {
     "crn": "3299",
@@ -845,8 +845,8 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 17,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 11,
-    "total_enrollment": 25
+    "total_enrollment": 26
   }
 ]
