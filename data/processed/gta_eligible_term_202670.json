@@ -12,9 +12,9 @@
     "room": "ECS 200",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "3934",
@@ -46,9 +46,9 @@
     "room": "ECS 301",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 25,
+    "enrolled": 26,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 26
   },
   {
     "crn": "5416",
@@ -63,9 +63,9 @@
     "room": "ECS 401",
     "instructor": "Hannum, Andrew T.",
     "seats": 10,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "5417",
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 25,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 24
   },
   {
     "crn": "2857",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 20,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 19
   },
   {
     "crn": "4627",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 20,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 19
   },
   {
     "crn": "4629",
