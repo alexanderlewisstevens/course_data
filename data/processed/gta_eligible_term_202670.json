@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 24,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 23
   },
   {
     "crn": "2857",
@@ -369,9 +369,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 6,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 5
   },
   {
     "crn": "3538",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 19,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "4627",
@@ -675,9 +675,9 @@
     "room": "",
     "instructor": "Mashinchi, Navid",
     "seats": 20,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "4631",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 14,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 13
   },
   {
     "crn": "3792",
