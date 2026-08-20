@@ -20,7 +20,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202670,ALL,COMP,Computer Science,3694,COMP 2362,4,Systems II,Lecture,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,"M,W",4,ECS 300,"Stevenson, Daniel E.",42,23,18-NOV-2026 to 18-NOV-2026,2:00PM-3:50PM,W,ECS 300,
 202670,ALL,COMP,Computer Science,3002,COMP 2381,1,Object-Oriented Software Dev.,Lecture/Lab,08-SEP-2026 to 16-NOV-2026,12:00PM-1:50PM,"M,W",4,ECS 300,"Anjum, Iffat",40,10,,,,,
 202670,ALL,COMP,Computer Science,3304,COMP 2381,4,Object-Oriented Software Dev.,Lecture/Lab,08-SEP-2026 to 16-NOV-2026,4:00PM-5:50PM,"T,R",4,ECS 200,"Rutherford, Matthew J.",30,22,,,,,
-202670,ALL,COMP,Computer Science,4625,COMP 2401,1,Unix Command-Line Bootcamp,Online/Distance,08-SEP-2026 to 16-NOV-2026,,,1,,"Rutherford, Matthew J.",50,6,,,,,
+202670,ALL,COMP,Computer Science,4625,COMP 2401,1,Unix Command-Line Bootcamp,Online/Distance,08-SEP-2026 to 16-NOV-2026,,,1,,"Rutherford, Matthew J.",50,5,,,,,
 202670,ALL,COMP,Computer Science,3538,COMP 2821,1,Introductory Game Design,Lecture,08-SEP-2026 to 16-NOV-2026,6:00PM-7:50PM,"T,R",4,ECS 358,,15,8,17-NOV-2026 to 17-NOV-2026,6:00PM-7:50PM,T,ECS 358,
 202670,ALL,COMP,Computer Science,3676,COMP 3100,2,Human-Computer Interaction,Lecture,08-SEP-2026 to 16-NOV-2026,12:00PM-1:50PM,"M,W",4,ECS 400,,16,16,18-NOV-2026 to 18-NOV-2026,12:00PM-1:50PM,W,ECS 400,
 202670,ALL,COMP,Computer Science,3815,COMP 3361,3,Operating Systems I,Lecture,08-SEP-2026 to 16-NOV-2026,4:00PM-5:50PM,"T,R",4,ECS 300,"Dewri, Rinku",40,11,17-NOV-2026 to 17-NOV-2026,4:00PM-5:50PM,T,ECS 300,
