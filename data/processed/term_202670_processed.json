@@ -722,7 +722,7 @@
     "room": "ECS 400",
     "instructor": "",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 29,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
@@ -759,7 +759,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 28,
+    "total_enrollment": 29,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4623",
     "conflicts": "2899,3317,4624,5131,5132,5417,5423"
