@@ -29,9 +29,9 @@
     "room": "ECS 201",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 28
+    "total_enrollment": 27
   },
   {
     "crn": "5147",
@@ -46,9 +46,9 @@
     "room": "ECS 301",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 26,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 26
+    "total_enrollment": 27
   },
   {
     "crn": "5416",
@@ -80,9 +80,9 @@
     "room": "BW 254",
     "instructor": "Hannum, Andrew T.",
     "seats": 10,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "2855",
@@ -182,9 +182,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 30,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 30
   },
   {
     "crn": "4622",
@@ -573,9 +573,9 @@
     "room": "ECS 201",
     "instructor": "Evans, Nathan S.",
     "seats": 30,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "4626",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 21,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 22
   },
   {
     "crn": "4627",
@@ -607,9 +607,9 @@
     "room": "CMK 101",
     "instructor": "",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "4628",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 21,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 22
   },
   {
     "crn": "4629",
@@ -641,9 +641,9 @@
     "room": "ECS 300",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "3675",
@@ -658,9 +658,9 @@
     "room": "ECS 400",
     "instructor": "",
     "seats": 4,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "3545",
