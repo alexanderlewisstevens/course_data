@@ -46,9 +46,9 @@
     "room": "ECS 301",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 27,
+    "enrolled": 28,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 27
+    "total_enrollment": 28
   },
   {
     "crn": "5416",
@@ -63,9 +63,9 @@
     "room": "ECS 401",
     "instructor": "Hannum, Andrew T.",
     "seats": 10,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "5417",
