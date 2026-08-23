@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 22,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 21
   },
   {
     "crn": "4627",
@@ -607,9 +607,9 @@
     "room": "CMK 101",
     "instructor": "",
     "seats": 30,
-    "enrolled": 16,
+    "enrolled": 17,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 16
+    "total_enrollment": 17
   },
   {
     "crn": "4628",
