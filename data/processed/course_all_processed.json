@@ -10992,7 +10992,7 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 5,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -11029,7 +11029,7 @@
     "crosslist": "4631",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 17,
+    "total_enrollment": 18,
     "crosslisted_enrollment": 17,
     "conflicts": "3304,3538,3815,3934,4626,4627"
   },
@@ -12642,8 +12642,8 @@
     "crosslist": "5422",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 17,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 18,
+    "crosslisted_enrollment": 1,
     "conflicts": "3304,3538,3815,3934,4626,4627"
   },
   {

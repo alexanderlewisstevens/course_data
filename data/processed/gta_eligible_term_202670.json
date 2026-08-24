@@ -437,9 +437,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 5,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 17,
-    "total_enrollment": 17
+    "total_enrollment": 18
   },
   {
     "crn": "3950",
@@ -693,8 +693,8 @@
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
     "enrolled": 17,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 18
   },
   {
     "crn": "5150",
