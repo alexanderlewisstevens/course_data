@@ -29,9 +29,9 @@
     "room": "ECS 201",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 28
+    "total_enrollment": 29
   },
   {
     "crn": "5147",
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 23,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 23
+    "total_enrollment": 24
   },
   {
     "crn": "2857",
@@ -199,9 +199,9 @@
     "room": "ECS 401",
     "instructor": "",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 28
+    "total_enrollment": 29
   },
   {
     "crn": "4623",
@@ -301,9 +301,9 @@
     "room": "OLIN 103",
     "instructor": "Stevenson, Daniel E.",
     "seats": 15,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 9
   },
   {
     "crn": "3694",
@@ -489,8 +489,8 @@
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 7,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 12
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 13
   },
   {
     "crn": "3947",
@@ -692,9 +692,9 @@
     "room": "",
     "instructor": "",
     "seats": 10,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4631",
@@ -794,9 +794,9 @@
     "room": "",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "5132",
@@ -811,9 +811,9 @@
     "room": "ECS 300",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 7,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "3948",
