@@ -9621,7 +9621,7 @@
     "total_enrollment": 29,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3934",
-    "conflicts": "3304,3815,4626,4627,4631,5422"
+    "conflicts": "3304,3815,4626,4627,4631,5422,5423"
   },
   {
     "term": "202670",
@@ -9796,7 +9796,7 @@
     "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "5417",
-    "conflicts": "2899,3317,4623,4624,5131,5132,5423"
+    "conflicts": "2899,3317,4623,4624,5131,5132"
   },
   {
     "term": "202670",
@@ -10268,7 +10268,7 @@
     "total_enrollment": 30,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4623",
-    "conflicts": "2899,3317,4624,5131,5132,5417,5423"
+    "conflicts": "2899,3317,4624,5131,5132,5417"
   },
   {
     "term": "202670",
@@ -10327,7 +10327,7 @@
     "total_enrollment": 17,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4624",
-    "conflicts": "2899,3317,4623,5131,5132,5417,5423"
+    "conflicts": "2899,3317,4623,5131,5132,5417"
   },
   {
     "term": "202670",
@@ -10740,7 +10740,7 @@
     "total_enrollment": 22,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3304",
-    "conflicts": "3815,3934,4626,4627,4631,5422"
+    "conflicts": "3815,3934,4626,4627,4631,5422,5423"
   },
   {
     "term": "202670",
@@ -10967,12 +10967,12 @@
     "date_start": "2026-09-08",
     "date_end": "2026-11-16",
     "gta_eligible": true,
-    "crosslist": "",
+    "crosslisted_crn": "3815,5423",
+    "crosslist": "5423",
     "lower_crosslist": true,
-    "total_seats": 40,
-    "total_enrollment": 10,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3815",
+    "total_seats": 50,
+    "total_enrollment": 11,
+    "crosslisted_enrollment": 1,
     "conflicts": "3304,3934,4626,4627,4631,5422"
   },
   {
@@ -11031,7 +11031,7 @@
     "total_seats": 30,
     "total_enrollment": 18,
     "crosslisted_enrollment": 17,
-    "conflicts": "3304,3538,3815,3934,4626,4627"
+    "conflicts": "3304,3538,3815,3934,4626,4627,5423"
   },
   {
     "term": "202670",
@@ -11149,7 +11149,7 @@
     "total_seats": 32,
     "total_enrollment": 17,
     "crosslisted_enrollment": 0,
-    "conflicts": "4623,4624,5131,5132,5417,5423"
+    "conflicts": "4623,4624,5131,5132,5417"
   },
   {
     "term": "202670",
@@ -11208,7 +11208,7 @@
     "total_seats": 20,
     "total_enrollment": 13,
     "crosslisted_enrollment": 6,
-    "conflicts": "2899,3317,4623,4624,5417,5423"
+    "conflicts": "2899,3317,4623,4624,5417"
   },
   {
     "term": "202670",
@@ -11286,7 +11286,7 @@
     "room": "ECS 400",
     "instructor": "",
     "seats": 22,
-    "enrolled": 21,
+    "enrolled": 20,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "T",
@@ -11323,7 +11323,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 22,
-    "total_enrollment": 21,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3300",
     "conflicts": "2855,2860,3075,3299,5416"
@@ -12234,7 +12234,7 @@
     "total_enrollment": 21,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4626",
-    "conflicts": "3304,3538,3815,3934,4627,4631,5422"
+    "conflicts": "3304,3538,3815,3934,4627,4631,5422,5423"
   },
   {
     "term": "202670",
@@ -12293,7 +12293,7 @@
     "total_enrollment": 17,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4627",
-    "conflicts": "3304,3538,3815,3934,4626,4631,5422"
+    "conflicts": "3304,3538,3815,3934,4626,4631,5422,5423"
   },
   {
     "term": "202670",
@@ -12540,11 +12540,11 @@
     "title": "Operating Systems I",
     "course_type": "Lecture",
     "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
-    "time": "2:00PM-3:50PM",
+    "time": "4:00PM-5:50PM",
     "days": "T,R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Dewri, Rinku",
     "seats": 10,
     "enrolled": 1,
     "exam_meeting_dates": "",
@@ -12554,10 +12554,10 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
+        "start_24": "16:00",
+        "end_24": "17:50",
+        "start_minutes": 960,
+        "end_minutes": 1070
       },
       "days": {
         "list": [
@@ -12571,22 +12571,22 @@
         "end": "2026-11-16"
       }
     },
-    "time_start_24": "14:00",
-    "time_end_24": "15:50",
-    "time_start_minutes": 840,
-    "time_end_minutes": 950,
+    "time_start_24": "16:00",
+    "time_end_24": "17:50",
+    "time_start_minutes": 960,
+    "time_end_minutes": 1070,
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2026-09-08",
     "date_end": "2026-11-16",
     "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 10,
-    "total_enrollment": 1,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "5423",
-    "conflicts": "2899,3317,4623,4624,5131,5132,5417"
+    "crosslisted_crn": "3815,5423",
+    "crosslist": "3815",
+    "lower_crosslist": false,
+    "total_seats": 50,
+    "total_enrollment": 11,
+    "crosslisted_enrollment": 10,
+    "conflicts": "3304,3934,4626,4627,4631,5422"
   },
   {
     "term": "202670",
@@ -12644,7 +12644,7 @@
     "total_seats": 30,
     "total_enrollment": 18,
     "crosslisted_enrollment": 1,
-    "conflicts": "3304,3538,3815,3934,4626,4627"
+    "conflicts": "3304,3538,3815,3934,4626,4627,5423"
   },
   {
     "term": "202670",
@@ -12876,7 +12876,7 @@
     "total_seats": 32,
     "total_enrollment": 17,
     "crosslisted_enrollment": 17,
-    "conflicts": "4623,4624,5131,5132,5417,5423"
+    "conflicts": "4623,4624,5131,5132,5417"
   },
   {
     "term": "202670",
@@ -13052,7 +13052,7 @@
     "total_seats": 20,
     "total_enrollment": 13,
     "crosslisted_enrollment": 7,
-    "conflicts": "2899,3317,4623,4624,5417,5423"
+    "conflicts": "2899,3317,4623,4624,5417"
   },
   {
     "term": "202670",

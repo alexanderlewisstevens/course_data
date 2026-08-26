@@ -421,8 +421,8 @@
     "instructor": "Dewri, Rinku",
     "seats": 40,
     "enrolled": 10,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 11
   },
   {
     "crn": "5422",
@@ -522,9 +522,9 @@
     "room": "ECS 400",
     "instructor": "",
     "seats": 22,
-    "enrolled": 21,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 20
   },
   {
     "crn": "2878",
@@ -686,15 +686,15 @@
     "title": "Operating Systems I",
     "course_type": "Lecture",
     "meeting_dates": "08-SEP-2026 to 16-NOV-2026",
-    "time": "2:00PM-3:50PM",
+    "time": "4:00PM-5:50PM",
     "days": "T,R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Dewri, Rinku",
     "seats": 10,
     "enrolled": 1,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "crosslisted_enrollment": 10,
+    "total_enrollment": 11
   },
   {
     "crn": "4631",
