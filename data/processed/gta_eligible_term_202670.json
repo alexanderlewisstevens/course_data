@@ -539,9 +539,9 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 15,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 15,
-    "total_enrollment": 27
+    "total_enrollment": 28
   },
   {
     "crn": "2758",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 21,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 22
   },
   {
     "crn": "4627",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 22,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 24
   },
   {
     "crn": "4629",
@@ -863,7 +863,7 @@
     "instructor": "Anjum, Iffat",
     "seats": 17,
     "enrolled": 15,
-    "crosslisted_enrollment": 12,
-    "total_enrollment": 27
+    "crosslisted_enrollment": 13,
+    "total_enrollment": 28
   }
 ]
