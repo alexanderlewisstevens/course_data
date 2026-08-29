@@ -12,9 +12,9 @@
     "room": "ECS 200",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "3934",
@@ -60,7 +60,7 @@
     "time": "12:00PM-1:50PM",
     "days": "R",
     "hours": "0",
-    "room": "ECS 401",
+    "room": "ECS 344",
     "instructor": "Hannum, Andrew T.",
     "seats": 10,
     "enrolled": 9,
@@ -77,7 +77,7 @@
     "time": "2:00PM-3:50PM",
     "days": "R",
     "hours": "0",
-    "room": "BW 254",
+    "room": "ECS 344",
     "instructor": "Hannum, Andrew T.",
     "seats": 10,
     "enrolled": 10,
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 25,
+    "enrolled": 26,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 26
   },
   {
     "crn": "2857",
@@ -131,9 +131,9 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 21,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 22
   },
   {
     "crn": "3693",
@@ -434,7 +434,7 @@
     "time": "5:00PM-6:50PM",
     "days": "R",
     "hours": "4",
-    "room": "",
+    "room": "ONL",
     "instructor": "Kossek, Wojciech K.",
     "seats": 5,
     "enrolled": 1,
@@ -570,7 +570,7 @@
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "ECS 201",
+    "room": "ECS 200",
     "instructor": "Evans, Nathan S.",
     "seats": 30,
     "enrolled": 11,
@@ -706,7 +706,7 @@
     "time": "5:00PM-6:50PM",
     "days": "R",
     "hours": "4",
-    "room": "",
+    "room": "ONL",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
     "enrolled": 18,
