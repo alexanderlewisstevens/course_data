@@ -9581,7 +9581,7 @@
     "room": "ECS 201",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 30,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "4:00PM-5:50PM",
     "exam_days": "T",
@@ -9618,7 +9618,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 29,
+    "total_enrollment": 30,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3934",
     "conflicts": "3304,3815,4626,4627,4631,5422,5423"
@@ -11383,8 +11383,8 @@
     "crosslist": "2879",
     "lower_crosslist": true,
     "total_seats": 32,
-    "total_enrollment": 29,
-    "crosslisted_enrollment": 16,
+    "total_enrollment": 30,
+    "crosslisted_enrollment": 17,
     "conflicts": "2305,2758,3047,3204,3545"
   },
   {
@@ -13133,7 +13133,7 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 17,
-    "enrolled": 16,
+    "enrolled": 17,
     "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
     "exam_time": "5:00PM-6:50PM",
     "exam_days": "W",
@@ -13171,7 +13171,7 @@
     "crosslist": "2878",
     "lower_crosslist": false,
     "total_seats": 32,
-    "total_enrollment": 29,
+    "total_enrollment": 30,
     "crosslisted_enrollment": 13,
     "conflicts": "2305,2758,3047,3204,3545"
   },
