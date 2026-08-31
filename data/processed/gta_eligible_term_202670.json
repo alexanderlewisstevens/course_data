@@ -46,9 +46,9 @@
     "room": "ECS 301",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 28,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 28
+    "total_enrollment": 29
   },
   {
     "crn": "5416",
@@ -63,9 +63,9 @@
     "room": "ECS 344",
     "instructor": "Hannum, Andrew T.",
     "seats": 10,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "5417",
@@ -573,9 +573,9 @@
     "room": "ECS 200",
     "instructor": "Evans, Nathan S.",
     "seats": 30,
-    "enrolled": 11,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 10
   },
   {
     "crn": "4626",
@@ -607,9 +607,9 @@
     "room": "CMK 101",
     "instructor": "",
     "seats": 30,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "4628",
