@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 26,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 26
+    "total_enrollment": 27
   },
   {
     "crn": "2857",
@@ -216,9 +216,9 @@
     "room": "ECS 400",
     "instructor": "",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 30,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 30
   },
   {
     "crn": "4624",
@@ -233,9 +233,9 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 30,
-    "enrolled": 17,
+    "enrolled": 18,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 18
   },
   {
     "crn": "2038",
@@ -502,12 +502,12 @@
     "time": "7:00PM-8:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 200",
+    "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
     "enrolled": 15,
-    "crosslisted_enrollment": 16,
-    "total_enrollment": 31
+    "crosslisted_enrollment": 17,
+    "total_enrollment": 32
   },
   {
     "crn": "3300",
@@ -689,7 +689,7 @@
     "time": "4:00PM-5:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "",
+    "room": "ECS 300",
     "instructor": "Dewri, Rinku",
     "seats": 10,
     "enrolled": 2,
@@ -726,9 +726,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "3792",
@@ -825,12 +825,12 @@
     "time": "7:00PM-8:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 200",
+    "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
-    "seats": 24,
-    "enrolled": 16,
+    "seats": 25,
+    "enrolled": 17,
     "crosslisted_enrollment": 15,
-    "total_enrollment": 31
+    "total_enrollment": 32
   },
   {
     "crn": "3299",
