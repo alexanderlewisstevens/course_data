@@ -368,7 +368,7 @@
     "room": "ECS 200",
     "instructor": "",
     "seats": 35,
-    "enrolled": 27,
+    "enrolled": 28,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -405,7 +405,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 35,
-    "total_enrollment": 27,
+    "total_enrollment": 28,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2856",
     "conflicts": "2038"
