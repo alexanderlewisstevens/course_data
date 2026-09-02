@@ -62,10 +62,10 @@
     "hours": "0",
     "room": "ECS 344",
     "instructor": "Hannum, Andrew T.",
-    "seats": 10,
-    "enrolled": 10,
+    "seats": 16,
+    "enrolled": 9,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 9
   },
   {
     "crn": "5417",
@@ -79,10 +79,10 @@
     "hours": "0",
     "room": "ECS 344",
     "instructor": "Hannum, Andrew T.",
-    "seats": 10,
-    "enrolled": 10,
+    "seats": 16,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 12
   },
   {
     "crn": "2855",
@@ -506,8 +506,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
     "enrolled": 15,
-    "crosslisted_enrollment": 17,
-    "total_enrollment": 32
+    "crosslisted_enrollment": 19,
+    "total_enrollment": 34
   },
   {
     "crn": "3300",
@@ -539,8 +539,8 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 15,
-    "enrolled": 13,
-    "crosslisted_enrollment": 17,
+    "enrolled": 12,
+    "crosslisted_enrollment": 18,
     "total_enrollment": 30
   },
   {
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "4627",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 24,
+    "enrolled": 25,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 24
+    "total_enrollment": 25
   },
   {
     "crn": "4629",
@@ -828,9 +828,9 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 25,
-    "enrolled": 17,
+    "enrolled": 19,
     "crosslisted_enrollment": 15,
-    "total_enrollment": 32
+    "total_enrollment": 34
   },
   {
     "crn": "3299",
@@ -862,8 +862,8 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 17,
-    "enrolled": 17,
-    "crosslisted_enrollment": 13,
+    "enrolled": 18,
+    "crosslisted_enrollment": 12,
     "total_enrollment": 30
   }
 ]
