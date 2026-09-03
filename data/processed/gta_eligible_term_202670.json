@@ -131,9 +131,9 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "3693",
@@ -522,9 +522,9 @@
     "room": "ECS 400",
     "instructor": "",
     "seats": 22,
-    "enrolled": 20,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 19
   },
   {
     "crn": "2878",
@@ -538,7 +538,7 @@
     "hours": "4",
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
-    "seats": 15,
+    "seats": 13,
     "enrolled": 12,
     "crosslisted_enrollment": 18,
     "total_enrollment": 30
@@ -656,7 +656,7 @@
     "days": "M,W",
     "hours": "4",
     "room": "ECS 400",
-    "instructor": "",
+    "instructor": "Corral Yanez, Ericka M.",
     "seats": 4,
     "enrolled": 2,
     "crosslisted_enrollment": 0,
@@ -861,7 +861,7 @@
     "hours": "4",
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
-    "seats": 17,
+    "seats": 19,
     "enrolled": 18,
     "crosslisted_enrollment": 12,
     "total_enrollment": 30
