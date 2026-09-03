@@ -438,8 +438,8 @@
     "instructor": "Kossek, Wojciech K.",
     "seats": 5,
     "enrolled": 1,
-    "crosslisted_enrollment": 18,
-    "total_enrollment": 19
+    "crosslisted_enrollment": 19,
+    "total_enrollment": 20
   },
   {
     "crn": "3950",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 23,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 23
+    "total_enrollment": 24
   },
   {
     "crn": "4627",
@@ -641,9 +641,9 @@
     "room": "ECS 300",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "3675",
@@ -709,9 +709,9 @@
     "room": "ONL",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "5150",
