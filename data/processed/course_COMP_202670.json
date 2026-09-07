@@ -1253,7 +1253,7 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 6,
+    "enrolled": 7,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -1287,7 +1287,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 50,
-    "total_enrollment": 6,
+    "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4625",
     "conflicts": ""
@@ -1662,7 +1662,7 @@
     "room": "ECS 300",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
-    "enrolled": 8,
+    "enrolled": 9,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
@@ -1700,7 +1700,7 @@
     "crosslist": "5132",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 13,
+    "total_enrollment": 14,
     "crosslisted_enrollment": 5,
     "conflicts": "2899,3317,4623,4624,5417"
   },
@@ -1839,7 +1839,7 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 13,
-    "enrolled": 12,
+    "enrolled": 11,
     "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
     "exam_time": "5:00PM-6:50PM",
     "exam_days": "W",
@@ -1877,7 +1877,7 @@
     "crosslist": "2879",
     "lower_crosslist": true,
     "total_seats": 33,
-    "total_enrollment": 31,
+    "total_enrollment": 30,
     "crosslisted_enrollment": 19,
     "conflicts": "2305,2758,3047,3204,3545"
   },
@@ -3488,8 +3488,8 @@
     "crosslist": "5131",
     "lower_crosslist": false,
     "total_seats": 20,
-    "total_enrollment": 13,
-    "crosslisted_enrollment": 8,
+    "total_enrollment": 14,
+    "crosslisted_enrollment": 9,
     "conflicts": "2899,3317,4623,4624,5417"
   },
   {
@@ -3665,8 +3665,8 @@
     "crosslist": "2878",
     "lower_crosslist": false,
     "total_seats": 33,
-    "total_enrollment": 31,
-    "crosslisted_enrollment": 12,
+    "total_enrollment": 30,
+    "crosslisted_enrollment": 11,
     "conflicts": "2305,2758,3047,3204,3545"
   },
   {

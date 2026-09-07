@@ -369,9 +369,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "3538",
@@ -488,9 +488,9 @@
     "room": "ECS 300",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "3947",
@@ -539,9 +539,9 @@
     "room": "ECS 200",
     "instructor": "Anjum, Iffat",
     "seats": 13,
-    "enrolled": 12,
+    "enrolled": 11,
     "crosslisted_enrollment": 19,
-    "total_enrollment": 31
+    "total_enrollment": 30
   },
   {
     "crn": "2758",
@@ -812,8 +812,8 @@
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 5,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 13
+    "crosslisted_enrollment": 9,
+    "total_enrollment": 14
   },
   {
     "crn": "3948",
@@ -863,7 +863,7 @@
     "instructor": "Anjum, Iffat",
     "seats": 20,
     "enrolled": 19,
-    "crosslisted_enrollment": 12,
-    "total_enrollment": 31
+    "crosslisted_enrollment": 11,
+    "total_enrollment": 30
   }
 ]
