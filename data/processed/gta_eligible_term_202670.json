@@ -12,9 +12,9 @@
     "room": "ECS 200",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 30,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 29
   },
   {
     "crn": "3934",
@@ -46,9 +46,9 @@
     "room": "ECS 301",
     "instructor": "Hannum, Andrew T.",
     "seats": 35,
-    "enrolled": 33,
+    "enrolled": 34,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 33
+    "total_enrollment": 34
   },
   {
     "crn": "5416",
@@ -80,9 +80,9 @@
     "room": "ECS 344",
     "instructor": "Hannum, Andrew T.",
     "seats": 16,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "2855",
@@ -471,9 +471,9 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 28,
-    "enrolled": 17,
+    "enrolled": 18,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 18
   },
   {
     "crn": "5131",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 29,
-    "enrolled": 25,
+    "enrolled": 26,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 26
   },
   {
     "crn": "4627",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 27,
-    "enrolled": 26,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 26
+    "total_enrollment": 27
   },
   {
     "crn": "4629",
@@ -726,9 +726,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "3792",
@@ -761,8 +761,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 4,
     "enrolled": 0,
-    "crosslisted_enrollment": 17,
-    "total_enrollment": 17
+    "crosslisted_enrollment": 18,
+    "total_enrollment": 18
   },
   {
     "crn": "4632",
