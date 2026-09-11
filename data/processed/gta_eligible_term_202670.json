@@ -60,7 +60,7 @@
     "time": "12:00PM-1:50PM",
     "days": "R",
     "hours": "0",
-    "room": "ECS 344",
+    "room": "ECS 334",
     "instructor": "Hannum, Andrew T.",
     "seats": 16,
     "enrolled": 16,
@@ -77,7 +77,7 @@
     "time": "2:00PM-3:50PM",
     "days": "R",
     "hours": "0",
-    "room": "ECS 344",
+    "room": "ECS 334",
     "instructor": "Hannum, Andrew T.",
     "seats": 16,
     "enrolled": 14,
@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "Hu, Andrew J.",
     "seats": 35,
-    "enrolled": 30,
+    "enrolled": 31,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 30
+    "total_enrollment": 31
   },
   {
     "crn": "2857",
@@ -148,9 +148,9 @@
     "room": "ECS 400",
     "instructor": "Stevens, Alexander L.",
     "seats": 25,
-    "enrolled": 26,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 26
+    "total_enrollment": 27
   },
   {
     "crn": "3044",
@@ -233,9 +233,9 @@
     "room": "ECS 200",
     "instructor": "Tazi, Faiza",
     "seats": 30,
-    "enrolled": 18,
+    "enrolled": 19,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "2038",
