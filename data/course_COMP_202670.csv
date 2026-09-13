@@ -1,6 +1,6 @@
 term,college,subject_code,subject_label,crn,course,section,title,course_type,meeting_dates,time,days,hours,room,instructor,seats,enrolled,exam_meeting_dates,exam_time,exam_days,exam_room,description
 202670,ALL,COMP,Computer Science,2860,COMP 1101,1,Analytical Inquiry I,Lecture,08-SEP-2026 to 16-NOV-2026,12:00PM-1:50PM,"T,R",4,ECS 200,"Gao, Sky T.",30,30,17-NOV-2026 to 17-NOV-2026,12:00PM-1:50PM,T,ECS 200,
-202670,ALL,COMP,Computer Science,3934,COMP 1101,4,Analytical Inquiry I,Lecture,08-SEP-2026 to 16-NOV-2026,4:00PM-5:50PM,"T,R",4,ECS 201,"Gao, Sky T.",30,28,17-NOV-2026 to 17-NOV-2026,4:00PM-5:50PM,T,ECS 201,
+202670,ALL,COMP,Computer Science,3934,COMP 1101,4,Analytical Inquiry I,Lecture,08-SEP-2026 to 16-NOV-2026,4:00PM-5:50PM,"T,R",4,ECS 201,"Gao, Sky T.",30,29,17-NOV-2026 to 17-NOV-2026,4:00PM-5:50PM,T,ECS 201,
 202670,ALL,COMP,Computer Science,5147,COMP 1111,1,Electronics for the Arts,Lecture,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,"M,W",4,ECS 301,"Hannum, Andrew T.",35,31,,,,,
 202670,ALL,COMP,Computer Science,5416,COMP 1111,2,Electronics for the Arts,Lab,08-SEP-2026 to 16-NOV-2026,12:00PM-1:50PM,R,0,ECS 334,"Hannum, Andrew T.",16,16,,,,,
 202670,ALL,COMP,Computer Science,5417,COMP 1111,3,Electronics for the Arts,Lab,08-SEP-2026 to 16-NOV-2026,2:00PM-3:50PM,R,0,ECS 334,"Hannum, Andrew T.",16,13,,,,,
