@@ -131,9 +131,9 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 21,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 20
   },
   {
     "crn": "3693",
@@ -182,9 +182,9 @@
     "room": "ECS 200",
     "instructor": "Sinclair, Jordan",
     "seats": 30,
-    "enrolled": 29,
+    "enrolled": 28,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 29
+    "total_enrollment": 28
   },
   {
     "crn": "4622",
@@ -641,9 +641,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 27,
-    "enrolled": 25,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 24
   },
   {
     "crn": "4629",
