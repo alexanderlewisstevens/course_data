@@ -131,9 +131,9 @@
     "room": "ECS 401",
     "instructor": "Albow, Mohammed M.",
     "seats": 30,
-    "enrolled": 20,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 21
   },
   {
     "crn": "3693",
@@ -148,9 +148,9 @@
     "room": "ECS 400",
     "instructor": "Stevens, Alexander L.",
     "seats": 25,
-    "enrolled": 28,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 28
+    "total_enrollment": 27
   },
   {
     "crn": "3044",
@@ -165,9 +165,9 @@
     "room": "ECS 200",
     "instructor": "Tazi, Faiza",
     "seats": 32,
-    "enrolled": 21,
+    "enrolled": 22,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 22
   },
   {
     "crn": "4621",
@@ -267,9 +267,9 @@
     "room": "ECS 301",
     "instructor": "Stevens, Alexander L.",
     "seats": 34,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "3653",
@@ -335,9 +335,9 @@
     "room": "ECS 300",
     "instructor": "Anjum, Iffat",
     "seats": 40,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "3304",
