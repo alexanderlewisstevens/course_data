@@ -403,9 +403,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 1,
-    "enrolled": 1,
+    "enrolled": 0,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 0
   },
   {
     "crn": "3676",
@@ -471,9 +471,9 @@
     "room": "ECS 410",
     "instructor": "Xie, Benjamin X.",
     "seats": 12,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "2899",
@@ -761,8 +761,8 @@
     "instructor": "Xie, Benjamin X.",
     "seats": 13,
     "enrolled": 1,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 9
+    "crosslisted_enrollment": 9,
+    "total_enrollment": 10
   },
   {
     "crn": "3317",
@@ -794,9 +794,9 @@
     "room": "ECS 401",
     "instructor": "Dalton, Donald A.",
     "seats": 30,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "3047",
