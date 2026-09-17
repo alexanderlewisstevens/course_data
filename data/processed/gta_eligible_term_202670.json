@@ -624,9 +624,9 @@
     "room": "CMK 101",
     "instructor": "Hu, Andrew J.",
     "seats": 30,
-    "enrolled": 19,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "4628",
@@ -641,9 +641,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 27,
-    "enrolled": 23,
+    "enrolled": 24,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 23
+    "total_enrollment": 24
   },
   {
     "crn": "4629",
