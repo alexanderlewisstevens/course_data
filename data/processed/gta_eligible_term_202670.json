@@ -114,9 +114,9 @@
     "room": "ECS 200",
     "instructor": "Hu, Andrew J.",
     "seats": 35,
-    "enrolled": 31,
+    "enrolled": 30,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 31
+    "total_enrollment": 30
   },
   {
     "crn": "2857",
@@ -391,23 +391,6 @@
     "total_enrollment": 9
   },
   {
-    "crn": "5630",
-    "course": "COMP 3009",
-    "section": "1",
-    "title": "Applied Math for DS and AI",
-    "course_type": "Online/Distance",
-    "meeting_dates": "08-SEP-2026 to 20-NOV-2026",
-    "time": "7:00PM-8:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "Kossek, Wojciech K.",
-    "seats": 1,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "3676",
     "course": "COMP 3100",
     "section": "2",
@@ -421,8 +404,8 @@
     "instructor": "Corral Yanez, Ericka M.",
     "seats": 20,
     "enrolled": 17,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 18
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 19
   },
   {
     "crn": "3815",
@@ -489,8 +472,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 28,
     "enrolled": 18,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 18
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 19
   },
   {
     "crn": "5131",
@@ -658,9 +641,9 @@
     "room": "ECS 300",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 21,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 20
   },
   {
     "crn": "3675",
@@ -675,9 +658,9 @@
     "room": "ECS 400",
     "instructor": "Corral Yanez, Ericka M.",
     "seats": 4,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 17,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "3545",
@@ -777,9 +760,9 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 4,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 18,
-    "total_enrollment": 18
+    "total_enrollment": 19
   },
   {
     "crn": "4632",
