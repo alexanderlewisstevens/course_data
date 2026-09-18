@@ -607,9 +607,9 @@
     "room": "CMK 101",
     "instructor": "Hu, Andrew J.",
     "seats": 30,
-    "enrolled": 20,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 20
+    "total_enrollment": 21
   },
   {
     "crn": "4628",
