@@ -10,7 +10,7 @@
     "days": "",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Sinclair, Jordan",
     "seats": 30,
     "enrolled": 4,
     "crosslisted_enrollment": 0,
@@ -27,7 +27,7 @@
     "days": "M,W",
     "hours": "4",
     "room": "ECS 200",
-    "instructor": "",
+    "instructor": "Dalton, Donald A.",
     "seats": 30,
     "enrolled": 12,
     "crosslisted_enrollment": 0,
@@ -44,11 +44,11 @@
     "days": "R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Kossek, Wojciech K.",
     "seats": 5,
     "enrolled": 5,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 11
   },
   {
     "crn": "1352",
@@ -61,11 +61,11 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 201",
-    "instructor": "",
+    "instructor": "Hannum, Andrew T.",
     "seats": 5,
     "enrolled": 3,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "crosslisted_enrollment": 15,
+    "total_enrollment": 18
   },
   {
     "crn": "1342",
@@ -78,7 +78,7 @@
     "days": "W",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Sawle, Paul L.",
     "seats": 25,
     "enrolled": 16,
     "crosslisted_enrollment": 0,
@@ -95,11 +95,11 @@
     "days": "R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Kossek, Wojciech K.",
     "seats": 25,
     "enrolled": 6,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "crosslisted_enrollment": 5,
+    "total_enrollment": 11
   },
   {
     "crn": "1344",
@@ -129,7 +129,7 @@
     "days": "T",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Mashinchi, Navid",
     "seats": 25,
     "enrolled": 17,
     "crosslisted_enrollment": 0,
@@ -146,7 +146,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 200",
-    "instructor": "",
+    "instructor": "Evans, Nathan S.",
     "seats": 20,
     "enrolled": 16,
     "crosslisted_enrollment": 0,
@@ -163,10 +163,10 @@
     "days": "T,R",
     "hours": "4",
     "room": "ECS 201",
-    "instructor": "",
+    "instructor": "Hannum, Andrew T.",
     "seats": 20,
     "enrolled": 15,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "crosslisted_enrollment": 3,
+    "total_enrollment": 18
   }
 ]
