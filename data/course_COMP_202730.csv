@@ -11,7 +11,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202730,ALL,COMP,Computer Science,3169,COMP 2361,2,Systems I,Lecture/Lab,29-MAR-2027 to 10-JUN-2027,2:00PM-3:50PM,"M,W",4,,"Albow, Mohammed M.",30,0,,,,,
 202730,ALL,COMP,Computer Science,3706,COMP 2362,1,Systems II,Lecture,29-MAR-2027 to 10-JUN-2027,,,4,,"Stevenson, Daniel E.",30,0,,,,,
 202730,ALL,COMP,Computer Science,3523,COMP 2370,1,Data Struct. & Algorithms II,Lecture,29-MAR-2027 to 10-JUN-2027,10:00AM-11:50AM,"T,R",4,,"Stevens, Alexander L.",0,0,,,,,
-202730,ALL,COMP,Computer Science,3524,COMP 3100,1,Human-Computer Interaction,Lecture,29-MAR-2027 to 10-JUN-2027,2:00PM-3:50PM,"M,W",4,,"Xie, Benjamin X.",30,0,,,,,
+202730,ALL,COMP,Computer Science,3524,COMP 3100,1,Human-Computer Interaction,Lecture,29-MAR-2027 to 10-JUN-2027,2:00PM-3:50PM,"M,W",4,,,30,0,,,,,
 202730,ALL,COMP,Computer Science,3703,COMP 3100,2,Human-Computer Interaction,Lecture,29-MAR-2027 to 10-JUN-2027,10:00AM-11:50AM,"M,W",4,,"Xie, Benjamin X.",0,0,,,,,
 202730,ALL,COMP,Computer Science,2160,COMP 3351,1,Programming Languages,Lecture,29-MAR-2027 to 10-JUN-2027,10:00AM-11:50AM,"T,R",4,,"Stevenson, Daniel E.",36,0,,,,,
 202730,ALL,COMP,Computer Science,2639,COMP 3356,1,Introductory C Programming,Lecture/Lab,29-MAR-2027 to 10-JUN-2027,7:00PM-8:50PM,"M,W",4,,,25,0,,,,,
