@@ -10405,7 +10405,7 @@
     "room": "ECS 301",
     "instructor": "Stevens, Alexander L.",
     "seats": 34,
-    "enrolled": 23,
+    "enrolled": 22,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "T",
@@ -10442,7 +10442,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 34,
-    "total_enrollment": 23,
+    "total_enrollment": 22,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3075",
     "conflicts": "2855,2860,3299,3300,5416"
