@@ -10815,7 +10815,7 @@
     "room": "ECS 358",
     "instructor": "Dunagan, Ryan A.",
     "seats": 15,
-    "enrolled": 9,
+    "enrolled": 10,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "6:00PM-7:50PM",
     "exam_days": "T",
@@ -10852,7 +10852,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 15,
-    "total_enrollment": 9,
+    "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3538",
     "conflicts": "4626,4627,4628,4631,4632,5170,5422"
