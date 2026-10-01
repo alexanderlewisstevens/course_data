@@ -1017,7 +1017,7 @@
     "room": "OLIN 103",
     "instructor": "Stevenson, Daniel E.",
     "seats": 15,
-    "enrolled": 9,
+    "enrolled": 8,
     "exam_meeting_dates": "18-NOV-2026 to 18-NOV-2026",
     "exam_time": "4:00PM-5:50PM",
     "exam_days": "W",
@@ -1054,7 +1054,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 15,
-    "total_enrollment": 9,
+    "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3204",
     "conflicts": "2878,2879,3047,3545"
