@@ -56,7 +56,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3651",
-    "conflicts": "2822,3035,3881"
+    "conflicts": "2822,3035,3881,4883"
   },
   {
     "term": "202710",
@@ -69,11 +69,11 @@
     "title": "Analytical Inquiry I",
     "course_type": "Lecture",
     "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "2:00PM-3:50PM",
+    "time": "12:00PM-1:50PM",
     "days": "T,R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Sinclair, Jordan",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -83,10 +83,10 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
       },
       "days": {
         "list": [
@@ -100,10 +100,10 @@
         "end": "2027-03-19"
       }
     },
-    "time_start_24": "14:00",
-    "time_end_24": "15:50",
-    "time_start_minutes": 840,
-    "time_end_minutes": 950,
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
@@ -115,7 +115,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4373",
-    "conflicts": "2819,2820,3062,3653"
+    "conflicts": "4871"
   },
   {
     "term": "202710",
@@ -174,7 +174,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4870",
-    "conflicts": "1318,2827,3654"
+    "conflicts": "1318,2827"
   },
   {
     "term": "202710",
@@ -185,14 +185,14 @@
     "course": "COMP 1112",
     "section": "2",
     "title": "Electronics for the Arts 2",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lab",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "12:00PM-1:50PM",
+    "days": "R",
     "hours": "4",
     "room": "",
-    "instructor": "",
-    "seats": 0,
+    "instructor": "Hannum, Andrew T.",
+    "seats": 16,
     "enrolled": 0,
     "exam_meeting_dates": "",
     "exam_time": "",
@@ -201,36 +201,38 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2027-01-04",
+        "end": "2027-03-19"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
-    "gta_eligible": false,
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
-    "total_seats": 0,
+    "total_seats": 16,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4871",
-    "conflicts": ""
+    "conflicts": "4373"
   },
   {
     "term": "202710",
@@ -241,13 +243,13 @@
     "course": "COMP 1112",
     "section": "3",
     "title": "Electronics for the Arts 2",
-    "course_type": "",
-    "meeting_dates": "",
-    "time": "",
-    "days": "",
+    "course_type": "Lab",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "2:00PM-3:50PM",
+    "days": "R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Hannum, Andrew T.",
     "seats": 0,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -257,28 +259,30 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "",
-        "end_24": "",
-        "start_minutes": null,
-        "end_minutes": null
+        "start_24": "14:00",
+        "end_24": "15:50",
+        "start_minutes": 840,
+        "end_minutes": 950
       },
       "days": {
-        "list": [],
-        "canonical": ""
+        "list": [
+          "R"
+        ],
+        "canonical": "R"
       },
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2027-01-04",
+        "end": "2027-03-19"
       }
     },
-    "time_start_24": "",
-    "time_end_24": "",
-    "time_start_minutes": null,
-    "time_end_minutes": null,
-    "days_canonical": "",
-    "days_list": "",
-    "date_start": "",
-    "date_end": "",
+    "time_start_24": "14:00",
+    "time_end_24": "15:50",
+    "time_start_minutes": 840,
+    "time_end_minutes": 950,
+    "days_canonical": "R",
+    "days_list": "R",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -286,7 +290,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4872",
-    "conflicts": ""
+    "conflicts": "2819,2820,3062"
   },
   {
     "term": "202710",
@@ -345,7 +349,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2819",
-    "conflicts": "3062,3653,4373"
+    "conflicts": "3062,4872"
   },
   {
     "term": "202710",
@@ -404,7 +408,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2820",
-    "conflicts": "3062,3653,4373"
+    "conflicts": "3062,4872"
   },
   {
     "term": "202710",
@@ -421,7 +425,7 @@
     "days": "T,R",
     "hours": "3",
     "room": "",
-    "instructor": "Xie, Benjamin X.",
+    "instructor": "Sinclair, Jordan",
     "seats": 27,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -463,7 +467,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2822",
-    "conflicts": "3035,3651,3881"
+    "conflicts": "3035,3651,3881,4883"
   },
   {
     "term": "202710",
@@ -581,7 +585,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2827",
-    "conflicts": "1318,3654,4870"
+    "conflicts": "1318,4870"
   },
   {
     "term": "202710",
@@ -640,7 +644,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3062",
-    "conflicts": "2819,2820,3653,4373"
+    "conflicts": "2819,2820,4872"
   },
   {
     "term": "202710",
@@ -758,7 +762,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2638",
-    "conflicts": "3234,3656"
+    "conflicts": "3234,3656,4884"
   },
   {
     "term": "202710",
@@ -817,7 +821,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3035",
-    "conflicts": "2822,3651,3881"
+    "conflicts": "2822,3651,3881,4883"
   },
   {
     "term": "202710",
@@ -932,7 +936,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1318",
-    "conflicts": "2827,3654,4870"
+    "conflicts": "2827,4870"
   },
   {
     "term": "202710",
@@ -1008,7 +1012,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "",
-    "instructor": "Anjum, Iffat",
+    "instructor": "Hu, Andrew J.",
     "seats": 28,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -1044,12 +1048,12 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-19",
     "gta_eligible": true,
-    "crosslist": "",
+    "crosslisted_crn": "3881,4883",
+    "crosslist": "4883",
     "lower_crosslist": true,
-    "total_seats": 28,
+    "total_seats": 34,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3881",
     "conflicts": "2822,3035,3651"
   },
   {
@@ -1162,12 +1166,12 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-19",
     "gta_eligible": true,
-    "crosslist": "",
+    "crosslisted_crn": "3234,4884",
+    "crosslist": "4884",
     "lower_crosslist": true,
-    "total_seats": 29,
+    "total_seats": 37,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3234",
     "conflicts": "2638,3656"
   },
   {
@@ -1303,7 +1307,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -1470,124 +1474,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "3653",
-    "course": "COMP 3705",
-    "section": "6",
-    "title": "Topics in Computer Science",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "2:00PM-3:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "14:00",
-    "time_end_24": "15:50",
-    "time_start_minutes": 840,
-    "time_end_minutes": 950,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3653",
-    "conflicts": "2819,2820,3062,4373"
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "3654",
-    "course": "COMP 3705",
-    "section": "7",
-    "title": "Topics in Computer Science",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "2:00PM-3:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "14:00",
-        "end_24": "15:50",
-        "start_minutes": 840,
-        "end_minutes": 950
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "14:00",
-    "time_end_24": "15:50",
-    "time_start_minutes": 840,
-    "time_end_minutes": 950,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3654",
-    "conflicts": "1318,2827,4870"
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "3656",
     "course": "COMP 3705",
     "section": "10",
@@ -1640,7 +1526,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3656",
-    "conflicts": "2638,3234"
+    "conflicts": "2638,3234,4884"
   },
   {
     "term": "202710",
@@ -2888,6 +2774,124 @@
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2630",
     "conflicts": "3490,3846,3848"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4883",
+    "course": "COMP 4352",
+    "section": "1",
+    "title": "Elements of Compiler Design",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "10:00AM-11:50AM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Hu, Andrew J.",
+    "seats": 6,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "10:00",
+        "end_24": "11:50",
+        "start_minutes": 600,
+        "end_minutes": 710
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-19"
+      }
+    },
+    "time_start_24": "10:00",
+    "time_end_24": "11:50",
+    "time_start_minutes": 600,
+    "time_end_minutes": 710,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": true,
+    "crosslisted_crn": "3881,4883",
+    "crosslist": "3881",
+    "lower_crosslist": false,
+    "total_seats": 34,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "conflicts": "2822,3035,3651"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4884",
+    "course": "COMP 4410",
+    "section": "1",
+    "title": "Web Programming I",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Hannum, Andrew T.",
+    "seats": 8,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-19"
+      }
+    },
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": true,
+    "crosslisted_crn": "3234,4884",
+    "crosslist": "3234",
+    "lower_crosslist": false,
+    "total_seats": 37,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "conflicts": "2638,3656"
   },
   {
     "term": "202710",
