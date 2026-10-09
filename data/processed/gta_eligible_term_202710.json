@@ -17,23 +17,6 @@
     "total_enrollment": 0
   },
   {
-    "crn": "4373",
-    "course": "COMP 1101",
-    "section": "3",
-    "title": "Analytical Inquiry I",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "12:00PM-1:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS",
-    "instructor": "Sinclair, Jordan",
-    "seats": 30,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "4870",
     "course": "COMP 1112",
     "section": "1",

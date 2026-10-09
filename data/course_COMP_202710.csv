@@ -1,6 +1,6 @@
 term,college,subject_code,subject_label,crn,course,section,title,course_type,meeting_dates,time,days,hours,room,instructor,seats,enrolled,exam_meeting_dates,exam_time,exam_days,exam_room,description
 202710,ALL,COMP,Computer Science,3651,COMP 1101,1,Analytical Inquiry I,Lecture,04-JAN-2027 to 19-MAR-2027,10:00AM-11:50AM,"T,R",4,,"Gao, Sky T.",30,0,,,,,
-202710,ALL,COMP,Computer Science,4373,COMP 1101,3,Analytical Inquiry I,Lecture,04-JAN-2027 to 19-MAR-2027,12:00PM-1:50PM,"T,R",4,ECS,"Sinclair, Jordan",30,0,,,,,
+202710,ALL,COMP,Computer Science,4373,COMP 1101,3,Analytical Inquiry I,Lecture,04-JAN-2027 to 19-MAR-2027,12:00PM-1:50PM,"T,R",4,ECS,"Sinclair, Jordan",0,0,,,,,
 202710,ALL,COMP,Computer Science,4870,COMP 1112,1,Electronics for the Arts 2,Lecture,04-JAN-2027 to 19-MAR-2027,2:00PM-3:50PM,"M,W",4,,"Hannum, Andrew T.",32,0,,,,,
 202710,ALL,COMP,Computer Science,2819,COMP 1202,1,Intro. to Computer Science II,Lecture/Lab,04-JAN-2027 to 19-MAR-2027,2:00PM-2:50PM,"T,R",2,ECS 201,"Hu, Andrew J.",30,0,,,,,
 202710,ALL,COMP,Computer Science,2820,COMP 1202,2,Intro. to Computer Science II,Lecture/Lab,04-JAN-2027 to 19-MAR-2027,3:00PM-3:50PM,"T,R",2,ECS 201,"Hu, Andrew J.",30,0,,,,,
