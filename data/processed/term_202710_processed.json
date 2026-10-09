@@ -14,7 +14,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -997,7 +997,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3030",
-    "conflicts": "2122,2455,3275,3503,3935,4376,4944"
+    "conflicts": "2122,2455,3275,3503,3935,4889,4944"
   },
   {
     "term": "202710",
@@ -1115,7 +1115,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2455,3030,3275,3490,3503,4376,4944"
+    "conflicts": "2455,3030,3275,3490,3503,4889,4944"
   },
   {
     "term": "202710",
@@ -1168,13 +1168,13 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-19",
     "gta_eligible": true,
-    "crosslist": "",
+    "crosslisted_crn": "3846,3848",
+    "crosslist": "3846",
     "lower_crosslist": true,
-    "total_seats": 10,
+    "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3848",
-    "conflicts": "2630,2631,3490,3846,4375,4889"
+    "conflicts": "2630,2631,3490,4375,4376"
   },
   {
     "term": "202710",
@@ -1286,13 +1286,13 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-19",
     "gta_eligible": true,
-    "crosslisted_crn": "3275,3503",
-    "crosslist": "3503",
+    "crosslist": "",
     "lower_crosslist": true,
-    "total_seats": 40,
+    "total_seats": 15,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2122,2455,3030,3490,3935,4376,4944"
+    "crosslisted_crn": "3275",
+    "conflicts": "2122,2455,3030,3490,3503,3935,4889,4944"
   },
   {
     "term": "202710",
@@ -2158,7 +2158,7 @@
     "title": "Foundations in Discrete/Algo",
     "course_type": "Lecture",
     "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "7:00PM-8:50PM",
+    "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
     "room": "",
@@ -2172,10 +2172,10 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
       },
       "days": {
         "list": [
@@ -2189,10 +2189,10 @@
         "end": "2027-03-19"
       }
     },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
@@ -2204,7 +2204,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4889",
-    "conflicts": "2630,2631,3490,3846,3848,4375"
+    "conflicts": "2122,2455,3030,3275,3490,3503,3935,4944"
   },
   {
     "term": "202710",
@@ -2262,7 +2262,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4375",
-    "conflicts": "2631,3490,3846,3848,4889"
+    "conflicts": "2631,3490,3846,3848,4376"
   },
   {
     "term": "202710",
@@ -2275,11 +2275,11 @@
     "title": "Python Software Development",
     "course_type": "Lecture",
     "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "5:00PM-6:50PM",
+    "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Gao, Sky T.",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -2289,10 +2289,10 @@
     "description": "",
     "normalized": {
       "time": {
-        "start_24": "17:00",
-        "end_24": "18:50",
-        "start_minutes": 1020,
-        "end_minutes": 1130
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
       },
       "days": {
         "list": [
@@ -2306,10 +2306,10 @@
         "end": "2027-03-19"
       }
     },
-    "time_start_24": "17:00",
-    "time_end_24": "18:50",
-    "time_start_minutes": 1020,
-    "time_end_minutes": 1130,
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
@@ -2321,7 +2321,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4376",
-    "conflicts": "2122,2455,3030,3275,3490,3503,3935,4944"
+    "conflicts": "2630,2631,3490,3846,3848,4375"
   },
   {
     "term": "202710",
@@ -2379,7 +2379,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4944",
-    "conflicts": "2122,3030,3275,3490,3503,3935,4376"
+    "conflicts": "2122,3030,3275,3490,3503,3935,4889"
   },
   {
     "term": "202710",
@@ -2613,7 +2613,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2630",
-    "conflicts": "3490,3846,3848,4889"
+    "conflicts": "3490,3846,3848,4376"
   },
   {
     "term": "202710",
@@ -2789,7 +2789,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2631",
-    "conflicts": "3490,3846,3848,4375,4889"
+    "conflicts": "3490,3846,3848,4375,4376"
   },
   {
     "term": "202710",
@@ -2848,7 +2848,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2455,3030,3275,3490,3503,4376,4944"
+    "conflicts": "2455,3030,3275,3490,3503,4889,4944"
   },
   {
     "term": "202710",
@@ -3134,7 +3134,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2455",
-    "conflicts": "2122,3030,3275,3490,3503,3935,4376"
+    "conflicts": "2122,3030,3275,3490,3503,3935,4889"
   },
   {
     "term": "202710",
@@ -3151,7 +3151,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "",
-    "instructor": "",
+    "instructor": "Petrehn, Sydney M.",
     "seats": 20,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -3187,13 +3187,13 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-19",
     "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 20,
+    "crosslisted_crn": "3846,3848",
+    "crosslist": "3848",
+    "lower_crosslist": false,
+    "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3846",
-    "conflicts": "2630,2631,3490,3848,4375,4889"
+    "conflicts": "2630,2631,3490,4375,4376"
   },
   {
     "term": "202710",
@@ -3210,7 +3210,7 @@
     "days": "T,R",
     "hours": "4",
     "room": "",
-    "instructor": "Dewri, Rinku",
+    "instructor": "",
     "seats": 25,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -3246,13 +3246,13 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-19",
     "gta_eligible": true,
-    "crosslisted_crn": "3275,3503",
-    "crosslist": "3275",
-    "lower_crosslist": false,
-    "total_seats": 40,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2122,2455,3030,3490,3935,4376,4944"
+    "crosslisted_crn": "3503",
+    "conflicts": "2122,2455,3030,3275,3490,3935,4889,4944"
   },
   {
     "term": "202710",
