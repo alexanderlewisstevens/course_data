@@ -12663,7 +12663,7 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 20,
-    "enrolled": 16,
+    "enrolled": 15,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -12699,7 +12699,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 16,
+    "total_enrollment": 15,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "5150",
     "conflicts": "2305,3947,3948,4629"
@@ -13465,7 +13465,7 @@
     "section": "1",
     "title": "Analytical Inquiry I",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
@@ -13494,7 +13494,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "10:00",
@@ -13504,7 +13504,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -13519,71 +13519,12 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "4373",
-    "course": "COMP 1101",
-    "section": "3",
-    "title": "Analytical Inquiry I",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "12:00PM-1:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "ECS",
-    "instructor": "Sinclair, Jordan",
-    "seats": 0,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "12:00",
-        "end_24": "13:50",
-        "start_minutes": 720,
-        "end_minutes": 830
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "12:00",
-    "time_end_24": "13:50",
-    "time_start_minutes": 720,
-    "time_end_minutes": 830,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": false,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 0,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "4373",
-    "conflicts": ""
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "4870",
     "course": "COMP 1112",
     "section": "1",
     "title": "Electronics for the Arts 2",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
@@ -13612,7 +13553,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "14:00",
@@ -13622,7 +13563,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -13642,7 +13583,7 @@
     "section": "1",
     "title": "Intro. to Computer Science II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "2:00PM-2:50PM",
     "days": "T,R",
     "hours": "2",
@@ -13671,7 +13612,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "14:00",
@@ -13681,7 +13622,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -13701,7 +13642,7 @@
     "section": "2",
     "title": "Intro. to Computer Science II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "3:00PM-3:50PM",
     "days": "T,R",
     "hours": "2",
@@ -13730,7 +13671,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "15:00",
@@ -13740,7 +13681,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -13760,7 +13701,7 @@
     "section": "1",
     "title": "Introduction to Programming I",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "3",
@@ -13789,7 +13730,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "10:00",
@@ -13799,7 +13740,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -13819,7 +13760,7 @@
     "section": "1",
     "title": "Introduction to Programming II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "3",
@@ -13848,7 +13789,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "10:00",
@@ -13858,7 +13799,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -13878,7 +13819,7 @@
     "section": "5",
     "title": "Introduction to Programming II",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "3",
@@ -13907,7 +13848,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "14:00",
@@ -13917,7 +13858,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -13937,7 +13878,7 @@
     "section": "1",
     "title": "Discrete Structures in CS",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "2:00PM-3:50PM",
     "days": "T,R",
     "hours": "4",
@@ -13966,7 +13907,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "14:00",
@@ -13976,7 +13917,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -13996,7 +13937,7 @@
     "section": "1",
     "title": "Data Struct. & Algorithms II",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "10:00AM-11:50AM",
     "days": "M,W",
     "hours": "4",
@@ -14025,7 +13966,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "10:00",
@@ -14035,7 +13976,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14055,7 +13996,7 @@
     "section": "2",
     "title": "Data Struct. & Algorithms II",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -14084,7 +14025,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "12:00",
@@ -14094,7 +14035,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14114,7 +14055,7 @@
     "section": "1",
     "title": "Object-Oriented Software Dev.",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
@@ -14143,7 +14084,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "10:00",
@@ -14153,7 +14094,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14173,7 +14114,7 @@
     "section": "1",
     "title": "Unix Command-Line Bootcamp",
     "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "",
     "days": "",
     "hours": "1",
@@ -14199,7 +14140,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "",
@@ -14209,7 +14150,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14229,7 +14170,7 @@
     "section": "1",
     "title": "Discrete Structures",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
@@ -14258,7 +14199,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "14:00",
@@ -14268,7 +14209,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14288,7 +14229,7 @@
     "section": "1",
     "title": "Parallel & Distrib Comp DSAI",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
@@ -14317,7 +14258,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -14327,7 +14268,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "3034,3928",
     "crosslist": "3034",
@@ -14347,7 +14288,7 @@
     "section": "1",
     "title": "Elements of Compiler Design",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
@@ -14376,7 +14317,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "10:00",
@@ -14386,7 +14327,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "3881,4883",
     "crosslist": "4883",
@@ -14406,7 +14347,7 @@
     "section": "1",
     "title": "Software Engineering I",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "4:00PM-5:50PM",
     "days": "T,R",
     "hours": "4",
@@ -14435,7 +14376,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "16:00",
@@ -14445,7 +14386,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14453,7 +14394,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3030",
-    "conflicts": "2122,2455,3275,3503,3935,4889,4944"
+    "conflicts": "2122,2455,3275,3503,3935,4376,4944"
   },
   {
     "term": "202710",
@@ -14465,7 +14406,7 @@
     "section": "1",
     "title": "Web Programming I",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -14494,7 +14435,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "12:00",
@@ -14504,7 +14445,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "3234,4884",
     "crosslist": "4884",
@@ -14524,7 +14465,7 @@
     "section": "1",
     "title": "Probability and Statistics 1",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
@@ -14553,7 +14494,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -14563,7 +14504,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "2122,3935",
     "crosslist": "2122",
@@ -14571,7 +14512,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2455,3030,3275,3490,3503,4889,4944"
+    "conflicts": "2455,3030,3275,3490,3503,4376,4944"
   },
   {
     "term": "202710",
@@ -14583,7 +14524,7 @@
     "section": "1",
     "title": "Topics-Artificial Intelligence",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
@@ -14612,7 +14553,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "19:00",
@@ -14622,7 +14563,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "3846,3848",
     "crosslist": "3846",
@@ -14630,7 +14571,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2630,2631,3490,4375,4376"
+    "conflicts": "2630,2631,3490,4375,4889"
   },
   {
     "term": "202710",
@@ -14642,7 +14583,7 @@
     "section": "1",
     "title": "Topics in Computer Science",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
@@ -14671,7 +14612,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -14681,7 +14622,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14701,7 +14642,7 @@
     "section": "2",
     "title": "Topics in Computer Science",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
@@ -14730,7 +14671,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -14740,7 +14681,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14748,7 +14689,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3275",
-    "conflicts": "2122,2455,3030,3490,3503,3935,4889,4944"
+    "conflicts": "2122,2455,3030,3490,3503,3935,4376,4944"
   },
   {
     "term": "202710",
@@ -14760,7 +14701,7 @@
     "section": "10",
     "title": "Topics in Computer Science",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -14789,7 +14730,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "12:00",
@@ -14799,7 +14740,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14819,7 +14760,7 @@
     "section": "1",
     "title": "Intro to Game Programming",
     "course_type": "Lecture/Lab",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "6:00PM-7:50PM",
     "days": "M,W",
     "hours": "4",
@@ -14848,7 +14789,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "18:00",
@@ -14858,7 +14799,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14878,7 +14819,7 @@
     "section": "1",
     "title": "Game Programming II",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "6:00PM-7:50PM",
     "days": "T,R",
     "hours": "4",
@@ -14907,7 +14848,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "18:00",
@@ -14917,7 +14858,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14937,7 +14878,7 @@
     "section": "1",
     "title": "Game Capstone I",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "6:00PM-8:50PM",
     "days": "W",
     "hours": "4",
@@ -14965,7 +14906,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "18:00",
@@ -14975,7 +14916,7 @@
     "days_canonical": "W",
     "days_list": "W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -14995,7 +14936,7 @@
     "section": "0",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "",
     "days": "",
     "hours": "0",
@@ -15021,7 +14962,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "",
@@ -15031,7 +14972,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15107,7 +15048,7 @@
     "section": "2",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "",
     "days": "",
     "hours": "0",
@@ -15133,7 +15074,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "",
@@ -15143,7 +15084,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15163,7 +15104,7 @@
     "section": "6",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "",
     "days": "",
     "hours": "0",
@@ -15189,7 +15130,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "",
@@ -15199,7 +15140,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15219,7 +15160,7 @@
     "section": "11",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "",
     "days": "",
     "hours": "4",
@@ -15245,7 +15186,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "",
@@ -15255,7 +15196,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15275,7 +15216,7 @@
     "section": "12",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "6:00PM-10:00PM",
     "days": "F",
     "hours": "0",
@@ -15303,7 +15244,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "18:00",
@@ -15313,7 +15254,7 @@
     "days_canonical": "F",
     "days_list": "F",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15333,7 +15274,7 @@
     "section": "20",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "",
     "days": "",
     "hours": "0",
@@ -15359,7 +15300,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "",
@@ -15369,7 +15310,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15389,7 +15330,7 @@
     "section": "23",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "",
     "days": "",
     "hours": "0",
@@ -15415,7 +15356,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "",
@@ -15425,7 +15366,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15445,7 +15386,7 @@
     "section": "24",
     "title": "Internship/Co-Op in Computing",
     "course_type": "Internship/Externship/Coop Ed.",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "",
     "days": "",
     "hours": "0",
@@ -15471,7 +15412,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "",
@@ -15481,7 +15422,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15613,12 +15554,129 @@
     "section": "1",
     "title": "Foundations in Discrete/Algo",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "5:00PM-6:50PM",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
+    "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
     "room": "",
     "instructor": "Stevens, Alexander L.",
+    "seats": 30,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "T",
+          "R"
+        ],
+        "canonical": "TR"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-15"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "TR",
+    "days_list": "T,R",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-15",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 30,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4889",
+    "conflicts": "2630,2631,3490,3846,3848,4375"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4375",
+    "course": "COMP 4005",
+    "section": "1",
+    "title": "Foundation: Python Programming",
+    "course_type": "Online/Distance",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
+    "time": "7:00PM-8:50PM",
+    "days": "T",
+    "hours": "4",
+    "room": "",
+    "instructor": "Sinclair, Jordan",
+    "seats": 25,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "19:00",
+        "end_24": "20:50",
+        "start_minutes": 1140,
+        "end_minutes": 1250
+      },
+      "days": {
+        "list": [
+          "T"
+        ],
+        "canonical": "T"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-15"
+      }
+    },
+    "time_start_24": "19:00",
+    "time_end_24": "20:50",
+    "time_start_minutes": 1140,
+    "time_end_minutes": 1250,
+    "days_canonical": "T",
+    "days_list": "T",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-15",
+    "gta_eligible": true,
+    "crosslist": "",
+    "lower_crosslist": true,
+    "total_seats": 25,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "crosslisted_crn": "4375",
+    "conflicts": "2631,3490,3846,3848,4889"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "4376",
+    "course": "COMP 4006",
+    "section": "1",
+    "title": "Python Software Development",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
+    "time": "5:00PM-6:50PM",
+    "days": "T,R",
+    "hours": "4",
+    "room": "",
+    "instructor": "Gao, Sky T.",
     "seats": 30,
     "enrolled": 0,
     "exam_meeting_dates": "",
@@ -15642,7 +15700,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -15652,124 +15710,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "4889",
-    "conflicts": "2122,2455,3030,3275,3490,3503,3935,4944"
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4375",
-    "course": "COMP 4005",
-    "section": "1",
-    "title": "Foundation: Python Programming",
-    "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "7:00PM-8:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "T"
-        ],
-        "canonical": "T"
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "T",
-    "days_list": "T",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": true,
-    "crosslist": "",
-    "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "4375",
-    "conflicts": "2631,3490,3846,3848,4376"
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
-    "crn": "4376",
-    "course": "COMP 4006",
-    "section": "1",
-    "title": "Python Software Development",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "7:00PM-8:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Gao, Sky T.",
-    "seats": 30,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "19:00",
-        "end_24": "20:50",
-        "start_minutes": 1140,
-        "end_minutes": 1250
-      },
-      "days": {
-        "list": [
-          "T",
-          "R"
-        ],
-        "canonical": "TR"
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "19:00",
-    "time_end_24": "20:50",
-    "time_start_minutes": 1140,
-    "time_end_minutes": 1250,
-    "days_canonical": "TR",
-    "days_list": "T,R",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15777,7 +15718,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4376",
-    "conflicts": "2630,2631,3490,3846,3848,4375"
+    "conflicts": "2122,2455,3030,3275,3490,3503,3935,4944"
   },
   {
     "term": "202710",
@@ -15789,7 +15730,7 @@
     "section": "2",
     "title": "Python Software Development",
     "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "R",
     "hours": "4",
@@ -15817,7 +15758,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -15827,7 +15768,7 @@
     "days_canonical": "R",
     "days_list": "R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15835,7 +15776,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4944",
-    "conflicts": "2122,3030,3275,3490,3503,3935,4889"
+    "conflicts": "2122,3030,3275,3490,3503,3935,4376"
   },
   {
     "term": "202710",
@@ -15847,7 +15788,7 @@
     "section": "1",
     "title": "Applied Math for DS and AI",
     "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "M",
     "hours": "4",
@@ -15875,7 +15816,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -15885,7 +15826,7 @@
     "days_canonical": "M",
     "days_list": "M",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15905,7 +15846,7 @@
     "section": "2",
     "title": "Applied Math for DS and AI",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
@@ -15934,7 +15875,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -15944,7 +15885,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -15964,7 +15905,7 @@
     "section": "1",
     "title": "Parallel & Distrib Comp DSAI",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "M,W",
     "hours": "4",
@@ -15993,7 +15934,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -16003,7 +15944,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "3034,3928",
     "crosslist": "3928",
@@ -16023,7 +15964,7 @@
     "section": "101",
     "title": "Parallel & Distrib Comp DSAI",
     "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "7:00PM-8:50PM",
     "days": "R",
     "hours": "4",
@@ -16051,7 +15992,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "19:00",
@@ -16061,7 +16002,7 @@
     "days_canonical": "R",
     "days_list": "R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -16069,7 +16010,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2630",
-    "conflicts": "3490,3846,3848,4376"
+    "conflicts": "3490,3846,3848,4889"
   },
   {
     "term": "202710",
@@ -16081,7 +16022,7 @@
     "section": "1",
     "title": "Elements of Compiler Design",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "10:00AM-11:50AM",
     "days": "T,R",
     "hours": "4",
@@ -16110,7 +16051,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "10:00",
@@ -16120,7 +16061,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "3881,4883",
     "crosslist": "3881",
@@ -16140,7 +16081,7 @@
     "section": "1",
     "title": "Web Programming I",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "12:00PM-1:50PM",
     "days": "M,W",
     "hours": "4",
@@ -16169,7 +16110,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "12:00",
@@ -16179,7 +16120,7 @@
     "days_canonical": "MW",
     "days_list": "M,W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "3234,4884",
     "crosslist": "3234",
@@ -16199,7 +16140,7 @@
     "section": "101",
     "title": "Machine Learning",
     "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "7:00PM-8:50PM",
     "days": "T",
     "hours": "4",
@@ -16227,7 +16168,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "19:00",
@@ -16237,7 +16178,7 @@
     "days_canonical": "T",
     "days_list": "T",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -16245,7 +16186,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2631",
-    "conflicts": "3490,3846,3848,4375,4376"
+    "conflicts": "3490,3846,3848,4375,4889"
   },
   {
     "term": "202710",
@@ -16257,7 +16198,7 @@
     "section": "1",
     "title": "Probability and Statistics 1",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
@@ -16286,7 +16227,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -16296,7 +16237,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "2122,3935",
     "crosslist": "3935",
@@ -16304,7 +16245,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2455,3030,3275,3490,3503,4889,4944"
+    "conflicts": "2455,3030,3275,3490,3503,4376,4944"
   },
   {
     "term": "202710",
@@ -16316,7 +16257,7 @@
     "section": "101",
     "title": "Probability and Statistics 1",
     "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "W",
     "hours": "4",
@@ -16344,7 +16285,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -16354,7 +16295,7 @@
     "days_canonical": "W",
     "days_list": "W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -16374,7 +16315,7 @@
     "section": "101",
     "title": "Probability and Statistics 2",
     "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "W",
     "hours": "4",
@@ -16402,7 +16343,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -16412,7 +16353,7 @@
     "days_canonical": "W",
     "days_list": "W",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
@@ -16544,7 +16485,7 @@
     "section": "101",
     "title": "Algorithms for DS & AI",
     "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "T",
     "hours": "4",
@@ -16572,7 +16513,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -16582,7 +16523,7 @@
     "days_canonical": "T",
     "days_list": "T",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -16590,7 +16531,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2455",
-    "conflicts": "2122,3030,3275,3490,3503,3935,4889"
+    "conflicts": "2122,3030,3275,3490,3503,3935,4376"
   },
   {
     "term": "202710",
@@ -16602,7 +16543,7 @@
     "section": "1",
     "title": "Adv Topics-Artificial Intell",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "7:00PM-8:50PM",
     "days": "T,R",
     "hours": "4",
@@ -16631,7 +16572,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "19:00",
@@ -16641,7 +16582,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslisted_crn": "3846,3848",
     "crosslist": "3848",
@@ -16649,7 +16590,7 @@
     "total_seats": 30,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "conflicts": "2630,2631,3490,4375,4376"
+    "conflicts": "2630,2631,3490,4375,4889"
   },
   {
     "term": "202710",
@@ -16661,7 +16602,7 @@
     "section": "3",
     "title": "Advanced Topics-Programming",
     "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "5:00PM-6:50PM",
     "days": "T,R",
     "hours": "4",
@@ -16690,7 +16631,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "17:00",
@@ -16700,7 +16641,7 @@
     "days_canonical": "TR",
     "days_list": "T,R",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": true,
     "crosslist": "",
     "lower_crosslist": true,
@@ -16708,7 +16649,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3503",
-    "conflicts": "2122,2455,3030,3275,3490,3935,4889,4944"
+    "conflicts": "2122,2455,3030,3275,3490,3935,4376,4944"
   },
   {
     "term": "202710",
@@ -16888,7 +16829,7 @@
     "section": "0",
     "title": "Independent Research",
     "course_type": "Independent Study/Research",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
     "time": "",
     "days": "",
     "hours": "1",
@@ -16914,7 +16855,7 @@
       },
       "dates": {
         "start": "2027-01-04",
-        "end": "2027-03-19"
+        "end": "2027-03-15"
       }
     },
     "time_start_24": "",
@@ -16924,7 +16865,7 @@
     "days_canonical": "",
     "days_list": "",
     "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
+    "date_end": "2027-03-15",
     "gta_eligible": false,
     "crosslist": "",
     "lower_crosslist": true,
