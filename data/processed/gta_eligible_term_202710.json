@@ -340,23 +340,6 @@
     "total_enrollment": 0
   },
   {
-    "crn": "3275",
-    "course": "COMP 3705",
-    "section": "2",
-    "title": "Topics in Computer Science",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
-    "time": "5:00PM-6:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Dewri, Rinku",
-    "seats": 15,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "3656",
     "course": "COMP 3705",
     "section": "10",
@@ -612,23 +595,6 @@
     "total_enrollment": 0
   },
   {
-    "crn": "2122",
-    "course": "COMP 4441",
-    "section": "1",
-    "title": "Probability and Statistics 1",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
-    "time": "5:00PM-6:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "",
-    "instructor": "Durso, Catherine S.",
-    "seats": 25,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "2454",
     "course": "COMP 4441",
     "section": "101",
@@ -675,23 +641,6 @@
     "room": "",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
-    "crn": "3503",
-    "course": "COMP 4705",
-    "section": "3",
-    "title": "Advanced Topics-Programming",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
-    "time": "5:00PM-6:50PM",
-    "days": "T,R",
-    "hours": "4",
-    "room": "",
-    "instructor": "",
-    "seats": 25,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
     "total_enrollment": 0
