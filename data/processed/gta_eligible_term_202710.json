@@ -578,23 +578,6 @@
     "total_enrollment": 0
   },
   {
-    "crn": "2631",
-    "course": "COMP 4432",
-    "section": "101",
-    "title": "Machine Learning",
-    "course_type": "Online/Distance",
-    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
-    "time": "7:00PM-8:50PM",
-    "days": "T",
-    "hours": "4",
-    "room": "",
-    "instructor": "Sawle, Paul L.",
-    "seats": 25,
-    "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
-  },
-  {
     "crn": "2454",
     "course": "COMP 4441",
     "section": "101",

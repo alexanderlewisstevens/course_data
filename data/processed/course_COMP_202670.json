@@ -1662,7 +1662,7 @@
     "room": "ECS 300",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
-    "enrolled": 7,
+    "enrolled": 6,
     "exam_meeting_dates": "17-NOV-2026 to 17-NOV-2026",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "T",
@@ -1700,7 +1700,7 @@
     "crosslist": "5132",
     "lower_crosslist": true,
     "total_seats": 20,
-    "total_enrollment": 13,
+    "total_enrollment": 12,
     "crosslisted_enrollment": 6,
     "conflicts": "2899,3317,4623,4624,5417"
   },
@@ -3488,8 +3488,8 @@
     "crosslist": "5131",
     "lower_crosslist": false,
     "total_seats": 20,
-    "total_enrollment": 13,
-    "crosslisted_enrollment": 7,
+    "total_enrollment": 12,
+    "crosslisted_enrollment": 6,
     "conflicts": "2899,3317,4623,4624,5417"
   },
   {

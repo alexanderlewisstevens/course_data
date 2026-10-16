@@ -488,9 +488,9 @@
     "room": "ECS 300",
     "instructor": "Lopez, Mario A.",
     "seats": 10,
-    "enrolled": 7,
+    "enrolled": 6,
     "crosslisted_enrollment": 6,
-    "total_enrollment": 13
+    "total_enrollment": 12
   },
   {
     "crn": "3947",
@@ -812,8 +812,8 @@
     "instructor": "Lopez, Mario A.",
     "seats": 10,
     "enrolled": 6,
-    "crosslisted_enrollment": 7,
-    "total_enrollment": 13
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 12
   },
   {
     "crn": "3948",
