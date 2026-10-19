@@ -14295,7 +14295,7 @@
     "room": "ECS 300",
     "instructor": "Hu, Andrew J.",
     "seats": 28,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "16-MAR-2027 to 16-MAR-2027",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
@@ -14333,7 +14333,7 @@
     "crosslist": "4883",
     "lower_crosslist": true,
     "total_seats": 34,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "conflicts": "2822,3035,3651"
   },
@@ -14413,7 +14413,7 @@
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
     "seats": 29,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "17-MAR-2027 to 17-MAR-2027",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "W",
@@ -14451,7 +14451,7 @@
     "crosslist": "4884",
     "lower_crosslist": true,
     "total_seats": 37,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "conflicts": "2638,3656"
   },
@@ -14472,7 +14472,7 @@
     "room": "ECS 300",
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -14510,7 +14510,7 @@
     "crosslist": "3846",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "conflicts": "2454,3490,4375,4889"
   },
@@ -15560,7 +15560,7 @@
     "room": "ECS 400",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -15597,7 +15597,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4376",
     "conflicts": "3030,3490,4381,4944"
@@ -15891,8 +15891,8 @@
     "crosslist": "3881",
     "lower_crosslist": false,
     "total_seats": 34,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 1,
     "conflicts": "2822,3035,3651"
   },
   {
@@ -15950,8 +15950,8 @@
     "crosslist": "3234",
     "lower_crosslist": false,
     "total_seats": 37,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 1,
     "conflicts": "2638,3656"
   },
   {
@@ -16242,8 +16242,8 @@
     "crosslist": "3848",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 1,
     "conflicts": "2454,3490,4375,4889"
   },
   {

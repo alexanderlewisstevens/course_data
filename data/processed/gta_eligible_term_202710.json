@@ -250,9 +250,9 @@
     "room": "ECS 300",
     "instructor": "Hu, Andrew J.",
     "seats": 28,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3030",
@@ -284,9 +284,9 @@
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
     "seats": 29,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3848",
@@ -301,9 +301,9 @@
     "room": "ECS 300",
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4869",
@@ -437,9 +437,9 @@
     "room": "ECS 400",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4944",
@@ -523,8 +523,8 @@
     "instructor": "Hu, Andrew J.",
     "seats": 6,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 1
   },
   {
     "crn": "4884",
@@ -540,8 +540,8 @@
     "instructor": "Hannum, Andrew T.",
     "seats": 8,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 1
   },
   {
     "crn": "2454",
@@ -608,7 +608,7 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 1
   }
 ]
