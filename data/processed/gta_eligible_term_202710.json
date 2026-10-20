@@ -216,9 +216,9 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 40,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3928",
@@ -251,8 +251,8 @@
     "instructor": "Hu, Andrew J.",
     "seats": 28,
     "enrolled": 1,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 2
   },
   {
     "crn": "3030",
@@ -454,9 +454,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4378",
@@ -522,9 +522,9 @@
     "room": "ECS 300",
     "instructor": "Hu, Andrew J.",
     "seats": 6,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "4884",
@@ -556,9 +556,26 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
+  },
+  {
+    "crn": "2633",
+    "course": "COMP 4442",
+    "section": "101",
+    "title": "Probability and Statistics 2",
+    "course_type": "Online/Distance",
+    "meeting_dates": "04-JAN-2027 to 15-MAR-2027",
+    "time": "7:00PM-8:50PM",
+    "days": "W",
+    "hours": "4",
+    "room": "",
+    "instructor": "",
+    "seats": 25,
+    "enrolled": 3,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 3
   },
   {
     "crn": "4381",
@@ -573,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 2
   },
   {
     "crn": "2455",
@@ -590,9 +607,9 @@
     "room": "ECS 410",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3846",
