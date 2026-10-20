@@ -2864,7 +2864,7 @@
     "room": "ECS 300",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 21,
+    "enrolled": 20,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2901,7 +2901,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 21,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4629",
     "conflicts": "2305,2758,3947,3948,5150"
