@@ -234,8 +234,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 12,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 1
   },
   {
     "crn": "3881",
@@ -251,8 +251,8 @@
     "instructor": "Hu, Andrew J.",
     "seats": 28,
     "enrolled": 1,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 2
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 3
   },
   {
     "crn": "3030",
@@ -403,9 +403,9 @@
     "room": "ECS 201",
     "instructor": "Stevens, Alexander L.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 3
   },
   {
     "crn": "4375",
@@ -420,9 +420,9 @@
     "room": "",
     "instructor": "Sinclair, Jordan",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 2
   },
   {
     "crn": "4376",
@@ -437,9 +437,9 @@
     "room": "ECS 400",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 1,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 7
   },
   {
     "crn": "4944",
@@ -454,9 +454,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 1,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 3
   },
   {
     "crn": "4378",
@@ -505,9 +505,9 @@
     "room": "ECS 201",
     "instructor": "Kraft, Aaron R.",
     "seats": 17,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4883",
@@ -522,9 +522,9 @@
     "room": "ECS 300",
     "instructor": "Hu, Andrew J.",
     "seats": 6,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "4884",
@@ -556,9 +556,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 1,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 4
   },
   {
     "crn": "2633",
@@ -573,9 +573,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 5,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 7
   },
   {
     "crn": "4381",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "2455",
@@ -607,9 +607,9 @@
     "room": "ECS 410",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "3846",
@@ -627,5 +627,22 @@
     "enrolled": 0,
     "crosslisted_enrollment": 2,
     "total_enrollment": 2
+  },
+  {
+    "crn": "5078",
+    "course": "COMP 4705",
+    "section": "1",
+    "title": "Advanced Topics-Programming",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Oleson, Alannah",
+    "seats": 5,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
   }
 ]

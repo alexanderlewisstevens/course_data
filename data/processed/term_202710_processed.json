@@ -587,7 +587,7 @@
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2638",
-    "conflicts": "3234,3656,4884"
+    "conflicts": "3234,3656,4884,5078"
   },
   {
     "term": "202710",
@@ -818,8 +818,8 @@
     "crosslist": "3034",
     "lower_crosslist": true,
     "total_seats": 29,
-    "total_enrollment": 0,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 1,
+    "crosslisted_enrollment": 1,
     "conflicts": "1952,2455,3489,4378,4379,4869"
   },
   {
@@ -877,8 +877,8 @@
     "crosslist": "4883",
     "lower_crosslist": true,
     "total_seats": 34,
-    "total_enrollment": 2,
-    "crosslisted_enrollment": 1,
+    "total_enrollment": 3,
+    "crosslisted_enrollment": 2,
     "conflicts": "2822,3035,3651"
   },
   {
@@ -997,7 +997,7 @@
     "total_seats": 37,
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
-    "conflicts": "2638,3656"
+    "conflicts": "2638,3656,5078"
   },
   {
     "term": "202710",
@@ -1168,12 +1168,12 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-15",
     "gta_eligible": true,
-    "crosslist": "",
+    "crosslisted_crn": "3656,5078",
+    "crosslist": "5078",
     "lower_crosslist": true,
-    "total_seats": 15,
+    "total_seats": 20,
     "total_enrollment": 0,
     "crosslisted_enrollment": 0,
-    "crosslisted_crn": "3656",
     "conflicts": "2638,3234,4884"
   },
   {
@@ -1987,7 +1987,7 @@
     "room": "ECS 201",
     "instructor": "Stevens, Alexander L.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 3,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2024,7 +2024,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 0,
+    "total_enrollment": 3,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4889",
     "conflicts": "2454,3490,3846,3848,4375"
@@ -2046,7 +2046,7 @@
     "room": "",
     "instructor": "Sinclair, Jordan",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 2,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2082,7 +2082,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 0,
+    "total_enrollment": 2,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4375",
     "conflicts": "2454,3490,3846,3848,4889"
@@ -2104,7 +2104,7 @@
     "room": "ECS 400",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 1,
+    "enrolled": 7,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2141,7 +2141,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 1,
+    "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4376",
     "conflicts": "3030,3490,4381,4944"
@@ -2163,7 +2163,7 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 1,
+    "enrolled": 3,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2199,7 +2199,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 1,
+    "total_enrollment": 3,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4944",
     "conflicts": "3030,3490,4376"
@@ -2338,7 +2338,7 @@
     "room": "ECS 201",
     "instructor": "Kraft, Aaron R.",
     "seats": 17,
-    "enrolled": 0,
+    "enrolled": 1,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2376,7 +2376,7 @@
     "crosslist": "3928",
     "lower_crosslist": false,
     "total_seats": 29,
-    "total_enrollment": 0,
+    "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "conflicts": "1952,2455,3489,4378,4379,4869"
   },
@@ -2397,7 +2397,7 @@
     "room": "ECS 300",
     "instructor": "Hu, Andrew J.",
     "seats": 6,
-    "enrolled": 1,
+    "enrolled": 2,
     "exam_meeting_dates": "16-MAR-2027 to 16-MAR-2027",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
@@ -2435,7 +2435,7 @@
     "crosslist": "3881",
     "lower_crosslist": false,
     "total_seats": 34,
-    "total_enrollment": 2,
+    "total_enrollment": 3,
     "crosslisted_enrollment": 1,
     "conflicts": "2822,3035,3651"
   },
@@ -2496,7 +2496,7 @@
     "total_seats": 37,
     "total_enrollment": 1,
     "crosslisted_enrollment": 1,
-    "conflicts": "2638,3656"
+    "conflicts": "2638,3656,5078"
   },
   {
     "term": "202710",
@@ -2515,7 +2515,7 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 1,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2551,7 +2551,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 1,
+    "total_enrollment": 4,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2454",
     "conflicts": "3490,3846,3848,4375,4889"
@@ -2573,7 +2573,7 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 5,
+    "enrolled": 7,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2609,7 +2609,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 5,
+    "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2633",
     "conflicts": "1952,3489"
@@ -2631,7 +2631,7 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 3,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2667,7 +2667,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 3,
+    "total_enrollment": 4,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4381",
     "conflicts": "3030,3490,4376"
@@ -2689,7 +2689,7 @@
     "room": "ECS 410",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 3,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2726,7 +2726,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 2,
+    "total_enrollment": 3,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2455",
     "conflicts": "1952,3034,3489,3928,4378,4379,4869"
@@ -2789,6 +2789,65 @@
     "total_enrollment": 2,
     "crosslisted_enrollment": 2,
     "conflicts": "2454,3490,4375,4889"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5078",
+    "course": "COMP 4705",
+    "section": "1",
+    "title": "Advanced Topics-Programming",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Oleson, Alannah",
+    "seats": 5,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-19"
+      }
+    },
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": true,
+    "crosslisted_crn": "3656,5078",
+    "crosslist": "3656",
+    "lower_crosslist": false,
+    "total_seats": 20,
+    "total_enrollment": 0,
+    "crosslisted_enrollment": 0,
+    "conflicts": "2638,3234,4884"
   },
   {
     "term": "202710",
