@@ -34,6 +34,40 @@
     "total_enrollment": 0
   },
   {
+    "crn": "5076",
+    "course": "COMP 1112",
+    "section": "4",
+    "title": "Electronics for the Arts 2",
+    "course_type": "Lab",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "12:00PM-1:50PM",
+    "days": "R",
+    "hours": "0",
+    "room": "ECS 334",
+    "instructor": "Hannum, Andrew T.",
+    "seats": 16,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
+    "crn": "5077",
+    "course": "COMP 1112",
+    "section": "5",
+    "title": "Electronics for the Arts 2",
+    "course_type": "Lab",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "2:00PM-3:50PM",
+    "days": "R",
+    "hours": "0",
+    "room": "ECS 334",
+    "instructor": "Hannum, Andrew T.",
+    "seats": 16,
+    "enrolled": 0,
+    "crosslisted_enrollment": 0,
+    "total_enrollment": 0
+  },
+  {
     "crn": "2819",
     "course": "COMP 1202",
     "section": "1",
@@ -251,8 +285,8 @@
     "instructor": "Hu, Andrew J.",
     "seats": 28,
     "enrolled": 1,
-    "crosslisted_enrollment": 2,
-    "total_enrollment": 3
+    "crosslisted_enrollment": 3,
+    "total_enrollment": 4
   },
   {
     "crn": "3030",
@@ -285,8 +319,8 @@
     "instructor": "Hannum, Andrew T.",
     "seats": 29,
     "enrolled": 1,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 2
   },
   {
     "crn": "3848",
@@ -301,9 +335,9 @@
     "room": "ECS 300",
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
-    "enrolled": 2,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "enrolled": 1,
+    "crosslisted_enrollment": 2,
+    "total_enrollment": 3
   },
   {
     "crn": "4869",
@@ -420,9 +454,9 @@
     "room": "",
     "instructor": "Sinclair, Jordan",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 1
   },
   {
     "crn": "4376",
@@ -437,9 +471,9 @@
     "room": "ECS 400",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "4944",
@@ -454,9 +488,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "4378",
@@ -522,9 +556,9 @@
     "room": "ECS 300",
     "instructor": "Hu, Andrew J.",
     "seats": 6,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "4884",
@@ -539,9 +573,9 @@
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
     "seats": 8,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "2454",
@@ -556,9 +590,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 8,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 10
   },
   {
     "crn": "2633",
@@ -590,9 +624,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 4,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 7
   },
   {
     "crn": "2455",
@@ -607,9 +641,9 @@
     "room": "ECS 410",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 3,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 5
   },
   {
     "crn": "3846",
@@ -624,9 +658,9 @@
     "room": "ECS 300",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 0,
-    "crosslisted_enrollment": 2,
-    "total_enrollment": 2
+    "enrolled": 2,
+    "crosslisted_enrollment": 1,
+    "total_enrollment": 3
   },
   {
     "crn": "5078",
