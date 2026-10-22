@@ -471,9 +471,9 @@
     "room": "ECS 400",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 8,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "total_enrollment": 10
   },
   {
     "crn": "4944",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 13
   },
   {
     "crn": "2633",
@@ -607,9 +607,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "4381",
@@ -641,9 +641,9 @@
     "room": "ECS 410",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 5,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 7
   },
   {
     "crn": "3846",
