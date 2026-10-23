@@ -336,8 +336,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 1,
-    "crosslisted_enrollment": 2,
-    "total_enrollment": 3
+    "crosslisted_enrollment": 3,
+    "total_enrollment": 4
   },
   {
     "crn": "4869",
@@ -384,7 +384,7 @@
     "days": "M,W",
     "hours": "4",
     "room": "ECS 401",
-    "instructor": "",
+    "instructor": "Dunagan, Ryan A.",
     "seats": 20,
     "enrolled": 0,
     "crosslisted_enrollment": 0,
@@ -488,9 +488,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 6
   },
   {
     "crn": "4378",
@@ -607,9 +607,9 @@
     "room": "",
     "instructor": "",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "4381",
@@ -658,9 +658,9 @@
     "room": "ECS 300",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "5078",
