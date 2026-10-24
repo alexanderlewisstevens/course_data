@@ -488,9 +488,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 7
   },
   {
     "crn": "4378",
@@ -522,9 +522,9 @@
     "room": "ECS 200",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3034",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 13,
+    "enrolled": 15,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 15
   },
   {
     "crn": "2633",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "2455",
@@ -641,9 +641,9 @@
     "room": "ECS 410",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "3846",
