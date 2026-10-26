@@ -12,9 +12,9 @@
     "room": "ECS 200",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "4870",
@@ -80,9 +80,9 @@
     "room": "ECS 201",
     "instructor": "Hu, Andrew J.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 3
   },
   {
     "crn": "2820",
@@ -97,9 +97,9 @@
     "room": "ECS 201",
     "instructor": "Hu, Andrew J.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "2822",
@@ -114,9 +114,9 @@
     "room": "ECS 401",
     "instructor": "Sinclair, Jordan",
     "seats": 27,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "2824",
@@ -131,9 +131,9 @@
     "room": "ECS 201",
     "instructor": "Stevens, Alexander L.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 2
   },
   {
     "crn": "2827",
@@ -148,9 +148,9 @@
     "room": "ECS 201",
     "instructor": "Tazi, Faiza",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3062",
@@ -165,9 +165,9 @@
     "room": "ECS 300",
     "instructor": "Stevens, Alexander L.",
     "seats": 39,
-    "enrolled": 0,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 2
   },
   {
     "crn": "2049",
@@ -182,9 +182,9 @@
     "room": "ECS 300",
     "instructor": "Albow, Mohammed M.",
     "seats": 35,
-    "enrolled": 0,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 3
   },
   {
     "crn": "2638",
@@ -301,9 +301,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3234",
@@ -318,9 +318,9 @@
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
     "seats": 29,
-    "enrolled": 1,
+    "enrolled": 6,
     "crosslisted_enrollment": 1,
-    "total_enrollment": 2
+    "total_enrollment": 7
   },
   {
     "crn": "3848",
@@ -335,9 +335,9 @@
     "room": "ECS 300",
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
-    "enrolled": 1,
+    "enrolled": 7,
     "crosslisted_enrollment": 4,
-    "total_enrollment": 5
+    "total_enrollment": 11
   },
   {
     "crn": "4869",
@@ -352,9 +352,9 @@
     "room": "ECS 400",
     "instructor": "Tazi, Faiza",
     "seats": 25,
-    "enrolled": 0,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 3
   },
   {
     "crn": "3656",
@@ -369,9 +369,9 @@
     "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
-    "enrolled": 0,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 5
   },
   {
     "crn": "3489",
@@ -386,9 +386,9 @@
     "room": "ECS 401",
     "instructor": "Dunagan, Ryan A.",
     "seats": 20,
-    "enrolled": 0,
+    "enrolled": 1,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 1
   },
   {
     "crn": "3490",
@@ -420,9 +420,9 @@
     "room": "ECS 300",
     "instructor": "Gansciu, Serban B.",
     "seats": 10,
-    "enrolled": 0,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "total_enrollment": 2
   },
   {
     "crn": "4889",
@@ -454,9 +454,9 @@
     "room": "",
     "instructor": "Sinclair, Jordan",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "4376",
@@ -522,9 +522,9 @@
     "room": "ECS 200",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 1,
+    "enrolled": 2,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 1
+    "total_enrollment": 2
   },
   {
     "crn": "3034",
@@ -574,8 +574,8 @@
     "instructor": "Hannum, Andrew T.",
     "seats": 8,
     "enrolled": 1,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 2
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 7
   },
   {
     "crn": "2454",
@@ -659,8 +659,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
     "enrolled": 4,
-    "crosslisted_enrollment": 1,
-    "total_enrollment": 5
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 11
   },
   {
     "crn": "5078",
@@ -676,7 +676,7 @@
     "instructor": "Oleson, Alannah",
     "seats": 5,
     "enrolled": 0,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 0
+    "crosslisted_enrollment": 5,
+    "total_enrollment": 5
   }
 ]
