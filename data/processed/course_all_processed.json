@@ -12195,7 +12195,7 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 29,
-    "enrolled": 24,
+    "enrolled": 23,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -12231,7 +12231,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 29,
-    "total_enrollment": 24,
+    "total_enrollment": 23,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4626",
     "conflicts": "3304,3538,3815,3934,4627,4631,5422,5423"
@@ -14626,8 +14626,8 @@
     "crosslist": "3846",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 4,
-    "crosslisted_enrollment": 3,
+    "total_enrollment": 5,
+    "crosslisted_enrollment": 4,
     "conflicts": "2454,3490,4375,4889"
   },
   {
@@ -16320,7 +16320,7 @@
     "room": "ECS 300",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 3,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -16358,7 +16358,7 @@
     "crosslist": "3848",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 4,
+    "total_enrollment": 5,
     "crosslisted_enrollment": 1,
     "conflicts": "2454,3490,4375,4889"
   },
