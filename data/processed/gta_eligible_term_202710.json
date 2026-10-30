@@ -97,9 +97,9 @@
     "room": "ECS 201",
     "instructor": "Hu, Andrew J.",
     "seats": 30,
-    "enrolled": 17,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 20
   },
   {
     "crn": "2822",
@@ -336,8 +336,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 10,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 15
+    "crosslisted_enrollment": 4,
+    "total_enrollment": 14
   },
   {
     "crn": "4869",
@@ -658,9 +658,9 @@
     "room": "ECS",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 5,
+    "enrolled": 4,
     "crosslisted_enrollment": 10,
-    "total_enrollment": 15
+    "total_enrollment": 14
   },
   {
     "crn": "5078",

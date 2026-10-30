@@ -13765,7 +13765,7 @@
     "room": "ECS 201",
     "instructor": "Hu, Andrew J.",
     "seats": 30,
-    "enrolled": 17,
+    "enrolled": 20,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -13802,7 +13802,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 17,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2820",
     "conflicts": "3062,5077"
@@ -14626,8 +14626,8 @@
     "crosslist": "3846",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 15,
-    "crosslisted_enrollment": 5,
+    "total_enrollment": 14,
+    "crosslisted_enrollment": 4,
     "conflicts": "1952,2633,3489"
   },
   {
@@ -16320,7 +16320,7 @@
     "room": "ECS",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 5,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -16358,7 +16358,7 @@
     "crosslist": "3848",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 15,
+    "total_enrollment": 14,
     "crosslisted_enrollment": 10,
     "conflicts": "1952,2633,3489"
   },
