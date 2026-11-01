@@ -19,7 +19,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202710,ALL,COMP,Computer Science,3030,COMP 3381,1,Software Engineering I,Lecture,04-JAN-2027 to 15-MAR-2027,4:00PM-5:50PM,"T,R",4,ECS 200,"Rutherford, Matthew J.",30,10,16-MAR-2027 to 16-MAR-2027,4:00PM-5:50PM,T,ECS 200,
 202710,ALL,COMP,Computer Science,3234,COMP 3410,1,Web Programming I,Lecture,04-JAN-2027 to 15-MAR-2027,12:00PM-1:50PM,"M,W",4,ECS 300,"Hannum, Andrew T.",29,15,17-MAR-2027 to 17-MAR-2027,12:00PM-1:50PM,W,ECS 300,
 202710,ALL,COMP,Computer Science,3848,COMP 3703,1,Topics-Artificial Intelligence,Lecture,04-JAN-2027 to 15-MAR-2027,7:00PM-8:50PM,"M,W",4,ECS,"Petrehn, Sydney M.",10,10,,,,,
-202710,ALL,COMP,Computer Science,4869,COMP 3705,1,Topics in Computer Science,Lecture,04-JAN-2027 to 15-MAR-2027,5:00PM-6:50PM,"M,W",4,ECS 400,"Tazi, Faiza",25,11,,,,,
+202710,ALL,COMP,Computer Science,4869,COMP 3705,1,Topics in Computer Science,Lecture,04-JAN-2027 to 15-MAR-2027,5:00PM-6:50PM,"M,W",4,ECS 400,"Tazi, Faiza",25,12,,,,,
 202710,ALL,COMP,Computer Science,3656,COMP 3705,10,Topics in Computer Science,Lecture,04-JAN-2027 to 15-MAR-2027,12:00PM-1:50PM,"M,W",4,ECS 201,"Oleson, Alannah",15,15,17-MAR-2027 to 17-MAR-2027,12:00PM-1:50PM,W,ECS 201,
 202710,ALL,COMP,Computer Science,3489,COMP 3820,1,Intro to Game Programming,Lecture/Lab,04-JAN-2027 to 15-MAR-2027,6:00PM-7:50PM,"M,W",4,ECS 401,"Dunagan, Ryan A.",20,8,,,,,
 202710,ALL,COMP,Computer Science,3490,COMP 3822,1,Game Programming II,Lecture,04-JAN-2027 to 15-MAR-2027,6:00PM-7:50PM,"T,R",4,ECS 200,"Dunagan, Ryan A.",20,2,16-MAR-2027 to 16-MAR-2027,6:00PM-7:50PM,T,ECS 200,
