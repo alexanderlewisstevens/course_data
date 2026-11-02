@@ -97,9 +97,9 @@
     "room": "ECS 201",
     "instructor": "Hu, Andrew J.",
     "seats": 30,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "2822",
@@ -114,9 +114,9 @@
     "room": "ECS 401",
     "instructor": "Sinclair, Jordan",
     "seats": 27,
-    "enrolled": 11,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 13
   },
   {
     "crn": "2824",
@@ -148,9 +148,9 @@
     "room": "ECS 201",
     "instructor": "Stevens, Alexander L.",
     "seats": 30,
-    "enrolled": 25,
+    "enrolled": 26,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 26
   },
   {
     "crn": "3062",
@@ -165,9 +165,9 @@
     "room": "ECS 300",
     "instructor": "Anjum, Iffat",
     "seats": 39,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "2049",
@@ -233,9 +233,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 4,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 6
   },
   {
     "crn": "1318",
@@ -301,9 +301,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "3234",
@@ -437,9 +437,9 @@
     "room": "ECS 201",
     "instructor": "Stevens, Alexander L.",
     "seats": 30,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 5
+    "total_enrollment": 6
   },
   {
     "crn": "4375",
@@ -471,9 +471,9 @@
     "room": "ECS 400",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "4944",
@@ -488,9 +488,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 9,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "4378",

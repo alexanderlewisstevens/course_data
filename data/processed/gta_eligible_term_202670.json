@@ -165,9 +165,9 @@
     "room": "ECS 200",
     "instructor": "Tazi, Faiza",
     "seats": 32,
-    "enrolled": 21,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 21
+    "total_enrollment": 20
   },
   {
     "crn": "4621",
@@ -182,9 +182,9 @@
     "room": "ECS 200",
     "instructor": "Sinclair, Jordan",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 27,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 28
+    "total_enrollment": 27
   },
   {
     "crn": "4622",
@@ -233,9 +233,9 @@
     "room": "ECS 200",
     "instructor": "Tazi, Faiza",
     "seats": 30,
-    "enrolled": 17,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 17
+    "total_enrollment": 16
   },
   {
     "crn": "2038",
@@ -267,9 +267,9 @@
     "room": "ECS 301",
     "instructor": "Stevens, Alexander L.",
     "seats": 34,
-    "enrolled": 22,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 21
   },
   {
     "crn": "3653",
@@ -590,9 +590,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 29,
-    "enrolled": 23,
+    "enrolled": 21,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 23
+    "total_enrollment": 21
   },
   {
     "crn": "4627",
