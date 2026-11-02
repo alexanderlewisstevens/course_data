@@ -837,7 +837,7 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 40,
-    "enrolled": 6,
+    "enrolled": 7,
     "exam_meeting_dates": "17-MAR-2027 to 17-MAR-2027",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "W",
@@ -874,7 +874,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 40,
-    "total_enrollment": 6,
+    "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1318",
     "conflicts": "2827,4870"
@@ -1170,8 +1170,8 @@
     "crosslist": "3846",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 14,
-    "crosslisted_enrollment": 4,
+    "total_enrollment": 15,
+    "crosslisted_enrollment": 5,
     "conflicts": "1952,2633,3489"
   },
   {
@@ -2864,7 +2864,7 @@
     "room": "ECS",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 4,
+    "enrolled": 5,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2902,7 +2902,7 @@
     "crosslist": "3848",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 14,
+    "total_enrollment": 15,
     "crosslisted_enrollment": 10,
     "conflicts": "1952,2633,3489"
   },
