@@ -131,9 +131,9 @@
     "room": "ECS 201",
     "instructor": "Tazi, Faiza",
     "seats": 30,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "2827",
@@ -336,8 +336,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 10,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 15
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 16
   },
   {
     "crn": "4869",
@@ -353,8 +353,8 @@
     "instructor": "Tazi, Faiza",
     "seats": 25,
     "enrolled": 12,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "crosslisted_enrollment": 3,
+    "total_enrollment": 15
   },
   {
     "crn": "3656",
@@ -454,9 +454,9 @@
     "room": "",
     "instructor": "Sinclair, Jordan",
     "seats": 25,
-    "enrolled": 4,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 4
+    "total_enrollment": 5
   },
   {
     "crn": "4376",
@@ -522,9 +522,9 @@
     "room": "ECS 200",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 3
+    "total_enrollment": 4
   },
   {
     "crn": "3034",
@@ -658,9 +658,9 @@
     "room": "ECS",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 10,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "5078",
@@ -677,6 +677,23 @@
     "seats": 5,
     "enrolled": 0,
     "crosslisted_enrollment": 15,
+    "total_enrollment": 15
+  },
+  {
+    "crn": "5148",
+    "course": "COMP 4705",
+    "section": "2",
+    "title": "Advanced Topics-Programming",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "5:00PM-6:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Tazi, Faiza",
+    "seats": 20,
+    "enrolled": 3,
+    "crosslisted_enrollment": 12,
     "total_enrollment": 15
   }
 ]

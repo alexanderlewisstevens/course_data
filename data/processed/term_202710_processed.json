@@ -427,7 +427,7 @@
     "room": "ECS 201",
     "instructor": "Tazi, Faiza",
     "seats": 30,
-    "enrolled": 11,
+    "enrolled": 12,
     "exam_meeting_dates": "17-MAR-2027 to 17-MAR-2027",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "W",
@@ -464,7 +464,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 11,
+    "total_enrollment": 12,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2824",
     "conflicts": "2049"
@@ -936,7 +936,7 @@
     "total_seats": 29,
     "total_enrollment": 10,
     "crosslisted_enrollment": 2,
-    "conflicts": "1952,2455,3489,4378,4379,4869"
+    "conflicts": "1952,2455,3489,4378,4379,4869,5148"
   },
   {
     "term": "202710",
@@ -1170,8 +1170,8 @@
     "crosslist": "3846",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 15,
-    "crosslisted_enrollment": 5,
+    "total_enrollment": 16,
+    "crosslisted_enrollment": 6,
     "conflicts": "1952,2633,3489"
   },
   {
@@ -1225,12 +1225,12 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-15",
     "gta_eligible": true,
-    "crosslist": "",
+    "crosslisted_crn": "4869,5148",
+    "crosslist": "5148",
     "lower_crosslist": true,
-    "total_seats": 25,
-    "total_enrollment": 12,
-    "crosslisted_enrollment": 0,
-    "crosslisted_crn": "4869",
+    "total_seats": 45,
+    "total_enrollment": 15,
+    "crosslisted_enrollment": 3,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {
@@ -1349,7 +1349,7 @@
     "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3489",
-    "conflicts": "1952,2455,2633,3034,3846,3848,3928,4378,4379,4869"
+    "conflicts": "1952,2455,2633,3034,3846,3848,3928,4378,4379,4869,5148"
   },
   {
     "term": "202710",
@@ -1466,7 +1466,7 @@
     "total_enrollment": 7,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1952",
-    "conflicts": "2455,2633,3034,3489,3846,3848,3928,4379,4869"
+    "conflicts": "2455,2633,3034,3489,3846,3848,3928,4379,4869,5148"
   },
   {
     "term": "202710",
@@ -2162,7 +2162,7 @@
     "room": "",
     "instructor": "Sinclair, Jordan",
     "seats": 25,
-    "enrolled": 4,
+    "enrolled": 5,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2198,7 +2198,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 4,
+    "total_enrollment": 5,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4375",
     "conflicts": "2454,3490,4889"
@@ -2376,7 +2376,7 @@
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4378",
-    "conflicts": "2455,3034,3489,3928,4379,4869"
+    "conflicts": "2455,3034,3489,3928,4379,4869,5148"
   },
   {
     "term": "202710",
@@ -2395,7 +2395,7 @@
     "room": "ECS 200",
     "instructor": "Kossek, Wojciech K.",
     "seats": 30,
-    "enrolled": 3,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2432,10 +2432,10 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 3,
+    "total_enrollment": 4,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4379",
-    "conflicts": "1952,2455,3034,3489,3928,4378,4869"
+    "conflicts": "1952,2455,3034,3489,3928,4378,4869,5148"
   },
   {
     "term": "202710",
@@ -2494,7 +2494,7 @@
     "total_seats": 29,
     "total_enrollment": 10,
     "crosslisted_enrollment": 8,
-    "conflicts": "1952,2455,3489,4378,4379,4869"
+    "conflicts": "1952,2455,3489,4378,4379,4869,5148"
   },
   {
     "term": "202710",
@@ -2845,7 +2845,7 @@
     "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2455",
-    "conflicts": "1952,3034,3489,3928,4378,4379,4869"
+    "conflicts": "1952,3034,3489,3928,4378,4379,4869,5148"
   },
   {
     "term": "202710",
@@ -2864,7 +2864,7 @@
     "room": "ECS",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 5,
+    "enrolled": 6,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2902,7 +2902,7 @@
     "crosslist": "3848",
     "lower_crosslist": false,
     "total_seats": 30,
-    "total_enrollment": 15,
+    "total_enrollment": 16,
     "crosslisted_enrollment": 10,
     "conflicts": "1952,2633,3489"
   },
@@ -2964,6 +2964,65 @@
     "total_enrollment": 15,
     "crosslisted_enrollment": 15,
     "conflicts": "2638,3234,4884"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5148",
+    "course": "COMP 4705",
+    "section": "2",
+    "title": "Advanced Topics-Programming",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "5:00PM-6:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Tazi, Faiza",
+    "seats": 20,
+    "enrolled": 3,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-19"
+      }
+    },
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": true,
+    "crosslisted_crn": "4869,5148",
+    "crosslist": "4869",
+    "lower_crosslist": false,
+    "total_seats": 45,
+    "total_enrollment": 15,
+    "crosslisted_enrollment": 12,
+    "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {
     "term": "202710",
