@@ -14685,8 +14685,8 @@
     "crosslist": "5148",
     "lower_crosslist": true,
     "total_seats": 45,
-    "total_enrollment": 18,
-    "crosslisted_enrollment": 6,
+    "total_enrollment": 19,
+    "crosslisted_enrollment": 7,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {
@@ -16203,7 +16203,7 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 13,
+    "enrolled": 14,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -16239,7 +16239,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 13,
+    "total_enrollment": 14,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4381",
     "conflicts": "3030,3490,4376"
@@ -16438,7 +16438,7 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 6,
+    "enrolled": 7,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -16476,7 +16476,7 @@
     "crosslist": "4869",
     "lower_crosslist": false,
     "total_seats": 45,
-    "total_enrollment": 18,
+    "total_enrollment": 19,
     "crosslisted_enrollment": 12,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },

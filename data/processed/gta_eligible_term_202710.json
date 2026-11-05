@@ -353,8 +353,8 @@
     "instructor": "Tazi, Faiza",
     "seats": 25,
     "enrolled": 12,
-    "crosslisted_enrollment": 6,
-    "total_enrollment": 18
+    "crosslisted_enrollment": 7,
+    "total_enrollment": 19
   },
   {
     "crn": "3656",
@@ -624,9 +624,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "2455",
@@ -692,8 +692,8 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 6,
+    "enrolled": 7,
     "crosslisted_enrollment": 12,
-    "total_enrollment": 18
+    "total_enrollment": 19
   }
 ]
