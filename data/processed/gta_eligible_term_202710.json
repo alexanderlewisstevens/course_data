@@ -165,9 +165,9 @@
     "room": "ECS 300",
     "instructor": "Anjum, Iffat",
     "seats": 39,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "2049",
@@ -284,9 +284,9 @@
     "room": "ECS 300",
     "instructor": "Hu, Andrew J.",
     "seats": 28,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 5,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "3030",
@@ -336,8 +336,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 10,
     "enrolled": 10,
-    "crosslisted_enrollment": 6,
-    "total_enrollment": 16
+    "crosslisted_enrollment": 10,
+    "total_enrollment": 20
   },
   {
     "crn": "4869",
@@ -353,8 +353,8 @@
     "instructor": "Tazi, Faiza",
     "seats": 25,
     "enrolled": 12,
-    "crosslisted_enrollment": 3,
-    "total_enrollment": 15
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 18
   },
   {
     "crn": "3656",
@@ -557,8 +557,8 @@
     "instructor": "Hu, Andrew J.",
     "seats": 6,
     "enrolled": 5,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 10
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 11
   },
   {
     "crn": "4884",
@@ -658,9 +658,9 @@
     "room": "ECS",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 6,
+    "enrolled": 10,
     "crosslisted_enrollment": 10,
-    "total_enrollment": 16
+    "total_enrollment": 20
   },
   {
     "crn": "5078",
@@ -692,8 +692,8 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 3,
+    "enrolled": 6,
     "crosslisted_enrollment": 12,
-    "total_enrollment": 15
+    "total_enrollment": 18
   }
 ]
