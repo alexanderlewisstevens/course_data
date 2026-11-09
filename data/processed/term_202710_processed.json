@@ -368,7 +368,7 @@
     "room": "ECS 401",
     "instructor": "Sinclair, Jordan",
     "seats": 27,
-    "enrolled": 16,
+    "enrolled": 15,
     "exam_meeting_dates": "16-MAR-2027 to 16-MAR-2027",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
@@ -405,7 +405,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 27,
-    "total_enrollment": 16,
+    "total_enrollment": 15,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2822",
     "conflicts": "3035,3651,3881,4883"
