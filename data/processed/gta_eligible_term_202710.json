@@ -97,9 +97,9 @@
     "room": "ECS 201",
     "instructor": "Hu, Andrew J.",
     "seats": 30,
-    "enrolled": 25,
+    "enrolled": 26,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 25
+    "total_enrollment": 26
   },
   {
     "crn": "2822",
@@ -233,9 +233,9 @@
     "room": "",
     "instructor": "Rutherford, Matthew J.",
     "seats": 50,
-    "enrolled": 6,
+    "enrolled": 5,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 6
+    "total_enrollment": 5
   },
   {
     "crn": "1318",
@@ -251,8 +251,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
     "enrolled": 8,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 8
+    "crosslisted_enrollment": 3,
+    "total_enrollment": 11
   },
   {
     "crn": "3928",
@@ -267,9 +267,9 @@
     "room": "ECS 201",
     "instructor": "Kraft, Aaron R.",
     "seats": 12,
-    "enrolled": 8,
+    "enrolled": 6,
     "crosslisted_enrollment": 3,
-    "total_enrollment": 11
+    "total_enrollment": 9
   },
   {
     "crn": "3881",
@@ -301,9 +301,9 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 11,
+    "enrolled": 10,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 10
   },
   {
     "crn": "3234",
@@ -318,9 +318,9 @@
     "room": "ECS 300",
     "instructor": "Hannum, Andrew T.",
     "seats": 29,
-    "enrolled": 15,
+    "enrolled": 14,
     "crosslisted_enrollment": 2,
-    "total_enrollment": 17
+    "total_enrollment": 16
   },
   {
     "crn": "3848",
@@ -332,12 +332,12 @@
     "time": "7:00PM-8:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS",
+    "room": "ECS 301",
     "instructor": "Petrehn, Sydney M.",
-    "seats": 10,
-    "enrolled": 10,
-    "crosslisted_enrollment": 11,
-    "total_enrollment": 21
+    "seats": 20,
+    "enrolled": 16,
+    "crosslisted_enrollment": 12,
+    "total_enrollment": 28
   },
   {
     "crn": "4869",
@@ -353,8 +353,8 @@
     "instructor": "Tazi, Faiza",
     "seats": 25,
     "enrolled": 13,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 21
+    "crosslisted_enrollment": 9,
+    "total_enrollment": 22
   },
   {
     "crn": "3656",
@@ -383,7 +383,7 @@
     "time": "6:00PM-7:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 401",
+    "room": "ECS 358",
     "instructor": "Dunagan, Ryan A.",
     "seats": 20,
     "enrolled": 9,
@@ -400,7 +400,7 @@
     "time": "6:00PM-7:50PM",
     "days": "T,R",
     "hours": "4",
-    "room": "ECS 200",
+    "room": "ECS 358",
     "instructor": "Dunagan, Ryan A.",
     "seats": 20,
     "enrolled": 4,
@@ -488,9 +488,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 13,
+    "enrolled": 14,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 13
+    "total_enrollment": 14
   },
   {
     "crn": "4378",
@@ -527,6 +527,23 @@
     "total_enrollment": 5
   },
   {
+    "crn": "5222",
+    "course": "COMP 4200",
+    "section": "1",
+    "title": "Discrete Structures",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "2:00PM-3:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "ECS 301",
+    "instructor": "Kraft, Aaron R.",
+    "seats": 25,
+    "enrolled": 3,
+    "crosslisted_enrollment": 8,
+    "total_enrollment": 11
+  },
+  {
     "crn": "3034",
     "course": "COMP 4334",
     "section": "1",
@@ -540,8 +557,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 17,
     "enrolled": 3,
-    "crosslisted_enrollment": 8,
-    "total_enrollment": 11
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 9
   },
   {
     "crn": "4883",
@@ -574,8 +591,8 @@
     "instructor": "Hannum, Andrew T.",
     "seats": 8,
     "enrolled": 2,
-    "crosslisted_enrollment": 15,
-    "total_enrollment": 17
+    "crosslisted_enrollment": 14,
+    "total_enrollment": 16
   },
   {
     "crn": "2454",
@@ -590,9 +607,9 @@
     "room": "",
     "instructor": "Kossek, Wojciech K.",
     "seats": 25,
-    "enrolled": 22,
+    "enrolled": 23,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 22
+    "total_enrollment": 23
   },
   {
     "crn": "2633",
@@ -655,12 +672,12 @@
     "time": "7:00PM-8:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS",
+    "room": "ECS 301",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 11,
-    "crosslisted_enrollment": 10,
-    "total_enrollment": 21
+    "enrolled": 12,
+    "crosslisted_enrollment": 16,
+    "total_enrollment": 28
   },
   {
     "crn": "5078",
@@ -692,8 +709,8 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 8,
+    "enrolled": 9,
     "crosslisted_enrollment": 13,
-    "total_enrollment": 21
+    "total_enrollment": 22
   }
 ]
