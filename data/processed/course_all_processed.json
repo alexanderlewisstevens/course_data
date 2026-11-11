@@ -15732,7 +15732,7 @@
     "room": "ECS 400",
     "instructor": "Gao, Sky T.",
     "seats": 30,
-    "enrolled": 15,
+    "enrolled": 16,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -15769,7 +15769,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 15,
+    "total_enrollment": 16,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4376",
     "conflicts": "3030,3490,4381,4944"
