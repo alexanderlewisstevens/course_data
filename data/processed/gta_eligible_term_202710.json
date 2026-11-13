@@ -114,9 +114,9 @@
     "room": "ECS 401",
     "instructor": "Sinclair, Jordan",
     "seats": 27,
-    "enrolled": 14,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 14
+    "total_enrollment": 13
   },
   {
     "crn": "2824",
@@ -268,8 +268,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 12,
     "enrolled": 6,
-    "crosslisted_enrollment": 3,
-    "total_enrollment": 9
+    "crosslisted_enrollment": 4,
+    "total_enrollment": 10
   },
   {
     "crn": "3881",
@@ -353,8 +353,8 @@
     "instructor": "Tazi, Faiza",
     "seats": 25,
     "enrolled": 14,
-    "crosslisted_enrollment": 9,
-    "total_enrollment": 23
+    "crosslisted_enrollment": 8,
+    "total_enrollment": 22
   },
   {
     "crn": "3656",
@@ -556,9 +556,9 @@
     "room": "ECS 201",
     "instructor": "Kraft, Aaron R.",
     "seats": 17,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 6,
-    "total_enrollment": 9
+    "total_enrollment": 10
   },
   {
     "crn": "4883",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 9,
+    "enrolled": 8,
     "crosslisted_enrollment": 14,
-    "total_enrollment": 23
+    "total_enrollment": 22
   },
   {
     "crn": "5237",
@@ -727,7 +727,7 @@
     "instructor": "Tazi, Faiza",
     "seats": 20,
     "enrolled": 0,
-    "crosslisted_enrollment": 23,
-    "total_enrollment": 23
+    "crosslisted_enrollment": 22,
+    "total_enrollment": 22
   }
 ]

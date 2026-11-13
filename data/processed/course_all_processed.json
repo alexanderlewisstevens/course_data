@@ -13824,7 +13824,7 @@
     "room": "ECS 401",
     "instructor": "Sinclair, Jordan",
     "seats": 27,
-    "enrolled": 14,
+    "enrolled": 13,
     "exam_meeting_dates": "16-MAR-2027 to 16-MAR-2027",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
@@ -13861,7 +13861,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 27,
-    "total_enrollment": 14,
+    "total_enrollment": 13,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2822",
     "conflicts": "3035,3651,3881,4883"
@@ -14390,8 +14390,8 @@
     "crosslist": "3034",
     "lower_crosslist": true,
     "total_seats": 29,
-    "total_enrollment": 9,
-    "crosslisted_enrollment": 3,
+    "total_enrollment": 10,
+    "crosslisted_enrollment": 4,
     "conflicts": "1952,2455,3489,4378,4379,4869,5148,5237"
   },
   {
@@ -14685,8 +14685,8 @@
     "crosslist": "5148,5237",
     "lower_crosslist": true,
     "total_seats": 65,
-    "total_enrollment": 23,
-    "crosslisted_enrollment": 9,
+    "total_enrollment": 22,
+    "crosslisted_enrollment": 8,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {
@@ -16025,7 +16025,7 @@
     "room": "ECS 201",
     "instructor": "Kraft, Aaron R.",
     "seats": 17,
-    "enrolled": 3,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -16063,7 +16063,7 @@
     "crosslist": "3928",
     "lower_crosslist": false,
     "total_seats": 29,
-    "total_enrollment": 9,
+    "total_enrollment": 10,
     "crosslisted_enrollment": 6,
     "conflicts": "1952,2455,3489,4378,4379,4869,5148,5237"
   },
@@ -16553,7 +16553,7 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 9,
+    "enrolled": 8,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -16591,7 +16591,7 @@
     "crosslist": "4869,5237",
     "lower_crosslist": false,
     "total_seats": 65,
-    "total_enrollment": 23,
+    "total_enrollment": 22,
     "crosslisted_enrollment": 14,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
@@ -16650,8 +16650,8 @@
     "crosslist": "4869,5148",
     "lower_crosslist": false,
     "total_seats": 65,
-    "total_enrollment": 23,
-    "crosslisted_enrollment": 23,
+    "total_enrollment": 22,
+    "crosslisted_enrollment": 22,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {
