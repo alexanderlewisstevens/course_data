@@ -251,8 +251,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
     "enrolled": 7,
-    "crosslisted_enrollment": 5,
-    "total_enrollment": 12
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 13
   },
   {
     "crn": "3928",
@@ -539,9 +539,9 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 25,
-    "enrolled": 5,
+    "enrolled": 6,
     "crosslisted_enrollment": 7,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "3034",
@@ -711,6 +711,23 @@
     "seats": 20,
     "enrolled": 9,
     "crosslisted_enrollment": 14,
+    "total_enrollment": 23
+  },
+  {
+    "crn": "5237",
+    "course": "COMP 4732",
+    "section": "1",
+    "title": "Human-Centered Data Sec & Priv",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "5:00PM-6:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Tazi, Faiza",
+    "seats": 20,
+    "enrolled": 0,
+    "crosslisted_enrollment": 23,
     "total_enrollment": 23
   }
 ]

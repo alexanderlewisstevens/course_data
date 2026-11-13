@@ -14331,8 +14331,8 @@
     "crosslist": "5222",
     "lower_crosslist": true,
     "total_seats": 40,
-    "total_enrollment": 12,
-    "crosslisted_enrollment": 5,
+    "total_enrollment": 13,
+    "crosslisted_enrollment": 6,
     "conflicts": "2827,4870"
   },
   {
@@ -14392,7 +14392,7 @@
     "total_seats": 29,
     "total_enrollment": 9,
     "crosslisted_enrollment": 3,
-    "conflicts": "1952,2455,3489,4378,4379,4869,5148"
+    "conflicts": "1952,2455,3489,4378,4379,4869,5148,5237"
   },
   {
     "term": "202710",
@@ -14681,10 +14681,10 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-15",
     "gta_eligible": true,
-    "crosslisted_crn": "4869,5148",
-    "crosslist": "5148",
+    "crosslisted_crn": "4869,5148,5237",
+    "crosslist": "5148,5237",
     "lower_crosslist": true,
-    "total_seats": 45,
+    "total_seats": 65,
     "total_enrollment": 23,
     "crosslisted_enrollment": 9,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
@@ -14805,7 +14805,7 @@
     "total_enrollment": 9,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3489",
-    "conflicts": "1952,2455,2633,3034,3846,3848,3928,4378,4379,4869,5148"
+    "conflicts": "1952,2455,2633,3034,3846,3848,3928,4378,4379,4869,5148,5237"
   },
   {
     "term": "202710",
@@ -14922,7 +14922,7 @@
     "total_enrollment": 8,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "1952",
-    "conflicts": "2455,2633,3034,3489,3846,3848,3928,4379,4869,5148"
+    "conflicts": "2455,2633,3034,3489,3846,3848,3928,4379,4869,5148,5237"
   },
   {
     "term": "202710",
@@ -15888,7 +15888,7 @@
     "total_enrollment": 1,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4378",
-    "conflicts": "2455,3034,3489,3928,4379,4869,5148"
+    "conflicts": "2455,3034,3489,3928,4379,4869,5148,5237"
   },
   {
     "term": "202710",
@@ -15947,7 +15947,7 @@
     "total_enrollment": 5,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4379",
-    "conflicts": "1952,2455,3034,3489,3928,4378,4869,5148"
+    "conflicts": "1952,2455,3034,3489,3928,4378,4869,5148,5237"
   },
   {
     "term": "202710",
@@ -15966,7 +15966,7 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 25,
-    "enrolled": 5,
+    "enrolled": 6,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -16004,7 +16004,7 @@
     "crosslist": "1318",
     "lower_crosslist": false,
     "total_seats": 40,
-    "total_enrollment": 12,
+    "total_enrollment": 13,
     "crosslisted_enrollment": 7,
     "conflicts": "2827,4870"
   },
@@ -16065,7 +16065,7 @@
     "total_seats": 29,
     "total_enrollment": 9,
     "crosslisted_enrollment": 6,
-    "conflicts": "1952,2455,3489,4378,4379,4869,5148"
+    "conflicts": "1952,2455,3489,4378,4379,4869,5148,5237"
   },
   {
     "term": "202710",
@@ -16416,7 +16416,7 @@
     "total_enrollment": 10,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2455",
-    "conflicts": "1952,3034,3489,3928,4378,4379,4869,5148"
+    "conflicts": "1952,3034,3489,3928,4378,4379,4869,5148,5237"
   },
   {
     "term": "202710",
@@ -16587,12 +16587,71 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-19",
     "gta_eligible": true,
-    "crosslisted_crn": "4869,5148",
-    "crosslist": "4869",
+    "crosslisted_crn": "4869,5148,5237",
+    "crosslist": "4869,5237",
     "lower_crosslist": false,
-    "total_seats": 45,
+    "total_seats": 65,
     "total_enrollment": 23,
     "crosslisted_enrollment": 14,
+    "conflicts": "1952,2455,3034,3489,3928,4378,4379"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
+    "crn": "5237",
+    "course": "COMP 4732",
+    "section": "1",
+    "title": "Human-Centered Data Sec & Priv",
+    "course_type": "Lecture/Lab",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "5:00PM-6:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Tazi, Faiza",
+    "seats": 20,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "17:00",
+        "end_24": "18:50",
+        "start_minutes": 1020,
+        "end_minutes": 1130
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-19"
+      }
+    },
+    "time_start_24": "17:00",
+    "time_end_24": "18:50",
+    "time_start_minutes": 1020,
+    "time_end_minutes": 1130,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": true,
+    "crosslisted_crn": "4869,5148,5237",
+    "crosslist": "4869,5148",
+    "lower_crosslist": false,
+    "total_seats": 65,
+    "total_enrollment": 23,
+    "crosslisted_enrollment": 23,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {
