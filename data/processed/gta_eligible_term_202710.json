@@ -641,9 +641,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 15,
+    "enrolled": 16,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "total_enrollment": 16
   },
   {
     "crn": "2455",
@@ -658,9 +658,9 @@
     "room": "ECS 410",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 10,
+    "enrolled": 11,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 10
+    "total_enrollment": 11
   },
   {
     "crn": "3846",
@@ -709,8 +709,8 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 5,
-    "crosslisted_enrollment": 18,
+    "enrolled": 4,
+    "crosslisted_enrollment": 19,
     "total_enrollment": 23
   },
   {
@@ -726,8 +726,8 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 4,
-    "crosslisted_enrollment": 19,
+    "enrolled": 5,
+    "crosslisted_enrollment": 18,
     "total_enrollment": 23
   }
 ]
