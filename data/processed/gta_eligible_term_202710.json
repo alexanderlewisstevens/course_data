@@ -454,9 +454,9 @@
     "room": "",
     "instructor": "Sinclair, Jordan",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 7
+    "total_enrollment": 8
   },
   {
     "crn": "4376",
@@ -505,9 +505,9 @@
     "room": "",
     "instructor": "Sawle, Paul L.",
     "seats": 25,
-    "enrolled": 2,
+    "enrolled": 3,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 2
+    "total_enrollment": 3
   },
   {
     "crn": "4379",
