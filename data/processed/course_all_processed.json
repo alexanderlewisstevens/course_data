@@ -14449,8 +14449,8 @@
     "crosslist": "4883",
     "lower_crosslist": true,
     "total_seats": 34,
-    "total_enrollment": 11,
-    "crosslisted_enrollment": 5,
+    "total_enrollment": 12,
+    "crosslisted_enrollment": 6,
     "conflicts": "2822,3035,3651"
   },
   {
@@ -14470,7 +14470,7 @@
     "room": "ECS 200",
     "instructor": "Rutherford, Matthew J.",
     "seats": 30,
-    "enrolled": 10,
+    "enrolled": 11,
     "exam_meeting_dates": "16-MAR-2027 to 16-MAR-2027",
     "exam_time": "4:00PM-5:50PM",
     "exam_days": "T",
@@ -14507,7 +14507,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 30,
-    "total_enrollment": 10,
+    "total_enrollment": 11,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "3030",
     "conflicts": "4376,4381,4944"
@@ -16084,7 +16084,7 @@
     "room": "ECS 300",
     "instructor": "Hu, Andrew J.",
     "seats": 6,
-    "enrolled": 5,
+    "enrolled": 6,
     "exam_meeting_dates": "16-MAR-2027 to 16-MAR-2027",
     "exam_time": "10:00AM-11:50AM",
     "exam_days": "T",
@@ -16122,7 +16122,7 @@
     "crosslist": "3881",
     "lower_crosslist": false,
     "total_seats": 34,
-    "total_enrollment": 11,
+    "total_enrollment": 12,
     "crosslisted_enrollment": 6,
     "conflicts": "2822,3035,3651"
   },
