@@ -251,8 +251,8 @@
     "instructor": "Kraft, Aaron R.",
     "seats": 15,
     "enrolled": 7,
-    "crosslisted_enrollment": 7,
-    "total_enrollment": 14
+    "crosslisted_enrollment": 8,
+    "total_enrollment": 15
   },
   {
     "crn": "3928",
@@ -352,9 +352,9 @@
     "room": "ECS 400",
     "instructor": "Tazi, Faiza",
     "seats": 25,
-    "enrolled": 14,
+    "enrolled": 15,
     "crosslisted_enrollment": 9,
-    "total_enrollment": 23
+    "total_enrollment": 24
   },
   {
     "crn": "3656",
@@ -369,9 +369,9 @@
     "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
-    "enrolled": 15,
-    "crosslisted_enrollment": 0,
-    "total_enrollment": 15
+    "enrolled": 11,
+    "crosslisted_enrollment": 6,
+    "total_enrollment": 17
   },
   {
     "crn": "3489",
@@ -527,6 +527,23 @@
     "total_enrollment": 6
   },
   {
+    "crn": "5291",
+    "course": "COMP 4101",
+    "section": "1",
+    "title": "UX Design Methods",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Oleson, Alannah",
+    "seats": 5,
+    "enrolled": 0,
+    "crosslisted_enrollment": 17,
+    "total_enrollment": 17
+  },
+  {
     "crn": "5222",
     "course": "COMP 4200",
     "section": "1",
@@ -539,9 +556,9 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "crosslisted_enrollment": 7,
-    "total_enrollment": 14
+    "total_enrollment": 15
   },
   {
     "crn": "3034",
@@ -680,23 +697,6 @@
     "total_enrollment": 30
   },
   {
-    "crn": "5078",
-    "course": "COMP 4705",
-    "section": "1",
-    "title": "Advanced Topics-Programming",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "12:00PM-1:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Oleson, Alannah",
-    "seats": 5,
-    "enrolled": 0,
-    "crosslisted_enrollment": 15,
-    "total_enrollment": 15
-  },
-  {
     "crn": "5148",
     "course": "COMP 4705",
     "section": "2",
@@ -710,8 +710,8 @@
     "instructor": "Tazi, Faiza",
     "seats": 20,
     "enrolled": 3,
-    "crosslisted_enrollment": 20,
-    "total_enrollment": 23
+    "crosslisted_enrollment": 21,
+    "total_enrollment": 24
   },
   {
     "crn": "5237",
@@ -727,7 +727,7 @@
     "instructor": "Tazi, Faiza",
     "seats": 20,
     "enrolled": 6,
-    "crosslisted_enrollment": 17,
-    "total_enrollment": 23
+    "crosslisted_enrollment": 18,
+    "total_enrollment": 24
   }
 ]

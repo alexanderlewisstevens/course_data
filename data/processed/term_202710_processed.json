@@ -703,7 +703,7 @@
     "total_enrollment": 14,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2638",
-    "conflicts": "3234,3656,4884,5078"
+    "conflicts": "3234,3656,4884,5289,5291"
   },
   {
     "term": "202710",
@@ -825,6 +825,65 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "5289",
+    "course": "COMP 3101",
+    "section": "1",
+    "title": "User Experience Design Methods",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Oleson, Alannah",
+    "seats": 0,
+    "enrolled": 6,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-19"
+      }
+    },
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": false,
+    "crosslisted_crn": "3656,5289,5291",
+    "crosslist": "3656,5291",
+    "lower_crosslist": true,
+    "total_seats": 20,
+    "total_enrollment": 17,
+    "crosslisted_enrollment": 11,
+    "conflicts": "2638,3234,4884"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "1318",
     "course": "COMP 3200",
     "section": "1",
@@ -875,8 +934,8 @@
     "crosslist": "5222",
     "lower_crosslist": true,
     "total_seats": 40,
-    "total_enrollment": 14,
-    "crosslisted_enrollment": 7,
+    "total_enrollment": 15,
+    "crosslisted_enrollment": 8,
     "conflicts": "2827,4870"
   },
   {
@@ -1113,7 +1172,7 @@
     "total_seats": 37,
     "total_enrollment": 16,
     "crosslisted_enrollment": 2,
-    "conflicts": "2638,3656,5078"
+    "conflicts": "2638,3656,5289,5291"
   },
   {
     "term": "202710",
@@ -1191,7 +1250,7 @@
     "room": "ECS 400",
     "instructor": "Tazi, Faiza",
     "seats": 25,
-    "enrolled": 14,
+    "enrolled": 15,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -1229,7 +1288,7 @@
     "crosslist": "5148,5237",
     "lower_crosslist": true,
     "total_seats": 65,
-    "total_enrollment": 23,
+    "total_enrollment": 24,
     "crosslisted_enrollment": 9,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
@@ -1250,7 +1309,7 @@
     "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
-    "enrolled": 15,
+    "enrolled": 11,
     "exam_meeting_dates": "17-MAR-2027 to 17-MAR-2027",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "W",
@@ -1284,12 +1343,12 @@
     "date_start": "2027-01-04",
     "date_end": "2027-03-15",
     "gta_eligible": true,
-    "crosslisted_crn": "3656,5078",
-    "crosslist": "5078",
-    "lower_crosslist": true,
+    "crosslisted_crn": "3656,5289,5291",
+    "crosslist": "5289,5291",
+    "lower_crosslist": false,
     "total_seats": 20,
-    "total_enrollment": 15,
-    "crosslisted_enrollment": 0,
+    "total_enrollment": 17,
+    "crosslisted_enrollment": 6,
     "conflicts": "2638,3234,4884"
   },
   {
@@ -2498,6 +2557,65 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
+    "crn": "5291",
+    "course": "COMP 4101",
+    "section": "1",
+    "title": "UX Design Methods",
+    "course_type": "Lecture",
+    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
+    "time": "12:00PM-1:50PM",
+    "days": "M,W",
+    "hours": "4",
+    "room": "",
+    "instructor": "Oleson, Alannah",
+    "seats": 5,
+    "enrolled": 0,
+    "exam_meeting_dates": "",
+    "exam_time": "",
+    "exam_days": "",
+    "exam_room": "",
+    "description": "",
+    "normalized": {
+      "time": {
+        "start_24": "12:00",
+        "end_24": "13:50",
+        "start_minutes": 720,
+        "end_minutes": 830
+      },
+      "days": {
+        "list": [
+          "M",
+          "W"
+        ],
+        "canonical": "MW"
+      },
+      "dates": {
+        "start": "2027-01-04",
+        "end": "2027-03-19"
+      }
+    },
+    "time_start_24": "12:00",
+    "time_end_24": "13:50",
+    "time_start_minutes": 720,
+    "time_end_minutes": 830,
+    "days_canonical": "MW",
+    "days_list": "M,W",
+    "date_start": "2027-01-04",
+    "date_end": "2027-03-19",
+    "gta_eligible": true,
+    "crosslisted_crn": "3656,5289,5291",
+    "crosslist": "3656,5289",
+    "lower_crosslist": false,
+    "total_seats": 20,
+    "total_enrollment": 17,
+    "crosslisted_enrollment": 17,
+    "conflicts": "2638,3234,4884"
+  },
+  {
+    "term": "202710",
+    "college": "ALL",
+    "subject_code": "COMP",
+    "subject_label": "Computer Science",
     "crn": "5222",
     "course": "COMP 4200",
     "section": "1",
@@ -2510,7 +2628,7 @@
     "room": "ECS 301",
     "instructor": "Kraft, Aaron R.",
     "seats": 25,
-    "enrolled": 7,
+    "enrolled": 8,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -2548,7 +2666,7 @@
     "crosslist": "1318",
     "lower_crosslist": false,
     "total_seats": 40,
-    "total_enrollment": 14,
+    "total_enrollment": 15,
     "crosslisted_enrollment": 7,
     "conflicts": "2827,4870"
   },
@@ -2727,7 +2845,7 @@
     "total_seats": 37,
     "total_enrollment": 16,
     "crosslisted_enrollment": 14,
-    "conflicts": "2638,3656,5078"
+    "conflicts": "2638,3656,5289,5291"
   },
   {
     "term": "202710",
@@ -3026,65 +3144,6 @@
     "college": "ALL",
     "subject_code": "COMP",
     "subject_label": "Computer Science",
-    "crn": "5078",
-    "course": "COMP 4705",
-    "section": "1",
-    "title": "Advanced Topics-Programming",
-    "course_type": "Lecture",
-    "meeting_dates": "04-JAN-2027 to 19-MAR-2027",
-    "time": "12:00PM-1:50PM",
-    "days": "M,W",
-    "hours": "4",
-    "room": "ECS 201",
-    "instructor": "Oleson, Alannah",
-    "seats": 5,
-    "enrolled": 0,
-    "exam_meeting_dates": "",
-    "exam_time": "",
-    "exam_days": "",
-    "exam_room": "",
-    "description": "",
-    "normalized": {
-      "time": {
-        "start_24": "12:00",
-        "end_24": "13:50",
-        "start_minutes": 720,
-        "end_minutes": 830
-      },
-      "days": {
-        "list": [
-          "M",
-          "W"
-        ],
-        "canonical": "MW"
-      },
-      "dates": {
-        "start": "2027-01-04",
-        "end": "2027-03-19"
-      }
-    },
-    "time_start_24": "12:00",
-    "time_end_24": "13:50",
-    "time_start_minutes": 720,
-    "time_end_minutes": 830,
-    "days_canonical": "MW",
-    "days_list": "M,W",
-    "date_start": "2027-01-04",
-    "date_end": "2027-03-19",
-    "gta_eligible": true,
-    "crosslisted_crn": "3656,5078",
-    "crosslist": "3656",
-    "lower_crosslist": false,
-    "total_seats": 20,
-    "total_enrollment": 15,
-    "crosslisted_enrollment": 15,
-    "conflicts": "2638,3234,4884"
-  },
-  {
-    "term": "202710",
-    "college": "ALL",
-    "subject_code": "COMP",
-    "subject_label": "Computer Science",
     "crn": "5148",
     "course": "COMP 4705",
     "section": "2",
@@ -3135,8 +3194,8 @@
     "crosslist": "4869,5237",
     "lower_crosslist": false,
     "total_seats": 65,
-    "total_enrollment": 23,
-    "crosslisted_enrollment": 20,
+    "total_enrollment": 24,
+    "crosslisted_enrollment": 21,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {
@@ -3194,8 +3253,8 @@
     "crosslist": "4869,5148",
     "lower_crosslist": false,
     "total_seats": 65,
-    "total_enrollment": 23,
-    "crosslisted_enrollment": 17,
+    "total_enrollment": 24,
+    "crosslisted_enrollment": 18,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {
