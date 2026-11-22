@@ -97,9 +97,9 @@
     "room": "ECS 201",
     "instructor": "Hu, Andrew J.",
     "seats": 30,
-    "enrolled": 28,
+    "enrolled": 29,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 28
+    "total_enrollment": 29
   },
   {
     "crn": "2822",
@@ -131,9 +131,9 @@
     "room": "ECS 201",
     "instructor": "Tazi, Faiza",
     "seats": 30,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 12
+    "total_enrollment": 13
   },
   {
     "crn": "2827",
@@ -369,8 +369,8 @@
     "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
-    "enrolled": 9,
-    "crosslisted_enrollment": 8,
+    "enrolled": 8,
+    "crosslisted_enrollment": 9,
     "total_enrollment": 17
   },
   {
