@@ -837,7 +837,7 @@
     "room": "",
     "instructor": "Oleson, Alannah",
     "seats": 0,
-    "enrolled": 9,
+    "enrolled": 10,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -876,7 +876,7 @@
     "lower_crosslist": true,
     "total_seats": 20,
     "total_enrollment": 17,
-    "crosslisted_enrollment": 8,
+    "crosslisted_enrollment": 7,
     "conflicts": "2638,3234,4884"
   },
   {
@@ -1309,7 +1309,7 @@
     "room": "ECS 201",
     "instructor": "Oleson, Alannah",
     "seats": 15,
-    "enrolled": 8,
+    "enrolled": 7,
     "exam_meeting_dates": "17-MAR-2027 to 17-MAR-2027",
     "exam_time": "12:00PM-1:50PM",
     "exam_days": "W",
@@ -1348,7 +1348,7 @@
     "lower_crosslist": false,
     "total_seats": 20,
     "total_enrollment": 17,
-    "crosslisted_enrollment": 9,
+    "crosslisted_enrollment": 10,
     "conflicts": "2638,3234,4884"
   },
   {
