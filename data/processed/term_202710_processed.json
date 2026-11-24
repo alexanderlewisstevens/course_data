@@ -1229,8 +1229,8 @@
     "crosslist": "3846",
     "lower_crosslist": true,
     "total_seats": 40,
-    "total_enrollment": 30,
-    "crosslisted_enrollment": 12,
+    "total_enrollment": 31,
+    "crosslisted_enrollment": 13,
     "conflicts": "1952,2633,3489"
   },
   {
@@ -1288,8 +1288,8 @@
     "crosslist": "5148,5237",
     "lower_crosslist": true,
     "total_seats": 65,
-    "total_enrollment": 24,
-    "crosslisted_enrollment": 9,
+    "total_enrollment": 25,
+    "crosslisted_enrollment": 10,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {
@@ -2980,7 +2980,7 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 19,
+    "enrolled": 20,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3016,7 +3016,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 19,
+    "total_enrollment": 20,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "4381",
     "conflicts": "3030,3490,4376"
@@ -3038,7 +3038,7 @@
     "room": "ECS 410",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 11,
+    "enrolled": 12,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3075,7 +3075,7 @@
     "crosslist": "",
     "lower_crosslist": true,
     "total_seats": 25,
-    "total_enrollment": 11,
+    "total_enrollment": 12,
     "crosslisted_enrollment": 0,
     "crosslisted_crn": "2455",
     "conflicts": "1952,3034,3489,3928,4378,4379,4869,5148,5237"
@@ -3097,7 +3097,7 @@
     "room": "ECS 301",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 12,
+    "enrolled": 13,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3135,7 +3135,7 @@
     "crosslist": "3848",
     "lower_crosslist": false,
     "total_seats": 40,
-    "total_enrollment": 30,
+    "total_enrollment": 31,
     "crosslisted_enrollment": 18,
     "conflicts": "1952,2633,3489"
   },
@@ -3156,7 +3156,7 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 3,
+    "enrolled": 4,
     "exam_meeting_dates": "",
     "exam_time": "",
     "exam_days": "",
@@ -3194,7 +3194,7 @@
     "crosslist": "4869,5237",
     "lower_crosslist": false,
     "total_seats": 65,
-    "total_enrollment": 24,
+    "total_enrollment": 25,
     "crosslisted_enrollment": 21,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
@@ -3253,8 +3253,8 @@
     "crosslist": "4869,5148",
     "lower_crosslist": false,
     "total_seats": 65,
-    "total_enrollment": 24,
-    "crosslisted_enrollment": 18,
+    "total_enrollment": 25,
+    "crosslisted_enrollment": 19,
     "conflicts": "1952,2455,3034,3489,3928,4378,4379"
   },
   {

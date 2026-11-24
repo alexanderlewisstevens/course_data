@@ -336,8 +336,8 @@
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
     "enrolled": 18,
-    "crosslisted_enrollment": 12,
-    "total_enrollment": 30
+    "crosslisted_enrollment": 13,
+    "total_enrollment": 31
   },
   {
     "crn": "4869",
@@ -353,8 +353,8 @@
     "instructor": "Tazi, Faiza",
     "seats": 25,
     "enrolled": 15,
-    "crosslisted_enrollment": 9,
-    "total_enrollment": 24
+    "crosslisted_enrollment": 10,
+    "total_enrollment": 25
   },
   {
     "crn": "3656",
@@ -658,9 +658,9 @@
     "room": "",
     "instructor": "Connin, Sean L.",
     "seats": 25,
-    "enrolled": 19,
+    "enrolled": 20,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 19
+    "total_enrollment": 20
   },
   {
     "crn": "2455",
@@ -675,9 +675,9 @@
     "room": "ECS 410",
     "instructor": "Durso, Catherine S.",
     "seats": 25,
-    "enrolled": 11,
+    "enrolled": 12,
     "crosslisted_enrollment": 0,
-    "total_enrollment": 11
+    "total_enrollment": 12
   },
   {
     "crn": "3846",
@@ -692,9 +692,9 @@
     "room": "ECS 301",
     "instructor": "Petrehn, Sydney M.",
     "seats": 20,
-    "enrolled": 12,
+    "enrolled": 13,
     "crosslisted_enrollment": 18,
-    "total_enrollment": 30
+    "total_enrollment": 31
   },
   {
     "crn": "5148",
@@ -709,9 +709,9 @@
     "room": "",
     "instructor": "Tazi, Faiza",
     "seats": 20,
-    "enrolled": 3,
+    "enrolled": 4,
     "crosslisted_enrollment": 21,
-    "total_enrollment": 24
+    "total_enrollment": 25
   },
   {
     "crn": "5237",
@@ -727,7 +727,7 @@
     "instructor": "Tazi, Faiza",
     "seats": 20,
     "enrolled": 6,
-    "crosslisted_enrollment": 18,
-    "total_enrollment": 24
+    "crosslisted_enrollment": 19,
+    "total_enrollment": 25
   }
 ]
