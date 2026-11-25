@@ -373,14 +373,14 @@
     "time": "2:00PM-3:50PM",
     "days": "M,W",
     "hours": "4",
-    "room": "ECS 301",
+    "room": "ECS 400",
     "instructor": "Kraft, Aaron R.",
     "seats": "15",
     "enrolled": "7",
     "exam_meeting_dates": "17-MAR-2027 to 17-MAR-2027",
     "exam_time": "2:00PM-3:50PM",
     "exam_days": "W",
-    "exam_room": "ECS 301",
+    "exam_room": "ECS 400",
     "description": ""
   },
   {

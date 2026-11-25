@@ -14,7 +14,7 @@ term,college,subject_code,subject_label,crn,course,section,title,course_type,mee
 202710,ALL,COMP,Computer Science,3035,COMP 2381,1,Object-Oriented Software Dev.,Lecture/Lab,04-JAN-2027 to 15-MAR-2027,10:00AM-11:50AM,"T,R",4,ECS 301,"Anjum, Iffat",25,6,,,,,
 202710,ALL,COMP,Computer Science,4374,COMP 2401,1,Unix Command-Line Bootcamp,Online/Distance,04-JAN-2027 to 15-MAR-2027,,,1,,"Rutherford, Matthew J.",50,6,,,,,
 202710,ALL,COMP,Computer Science,5289,COMP 3101,1,User Experience Design Methods,Lecture,04-JAN-2027 to 19-MAR-2027,12:00PM-1:50PM,"M,W",4,,"Oleson, Alannah",0,10,,,,,
-202710,ALL,COMP,Computer Science,1318,COMP 3200,1,Discrete Structures,Lecture,04-JAN-2027 to 15-MAR-2027,2:00PM-3:50PM,"M,W",4,ECS 301,"Kraft, Aaron R.",15,7,17-MAR-2027 to 17-MAR-2027,2:00PM-3:50PM,W,ECS 301,
+202710,ALL,COMP,Computer Science,1318,COMP 3200,1,Discrete Structures,Lecture,04-JAN-2027 to 15-MAR-2027,2:00PM-3:50PM,"M,W",4,ECS 400,"Kraft, Aaron R.",15,7,17-MAR-2027 to 17-MAR-2027,2:00PM-3:50PM,W,ECS 400,
 202710,ALL,COMP,Computer Science,3928,COMP 3334,1,Parallel & Distrib Comp DSAI,Lecture,04-JAN-2027 to 15-MAR-2027,5:00PM-6:50PM,"M,W",4,ECS 201,"Kraft, Aaron R.",12,7,,,,,
 202710,ALL,COMP,Computer Science,3881,COMP 3352,1,Elements of Compiler Design,Lecture,04-JAN-2027 to 15-MAR-2027,10:00AM-11:50AM,"T,R",4,ECS 300,"Hu, Andrew J.",28,6,16-MAR-2027 to 16-MAR-2027,10:00AM-11:50AM,T,ECS 300,
 202710,ALL,COMP,Computer Science,3030,COMP 3381,1,Software Engineering I,Lecture,04-JAN-2027 to 15-MAR-2027,4:00PM-5:50PM,"T,R",4,ECS 200,"Rutherford, Matthew J.",30,11,16-MAR-2027 to 16-MAR-2027,4:00PM-5:50PM,T,ECS 200,
